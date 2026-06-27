@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455863Z
+addr = 0x3ce392
+size = 0x14
+name = "?SafePoint@VirtualProcessor@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?SafePoint@VirtualProcessor@details@Concurrency@@QAE_NXZ"
+addr = 0x3ce392
+
+[header.args]

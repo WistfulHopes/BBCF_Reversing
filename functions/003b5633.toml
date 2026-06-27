@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454990Z
+addr = 0x3b5633
+size = 0x15
+name = "__mbschr"
+
+[header]
+name = "__mbschr"
+addr = 0x3b5633
+
+[header.args]

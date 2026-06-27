@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455830Z
+addr = 0x3cd98c
+size = 0x93
+name = "?_ValidPolicyValue@SchedulerPolicy@Concurrency@@CA_NW4PolicyElementKey@2@I@Z"
+
+[header]
+name = "?_ValidPolicyValue@SchedulerPolicy@Concurrency@@CA_NW4PolicyElementKey@2@I@Z"
+addr = 0x3cd98c
+
+[header.args]

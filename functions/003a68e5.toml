@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454688Z
+addr = 0x3a68e5
+size = 0x2e
+name = "?Remove@?$List@UListEntry@details@Concurrency@@VNoCount@CollectionTypes@23@@details@Concurrency@@QAEXPAUListEntry@23@@Z"
+
+[header]
+name = "?Remove@?$List@UListEntry@details@Concurrency@@VNoCount@CollectionTypes@23@@details@Concurrency@@QAEXPAUListEntry@23@@Z"
+addr = 0x3a68e5
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454902Z
+addr = 0x3afa0c
+size = 0x28
+name = "__shift"
+
+[header]
+name = "__shift"
+addr = 0x3afa0c
+
+[header.args]

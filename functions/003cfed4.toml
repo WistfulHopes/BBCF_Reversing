@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455949Z
+addr = 0x3cfed4
+size = 0x67
+name = "?WorkWasFound@InternalContextBase@details@Concurrency@@IAE_NPAVWorkItem@23@@Z"
+
+[header]
+name = "?WorkWasFound@InternalContextBase@details@Concurrency@@IAE_NPAVWorkItem@23@@Z"
+addr = 0x3cfed4
+
+[header.args]

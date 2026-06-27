@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455406Z
+addr = 0x3c2822
+size = 0x3d3
+name = "?RedistributeCoresAmongAll@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@III@Z"
+
+[header]
+name = "?RedistributeCoresAmongAll@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@III@Z"
+addr = 0x3c2822
+
+[header.args]

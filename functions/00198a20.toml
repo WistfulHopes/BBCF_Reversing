@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453617Z
+addr = 0x198a20
+size = 0x1a
+name = "OBJ_CBase::PerCommonActionMArk"
+
+[header]
+name = "OBJ_CBase::PerCommonActionMArk"
+addr = 0x198a20
+
+[header.args]

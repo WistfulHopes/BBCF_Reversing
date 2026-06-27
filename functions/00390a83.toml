@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454101Z
+addr = 0x390a83
+size = 0x38
+name = "?_Init@?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@IAEXABV_Locinfo@2@@Z"
+
+[header]
+name = "?_Init@?$time_get@_WV?$istreambuf_iterator@_WU?$char_traits@_W@std@@@std@@@std@@IAEXABV_Locinfo@2@@Z"
+addr = 0x390a83
+
+[header.args]

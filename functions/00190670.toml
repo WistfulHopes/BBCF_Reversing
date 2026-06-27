@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453357Z
+addr = 0x190670
+size = 0x3e
+name = "OBJ_CBase::CheckActive"
+
+[header]
+name = "OBJ_CBase::CheckActive"
+addr = 0x190670
+
+[header.args]

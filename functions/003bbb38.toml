@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455086Z
+addr = 0x3bbb38
+size = 0x22
+name = "?DeleteElements@?$ListArray@VWorkQueue@details@Concurrency@@@details@Concurrency@@AAEXPAU_SINGLE_LIST_ENTRY@@@Z"
+
+[header]
+name = "?DeleteElements@?$ListArray@VWorkQueue@details@Concurrency@@@details@Concurrency@@AAEXPAU_SINGLE_LIST_ENTRY@@@Z"
+addr = 0x3bbb38
+
+[header.args]

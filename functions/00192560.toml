@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453419Z
+addr = 0x192560
+size = 0xef
+name = "OBJ_CBase::EffectForDamageBound"
+
+[header]
+name = "OBJ_CBase::EffectForDamageBound"
+addr = 0x192560
+
+[header.args]

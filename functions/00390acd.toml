@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454103Z
+addr = 0x390acd
+size = 0x29
+name = "?_Init@?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IAEXABV_Locinfo@2@@Z"
+
+[header]
+name = "?_Init@?$time_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IAEXABV_Locinfo@2@@Z"
+addr = 0x390acd
+
+[header.args]

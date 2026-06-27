@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455123Z
+addr = 0x3bc5f3
+size = 0x30b
+name = "??0SchedulerBase@details@Concurrency@@QAE@ABVSchedulerPolicy@2@@Z"
+
+[header]
+name = "??0SchedulerBase@details@Concurrency@@QAE@ABVSchedulerPolicy@2@@Z"
+addr = 0x3bc5f3
+
+[header.args]

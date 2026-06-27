@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452750Z
+addr = 0x15bef0
+size = 0x5d
+name = "BATTLE_CObjectManager::GenerateUniqID"
+
+[header]
+name = "BATTLE_CObjectManager::GenerateUniqID"
+addr = 0x15bef0
+
+[header.args]

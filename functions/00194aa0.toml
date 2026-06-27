@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453483Z
+addr = 0x194aa0
+size = 0x46
+name = "CColorWithSpeed::InitCColorWithSpeed"
+
+[header]
+name = "CColorWithSpeed::InitCColorWithSpeed"
+addr = 0x194aa0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454457Z
+addr = 0x3a2947
+size = 0x2d
+name = "_isgraph"
+
+[header]
+name = "_isgraph"
+addr = 0x3a2947
+
+[header.args]

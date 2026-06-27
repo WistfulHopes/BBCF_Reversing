@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453936Z
+addr = 0x2425d0
+size = 0xde
+name = "GAME_CETCManager::CreateObjectByID"
+
+[header]
+name = "GAME_CETCManager::CreateObjectByID"
+addr = 0x2425d0
+
+[header.args]

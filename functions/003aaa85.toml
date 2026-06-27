@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454755Z
+addr = 0x3aaa85
+size = 0x2f
+name = "___crtLCMapStringW"
+
+[header]
+name = "___crtLCMapStringW"
+addr = 0x3aaa85
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454060Z
+addr = 0x389a9f
+size = 0x24
+name = "__Mtx_destroy"
+
+[header]
+name = "__Mtx_destroy"
+addr = 0x389a9f
+
+[header.args]

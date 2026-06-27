@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453735Z
+addr = 0x19a490
+size = 0x25
+name = "OBJ_CBase::IgnoreParentDispOnlyMe"
+
+[header]
+name = "OBJ_CBase::IgnoreParentDispOnlyMe"
+addr = 0x19a490
+
+[header.args]

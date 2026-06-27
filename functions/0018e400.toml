@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453126Z
+addr = 0x18e400
+size = 0x10
+name = "OBJ_CBase::AtkEffectLimit"
+
+[header]
+name = "OBJ_CBase::AtkEffectLimit"
+addr = 0x18e400
+
+[header.args]

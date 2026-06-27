@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456158Z
+addr = 0x3d5f46
+size = 0x24
+name = "?_Get_deleter@?$_Ref_count_del_alloc@V__ExceptionPtr@@P6AXPAV1@@ZV?$_DebugMallocator@H@@@std@@UBEPAXABVtype_info@@@Z"
+
+[header]
+name = "?_Get_deleter@?$_Ref_count_del_alloc@V__ExceptionPtr@@P6AXPAV1@@ZV?$_DebugMallocator@H@@@std@@UBEPAXABVtype_info@@@Z"
+addr = 0x3d5f46
+
+[header.args]

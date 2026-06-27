@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454989Z
+addr = 0x3b55d5
+size = 0x5e
+name = "_wfindenv"
+
+[header]
+name = "_wfindenv"
+addr = 0x3b55d5
+
+[header.args]

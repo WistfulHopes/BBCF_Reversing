@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453523Z
+addr = 0x1953f0
+size = 0x1d
+name = "OBJ_CBase::InitializeForAstralHeatShotObject"
+
+[header]
+name = "OBJ_CBase::InitializeForAstralHeatShotObject"
+addr = 0x1953f0
+
+[header.args]

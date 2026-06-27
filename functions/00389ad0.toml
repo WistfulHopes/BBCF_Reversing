@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454062Z
+addr = 0x389ad0
+size = 0x3c
+name = "__Mtx_init"
+
+[header]
+name = "__Mtx_init"
+addr = 0x389ad0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454929Z
+addr = 0x3b1bac
+size = 0x2f
+name = "__tzset"
+
+[header]
+name = "__tzset"
+addr = 0x3b1bac
+
+[header.args]

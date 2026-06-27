@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454009Z
+addr = 0x387893
+size = 0x72
+name = "?_Init@locale@std@@CAPAV_Locimp@12@_N@Z"
+
+[header]
+name = "?_Init@locale@std@@CAPAV_Locimp@12@_N@Z"
+addr = 0x387893
+
+[header.args]

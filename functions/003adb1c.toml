@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454845Z
+addr = 0x3adb1c
+size = 0x7
+name = "ctranexit"
+
+[header]
+name = "ctranexit"
+addr = 0x3adb1c
+
+[header.args]

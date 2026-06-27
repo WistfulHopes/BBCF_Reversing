@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452774Z
+addr = 0x15dd30
+size = 0x225
+name = "BATTLE_CObjectManager::ScriptAnalyze"
+
+[header]
+name = "BATTLE_CObjectManager::ScriptAnalyze"
+addr = 0x15dd30
+
+[header.args]

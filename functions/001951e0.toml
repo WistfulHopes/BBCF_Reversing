@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453513Z
+addr = 0x1951e0
+size = 0x4c
+name = "OBJ_CBase::InitLinkCommonSubVoice"
+
+[header]
+name = "OBJ_CBase::InitLinkCommonSubVoice"
+addr = 0x1951e0
+
+[header.args]

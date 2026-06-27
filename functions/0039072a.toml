@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454095Z
+addr = 0x39072a
+size = 0xd7
+name = "?_Init@?$_Mpunct@_W@std@@IAEXABV_Locinfo@2@_N@Z"
+
+[header]
+name = "?_Init@?$_Mpunct@_W@std@@IAEXABV_Locinfo@2@_N@Z"
+addr = 0x39072a
+
+[header.args]

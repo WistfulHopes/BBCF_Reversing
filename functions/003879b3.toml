@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454013Z
+addr = 0x3879b3
+size = 0x1a
+name = "?_Locinfo_dtor@_Locinfo@std@@SAXPAV12@@Z"
+
+[header]
+name = "?_Locinfo_dtor@_Locinfo@std@@SAXPAV12@@Z"
+addr = 0x3879b3
+
+[header.args]

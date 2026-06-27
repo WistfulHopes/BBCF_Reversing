@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453502Z
+addr = 0x194ec0
+size = 0x1b
+name = "OBJ_CBase::InitFJumpXSpeed"
+
+[header]
+name = "OBJ_CBase::InitFJumpXSpeed"
+addr = 0x194ec0
+
+[header.args]

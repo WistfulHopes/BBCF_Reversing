@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455940Z
+addr = 0x3cfa4f
+size = 0x2d
+name = "?SpinUntilValueEquals@details@Concurrency@@YAXPCJJ@Z"
+
+[header]
+name = "?SpinUntilValueEquals@details@Concurrency@@YAXPCJJ@Z"
+addr = 0x3cfa4f
+
+[header.args]

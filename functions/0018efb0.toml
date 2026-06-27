@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453302Z
+addr = 0x18efb0
+size = 0x10
+name = "OBJ_CBase::AtkTensionRate"
+
+[header]
+name = "OBJ_CBase::AtkTensionRate"
+addr = 0x18efb0
+
+[header.args]

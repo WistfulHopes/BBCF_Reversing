@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454074Z
+addr = 0x389f79
+size = 0xe
+name = "__Mtxdst"
+
+[header]
+name = "__Mtxdst"
+addr = 0x389f79
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452429Z
+addr = 0x597d0
+size = 0x16
+name = "AA_CCollision_JON::GetViewPalette"
+
+[header]
+name = "AA_CCollision_JON::GetViewPalette"
+addr = 0x597d0
+
+[header.args]

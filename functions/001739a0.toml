@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452837Z
+addr = 0x1739a0
+size = 0x81
+name = "OBJ_CBase::AddRepulsion"
+
+[header]
+name = "OBJ_CBase::AddRepulsion"
+addr = 0x1739a0
+
+[header.args]

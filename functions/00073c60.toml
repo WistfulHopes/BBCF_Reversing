@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452524Z
+addr = 0x73c60
+size = 0x28a
+name = "AASTEAM_SystemManager::InitSystemFont"
+
+[header]
+name = "AASTEAM_SystemManager::InitSystemFont"
+addr = 0x73c60
+
+[header.args]

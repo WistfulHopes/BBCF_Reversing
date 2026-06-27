@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452864Z
+addr = 0x17e1a0
+size = 0x50
+name = "OBJ_CBase::GetPosX"
+
+[header]
+name = "OBJ_CBase::GetPosX"
+addr = 0x17e1a0
+
+[header.args]

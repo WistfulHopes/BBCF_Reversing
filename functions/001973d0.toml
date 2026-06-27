@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453572Z
+addr = 0x1973d0
+size = 0x66
+name = "OBJ_CBase::NarrationSE"
+
+[header]
+name = "OBJ_CBase::NarrationSE"
+addr = 0x1973d0
+
+[header.args]

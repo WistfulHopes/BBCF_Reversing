@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456419Z
+addr = 0x4216a4
+size = 0xc2
+name = "___wdtoxmode"
+
+[header]
+name = "___wdtoxmode"
+addr = 0x4216a4
+
+[header.args]

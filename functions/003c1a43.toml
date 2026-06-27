@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455383Z
+addr = 0x3c1a43
+size = 0x119
+name = "?HandleBorrowedCores@ResourceManager@details@Concurrency@@AAEXPAVSchedulerProxy@23@PAUAllocationData@23@@Z"
+
+[header]
+name = "?HandleBorrowedCores@ResourceManager@details@Concurrency@@AAEXPAVSchedulerProxy@23@PAUAllocationData@23@@Z"
+addr = 0x3c1a43
+
+[header.args]

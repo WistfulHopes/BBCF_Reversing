@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455888Z
+addr = 0x3ceaf1
+size = 0x24
+name = "?GetLocation@SchedulingNode@details@Concurrency@@QAE?AVlocation@3@XZ"
+
+[header]
+name = "?GetLocation@SchedulingNode@details@Concurrency@@QAE?AVlocation@3@XZ"
+addr = 0x3ceaf1
+
+[header.args]

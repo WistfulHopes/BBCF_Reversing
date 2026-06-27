@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455326Z
+addr = 0x3bfe71
+size = 0x36
+name = "?ApplyTo@HardwareAffinity@details@Concurrency@@QAEXPAX@Z"
+
+[header]
+name = "?ApplyTo@HardwareAffinity@details@Concurrency@@QAEXPAX@Z"
+addr = 0x3bfe71
+
+[header.args]

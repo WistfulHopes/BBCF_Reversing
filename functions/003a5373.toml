@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454555Z
+addr = 0x3a5373
+size = 0x9
+name = "__lockexit"
+
+[header]
+name = "__lockexit"
+addr = 0x3a5373
+
+[header.args]

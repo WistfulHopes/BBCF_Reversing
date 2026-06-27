@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453310Z
+addr = 0x18f040
+size = 0xb
+name = "OBJ_CBase::AtkVectorXCounterHitReset"
+
+[header]
+name = "OBJ_CBase::AtkVectorXCounterHitReset"
+addr = 0x18f040
+
+[header.args]

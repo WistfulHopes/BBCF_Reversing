@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454174Z
+addr = 0x39a90b
+size = 0xa3
+name = "__Wcscoll"
+
+[header]
+name = "__Wcscoll"
+addr = 0x39a90b
+
+[header.args]

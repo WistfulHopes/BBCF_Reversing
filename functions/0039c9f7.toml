@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454216Z
+addr = 0x39c9f7
+size = 0x17c
+name = "__LXp_mulh"
+
+[header]
+name = "__LXp_mulh"
+addr = 0x39c9f7
+
+[header.args]

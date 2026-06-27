@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454443Z
+addr = 0x3a262a
+size = 0x56
+name = "__isalpha_l"
+
+[header]
+name = "__isalpha_l"
+addr = 0x3a262a
+
+[header.args]

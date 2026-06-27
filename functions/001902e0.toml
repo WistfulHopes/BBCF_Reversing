@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453350Z
+addr = 0x1902e0
+size = 0x76
+name = "OBJ_CBase::CellBegin"
+
+[header]
+name = "OBJ_CBase::CellBegin"
+addr = 0x1902e0
+
+[header.args]

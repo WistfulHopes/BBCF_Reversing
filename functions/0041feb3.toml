@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456366Z
+addr = 0x41feb3
+size = 0x2e
+name = "__Cnd_init"
+
+[header]
+name = "__Cnd_init"
+addr = 0x41feb3
+
+[header.args]

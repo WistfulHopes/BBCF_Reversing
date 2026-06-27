@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455848Z
+addr = 0x3cde08
+size = 0x2b
+name = "?ExerciseWith@ClaimTicket@VirtualProcessor@details@Concurrency@@QAE_NPAVInternalContextBase@34@@Z"
+
+[header]
+name = "?ExerciseWith@ClaimTicket@VirtualProcessor@details@Concurrency@@QAE_NPAVInternalContextBase@34@@Z"
+addr = 0x3cde08
+
+[header.args]

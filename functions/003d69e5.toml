@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456198Z
+addr = 0x3d69e5
+size = 0x8e
+name = "?GetUnrealizedChoreWithinGroup@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@_NW4SearchAffinity@123@2@Z"
+
+[header]
+name = "?GetUnrealizedChoreWithinGroup@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@_NW4SearchAffinity@123@2@Z"
+addr = 0x3d69e5
+
+[header.args]

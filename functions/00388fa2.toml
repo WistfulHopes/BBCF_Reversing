@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454038Z
+addr = 0x388fa2
+size = 0x24
+name = "?_Peek@?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@ABEDXZ"
+
+[header]
+name = "?_Peek@?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@ABEDXZ"
+addr = 0x388fa2
+
+[header.args]

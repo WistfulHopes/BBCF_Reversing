@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453424Z
+addr = 0x192a60
+size = 0x8b
+name = "OBJ_CBase::EffectForJumpSE"
+
+[header]
+name = "OBJ_CBase::EffectForJumpSE"
+addr = 0x192a60
+
+[header.args]

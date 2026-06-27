@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453295Z
+addr = 0x18ef60
+size = 0xb
+name = "OBJ_CBase::AtkStaggerMaxTimeReset"
+
+[header]
+name = "OBJ_CBase::AtkStaggerMaxTimeReset"
+addr = 0x18ef60
+
+[header.args]

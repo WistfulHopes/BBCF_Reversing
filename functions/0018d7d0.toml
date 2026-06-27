@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453023Z
+addr = 0x18d7d0
+size = 0x32
+name = "OBJ_CBase::AddTension"
+
+[header]
+name = "OBJ_CBase::AddTension"
+addr = 0x18d7d0
+
+[header.args]

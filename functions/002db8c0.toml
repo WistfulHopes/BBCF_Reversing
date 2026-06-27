@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453966Z
+addr = 0x2db8c0
+size = 0x14
+name = "GAME_CInfomation::IsChallengeMode"
+
+[header]
+name = "GAME_CInfomation::IsChallengeMode"
+addr = 0x2db8c0
+
+[header.args]

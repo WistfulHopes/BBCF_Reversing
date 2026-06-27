@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452396Z
+addr = 0x52800
+size = 0x28
+name = "AA_CRandMT::AA_CRandMT"
+
+[header]
+name = "AA_CRandMT::AA_CRandMT"
+addr = 0x52800
+
+[header.args]

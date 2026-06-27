@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452715Z
+addr = 0x1538b0
+size = 0x3a
+name = "GAME_KeyRelated::Reset"
+
+[header]
+name = "GAME_KeyRelated::Reset"
+addr = 0x1538b0
+
+[header.args]

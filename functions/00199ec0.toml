@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453708Z
+addr = 0x199ec0
+size = 0x45
+name = "OBJ_CBase::RequestShake"
+
+[header]
+name = "OBJ_CBase::RequestShake"
+addr = 0x199ec0
+
+[header.args]

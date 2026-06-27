@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452918Z
+addr = 0x182110
+size = 0x15
+name = "OBJ_CBase::ActionRequestForce"
+
+[header]
+name = "OBJ_CBase::ActionRequestForce"
+addr = 0x182110
+
+[header.args]

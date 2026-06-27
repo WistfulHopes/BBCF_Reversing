@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453422Z
+addr = 0x192700
+size = 0xaf
+name = "OBJ_CBase::EffectForDashStep"
+
+[header]
+name = "OBJ_CBase::EffectForDashStep"
+addr = 0x192700
+
+[header.args]

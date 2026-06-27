@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452842Z
+addr = 0x174690
+size = 0x21
+name = "OBJ_CBase::CheckUltimateStop"
+
+[header]
+name = "OBJ_CBase::CheckUltimateStop"
+addr = 0x174690
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453542Z
+addr = 0x196150
+size = 0x51e
+name = "OBJ_CBase::LinkModel"
+
+[header]
+name = "OBJ_CBase::LinkModel"
+addr = 0x196150
+
+[header.args]

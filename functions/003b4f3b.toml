@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454983Z
+addr = 0x3b4f3b
+size = 0x18
+name = "__mbsnbicoll"
+
+[header]
+name = "__mbsnbicoll"
+addr = 0x3b4f3b
+
+[header.args]

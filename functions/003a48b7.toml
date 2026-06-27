@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454531Z
+addr = 0x3a48b7
+size = 0x33
+name = "?UnRegisterAsyncWaitAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_CALLBACK_INSTANCE@@PAU_TP_WAIT@@@Z"
+
+[header]
+name = "?UnRegisterAsyncWaitAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_CALLBACK_INSTANCE@@PAU_TP_WAIT@@@Z"
+addr = 0x3a48b7
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454970Z
+addr = 0x3b4c0d
+size = 0x9b
+name = "___removelocaleref"
+
+[header]
+name = "___removelocaleref"
+addr = 0x3b4c0d
+
+[header.args]

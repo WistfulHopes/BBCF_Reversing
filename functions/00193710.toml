@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453437Z
+addr = 0x193710
+size = 0x12
+name = "OBJ_CBase::FlagDelCommonActionMArk"
+
+[header]
+name = "OBJ_CBase::FlagDelCommonActionMArk"
+addr = 0x193710
+
+[header.args]

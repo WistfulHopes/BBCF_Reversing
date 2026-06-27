@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454949Z
+addr = 0x3b24c4
+size = 0x4c
+name = "___crtIsPackagedApp"
+
+[header]
+name = "___crtIsPackagedApp"
+addr = 0x3b24c4
+
+[header.args]

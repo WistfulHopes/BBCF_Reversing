@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452908Z
+addr = 0x180c40
+size = 0x494
+name = "OBJ_CBase::SetOperandValue"
+
+[header]
+name = "OBJ_CBase::SetOperandValue"
+addr = 0x180c40
+
+[header.args]

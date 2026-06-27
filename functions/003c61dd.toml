@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455511Z
+addr = 0x3c61dd
+size = 0x4d
+name = "?DispatchEventTimer@MultiWaitBlock@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+
+[header]
+name = "?DispatchEventTimer@MultiWaitBlock@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+addr = 0x3c61dd
+
+[header.args]

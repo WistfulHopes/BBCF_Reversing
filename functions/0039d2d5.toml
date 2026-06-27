@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454233Z
+addr = 0x39d2d5
+size = 0xfc
+name = "__Dint"
+
+[header]
+name = "__Dint"
+addr = 0x39d2d5
+
+[header.args]

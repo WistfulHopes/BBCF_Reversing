@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453151Z
+addr = 0x18e5e0
+size = 0x30
+name = "OBJ_CBase::AtkFreezeTime"
+
+[header]
+name = "OBJ_CBase::AtkFreezeTime"
+addr = 0x18e5e0
+
+[header.args]

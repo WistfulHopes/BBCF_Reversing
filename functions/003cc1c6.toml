@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455742Z
+addr = 0x3cc1c6
+size = 0x40
+name = "?Steal@WorkQueue@details@Concurrency@@QAEPAV_UnrealizedChore@23@_N@Z"
+
+[header]
+name = "?Steal@WorkQueue@details@Concurrency@@QAEPAV_UnrealizedChore@23@_N@Z"
+addr = 0x3cc1c6
+
+[header.args]

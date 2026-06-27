@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454854Z
+addr = 0x3ae861
+size = 0xd
+name = "__fFEXP"
+
+[header]
+name = "__fFEXP"
+addr = 0x3ae861
+
+[header.args]

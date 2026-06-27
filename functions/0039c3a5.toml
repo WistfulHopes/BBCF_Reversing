@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454207Z
+addr = 0x39c3a5
+size = 0xd3
+name = "__Xp_mulx"
+
+[header]
+name = "__Xp_mulx"
+addr = 0x39c3a5
+
+[header.args]

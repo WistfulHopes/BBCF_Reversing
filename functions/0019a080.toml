@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453720Z
+addr = 0x19a080
+size = 0x1f
+name = "OBJ_CBase::ScreenPosition"
+
+[header]
+name = "OBJ_CBase::ScreenPosition"
+addr = 0x19a080
+
+[header.args]

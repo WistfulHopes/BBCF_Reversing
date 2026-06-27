@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452579Z
+addr = 0x83570
+size = 0x71
+name = "AA_PreloadTask::Func"
+
+[header]
+name = "AA_PreloadTask::Func"
+addr = 0x83570
+
+[header.args]

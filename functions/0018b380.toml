@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452937Z
+addr = 0x18b380
+size = 0x5b
+name = "CBBSFileAnalyzeData::GetGotoAddr"
+
+[header]
+name = "CBBSFileAnalyzeData::GetGotoAddr"
+addr = 0x18b380
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452889Z
+addr = 0x17ebc0
+size = 0x2f
+name = "OBJ_CBase::NormalizeAngle"
+
+[header]
+name = "OBJ_CBase::NormalizeAngle"
+addr = 0x17ebc0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453702Z
+addr = 0x199d60
+size = 0x9d
+name = "OBJ_CBase::RandomVoice"
+
+[header]
+name = "OBJ_CBase::RandomVoice"
+addr = 0x199d60
+
+[header.args]

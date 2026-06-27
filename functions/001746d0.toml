@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452845Z
+addr = 0x1746d0
+size = 0x1dc6
+name = "OBJ_CBase::ControlPhase_FrameStep"
+
+[header]
+name = "OBJ_CBase::ControlPhase_FrameStep"
+addr = 0x1746d0
+
+[header.args]

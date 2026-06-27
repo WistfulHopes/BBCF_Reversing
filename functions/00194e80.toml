@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453499Z
+addr = 0x194e80
+size = 0x1b
+name = "OBJ_CBase::InitFDashStartSpeed"
+
+[header]
+name = "OBJ_CBase::InitFDashStartSpeed"
+addr = 0x194e80
+
+[header.args]

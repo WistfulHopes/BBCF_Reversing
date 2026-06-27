@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452731Z
+addr = 0x157fd0
+size = 0x5f
+name = "BATTLE_CObjectManager::ActivateObject"
+
+[header]
+name = "BATTLE_CObjectManager::ActivateObject"
+addr = 0x157fd0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453028Z
+addr = 0x18d860
+size = 0x10
+name = "OBJ_CBase::AfterImageBlendMode"
+
+[header]
+name = "OBJ_CBase::AfterImageBlendMode"
+addr = 0x18d860
+
+[header.args]

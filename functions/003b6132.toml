@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455013Z
+addr = 0x3b6132
+size = 0x49
+name = "__locterm"
+
+[header]
+name = "__locterm"
+addr = 0x3b6132
+
+[header.args]

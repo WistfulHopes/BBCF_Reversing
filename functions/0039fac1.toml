@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454377Z
+addr = 0x39fac1
+size = 0x18
+name = "__aligned_free"
+
+[header]
+name = "__aligned_free"
+addr = 0x39fac1
+
+[header.args]

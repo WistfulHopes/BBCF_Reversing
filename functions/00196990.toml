@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453560Z
+addr = 0x196990
+size = 0x1f
+name = "OBJ_CBase::LinkObjectStop"
+
+[header]
+name = "OBJ_CBase::LinkObjectStop"
+addr = 0x196990
+
+[header.args]

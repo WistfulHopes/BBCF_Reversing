@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453451Z
+addr = 0x194020
+size = 0x253
+name = "OBJ_CBase::SetGripPosition"
+
+[header]
+name = "OBJ_CBase::SetGripPosition"
+addr = 0x194020
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454741Z
+addr = 0x3a815f
+size = 0x2e
+name = "?_W_store_str@@YAXPA_WPAPA_WPAI@Z"
+
+[header]
+name = "?_W_store_str@@YAXPA_WPAPA_WPAI@Z"
+addr = 0x3a815f
+
+[header.args]

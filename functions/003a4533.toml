@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454516Z
+addr = 0x3a4533
+size = 0x30
+name = "__lock_file2"
+
+[header]
+name = "__lock_file2"
+addr = 0x3a4533
+
+[header.args]

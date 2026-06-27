@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454057Z
+addr = 0x389913
+size = 0x17
+name = "?_Release@_RefCounterBase@details@Concurrency@@QAEJXZ"
+
+[header]
+name = "?_Release@_RefCounterBase@details@Concurrency@@QAEJXZ"
+addr = 0x389913
+
+[header.args]

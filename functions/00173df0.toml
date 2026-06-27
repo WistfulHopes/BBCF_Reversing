@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452839Z
+addr = 0x173df0
+size = 0xc
+name = "OBJ_CBase::CheckForceStop"
+
+[header]
+name = "OBJ_CBase::CheckForceStop"
+addr = 0x173df0
+
+[header.args]

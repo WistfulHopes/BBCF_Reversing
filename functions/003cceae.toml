@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455782Z
+addr = 0x3cceae
+size = 0x65
+name = "?GetDetachedWorkQueue@ScheduleGroupSegmentBase@details@Concurrency@@IAEPAVWorkQueue@23@XZ"
+
+[header]
+name = "?GetDetachedWorkQueue@ScheduleGroupSegmentBase@details@Concurrency@@IAEPAVWorkQueue@23@XZ"
+addr = 0x3cceae
+
+[header.args]

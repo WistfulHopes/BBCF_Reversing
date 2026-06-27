@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455412Z
+addr = 0x3c2e36
+size = 0x36
+name = "?Remove@?$List@VSchedulerProxy@details@Concurrency@@VCount@CollectionTypes@23@@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+
+[header]
+name = "?Remove@?$List@VSchedulerProxy@details@Concurrency@@VCount@CollectionTypes@23@@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+addr = 0x3c2e36
+
+[header.args]

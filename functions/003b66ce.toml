@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455018Z
+addr = 0x3b66ce
+size = 0x152
+name = "__wsetlocale"
+
+[header]
+name = "__wsetlocale"
+addr = 0x3b66ce
+
+[header.args]

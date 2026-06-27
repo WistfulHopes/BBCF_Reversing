@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456074Z
+addr = 0x3d22c6
+size = 0x82
+name = "?IncrementFixedCoreCount@SchedulerProxy@details@Concurrency@@QAEXII_N@Z"
+
+[header]
+name = "?IncrementFixedCoreCount@SchedulerProxy@details@Concurrency@@QAEXII_N@Z"
+addr = 0x3d22c6
+
+[header.args]

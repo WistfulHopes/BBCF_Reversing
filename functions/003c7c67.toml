@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455606Z
+addr = 0x3c7c67
+size = 0x1e2
+name = "___crtMessageBoxW"
+
+[header]
+name = "___crtMessageBoxW"
+addr = 0x3c7c67
+
+[header.args]

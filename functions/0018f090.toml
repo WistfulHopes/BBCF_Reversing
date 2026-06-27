@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453317Z
+addr = 0x18f090
+size = 0xb
+name = "OBJ_CBase::AtkVectorYReset"
+
+[header]
+name = "OBJ_CBase::AtkVectorYReset"
+addr = 0x18f090
+
+[header.args]

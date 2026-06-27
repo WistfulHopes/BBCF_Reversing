@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456211Z
+addr = 0x3d6f62
+size = 0x27f
+name = "?SearchCacheLocalYield@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@_NK@Z"
+
+[header]
+name = "?SearchCacheLocalYield@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@_NK@Z"
+addr = 0x3d6f62
+
+[header.args]

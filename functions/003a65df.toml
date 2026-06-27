@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454669Z
+addr = 0x3a65df
+size = 0x6d
+name = "?_SpinOnce@?$_SpinWait@$0A@@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?_SpinOnce@?$_SpinWait@$0A@@details@Concurrency@@QAE_NXZ"
+addr = 0x3a65df
+
+[header.args]

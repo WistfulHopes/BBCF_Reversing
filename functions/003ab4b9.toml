@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454778Z
+addr = 0x3ab4b9
+size = 0x19
+name = "@_EH4_TransferToHandler@8"
+
+[header]
+name = "@_EH4_TransferToHandler@8"
+addr = 0x3ab4b9
+
+[header.args]

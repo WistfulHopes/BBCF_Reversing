@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453524Z
+addr = 0x1959d0
+size = 0x19
+name = "OBJ_CBase::InitializeForLockObject"
+
+[header]
+name = "OBJ_CBase::InitializeForLockObject"
+addr = 0x1959d0
+
+[header.args]

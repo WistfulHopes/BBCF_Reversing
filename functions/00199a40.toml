@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453694Z
+addr = 0x199a40
+size = 0x10c
+name = "OBJ_CBase::RandAddSpeedSphere"
+
+[header]
+name = "OBJ_CBase::RandAddSpeedSphere"
+addr = 0x199a40
+
+[header.args]

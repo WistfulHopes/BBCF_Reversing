@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454877Z
+addr = 0x3aee72
+size = 0x136
+name = "__powhlp"
+
+[header]
+name = "__powhlp"
+addr = 0x3aee72
+
+[header.args]

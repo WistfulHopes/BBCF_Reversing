@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454139Z
+addr = 0x398cd7
+size = 0xa8
+name = "?do_get@?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0_NAAVios_base@2@AAHAAO@Z"
+
+[header]
+name = "?do_get@?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0_NAAVios_base@2@AAHAAO@Z"
+addr = 0x398cd7
+
+[header.args]

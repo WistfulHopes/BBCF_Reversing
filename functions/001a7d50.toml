@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453845Z
+addr = 0x1a7d50
+size = 0x50
+name = "OBJ_CBase::GetMultiBufferLarge"
+
+[header]
+name = "OBJ_CBase::GetMultiBufferLarge"
+addr = 0x1a7d50
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453662Z
+addr = 0x199390
+size = 0xd
+name = "OBJ_CBase::PushGravity"
+
+[header]
+name = "OBJ_CBase::PushGravity"
+addr = 0x199390
+
+[header.args]

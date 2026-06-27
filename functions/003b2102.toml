@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454936Z
+addr = 0x3b2102
+size = 0x35
+name = "___getgmtimebuf"
+
+[header]
+name = "___getgmtimebuf"
+addr = 0x3b2102
+
+[header.args]

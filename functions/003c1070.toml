@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455361Z
+addr = 0x3c1070
+size = 0x101
+name = "?DynamicResourceManager@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?DynamicResourceManager@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c1070
+
+[header.args]

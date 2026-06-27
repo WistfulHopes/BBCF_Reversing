@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456010Z
+addr = 0x3d0e1a
+size = 0xcc
+name = "?IncrementUseCounts@ExecutionResource@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?IncrementUseCounts@ExecutionResource@details@Concurrency@@QAEXXZ"
+addr = 0x3d0e1a
+
+[header.args]

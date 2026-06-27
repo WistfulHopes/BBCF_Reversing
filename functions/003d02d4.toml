@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455955Z
+addr = 0x3d02d4
+size = 0x24
+name = "?DeleteElements@?$ListArray@VScheduleGroupSegmentBase@details@Concurrency@@@details@Concurrency@@AAEXPAU_SINGLE_LIST_ENTRY@@@Z"
+
+[header]
+name = "?DeleteElements@?$ListArray@VScheduleGroupSegmentBase@details@Concurrency@@@details@Concurrency@@AAEXPAU_SINGLE_LIST_ENTRY@@@Z"
+addr = 0x3d02d4
+
+[header.args]

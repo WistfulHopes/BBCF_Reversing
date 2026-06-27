@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454953Z
+addr = 0x3b2533
+size = 0x16
+name = "___crtUnhandledException"
+
+[header]
+name = "___crtUnhandledException"
+addr = 0x3b2533
+
+[header.args]

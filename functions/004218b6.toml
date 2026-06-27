@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456424Z
+addr = 0x4218b6
+size = 0xa6
+name = "_wcsrchr"
+
+[header]
+name = "_wcsrchr"
+addr = 0x4218b6
+
+[header.args]

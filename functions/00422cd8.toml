@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456429Z
+addr = 0x422cd8
+size = 0x8
+name = "__unwindfunclet$?cleanup@tss_global_data_t@?A0x3373bf37@@QAEXXZ$0"
+
+[header]
+name = "__unwindfunclet$?cleanup@tss_global_data_t@?A0x3373bf37@@QAEXXZ$0"
+addr = 0x422cd8
+
+[header.args]

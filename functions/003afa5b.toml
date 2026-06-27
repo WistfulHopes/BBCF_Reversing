@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454904Z
+addr = 0x3afa5b
+size = 0x1f
+name = "__initp_misc_cfltcvt_tab"
+
+[header]
+name = "__initp_misc_cfltcvt_tab"
+addr = 0x3afa5b
+
+[header.args]

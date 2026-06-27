@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452986Z
+addr = 0x18d1f0
+size = 0xc0
+name = "OBJ_CBase::AddBarrier"
+
+[header]
+name = "OBJ_CBase::AddBarrier"
+addr = 0x18d1f0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455674Z
+addr = 0x3cb01a
+size = 0x6f
+name = "?_RaisedException@_TaskCollectionBase@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?_RaisedException@_TaskCollectionBase@details@Concurrency@@IAEXXZ"
+addr = 0x3cb01a
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455116Z
+addr = 0x3bc3a8
+size = 0x2d
+name = "?TraceContextEvent@ContextBase@details@Concurrency@@IAEXW4ConcRT_EventType@3@EKK@Z"
+
+[header]
+name = "?TraceContextEvent@ContextBase@details@Concurrency@@IAEXW4ConcRT_EventType@3@EKK@Z"
+addr = 0x3bc3a8
+
+[header.args]

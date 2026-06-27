@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454225Z
+addr = 0x39cf40
+size = 0x29
+name = "__Feraise"
+
+[header]
+name = "__Feraise"
+addr = 0x39cf40
+
+[header.args]

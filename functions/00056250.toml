@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452401Z
+addr = 0x56250
+size = 0x1f9
+name = "AA_CModel_MUA::Initialize"
+
+[header]
+name = "AA_CModel_MUA::Initialize"
+addr = 0x56250
+
+[header.args]

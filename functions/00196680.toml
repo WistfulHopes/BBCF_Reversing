@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453543Z
+addr = 0x196680
+size = 0xb
+name = "OBJ:CBase::LinkModelPersOff"
+
+[header]
+name = "OBJ:CBase::LinkModelPersOff"
+addr = 0x196680
+
+[header.args]

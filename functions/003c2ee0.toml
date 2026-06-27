@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455416Z
+addr = 0x3c2ee0
+size = 0x10b
+name = "?RequestInitialVirtualProcessors@ResourceManager@details@Concurrency@@QAEPAUIExecutionResource@3@PAVSchedulerProxy@23@_N@Z"
+
+[header]
+name = "?RequestInitialVirtualProcessors@ResourceManager@details@Concurrency@@QAEPAUIExecutionResource@3@PAVSchedulerProxy@23@_N@Z"
+addr = 0x3c2ee0
+
+[header.args]

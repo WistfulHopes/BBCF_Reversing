@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454299Z
+addr = 0x39f370
+size = 0x48
+name = "_pow"
+
+[header]
+name = "_pow"
+addr = 0x39f370
+
+[header.args]

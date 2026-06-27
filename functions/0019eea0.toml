@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453834Z
+addr = 0x19eea0
+size = 0xaf
+name = "OBJ_CBase::UseCenterOffset"
+
+[header]
+name = "OBJ_CBase::UseCenterOffset"
+addr = 0x19eea0
+
+[header.args]

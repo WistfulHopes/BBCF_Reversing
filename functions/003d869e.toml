@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456274Z
+addr = 0x3d869e
+size = 0x1f
+name = "??_GThreadProxy@details@Concurrency@@UAEPAXI@Z"
+
+[header]
+name = "??_GThreadProxy@details@Concurrency@@UAEPAXI@Z"
+addr = 0x3d869e
+
+[header.args]

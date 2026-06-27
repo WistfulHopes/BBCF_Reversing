@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454767Z
+addr = 0x3aae65
+size = 0x14
+name = "__SEH_epilog4"
+
+[header]
+name = "__SEH_epilog4"
+addr = 0x3aae65
+
+[header.args]

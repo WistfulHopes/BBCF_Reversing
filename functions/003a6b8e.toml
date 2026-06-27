@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454699Z
+addr = 0x3a6b8e
+size = 0x95
+name = "?CallCatchBlock@@YAPAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PBU_s_FuncInfo@@PAXHK@Z"
+
+[header]
+name = "?CallCatchBlock@@YAPAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PBU_s_FuncInfo@@PAXHK@Z"
+addr = 0x3a6b8e
+
+[header.args]

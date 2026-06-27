@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455215Z
+addr = 0x3bde0b
+size = 0x59
+name = "?GetRealizedChore@SchedulerBase@details@Concurrency@@QAEPAVRealizedChore@23@P6AXPAX@Z0@Z"
+
+[header]
+name = "?GetRealizedChore@SchedulerBase@details@Concurrency@@QAEPAVRealizedChore@23@P6AXPAX@Z0@Z"
+addr = 0x3bde0b
+
+[header.args]

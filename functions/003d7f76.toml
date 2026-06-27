@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456259Z
+addr = 0x3d7f76
+size = 0x2e
+name = "?SpinUntilIdle@FreeVirtualProcessorRoot@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?SpinUntilIdle@FreeVirtualProcessorRoot@details@Concurrency@@IAEXXZ"
+addr = 0x3d7f76
+
+[header.args]

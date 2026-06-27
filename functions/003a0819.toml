@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454395Z
+addr = 0x3a0819
+size = 0x297
+name = "_wcsstr"
+
+[header]
+name = "_wcsstr"
+addr = 0x3a0819
+
+[header.args]

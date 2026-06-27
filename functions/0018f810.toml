@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453339Z
+addr = 0x18f810
+size = 0x17
+name = "OBJ_CBase::BlendMode_Add"
+
+[header]
+name = "OBJ_CBase::BlendMode_Add"
+addr = 0x18f810
+
+[header.args]

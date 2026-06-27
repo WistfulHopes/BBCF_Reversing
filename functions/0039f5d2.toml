@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454301Z
+addr = 0x39f5d2
+size = 0x28
+name = "_test_whether_TOS_is_int"
+
+[header]
+name = "_test_whether_TOS_is_int"
+addr = 0x39f5d2
+
+[header.args]

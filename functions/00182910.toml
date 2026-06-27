@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452929Z
+addr = 0x182910
+size = 0x81
+name = "OBJ_CBase::ExecuteFunctionBlock"
+
+[header]
+name = "OBJ_CBase::ExecuteFunctionBlock"
+addr = 0x182910
+
+[header.args]

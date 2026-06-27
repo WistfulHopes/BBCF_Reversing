@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454275Z
+addr = 0x39e086
+size = 0x4e
+name = "operator new"
+
+[header]
+name = "operator new"
+addr = 0x39e086
+
+[header.args]

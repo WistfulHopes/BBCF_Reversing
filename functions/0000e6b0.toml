@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452260Z
+addr = 0xe6b0
+size = 0x9e
+name = "GetTextureData"
+
+[header]
+name = "GetTextureData"
+addr = 0xe6b0
+
+[header.args]

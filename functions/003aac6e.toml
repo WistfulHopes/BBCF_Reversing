@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454759Z
+addr = 0x3aac6e
+size = 0xc9
+name = "__close"
+
+[header]
+name = "__close"
+addr = 0x3aac6e
+
+[header.args]

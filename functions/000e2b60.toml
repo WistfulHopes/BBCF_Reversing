@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452660Z
+addr = 0xe2b60
+size = 0x70
+name = "BATTLE_CSpeedStarModeTimeCtrl::Init"
+
+[header]
+name = "BATTLE_CSpeedStarModeTimeCtrl::Init"
+addr = 0xe2b60
+
+[header.args]

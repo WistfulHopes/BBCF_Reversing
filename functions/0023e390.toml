@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453907Z
+addr = 0x23e390
+size = 0x17
+name = "GAME_CETCObjectBase::ResetParam"
+
+[header]
+name = "GAME_CETCObjectBase::ResetParam"
+addr = 0x23e390
+
+[header.args]

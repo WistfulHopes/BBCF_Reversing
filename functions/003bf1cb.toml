@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455277Z
+addr = 0x3bf1cb
+size = 0x4d
+name = "?Resurrect@SchedulerBase@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?Resurrect@SchedulerBase@details@Concurrency@@AAEXXZ"
+addr = 0x3bf1cb
+
+[header.args]

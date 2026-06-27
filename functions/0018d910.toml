@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453035Z
+addr = 0x18d910
+size = 0x2c
+name = "OBJ_CBase::AfterImageLastColor"
+
+[header]
+name = "OBJ_CBase::AfterImageLastColor"
+addr = 0x18d910
+
+[header.args]

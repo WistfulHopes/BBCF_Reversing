@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455785Z
+addr = 0x3ccf56
+size = 0x4a
+name = "?Grow@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@AAEPAUSegment@123@PAU4123@@Z"
+
+[header]
+name = "?Grow@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@AAEPAUSegment@123@PAU4123@@Z"
+addr = 0x3ccf56
+
+[header.args]

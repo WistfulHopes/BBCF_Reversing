@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454415Z
+addr = 0x3a12b8
+size = 0x1c
+name = "?_Tidy@exception@std@@AAEXXZ"
+
+[header]
+name = "?_Tidy@exception@std@@AAEXXZ"
+addr = 0x3a12b8
+
+[header.args]

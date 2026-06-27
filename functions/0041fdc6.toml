@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456360Z
+addr = 0x41fdc6
+size = 0x28
+name = "__Call_func@4"
+
+[header]
+name = "__Call_func@4"
+addr = 0x41fdc6
+
+[header.args]

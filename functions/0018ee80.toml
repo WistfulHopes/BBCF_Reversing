@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453251Z
+addr = 0x18ee80
+size = 0x1f
+name = "OBJ_CBase::AtkShutUp"
+
+[header]
+name = "OBJ_CBase::AtkShutUp"
+addr = 0x18ee80
+
+[header.args]

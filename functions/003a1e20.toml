@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454434Z
+addr = 0x3a1e20
+size = 0x74
+name = "_strncmp"
+
+[header]
+name = "_strncmp"
+addr = 0x3a1e20
+
+[header.args]

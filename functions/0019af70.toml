@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453773Z
+addr = 0x19af70
+size = 0x45
+name = "OBJ_CBase::SetInertia"
+
+[header]
+name = "OBJ_CBase::SetInertia"
+addr = 0x19af70
+
+[header.args]

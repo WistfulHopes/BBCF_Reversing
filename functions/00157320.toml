@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452723Z
+addr = 0x157320
+size = 0x35
+name = "BATTLE_CLoadTask::Unload"
+
+[header]
+name = "BATTLE_CLoadTask::Unload"
+addr = 0x157320
+
+[header.args]

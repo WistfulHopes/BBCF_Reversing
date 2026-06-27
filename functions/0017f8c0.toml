@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452894Z
+addr = 0x17f8c0
+size = 0xc8
+name = "OBJ_CBase::OnDelete"
+
+[header]
+name = "OBJ_CBase::OnDelete"
+addr = 0x17f8c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453402Z
+addr = 0x191bc0
+size = 0xa8
+name = "OBJ_CBase::CustomPalette"
+
+[header]
+name = "OBJ_CBase::CustomPalette"
+addr = 0x191bc0
+
+[header.args]

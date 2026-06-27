@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455623Z
+addr = 0x3c8782
+size = 0x185
+name = "__fputwc_nolock"
+
+[header]
+name = "__fputwc_nolock"
+addr = 0x3c8782
+
+[header.args]

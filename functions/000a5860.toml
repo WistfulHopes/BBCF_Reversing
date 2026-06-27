@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452605Z
+addr = 0xa5860
+size = 0x422
+name = "CTrainingMenu::CTrainingMenu"
+
+[header]
+name = "CTrainingMenu::CTrainingMenu"
+addr = 0xa5860
+
+[header.args]

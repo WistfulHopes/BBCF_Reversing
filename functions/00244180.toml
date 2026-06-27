@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453944Z
+addr = 0x244180
+size = 0x106
+name = "GAME_CETCManager::Finalize"
+
+[header]
+name = "GAME_CETCManager::Finalize"
+addr = 0x244180
+
+[header.args]

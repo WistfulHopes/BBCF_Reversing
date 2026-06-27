@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454512Z
+addr = 0x3a43df
+size = 0x67
+name = "_ungetc"
+
+[header]
+name = "_ungetc"
+addr = 0x3a43df
+
+[header.args]

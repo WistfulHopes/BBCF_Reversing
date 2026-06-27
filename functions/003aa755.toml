@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454750Z
+addr = 0x3aa755
+size = 0x26b
+name = "?__crtCompareStringA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPBDH2HH@Z"
+
+[header]
+name = "?__crtCompareStringA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPBDH2HH@Z"
+addr = 0x3aa755
+
+[header.args]

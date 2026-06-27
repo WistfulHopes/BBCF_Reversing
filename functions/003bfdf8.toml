@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455321Z
+addr = 0x3bfdf8
+size = 0x23
+name = "?ApplyAffinityLimits@AffinityRestriction@ResourceManager@details@Concurrency@@QAEXPAU_GROUP_AFFINITY@@@Z"
+
+[header]
+name = "?ApplyAffinityLimits@AffinityRestriction@ResourceManager@details@Concurrency@@QAEXPAU_GROUP_AFFINITY@@@Z"
+addr = 0x3bfdf8
+
+[header.args]

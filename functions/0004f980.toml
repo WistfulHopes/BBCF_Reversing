@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452383Z
+addr = 0x4f980
+size = 0xa5
+name = "AAWin_CFileReader_Thread::AAWin_CFileReader_Thread"
+
+[header]
+name = "AAWin_CFileReader_Thread::AAWin_CFileReader_Thread"
+addr = 0x4f980
+
+[header.args]

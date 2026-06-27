@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452237Z
+addr = 0xb3d0
+size = 0x146
+name = "AA_CParticleManager::Finalize"
+
+[header]
+name = "AA_CParticleManager::Finalize"
+addr = 0xb3d0
+
+[header.args]

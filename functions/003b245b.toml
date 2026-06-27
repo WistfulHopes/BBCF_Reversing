@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454939Z
+addr = 0x3b245b
+size = 0x2
+name = "j_sub_7b2460"
+
+[header]
+name = "j_sub_7b2460"
+addr = 0x3b245b
+
+[header.args]

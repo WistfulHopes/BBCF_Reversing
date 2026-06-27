@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452687Z
+addr = 0x14f7a0
+size = 0xa5
+name = "SCENE_CBase::~SCENE_CBase"
+
+[header]
+name = "SCENE_CBase::~SCENE_CBase"
+addr = 0x14f7a0
+
+[header.args]

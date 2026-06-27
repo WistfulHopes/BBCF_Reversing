@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453080Z
+addr = 0x18e070
+size = 0x10
+name = "OBJ_CBase::AtkWallBoundStunTimeCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkWallBoundStunTimeCounterHit"
+addr = 0x18e070
+
+[header.args]

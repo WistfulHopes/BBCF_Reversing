@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455948Z
+addr = 0x3cfde4
+size = 0xf0
+name = "?WaitForWork@InternalContextBase@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?WaitForWork@InternalContextBase@details@Concurrency@@IAEXXZ"
+addr = 0x3cfde4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455935Z
+addr = 0x3cf9a2
+size = 0x1f
+name = "?RejoinScheduler@InternalContextBase@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?RejoinScheduler@InternalContextBase@details@Concurrency@@AAEXXZ"
+addr = 0x3cf9a2
+
+[header.args]

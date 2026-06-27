@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453511Z
+addr = 0x1951c0
+size = 0x1b
+name = "OBJ_CBase::InitLandPreJumpActionNormalAttackAvailable"
+
+[header]
+name = "OBJ_CBase::InitLandPreJumpActionNormalAttackAvailable"
+addr = 0x1951c0
+
+[header.args]

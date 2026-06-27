@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454707Z
+addr = 0x3a71ff
+size = 0x11a
+name = "?FindHandlerForForeignException@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@HH1@Z"
+
+[header]
+name = "?FindHandlerForForeignException@@YAXPAUEHExceptionRecord@@PAUEHRegistrationNode@@PAU_CONTEXT@@PAXPBU_s_FuncInfo@@HH1@Z"
+addr = 0x3a71ff
+
+[header.args]

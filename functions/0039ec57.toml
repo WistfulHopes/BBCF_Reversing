@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454295Z
+addr = 0x39ec57
+size = 0x29
+name = "__IsExceptionObjectToBeDestroyed"
+
+[header]
+name = "__IsExceptionObjectToBeDestroyed"
+addr = 0x39ec57
+
+[header.args]

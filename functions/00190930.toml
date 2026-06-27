@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453361Z
+addr = 0x190930
+size = 0x3a
+name = "OBJ_CBase::CheckAttackButton"
+
+[header]
+name = "OBJ_CBase::CheckAttackButton"
+addr = 0x190930
+
+[header.args]

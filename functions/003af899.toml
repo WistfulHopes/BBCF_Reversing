@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454893Z
+addr = 0x3af899
+size = 0x7e
+name = "__cropzeros_l"
+
+[header]
+name = "__cropzeros_l"
+addr = 0x3af899
+
+[header.args]

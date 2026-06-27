@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454251Z
+addr = 0x39d81a
+size = 0x83
+name = "_fread_s"
+
+[header]
+name = "_fread_s"
+addr = 0x39d81a
+
+[header.args]

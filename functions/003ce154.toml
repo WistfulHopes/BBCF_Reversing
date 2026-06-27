@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455860Z
+addr = 0x3ce154
+size = 0xfb
+name = "?Remove@?$ListArray@VVirtualProcessor@details@Concurrency@@@details@Concurrency@@QAE_NPAVVirtualProcessor@23@H_N@Z"
+
+[header]
+name = "?Remove@?$ListArray@VVirtualProcessor@details@Concurrency@@@details@Concurrency@@QAE_NPAVVirtualProcessor@23@H_N@Z"
+addr = 0x3ce154
+
+[header.args]

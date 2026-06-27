@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455494Z
+addr = 0x3c5fdb
+size = 0x38
+name = "??0TimedSingleWaitBlock@details@Concurrency@@QAE@_N@Z"
+
+[header]
+name = "??0TimedSingleWaitBlock@details@Concurrency@@QAE@_N@Z"
+addr = 0x3c5fdb
+
+[header.args]

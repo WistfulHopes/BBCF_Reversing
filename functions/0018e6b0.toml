@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453163Z
+addr = 0x18e6b0
+size = 0x24
+name = "OBJ_CBase::AtkGuardEffect"
+
+[header]
+name = "OBJ_CBase::AtkGuardEffect"
+addr = 0x18e6b0
+
+[header.args]

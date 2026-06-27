@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453142Z
+addr = 0x18e580
+size = 0x10
+name = "OBJ_CBase::AtkFixDamageRate"
+
+[header]
+name = "OBJ_CBase::AtkFixDamageRate"
+addr = 0x18e580
+
+[header.args]

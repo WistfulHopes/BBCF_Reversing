@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452515Z
+addr = 0x72550
+size = 0x2c
+name = "AASTEAM_SystemManager::InitInput"
+
+[header]
+name = "AASTEAM_SystemManager::InitInput"
+addr = 0x72550
+
+[header.args]

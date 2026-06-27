@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454548Z
+addr = 0x3a51da
+size = 0x32
+name = "___crtCorExitProcess"
+
+[header]
+name = "___crtCorExitProcess"
+addr = 0x3a51da
+
+[header.args]

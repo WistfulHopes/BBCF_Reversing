@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453726Z
+addr = 0x19a380
+size = 0x10
+name = "OBJ_CBase::SetActionTimeMax"
+
+[header]
+name = "OBJ_CBase::SetActionTimeMax"
+addr = 0x19a380
+
+[header.args]

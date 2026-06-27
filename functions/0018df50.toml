@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453062Z
+addr = 0x18df50
+size = 0x25
+name = "OBJ_CBase::AtkAllDefault"
+
+[header]
+name = "OBJ_CBase::AtkAllDefault"
+addr = 0x18df50
+
+[header.args]

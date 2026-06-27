@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453749Z
+addr = 0x19a880
+size = 0x17
+name = "OBJ_CBase::SetCompositeBlendMode"
+
+[header]
+name = "OBJ_CBase::SetCompositeBlendMode"
+addr = 0x19a880
+
+[header.args]

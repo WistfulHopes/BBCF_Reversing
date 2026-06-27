@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456049Z
+addr = 0x3d1a37
+size = 0x70
+name = "?AdjustAllocationIncrease@SchedulerProxy@details@Concurrency@@QBEII@Z"
+
+[header]
+name = "?AdjustAllocationIncrease@SchedulerProxy@details@Concurrency@@QBEII@Z"
+addr = 0x3d1a37
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453753Z
+addr = 0x19a910
+size = 0x19
+name = "OBJ_CBase::SetCompositePosX"
+
+[header]
+name = "OBJ_CBase::SetCompositePosX"
+addr = 0x19a910
+
+[header.args]

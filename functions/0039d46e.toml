@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454237Z
+addr = 0x39d46e
+size = 0x9
+name = "__LDint"
+
+[header]
+name = "__LDint"
+addr = 0x39d46e
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453160Z
+addr = 0x18e690
+size = 0xb
+name = "OBJ_CBase::AtkGravityReset"
+
+[header]
+name = "OBJ_CBase::AtkGravityReset"
+addr = 0x18e690
+
+[header.args]

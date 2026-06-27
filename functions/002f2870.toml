@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453970Z
+addr = 0x2f2870
+size = 0x5
+name = "j_GAME_CETCManager::GetInstance"
+
+[header]
+name = "j_GAME_CETCManager::GetInstance"
+addr = 0x2f2870
+
+[header.args]

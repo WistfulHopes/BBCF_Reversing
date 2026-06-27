@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454653Z
+addr = 0x3a63cc
+size = 0x53
+name = "?UpdateQueuePosition@LockQueueNode@details@Concurrency@@QAEXPAV123@@Z"
+
+[header]
+name = "?UpdateQueuePosition@LockQueueNode@details@Concurrency@@QAEXPAV123@@Z"
+addr = 0x3a63cc
+
+[header.args]

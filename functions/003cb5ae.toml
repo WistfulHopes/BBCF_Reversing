@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455686Z
+addr = 0x3cb5ae
+size = 0x48
+name = "?_AbortiveSweep@_TaskCollection@details@Concurrency@@AAEXPAX@Z"
+
+[header]
+name = "?_AbortiveSweep@_TaskCollection@details@Concurrency@@AAEXPAX@Z"
+addr = 0x3cb5ae
+
+[header.args]

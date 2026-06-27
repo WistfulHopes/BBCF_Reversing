@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455257Z
+addr = 0x3bece7
+size = 0x40
+name = "?ReleaseInternalContext@SchedulerBase@details@Concurrency@@QAEXPAVInternalContextBase@23@_N@Z"
+
+[header]
+name = "?ReleaseInternalContext@SchedulerBase@details@Concurrency@@QAEXPAVInternalContextBase@23@_N@Z"
+addr = 0x3bece7
+
+[header.args]

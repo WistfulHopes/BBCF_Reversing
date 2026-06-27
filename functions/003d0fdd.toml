@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456019Z
+addr = 0x3d0fdd
+size = 0x8a
+name = "??0HillClimbing@details@Concurrency@@QAE@IIPAVSchedulerProxy@12@@Z"
+
+[header]
+name = "??0HillClimbing@details@Concurrency@@QAE@IIPAVSchedulerProxy@12@@Z"
+addr = 0x3d0fdd
+
+[header.args]

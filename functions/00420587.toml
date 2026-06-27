@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456392Z
+addr = 0x420587
+size = 0x50
+name = "__uninitMTAoncurrentthread"
+
+[header]
+name = "__uninitMTAoncurrentthread"
+addr = 0x420587
+
+[header.args]

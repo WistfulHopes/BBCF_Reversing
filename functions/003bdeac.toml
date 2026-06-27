@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455219Z
+addr = 0x3bdeac
+size = 0x61
+name = "?GetSubAllocator@SchedulerBase@details@Concurrency@@SAPAVSubAllocator@23@_N@Z"
+
+[header]
+name = "?GetSubAllocator@SchedulerBase@details@Concurrency@@SAPAVSubAllocator@23@_N@Z"
+addr = 0x3bdeac
+
+[header.args]

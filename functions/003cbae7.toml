@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455709Z
+addr = 0x3cbae7
+size = 0x49
+name = "?_NotifyCompletedChoreAndFree@_TaskCollection@details@Concurrency@@AAEXPAV_UnrealizedChore@23@@Z"
+
+[header]
+name = "?_NotifyCompletedChoreAndFree@_TaskCollection@details@Concurrency@@AAEXPAV_UnrealizedChore@23@@Z"
+addr = 0x3cbae7
+
+[header.args]

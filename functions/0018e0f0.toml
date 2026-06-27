@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453091Z
+addr = 0x18e0f0
+size = 0x1a
+name = "OBJ_CBase::AtkComboRateFirst"
+
+[header]
+name = "OBJ_CBase::AtkComboRateFirst"
+addr = 0x18e0f0
+
+[header.args]

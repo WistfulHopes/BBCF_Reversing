@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452728Z
+addr = 0x157b20
+size = 0xa9
+name = "CInitializeObjectExArg::CInitializeObjectExArg"
+
+[header]
+name = "CInitializeObjectExArg::CInitializeObjectExArg"
+addr = 0x157b20
+
+[header.args]

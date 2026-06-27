@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453544Z
+addr = 0x1966a0
+size = 0x1f
+name = "OBJ_CBase::LinkObjectColor"
+
+[header]
+name = "OBJ_CBase::LinkObjectColor"
+addr = 0x1966a0
+
+[header.args]

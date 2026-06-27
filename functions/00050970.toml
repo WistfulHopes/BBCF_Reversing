@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452393Z
+addr = 0x50970
+size = 0x3b
+name = "AAWin_CFileReader_Thread::GetFreeDiskSpace"
+
+[header]
+name = "AAWin_CFileReader_Thread::GetFreeDiskSpace"
+addr = 0x50970
+
+[header.args]

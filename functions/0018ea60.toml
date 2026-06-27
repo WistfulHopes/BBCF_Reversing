@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453219Z
+addr = 0x18ea60
+size = 0x31
+name = "OBJ_CBase::AtkLowDamageLevel"
+
+[header]
+name = "OBJ_CBase::AtkLowDamageLevel"
+addr = 0x18ea60
+
+[header.args]

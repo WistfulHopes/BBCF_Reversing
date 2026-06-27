@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456136Z
+addr = 0x3d56ce
+size = 0x19f
+name = "__wchartodigit"
+
+[header]
+name = "__wchartodigit"
+addr = 0x3d56ce
+
+[header.args]

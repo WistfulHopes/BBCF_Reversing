@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452838Z
+addr = 0x173a30
+size = 0x2e
+name = "OBJ_CBase::ApplyHitStopTime"
+
+[header]
+name = "OBJ_CBase::ApplyHitStopTime"
+addr = 0x173a30
+
+[header.args]

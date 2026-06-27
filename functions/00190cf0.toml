@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453368Z
+addr = 0x190cf0
+size = 0x12
+name = "OBJ_CBase::CheckIfReturnVal"
+
+[header]
+name = "OBJ_CBase::CheckIfReturnVal"
+addr = 0x190cf0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455727Z
+addr = 0x3cbf1d
+size = 0x3a
+name = "?RegisterGuids@Etw@details@Concurrency@@QAEKP6GKW4WMIDPREQUESTCODE@@PAXPAK1@ZPBU_GUID@@KPAU_TRACE_GUID_REGISTRATION@@PA_K@Z"
+
+[header]
+name = "?RegisterGuids@Etw@details@Concurrency@@QAEKP6GKW4WMIDPREQUESTCODE@@PAXPAK1@ZPBU_GUID@@KPAU_TRACE_GUID_REGISTRATION@@PA_K@Z"
+addr = 0x3cbf1d
+
+[header.args]

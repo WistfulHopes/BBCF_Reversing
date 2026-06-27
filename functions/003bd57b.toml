@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455178Z
+addr = 0x3bd57b
+size = 0x43
+name = "?DetachExternalContext@SchedulerBase@details@Concurrency@@AAEXPAVExternalContextBase@23@_N@Z"
+
+[header]
+name = "?DetachExternalContext@SchedulerBase@details@Concurrency@@AAEXPAVExternalContextBase@23@_N@Z"
+addr = 0x3bd57b
+
+[header.args]

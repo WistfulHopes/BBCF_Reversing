@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455527Z
+addr = 0x3c65b8
+size = 0x39
+name = "?Sweep@details@Concurrency@@YAPAVEventWaitNode@12@PAV312@_N@Z"
+
+[header]
+name = "?Sweep@details@Concurrency@@YAPAVEventWaitNode@12@PAV312@_N@Z"
+addr = 0x3c65b8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452646Z
+addr = 0xd1ef0
+size = 0x1b
+name = "DBM_IsTrgEnter"
+
+[header]
+name = "DBM_IsTrgEnter"
+addr = 0xd1ef0
+
+[header.args]

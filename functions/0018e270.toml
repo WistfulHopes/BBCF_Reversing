@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453111Z
+addr = 0x18e270
+size = 0x4c
+name = "OBJ_CBase::AtkDamagePer"
+
+[header]
+name = "OBJ_CBase::AtkDamagePer"
+addr = 0x18e270
+
+[header.args]

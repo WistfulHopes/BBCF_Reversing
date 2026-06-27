@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456073Z
+addr = 0x3d226a
+size = 0x5c
+name = "?IncrementCoreSubscription@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+
+[header]
+name = "?IncrementCoreSubscription@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+addr = 0x3d226a
+
+[header.args]

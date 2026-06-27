@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456165Z
+addr = 0x3d628e
+size = 0x27
+name = "?_CancelViaToken@_UnrealizedChore@details@Concurrency@@CAXPAVContextBase@23@@Z"
+
+[header]
+name = "?_CancelViaToken@_UnrealizedChore@details@Concurrency@@CAXPAVContextBase@23@@Z"
+addr = 0x3d628e
+
+[header.args]

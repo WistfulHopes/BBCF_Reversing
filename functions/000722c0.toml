@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452511Z
+addr = 0x722c0
+size = 0x1d8
+name = "AASTEAM_SystemManager::InitBattleKey"
+
+[header]
+name = "AASTEAM_SystemManager::InitBattleKey"
+addr = 0x722c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452352Z
+addr = 0x49860
+size = 0xc
+name = "CEffectPool::Init"
+
+[header]
+name = "CEffectPool::Init"
+addr = 0x49860
+
+[header.args]

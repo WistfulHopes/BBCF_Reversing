@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453347Z
+addr = 0x18ff20
+size = 0xf8
+name = "OBJ_CBase::Random"
+
+[header]
+name = "OBJ_CBase::Random"
+addr = 0x18ff20
+
+[header.args]

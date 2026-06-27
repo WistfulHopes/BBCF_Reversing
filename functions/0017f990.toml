@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452896Z
+addr = 0x17f990
+size = 0x9c3
+name = "OBJ_CBase::PosType2Position"
+
+[header]
+name = "OBJ_CBase::PosType2Position"
+addr = 0x17f990
+
+[header.args]

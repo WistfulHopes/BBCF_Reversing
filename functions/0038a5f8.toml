@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454087Z
+addr = 0x38a5f8
+size = 0x33
+name = "??$_LStrxfrm@G@std@@YAIPAG0PBG1PBU_Collvec@@@Z"
+
+[header]
+name = "??$_LStrxfrm@G@std@@YAIPAG0PBG1PBU_Collvec@@@Z"
+addr = 0x38a5f8
+
+[header.args]

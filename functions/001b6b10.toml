@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453850Z
+addr = 0x1b6b10
+size = 0xde
+name = "GetTextureHandle"
+
+[header]
+name = "GetTextureHandle"
+addr = 0x1b6b10
+
+[header.args]

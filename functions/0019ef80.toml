@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453835Z
+addr = 0x19ef80
+size = 0x69
+name = "OBJ_CBase::Voice"
+
+[header]
+name = "OBJ_CBase::Voice"
+addr = 0x19ef80
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455812Z
+addr = 0x3cd408
+size = 0x16
+name = "?ScheduleTask@ScheduleGroupBase@details@Concurrency@@UAEXP6AXPAX@Z0@Z"
+
+[header]
+name = "?ScheduleTask@ScheduleGroupBase@details@Concurrency@@UAEXP6AXPAX@Z0@Z"
+addr = 0x3cd408
+
+[header.args]

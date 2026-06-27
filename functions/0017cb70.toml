@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452854Z
+addr = 0x17cb70
+size = 0x7
+name = "OBJ_CBase::GetHitPoint"
+
+[header]
+name = "OBJ_CBase::GetHitPoint"
+addr = 0x17cb70
+
+[header.args]

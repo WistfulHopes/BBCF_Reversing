@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452900Z
+addr = 0x180900
+size = 0x15
+name = "OBJ_CBase::ResetTrgBtnB"
+
+[header]
+name = "OBJ_CBase::ResetTrgBtnB"
+addr = 0x180900
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455280Z
+addr = 0x3bf25f
+size = 0x1c
+name = "?SafeFastCurrentContext@SchedulerBase@details@Concurrency@@SAPAVContextBase@23@XZ"
+
+[header]
+name = "?SafeFastCurrentContext@SchedulerBase@details@Concurrency@@SAPAVContextBase@23@XZ"
+addr = 0x3bf25f
+
+[header.args]

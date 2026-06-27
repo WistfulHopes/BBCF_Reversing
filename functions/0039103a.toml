@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454106Z
+addr = 0x39103a
+size = 0x5aa
+name = "?_Makeushloc@_Locimp@locale@std@@CAXABV_Locinfo@3@HPAV123@PBV23@@Z"
+
+[header]
+name = "?_Makeushloc@_Locimp@locale@std@@CAXABV_Locinfo@3@HPAV123@PBV23@@Z"
+addr = 0x39103a
+
+[header.args]

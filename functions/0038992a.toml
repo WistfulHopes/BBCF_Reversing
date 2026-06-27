@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454059Z
+addr = 0x38992a
+size = 0x162
+name = "?mtx_do_lock@@YAHPAPAU_Mtx_internal_imp_t@@PBUxtime@@@Z"
+
+[header]
+name = "?mtx_do_lock@@YAHPAPAU_Mtx_internal_imp_t@@PBUxtime@@@Z"
+addr = 0x38992a
+
+[header.args]

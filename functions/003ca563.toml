@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455651Z
+addr = 0x3ca563
+size = 0x4f
+name = "_wcscspn"
+
+[header]
+name = "_wcscspn"
+addr = 0x3ca563
+
+[header.args]

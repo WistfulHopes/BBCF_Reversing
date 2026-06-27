@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452707Z
+addr = 0x151e60
+size = 0x210
+name = "BATTLE_CBGManager::~BATTLE_CBGManager"
+
+[header]
+name = "BATTLE_CBGManager::~BATTLE_CBGManager"
+addr = 0x151e60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452674Z
+addr = 0x107460
+size = 0x4
+name = "SCENE_CBase::GameStatusInc"
+
+[header]
+name = "SCENE_CBase::GameStatusInc"
+addr = 0x107460
+
+[header.args]

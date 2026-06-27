@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452890Z
+addr = 0x17ebf0
+size = 0x80c
+name = "OBJ_CBase::ObjectConstructor_ForObject"
+
+[header]
+name = "OBJ_CBase::ObjectConstructor_ForObject"
+addr = 0x17ebf0
+
+[header.args]

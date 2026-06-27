@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455673Z
+addr = 0x3caff2
+size = 0x28
+name = "?_MarkCancellation@_TaskCollectionBase@details@Concurrency@@IAE_NXZ"
+
+[header]
+name = "?_MarkCancellation@_TaskCollectionBase@details@Concurrency@@IAE_NXZ"
+addr = 0x3caff2
+
+[header.args]

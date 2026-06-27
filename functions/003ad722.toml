@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454824Z
+addr = 0x3ad722
+size = 0x17
+name = "__getptd"
+
+[header]
+name = "__getptd"
+addr = 0x3ad722
+
+[header.args]

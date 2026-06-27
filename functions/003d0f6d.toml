@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456014Z
+addr = 0x3d0f6d
+size = 0x22
+name = "?SetAsCurrent@ExecutionResource@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?SetAsCurrent@ExecutionResource@details@Concurrency@@QAEXXZ"
+addr = 0x3d0f6d
+
+[header.args]

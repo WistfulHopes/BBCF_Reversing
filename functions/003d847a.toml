@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456270Z
+addr = 0x3d847a
+size = 0x24
+name = "?PMDtoOffset@@YAHPAXABUPMD@@@Z"
+
+[header]
+name = "?PMDtoOffset@@YAHPAXABUPMD@@@Z"
+addr = 0x3d847a
+
+[header.args]

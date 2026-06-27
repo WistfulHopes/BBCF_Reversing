@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454290Z
+addr = 0x39eadb
+size = 0x76
+name = "?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z"
+
+[header]
+name = "?_GetRangeOfTrysToCheck@@YAPBU_s_TryBlockMapEntry@@PBU_s_FuncInfo@@HHPAI1@Z"
+addr = 0x39eadb
+
+[header.args]

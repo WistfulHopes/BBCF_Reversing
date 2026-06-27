@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453691Z
+addr = 0x1999c0
+size = 0x37
+name = "OBJ_CBase::RandAddScaleY"
+
+[header]
+name = "OBJ_CBase::RandAddScaleY"
+addr = 0x1999c0
+
+[header.args]

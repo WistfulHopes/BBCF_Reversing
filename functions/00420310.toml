@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456383Z
+addr = 0x420310
+size = 0x26
+name = "__get_sys_err_msg"
+
+[header]
+name = "__get_sys_err_msg"
+addr = 0x420310
+
+[header.args]

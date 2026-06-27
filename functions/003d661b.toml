@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456181Z
+addr = 0x3d661b
+size = 0x49
+name = "?Bind@WorkItem@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+
+[header]
+name = "?Bind@WorkItem@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+addr = 0x3d661b
+
+[header.args]

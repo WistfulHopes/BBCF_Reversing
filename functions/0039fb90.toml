@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454381Z
+addr = 0x39fb90
+size = 0x34
+name = "__allmul"
+
+[header]
+name = "__allmul"
+addr = 0x39fb90
+
+[header.args]

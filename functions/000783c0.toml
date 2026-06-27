@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452537Z
+addr = 0x783c0
+size = 0x6c
+name = "GAME_SGameLogFile::GetInstance"
+
+[header]
+name = "GAME_SGameLogFile::GetInstance"
+addr = 0x783c0
+
+[header.args]

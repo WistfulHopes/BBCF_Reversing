@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456086Z
+addr = 0x3d25d4
+size = 0xa
+name = "?Shutdown@SchedulerProxy@details@Concurrency@@UAEXXZ"
+
+[header]
+name = "?Shutdown@SchedulerProxy@details@Concurrency@@UAEXXZ"
+addr = 0x3d25d4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453345Z
+addr = 0x18fd70
+size = 0x84
+name = "OBJ_Cbase::CalcDistance"
+
+[header]
+name = "OBJ_Cbase::CalcDistance"
+addr = 0x18fd70
+
+[header.args]

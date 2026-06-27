@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453065Z
+addr = 0x18dfb0
+size = 0x10
+name = "OBJ_CBase::AtkAttackCollisionForceExpand"
+
+[header]
+name = "OBJ_CBase::AtkAttackCollisionForceExpand"
+addr = 0x18dfb0
+
+[header.args]

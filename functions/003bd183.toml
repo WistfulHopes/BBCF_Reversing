@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455157Z
+addr = 0x3bd183
+size = 0x5c
+name = "?CheckStaticConstruction@SchedulerBase@details@Concurrency@@CAXXZ"
+
+[header]
+name = "?CheckStaticConstruction@SchedulerBase@details@Concurrency@@CAXXZ"
+addr = 0x3bd183
+
+[header.args]

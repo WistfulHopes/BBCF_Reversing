@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453371Z
+addr = 0x190f70
+size = 0x151
+name = "OBJ_CBase::MutekiAimCheck"
+
+[header]
+name = "OBJ_CBase::MutekiAimCheck"
+addr = 0x190f70
+
+[header.args]

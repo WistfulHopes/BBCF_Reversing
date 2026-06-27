@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455016Z
+addr = 0x3b6380
+size = 0x2c
+name = "__copytlocinfo_nolock"
+
+[header]
+name = "__copytlocinfo_nolock"
+addr = 0x3b6380
+
+[header.args]

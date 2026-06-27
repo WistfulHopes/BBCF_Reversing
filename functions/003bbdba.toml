@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455097Z
+addr = 0x3bbdba
+size = 0xea
+name = "?IsCanceledAtDepth@ContextBase@details@Concurrency@@AAE_NPAV_TaskCollectionBase@23@H@Z"
+
+[header]
+name = "?IsCanceledAtDepth@ContextBase@details@Concurrency@@AAE_NPAV_TaskCollectionBase@23@H@Z"
+addr = 0x3bbdba
+
+[header.args]

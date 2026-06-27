@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452926Z
+addr = 0x182620
+size = 0x42
+name = "OBJ_CBase::BBST_OnCellBegin"
+
+[header]
+name = "OBJ_CBase::BBST_OnCellBegin"
+addr = 0x182620
+
+[header.args]

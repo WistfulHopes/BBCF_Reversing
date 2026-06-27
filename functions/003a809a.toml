@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454738Z
+addr = 0x3a809a
+size = 0x6f
+name = "?_W_store_num@@YAXHHPAPA_WPAII@Z"
+
+[header]
+name = "?_W_store_num@@YAXHHPAPA_WPAII@Z"
+addr = 0x3a809a
+
+[header.args]

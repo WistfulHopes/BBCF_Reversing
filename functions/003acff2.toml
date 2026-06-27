@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454807Z
+addr = 0x3acff2
+size = 0x13
+name = "?unexpected@@YAXXZ"
+
+[header]
+name = "?unexpected@@YAXXZ"
+addr = 0x3acff2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452549Z
+addr = 0x7af90
+size = 0x45
+name = "GAME_CEff3DInstHndlManager::ReleaseModel"
+
+[header]
+name = "GAME_CEff3DInstHndlManager::ReleaseModel"
+addr = 0x7af90
+
+[header.args]

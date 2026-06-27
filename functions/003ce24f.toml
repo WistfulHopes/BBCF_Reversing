@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455862Z
+addr = 0x3ce24f
+size = 0x143
+name = "?Retire@VirtualProcessor@details@Concurrency@@MAEXXZ"
+
+[header]
+name = "?Retire@VirtualProcessor@details@Concurrency@@MAEXXZ"
+addr = 0x3ce24f
+
+[header.args]

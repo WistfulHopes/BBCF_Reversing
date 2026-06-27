@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455633Z
+addr = 0x3c9162
+size = 0x67
+name = "___free_lconv_num"
+
+[header]
+name = "___free_lconv_num"
+addr = 0x3c9162
+
+[header.args]

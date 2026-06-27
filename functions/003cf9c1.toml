@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455937Z
+addr = 0x3cf9c1
+size = 0x23
+name = "?RemoveFromUse@InternalContextBase@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?RemoveFromUse@InternalContextBase@details@Concurrency@@QAEXXZ"
+addr = 0x3cf9c1
+
+[header.args]

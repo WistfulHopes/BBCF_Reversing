@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455351Z
+addr = 0x3c0966
+size = 0x13a
+name = "?DistributeExclusiveCores@ResourceManager@details@Concurrency@@AAEXIIIII@Z"
+
+[header]
+name = "?DistributeExclusiveCores@ResourceManager@details@Concurrency@@AAEXIIIII@Z"
+addr = 0x3c0966
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452323Z
+addr = 0x3b9a0
+size = 0x14b
+name = "AADX_CRenderer::UpdateWindow"
+
+[header]
+name = "AADX_CRenderer::UpdateWindow"
+addr = 0x3b9a0
+
+[header.args]

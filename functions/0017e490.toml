@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452874Z
+addr = 0x17e490
+size = 0x23
+name = "OBJ_CBase::GetScaleX"
+
+[header]
+name = "OBJ_CBase::GetScaleX"
+addr = 0x17e490
+
+[header.args]

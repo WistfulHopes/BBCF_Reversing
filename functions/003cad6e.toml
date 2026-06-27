@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455665Z
+addr = 0x3cad6e
+size = 0x1dc
+name = "?wcstoxl@@YAKPB_WPAPB_WHH@Z"
+
+[header]
+name = "?wcstoxl@@YAKPB_WPAPB_WHH@Z"
+addr = 0x3cad6e
+
+[header.args]

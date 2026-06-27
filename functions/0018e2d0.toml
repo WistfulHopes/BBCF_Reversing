@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453114Z
+addr = 0x18e2d0
+size = 0x19
+name = "OBJ_CBase::AtkGuardBreak"
+
+[header]
+name = "OBJ_CBase::AtkGuardBreak"
+addr = 0x18e2d0
+
+[header.args]

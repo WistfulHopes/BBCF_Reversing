@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455041Z
+addr = 0x3badae
+size = 0x27f
+name = "start"
+
+[header]
+name = "start"
+addr = 0x3badae
+
+[header.args]

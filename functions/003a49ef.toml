@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454537Z
+addr = 0x3a49ef
+size = 0x15
+name = "?_TryAcquire@_NonReentrantLock@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?_TryAcquire@_NonReentrantLock@details@Concurrency@@QAE_NXZ"
+addr = 0x3a49ef
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455992Z
+addr = 0x3d0ac2
+size = 0x22
+name = "??0ThreadInternalContext@details@Concurrency@@QAE@PAVSchedulerBase@12@@Z"
+
+[header]
+name = "??0ThreadInternalContext@details@Concurrency@@QAE@PAVSchedulerBase@12@@Z"
+addr = 0x3d0ac2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455546Z
+addr = 0x3c6b37
+size = 0x31d
+name = "?wait_for_multiple@event@Concurrency@@SAIPAPAV12@I_NI@Z"
+
+[header]
+name = "?wait_for_multiple@event@Concurrency@@SAIPAPAV12@I_NI@Z"
+addr = 0x3c6b37
+
+[header.args]

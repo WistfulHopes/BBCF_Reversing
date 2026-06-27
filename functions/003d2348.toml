@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456076Z
+addr = 0x3d2348
+size = 0x86
+name = "?ReferenceCurrentThreadExecutionResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@XZ"
+
+[header]
+name = "?ReferenceCurrentThreadExecutionResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@XZ"
+addr = 0x3d2348
+
+[header.args]

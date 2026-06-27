@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453440Z
+addr = 0x193b30
+size = 0x25
+name = "OBJ_CBase::ForceFloorReflectOff"
+
+[header]
+name = "OBJ_CBase::ForceFloorReflectOff"
+addr = 0x193b30
+
+[header.args]

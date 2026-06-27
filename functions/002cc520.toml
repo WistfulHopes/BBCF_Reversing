@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453964Z
+addr = 0x2cc520
+size = 0x14
+name = "CTrainingMenu::IsTrainingMode"
+
+[header]
+name = "CTrainingMenu::IsTrainingMode"
+addr = 0x2cc520
+
+[header.args]

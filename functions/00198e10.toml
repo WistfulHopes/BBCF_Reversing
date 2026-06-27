@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453631Z
+addr = 0x198e10
+size = 0x28
+name = "OBJ_CBase::PerScaleSpeedY"
+
+[header]
+name = "OBJ_CBase::PerScaleSpeedY"
+addr = 0x198e10
+
+[header.args]

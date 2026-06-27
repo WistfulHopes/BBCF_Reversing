@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453705Z
+addr = 0x199e40
+size = 0x8
+name = "OBJ_CBase::ReqActionEnd"
+
+[header]
+name = "OBJ_CBase::ReqActionEnd"
+addr = 0x199e40
+
+[header.args]

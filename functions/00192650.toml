@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453420Z
+addr = 0x192650
+size = 0xaf
+name = "OBJ_CBase::EffectForDashStart"
+
+[header]
+name = "OBJ_CBase::EffectForDashStart"
+addr = 0x192650
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454494Z
+addr = 0x3a3cc4
+size = 0x1e
+name = "_wcstombs_s"
+
+[header]
+name = "_wcstombs_s"
+addr = 0x3a3cc4
+
+[header.args]

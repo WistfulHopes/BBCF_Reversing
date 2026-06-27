@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452948Z
+addr = 0x18bc10
+size = 0xd8
+name = "OBJ_CBase::GetCollisionRectTransformEx"
+
+[header]
+name = "OBJ_CBase::GetCollisionRectTransformEx"
+addr = 0x18bc10
+
+[header.args]

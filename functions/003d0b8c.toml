@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455997Z
+addr = 0x3d0b8c
+size = 0x33
+name = "?Create@ThreadScheduler@details@Concurrency@@SAPAV123@ABVSchedulerPolicy@3@@Z"
+
+[header]
+name = "?Create@ThreadScheduler@details@Concurrency@@SAPAV123@ABVSchedulerPolicy@3@@Z"
+addr = 0x3d0b8c
+
+[header.args]

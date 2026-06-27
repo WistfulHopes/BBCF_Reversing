@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452116Z
+addr = 0x5ce0
+size = 0x16
+name = "AA_LooseList::PopTop"
+
+[header]
+name = "AA_LooseList::PopTop"
+addr = 0x5ce0
+
+[header.args]

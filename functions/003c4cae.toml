@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455449Z
+addr = 0x3c4cae
+size = 0x9e
+name = "__umatherr"
+
+[header]
+name = "__umatherr"
+addr = 0x3c4cae
+
+[header.args]

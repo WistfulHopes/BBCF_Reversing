@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454285Z
+addr = 0x39e8d3
+size = 0x31
+name = "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z"
+
+[header]
+name = "?CatchGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUCatchGuardRN@@PAX2@Z"
+addr = 0x39e8d3
+
+[header.args]

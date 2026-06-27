@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455095Z
+addr = 0x3bbda0
+size = 0x16
+name = "?GetScheduleGroupId@ContextBase@details@Concurrency@@UBEIXZ"
+
+[header]
+name = "?GetScheduleGroupId@ContextBase@details@Concurrency@@UBEIXZ"
+addr = 0x3bbda0
+
+[header.args]

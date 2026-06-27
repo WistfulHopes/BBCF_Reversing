@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455180Z
+addr = 0x3bd5cb
+size = 0x13
+name = "?FastCurrentScheduler@SchedulerBase@details@Concurrency@@SAPAV123@XZ"
+
+[header]
+name = "?FastCurrentScheduler@SchedulerBase@details@Concurrency@@SAPAV123@XZ"
+addr = 0x3bd5cb
+
+[header.args]

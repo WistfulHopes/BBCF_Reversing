@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455984Z
+addr = 0x3d088a
+size = 0x22
+name = "?GetCurrentSubAllocator@ExternalContextBase@details@Concurrency@@QAEPAVSubAllocator@23@XZ"
+
+[header]
+name = "?GetCurrentSubAllocator@ExternalContextBase@details@Concurrency@@QAEPAVSubAllocator@23@XZ"
+addr = 0x3d088a
+
+[header.args]

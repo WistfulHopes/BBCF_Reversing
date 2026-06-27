@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453614Z
+addr = 0x1989c0
+size = 0x29
+name = "OBJ_CBase::PerBlue"
+
+[header]
+name = "OBJ_CBase::PerBlue"
+addr = 0x1989c0
+
+[header.args]

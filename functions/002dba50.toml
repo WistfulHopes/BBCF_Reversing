@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453968Z
+addr = 0x2dba50
+size = 0x14
+name = "GAME_CInfomation::IsTutorialMode"
+
+[header]
+name = "GAME_CInfomation::IsTutorialMode"
+addr = 0x2dba50
+
+[header.args]

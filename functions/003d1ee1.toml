@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456066Z
+addr = 0x3d1ee1
+size = 0x1d
+name = "?GetCurrentThreadExecutionResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@XZ"
+
+[header]
+name = "?GetCurrentThreadExecutionResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@XZ"
+addr = 0x3d1ee1
+
+[header.args]

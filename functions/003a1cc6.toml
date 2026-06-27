@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454431Z
+addr = 0x3a1cc6
+size = 0xaa
+name = "__vsnprintf_l"
+
+[header]
+name = "__vsnprintf_l"
+addr = 0x3a1cc6
+
+[header.args]

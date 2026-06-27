@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452097Z
+addr = 0x5980
+size = 0x17
+name = "AA_LooseList::AA_LooseList"
+
+[header]
+name = "AA_LooseList::AA_LooseList"
+addr = 0x5980
+
+[header.args]

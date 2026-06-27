@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456188Z
+addr = 0x3d679c
+size = 0x3b
+name = "?GetPseudoRRAffineScheduleGroupSegment@SchedulingRing@details@Concurrency@@QAEPAVScheduleGroupSegmentBase@23@PAH@Z"
+
+[header]
+name = "?GetPseudoRRAffineScheduleGroupSegment@SchedulingRing@details@Concurrency@@QAEPAVScheduleGroupSegmentBase@23@PAH@Z"
+addr = 0x3d679c
+
+[header.args]

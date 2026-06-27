@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456007Z
+addr = 0x3d0d95
+size = 0x12
+name = "?CurrentSubscriptionLevel@ExecutionResource@details@Concurrency@@UBEIXZ"
+
+[header]
+name = "?CurrentSubscriptionLevel@ExecutionResource@details@Concurrency@@UBEIXZ"
+addr = 0x3d0d95
+
+[header.args]

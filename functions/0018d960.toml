@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453039Z
+addr = 0x18d960
+size = 0x10
+name = "OBJ_CBase::AfterImageSpan"
+
+[header]
+name = "OBJ_CBase::AfterImageSpan"
+addr = 0x18d960
+
+[header.args]

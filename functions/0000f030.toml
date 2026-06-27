@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452273Z
+addr = 0xf030
+size = 0x1e
+name = "AA_Timer::AA_Timer"
+
+[header]
+name = "AA_Timer::AA_Timer"
+addr = 0xf030
+
+[header.args]

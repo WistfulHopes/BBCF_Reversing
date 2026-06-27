@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454799Z
+addr = 0x3ac1bb
+size = 0x1c
+name = "__ioinit"
+
+[header]
+name = "__ioinit"
+addr = 0x3ac1bb
+
+[header.args]

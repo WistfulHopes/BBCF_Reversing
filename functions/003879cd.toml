@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454014Z
+addr = 0x3879cd
+size = 0x30
+name = "?_New_Locimp@_Locimp@locale@std@@CAPAV123@ABV123@@Z"
+
+[header]
+name = "?_New_Locimp@_Locimp@locale@std@@CAPAV123@ABV123@@Z"
+addr = 0x3879cd
+
+[header.args]

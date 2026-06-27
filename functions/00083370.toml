@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452578Z
+addr = 0x83370
+size = 0x1f7
+name = "AA_PreloadTask::InitSystem"
+
+[header]
+name = "AA_PreloadTask::InitSystem"
+addr = 0x83370
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454832Z
+addr = 0x3ad855
+size = 0x76
+name = "__mtinit"
+
+[header]
+name = "__mtinit"
+addr = 0x3ad855
+
+[header.args]

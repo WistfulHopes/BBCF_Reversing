@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452756Z
+addr = 0x15c790
+size = 0x38
+name = "OBJ_CBase::GetObjDir"
+
+[header]
+name = "OBJ_CBase::GetObjDir"
+addr = 0x15c790
+
+[header.args]

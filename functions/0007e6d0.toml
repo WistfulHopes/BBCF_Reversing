@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452561Z
+addr = 0x7e6d0
+size = 0x1f
+name = "GAME_CInformation::GetPlayerInfo"
+
+[header]
+name = "GAME_CInformation::GetPlayerInfo"
+addr = 0x7e6d0
+
+[header.args]

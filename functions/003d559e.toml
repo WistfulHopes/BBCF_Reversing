@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456133Z
+addr = 0x3d559e
+size = 0x29
+name = "__itow_s"
+
+[header]
+name = "__itow_s"
+addr = 0x3d559e
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452339Z
+addr = 0x3d3f0
+size = 0xa6
+name = "AADX_CRenderer::InitCamera"
+
+[header]
+name = "AADX_CRenderer::InitCamera"
+addr = 0x3d3f0
+
+[header.args]

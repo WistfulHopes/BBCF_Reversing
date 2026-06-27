@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454436Z
+addr = 0x3a1f43
+size = 0x4f
+name = "time"
+
+[header]
+name = "time"
+addr = 0x3a1f43
+
+[header.args]

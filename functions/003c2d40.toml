@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455411Z
+addr = 0x3c2d40
+size = 0xf6
+name = "?ReleaseSchedulerResources@ResourceManager@details@Concurrency@@AAE_NPAVSchedulerProxy@23@0I@Z"
+
+[header]
+name = "?ReleaseSchedulerResources@ResourceManager@details@Concurrency@@AAE_NPAVSchedulerProxy@23@0I@Z"
+addr = 0x3c2d40
+
+[header.args]

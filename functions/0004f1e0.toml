@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452373Z
+addr = 0x4f1e0
+size = 0xee
+name = "AAWin_CApplication::GameLoop"
+
+[header]
+name = "AAWin_CApplication::GameLoop"
+addr = 0x4f1e0
+
+[header.args]

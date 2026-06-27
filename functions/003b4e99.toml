@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454980Z
+addr = 0x3b4e99
+size = 0x15
+name = "__heap_init"
+
+[header]
+name = "__heap_init"
+addr = 0x3b4e99
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454890Z
+addr = 0x3af78b
+size = 0xfd
+name = "__cftog_l"
+
+[header]
+name = "__cftog_l"
+addr = 0x3af78b
+
+[header.args]

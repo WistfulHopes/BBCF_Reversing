@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452721Z
+addr = 0x153d60
+size = 0x63
+name = "BATTLE_CLoadTask::Func"
+
+[header]
+name = "BATTLE_CLoadTask::Func"
+addr = 0x153d60
+
+[header.args]

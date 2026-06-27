@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452543Z
+addr = 0x789c0
+size = 0xbf
+name = "GAME_CEff3DInstHndlManager::GAME_CEff3DInstHndlManager"
+
+[header]
+name = "GAME_CEff3DInstHndlManager::GAME_CEff3DInstHndlManager"
+addr = 0x789c0
+
+[header.args]

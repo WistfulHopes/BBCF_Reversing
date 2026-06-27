@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453396Z
+addr = 0x1919d0
+size = 0x3f
+name = "OBJ_CBase::CreateParticleArgPaletteSubID"
+
+[header]
+name = "OBJ_CBase::CreateParticleArgPaletteSubID"
+addr = 0x1919d0
+
+[header.args]

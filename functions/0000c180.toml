@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452254Z
+addr = 0xc180
+size = 0x80
+name = "AA_CRandomManager::GetInstance"
+
+[header]
+name = "AA_CRandomManager::GetInstance"
+addr = 0xc180
+
+[header.args]

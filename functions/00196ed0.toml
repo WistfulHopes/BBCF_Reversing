@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453569Z
+addr = 0x196ed0
+size = 0x5b
+name = "OBJ_CBase::MoveToCollision"
+
+[header]
+name = "OBJ_CBase::MoveToCollision"
+addr = 0x196ed0
+
+[header.args]

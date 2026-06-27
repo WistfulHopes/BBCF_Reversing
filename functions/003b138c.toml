@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454914Z
+addr = 0x3b138c
+size = 0x26e
+name = "?strtoxq@@YA_KPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+
+[header]
+name = "?strtoxq@@YA_KPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+addr = 0x3b138c
+
+[header.args]

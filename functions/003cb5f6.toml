@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455688Z
+addr = 0x3cb5f6
+size = 0x8c
+name = "?_Alias@_TaskCollection@details@Concurrency@@AAEPAV123@XZ"
+
+[header]
+name = "?_Alias@_TaskCollection@details@Concurrency@@AAEPAV123@XZ"
+addr = 0x3cb5f6
+
+[header.args]

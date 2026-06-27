@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456182Z
+addr = 0x3d6664
+size = 0x36
+name = "?BindTo@WorkItem@details@Concurrency@@QAEXPAVInternalContextBase@23@@Z"
+
+[header]
+name = "?BindTo@WorkItem@details@Concurrency@@QAEXPAVInternalContextBase@23@@Z"
+addr = 0x3d6664
+
+[header.args]

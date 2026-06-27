@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455441Z
+addr = 0x3c4492
+size = 0x2b
+name = "__set_exp"
+
+[header]
+name = "__set_exp"
+addr = 0x3c4492
+
+[header.args]

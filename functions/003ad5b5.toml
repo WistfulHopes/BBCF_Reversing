@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454818Z
+addr = 0x3ad5b5
+size = 0x11f
+name = "__freefls@4"
+
+[header]
+name = "__freefls@4"
+addr = 0x3ad5b5
+
+[header.args]

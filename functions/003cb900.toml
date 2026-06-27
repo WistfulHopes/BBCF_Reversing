@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455701Z
+addr = 0x3cb900
+size = 0xca
+name = "?_FullAliasWait@_TaskCollection@details@Concurrency@@AAEXPAV123@@Z"
+
+[header]
+name = "?_FullAliasWait@_TaskCollection@details@Concurrency@@AAEXPAV123@@Z"
+addr = 0x3cb900
+
+[header.args]

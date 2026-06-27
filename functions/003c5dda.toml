@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455485Z
+addr = 0x3c5dda
+size = 0x69
+name = "__recalloc"
+
+[header]
+name = "__recalloc"
+addr = 0x3c5dda
+
+[header.args]

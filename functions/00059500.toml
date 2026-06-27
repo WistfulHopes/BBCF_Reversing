@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452412Z
+addr = 0x59500
+size = 0x155
+name = "AA_CCollision_JON::AnalyzeCollisionFile"
+
+[header]
+name = "AA_CCollision_JON::AnalyzeCollisionFile"
+addr = 0x59500
+
+[header.args]

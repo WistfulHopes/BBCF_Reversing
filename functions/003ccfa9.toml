@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455787Z
+addr = 0x3ccfa9
+size = 0xc
+name = "?HasUnrealizedChores@ScheduleGroupSegmentBase@details@Concurrency@@IAE_NXZ"
+
+[header]
+name = "?HasUnrealizedChores@ScheduleGroupSegmentBase@details@Concurrency@@IAE_NXZ"
+addr = 0x3ccfa9
+
+[header.args]

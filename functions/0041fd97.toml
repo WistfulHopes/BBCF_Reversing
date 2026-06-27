@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456359Z
+addr = 0x41fd97
+size = 0x2f
+name = "?_Thrd_startX@std@@YAHPAU_Thrd_imp_t@@P6GIPAX@Z1@Z"
+
+[header]
+name = "?_Thrd_startX@std@@YAHPAU_Thrd_imp_t@@P6GIPAX@Z1@Z"
+addr = 0x41fd97
+
+[header.args]

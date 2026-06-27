@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455894Z
+addr = 0x3ceb8d
+size = 0x19
+name = "?Alloc@AllocatorBucket@details@Concurrency@@QAEPATAllocationEntry@23@XZ"
+
+[header]
+name = "?Alloc@AllocatorBucket@details@Concurrency@@QAEPATAllocationEntry@23@XZ"
+addr = 0x3ceb8d
+
+[header.args]

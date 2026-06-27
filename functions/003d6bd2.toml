@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456206Z
+addr = 0x3d6bd2
+size = 0x54
+name = "?Reset@WorkSearchContext@details@Concurrency@@QAEXPAVVirtualProcessor@23@W4Algorithm@123@@Z"
+
+[header]
+name = "?Reset@WorkSearchContext@details@Concurrency@@QAEXPAVVirtualProcessor@23@W4Algorithm@123@@Z"
+addr = 0x3d6bd2
+
+[header.args]

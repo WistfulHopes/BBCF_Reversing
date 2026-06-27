@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455975Z
+addr = 0x3d063a
+size = 0x66
+name = "?LocateSegment@FairScheduleGroup@details@Concurrency@@UAEPAVScheduleGroupSegmentBase@23@PAVlocation@3@_N@Z"
+
+[header]
+name = "?LocateSegment@FairScheduleGroup@details@Concurrency@@UAEPAVScheduleGroupSegmentBase@23@PAVlocation@3@_N@Z"
+addr = 0x3d063a
+
+[header.args]

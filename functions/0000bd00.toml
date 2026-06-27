@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452243Z
+addr = 0xbd00
+size = 0x80
+name = "AAWin_DateTimer::GetInstance"
+
+[header]
+name = "AAWin_DateTimer::GetInstance"
+addr = 0xbd00
+
+[header.args]

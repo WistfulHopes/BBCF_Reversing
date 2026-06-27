@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456456Z
+addr = 0x4367d4
+size = 0x22
+name = "__unwindfunclet$?_Getmfld@?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AAV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@0_NAAVios_base@2@PAD@Z$6"
+
+[header]
+name = "__unwindfunclet$?_Getmfld@?$money_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@AAV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@0_NAAVios_base@2@PAD@Z$6"
+addr = 0x4367d4
+
+[header.args]

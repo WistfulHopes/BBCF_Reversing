@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454511Z
+addr = 0x3a42ff
+size = 0xe0
+name = "__ungetc_nolock"
+
+[header]
+name = "__ungetc_nolock"
+addr = 0x3a42ff
+
+[header.args]

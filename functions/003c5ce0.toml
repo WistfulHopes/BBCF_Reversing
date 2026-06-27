@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455482Z
+addr = 0x3c5ce0
+size = 0xdc
+name = "__mbstowcs_s_l"
+
+[header]
+name = "__mbstowcs_s_l"
+addr = 0x3c5ce0
+
+[header.args]

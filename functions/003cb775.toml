@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455693Z
+addr = 0x3cb775
+size = 0x1f
+name = "?_CancelDirectAliases@_TaskCollection@details@Concurrency@@AAEX_NPAV123@@Z"
+
+[header]
+name = "?_CancelDirectAliases@_TaskCollection@details@Concurrency@@AAEX_NPAV123@@Z"
+addr = 0x3cb775
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455602Z
+addr = 0x3c7b1b
+size = 0xf3
+name = "__mbtowc_l"
+
+[header]
+name = "__mbtowc_l"
+addr = 0x3c7b1b
+
+[header.args]

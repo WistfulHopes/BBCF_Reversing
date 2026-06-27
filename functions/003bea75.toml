@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455247Z
+addr = 0x3bea75
+size = 0x1e
+name = "?Push@?$LockFreePushStack@VContextNode@SchedulerBase@details@Concurrency@@@details@Concurrency@@QAEXPAVContextNode@SchedulerBase@23@@Z"
+
+[header]
+name = "?Push@?$LockFreePushStack@VContextNode@SchedulerBase@details@Concurrency@@@details@Concurrency@@QAEXPAVContextNode@SchedulerBase@23@@Z"
+addr = 0x3bea75
+
+[header.args]

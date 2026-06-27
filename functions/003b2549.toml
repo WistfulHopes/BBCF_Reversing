@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454955Z
+addr = 0x3b2549
+size = 0xc05
+name = "__woutput_l"
+
+[header]
+name = "__woutput_l"
+addr = 0x3b2549
+
+[header.args]

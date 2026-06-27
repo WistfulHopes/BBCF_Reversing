@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452268Z
+addr = 0xec30
+size = 0x2e
+name = "AA_VertexBufferData::Reset"
+
+[header]
+name = "AA_VertexBufferData::Reset"
+addr = 0xec30
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454418Z
+addr = 0x3a137f
+size = 0x84
+name = "__getenv_helper_nolock"
+
+[header]
+name = "__getenv_helper_nolock"
+addr = 0x3a137f
+
+[header.args]

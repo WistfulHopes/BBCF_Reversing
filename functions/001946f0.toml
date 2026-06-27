@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453457Z
+addr = 0x1946f0
+size = 0x1c
+name = "OBJ_CBase::IfBegin"
+
+[header]
+name = "OBJ_CBase::IfBegin"
+addr = 0x1946f0
+
+[header.args]

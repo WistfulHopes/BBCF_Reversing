@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454643Z
+addr = 0x3a62fb
+size = 0x39
+name = "?DispatchNodeTimeoutTimer@LockQueueNode@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+
+[header]
+name = "?DispatchNodeTimeoutTimer@LockQueueNode@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+addr = 0x3a62fb
+
+[header.args]

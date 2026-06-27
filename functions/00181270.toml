@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452909Z
+addr = 0x181270
+size = 0x68
+name = "OBJ_CBase::SetPosX_Smart"
+
+[header]
+name = "OBJ_CBase::SetPosX_Smart"
+addr = 0x181270
+
+[header.args]

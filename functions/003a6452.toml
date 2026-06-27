@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454658Z
+addr = 0x3a6452
+size = 0x30
+name = "?_AcquireRead@_ReaderWriterLock@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?_AcquireRead@_ReaderWriterLock@details@Concurrency@@QAEXXZ"
+addr = 0x3a6452
+
+[header.args]

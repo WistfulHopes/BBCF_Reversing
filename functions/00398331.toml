@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454132Z
+addr = 0x398331
+size = 0x384
+name = "?_Makexloc@_Locimp@locale@std@@CAXABV_Locinfo@3@HPAV123@PBV23@@Z"
+
+[header]
+name = "?_Makexloc@_Locimp@locale@std@@CAXABV_Locinfo@3@HPAV123@PBV23@@Z"
+addr = 0x398331
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452885Z
+addr = 0x17e760
+size = 0xf
+name = "OBJ_CBase::IsDead"
+
+[header]
+name = "OBJ_CBase::IsDead"
+addr = 0x17e760
+
+[header.args]

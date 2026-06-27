@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453885Z
+addr = 0x1d6370
+size = 0x887
+name = "BG_CBase::ModeDisplay"
+
+[header]
+name = "BG_CBase::ModeDisplay"
+addr = 0x1d6370
+
+[header.args]

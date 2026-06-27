@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452455Z
+addr = 0x60fd0
+size = 0x62
+name = "GAME_EventManager::Init"
+
+[header]
+name = "GAME_EventManager::Init"
+addr = 0x60fd0
+
+[header.args]

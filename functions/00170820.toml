@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452817Z
+addr = 0x170820
+size = 0x4f
+name = "OBJ_CBase::DirSign"
+
+[header]
+name = "OBJ_CBase::DirSign"
+addr = 0x170820
+
+[header.args]

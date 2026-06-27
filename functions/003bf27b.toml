@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455281Z
+addr = 0x3bf27b
+size = 0x22
+name = "?SafeReference@SchedulerBase@details@Concurrency@@AAE_NXZ"
+
+[header]
+name = "?SafeReference@SchedulerBase@details@Concurrency@@AAE_NXZ"
+addr = 0x3bf27b
+
+[header.args]

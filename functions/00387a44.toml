@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454018Z
+addr = 0x387a44
+size = 0x1f
+name = "__Deletegloballocale"
+
+[header]
+name = "__Deletegloballocale"
+addr = 0x387a44
+
+[header.args]

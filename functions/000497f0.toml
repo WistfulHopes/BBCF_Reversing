@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452350Z
+addr = 0x497f0
+size = 0x6c
+name = "CEffectPool::GetInstance"
+
+[header]
+name = "CEffectPool::GetInstance"
+addr = 0x497f0
+
+[header.args]

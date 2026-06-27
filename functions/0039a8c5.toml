@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454173Z
+addr = 0x39a8c5
+size = 0x46
+name = "__Getdateorder"
+
+[header]
+name = "__Getdateorder"
+addr = 0x39a8c5
+
+[header.args]

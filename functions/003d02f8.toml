@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455957Z
+addr = 0x3d02f8
+size = 0xfb
+name = "?Remove@?$ListArray@VScheduleGroupSegmentBase@details@Concurrency@@@details@Concurrency@@QAE_NPAVScheduleGroupSegmentBase@23@H_N@Z"
+
+[header]
+name = "?Remove@?$ListArray@VScheduleGroupSegmentBase@details@Concurrency@@@details@Concurrency@@QAE_NPAVScheduleGroupSegmentBase@23@H_N@Z"
+addr = 0x3d02f8
+
+[header.args]

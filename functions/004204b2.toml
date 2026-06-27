@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456389Z
+addr = 0x4204b2
+size = 0x58
+name = "__initMTAoncurrentthread"
+
+[header]
+name = "__initMTAoncurrentthread"
+addr = 0x4204b2
+
+[header.args]

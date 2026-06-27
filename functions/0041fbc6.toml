@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456325Z
+addr = 0x41fbc6
+size = 0x4b
+name = "__Thrd_join"
+
+[header]
+name = "__Thrd_join"
+addr = 0x41fbc6
+
+[header.args]

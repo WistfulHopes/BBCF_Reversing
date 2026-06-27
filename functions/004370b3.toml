@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456505Z
+addr = 0x4370b3
+size = 0x8
+name = "__unwindfunclet$?wait_for_multiple@event@Concurrency@@SAIPAPAV12@I_NI@Z$0"
+
+[header]
+name = "__unwindfunclet$?wait_for_multiple@event@Concurrency@@SAIPAPAV12@I_NI@Z$0"
+addr = 0x4370b3
+
+[header.args]

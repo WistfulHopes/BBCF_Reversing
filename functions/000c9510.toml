@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452634Z
+addr = 0xc9510
+size = 0x42
+name = "GAME_FadeReset"
+
+[header]
+name = "GAME_FadeReset"
+addr = 0xc9510
+
+[header.args]

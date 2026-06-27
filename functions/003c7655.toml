@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455584Z
+addr = 0x3c7655
+size = 0x1e
+name = "__sopen_s"
+
+[header]
+name = "__sopen_s"
+addr = 0x3c7655
+
+[header.args]

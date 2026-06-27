@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455619Z
+addr = 0x3c85df
+size = 0x5d
+name = "__controlfp_s"
+
+[header]
+name = "__controlfp_s"
+addr = 0x3c85df
+
+[header.args]

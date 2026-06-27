@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455120Z
+addr = 0x3bc491
+size = 0x35
+name = "?_Assign@location@Concurrency@@QAEXABV12@@Z"
+
+[header]
+name = "?_Assign@location@Concurrency@@QAEXABV12@@Z"
+addr = 0x3bc491
+
+[header.args]

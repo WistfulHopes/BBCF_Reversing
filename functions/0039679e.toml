@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454119Z
+addr = 0x39679e
+size = 0x8e
+name = "?do_transform@?$collate@_W@std@@MBE?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@2@PB_W0@Z"
+
+[header]
+name = "?do_transform@?$collate@_W@std@@MBE?AV?$basic_string@_WU?$char_traits@_W@std@@V?$allocator@_W@2@@2@PB_W0@Z"
+addr = 0x39679e
+
+[header.args]

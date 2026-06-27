@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453896Z
+addr = 0x212cb0
+size = 0x1ac
+name = "SCENE_CCharSelect::Update"
+
+[header]
+name = "SCENE_CCharSelect::Update"
+addr = 0x212cb0
+
+[header.args]

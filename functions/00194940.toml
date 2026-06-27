@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453473Z
+addr = 0x194940
+size = 0x1b
+name = "OBJ_CBase::InitAirJumpInputDelayTime"
+
+[header]
+name = "OBJ_CBase::InitAirJumpInputDelayTime"
+addr = 0x194940
+
+[header.args]

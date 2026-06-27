@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454373Z
+addr = 0x39fa45
+size = 0x14
+name = "_atol"
+
+[header]
+name = "_atol"
+addr = 0x39fa45
+
+[header.args]

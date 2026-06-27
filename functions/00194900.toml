@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453470Z
+addr = 0x194900
+size = 0x1b
+name = "OBJ_CBase::InitAirFDashTime"
+
+[header]
+name = "OBJ_CBase::InitAirFDashTime"
+addr = 0x194900
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455639Z
+addr = 0x3c97cd
+size = 0x7f1
+name = "__get_lc_time"
+
+[header]
+name = "__get_lc_time"
+addr = 0x3c97cd
+
+[header.args]

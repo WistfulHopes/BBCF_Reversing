@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453824Z
+addr = 0x19eb40
+size = 0xe
+name = "OBJ_CBase::LoopSEEnd"
+
+[header]
+name = "OBJ_CBase::LoopSEEnd"
+addr = 0x19eb40
+
+[header.args]

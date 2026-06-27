@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454182Z
+addr = 0x39ab81
+size = 0xa6
+name = "__Strxfrm"
+
+[header]
+name = "__Strxfrm"
+addr = 0x39ab81
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452607Z
+addr = 0xa77e0
+size = 0x6c
+name = "CTrainingMenu::GetInstance"
+
+[header]
+name = "CTrainingMenu::GetInstance"
+addr = 0xa77e0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452630Z
+addr = 0xc1390
+size = 0x12e
+name = "AASTEAM_SystemManager::InitGameSystem"
+
+[header]
+name = "AASTEAM_SystemManager::InitGameSystem"
+addr = 0xc1390
+
+[header.args]

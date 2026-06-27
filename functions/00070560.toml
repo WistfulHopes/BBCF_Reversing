@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452493Z
+addr = 0x70560
+size = 0xae
+name = "AA_CGlobal::AA_CGlobal"
+
+[header]
+name = "AA_CGlobal::AA_CGlobal"
+addr = 0x70560
+
+[header.args]

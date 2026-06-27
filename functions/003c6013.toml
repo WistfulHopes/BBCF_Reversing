@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455495Z
+addr = 0x3c6013
+size = 0x30
+name = "??0WaitAllBlock@details@Concurrency@@QAE@I_N0@Z"
+
+[header]
+name = "??0WaitAllBlock@details@Concurrency@@QAE@I_N0@Z"
+addr = 0x3c6013
+
+[header.args]

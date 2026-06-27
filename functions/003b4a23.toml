@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454967Z
+addr = 0x3b4a23
+size = 0x90
+name = "___addlocaleref"
+
+[header]
+name = "___addlocaleref"
+addr = 0x3b4a23
+
+[header.args]

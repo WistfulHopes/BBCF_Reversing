@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452592Z
+addr = 0x949a0
+size = 0xd4
+name = "GAME_CDLCManager::GetInstance"
+
+[header]
+name = "GAME_CDLCManager::GetInstance"
+addr = 0x949a0
+
+[header.args]

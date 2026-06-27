@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453833Z
+addr = 0x19edc0
+size = 0xdb
+name = "CColorWithSpeed::UpdateCColorWithSpeed"
+
+[header]
+name = "CColorWithSpeed::UpdateCColorWithSpeed"
+addr = 0x19edc0
+
+[header.args]

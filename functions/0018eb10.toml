@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453224Z
+addr = 0x18eb10
+size = 0x31
+name = "OBJ_CBase::AtkMidDamageLevel"
+
+[header]
+name = "OBJ_CBase::AtkMidDamageLevel"
+addr = 0x18eb10
+
+[header.args]

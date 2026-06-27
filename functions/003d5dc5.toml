@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456149Z
+addr = 0x3d5dc5
+size = 0xd9
+name = "?_CurrentException@__ExceptionPtr@@SA?AV?$shared_ptr@V__ExceptionPtr@@@std@@XZ"
+
+[header]
+name = "?_CurrentException@__ExceptionPtr@@SA?AV?$shared_ptr@V__ExceptionPtr@@@std@@XZ"
+addr = 0x3d5dc5
+
+[header.args]

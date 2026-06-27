@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454007Z
+addr = 0x387865
+size = 0x28
+name = "?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z"
+
+[header]
+name = "?_Facet_Register@std@@YAXPAV_Facet_base@1@@Z"
+addr = 0x387865
+
+[header.args]

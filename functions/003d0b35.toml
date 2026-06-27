@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455995Z
+addr = 0x3d0b35
+size = 0x2c
+name = "??_GThreadInternalContext@details@Concurrency@@UAEPAXI@Z"
+
+[header]
+name = "??_GThreadInternalContext@details@Concurrency@@UAEPAXI@Z"
+addr = 0x3d0b35
+
+[header.args]

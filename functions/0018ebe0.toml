@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453231Z
+addr = 0x18ebe0
+size = 0x10
+name = "OBJ_CBase::AtkNoHitCrouch"
+
+[header]
+name = "OBJ_CBase::AtkNoHitCrouch"
+addr = 0x18ebe0
+
+[header.args]

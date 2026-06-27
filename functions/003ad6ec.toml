@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454823Z
+addr = 0x3ad6ec
+size = 0x36
+name = "__freeptd"
+
+[header]
+name = "__freeptd"
+addr = 0x3ad6ec
+
+[header.args]

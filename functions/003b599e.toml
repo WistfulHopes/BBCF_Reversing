@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454998Z
+addr = 0x3b599e
+size = 0x3a
+name = "?CPtoLocaleName@@YAPB_WH@Z"
+
+[header]
+name = "?CPtoLocaleName@@YAPB_WH@Z"
+addr = 0x3b599e
+
+[header.args]

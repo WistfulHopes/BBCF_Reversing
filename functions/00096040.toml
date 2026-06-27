@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452598Z
+addr = 0x96040
+size = 0x7e
+name = "CInstallManager_NULL::GetInstance"
+
+[header]
+name = "CInstallManager_NULL::GetInstance"
+addr = 0x96040
+
+[header.args]

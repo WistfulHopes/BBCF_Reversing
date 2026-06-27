@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456306Z
+addr = 0x416460
+size = 0x18
+name = "inflateInit_"
+
+[header]
+name = "inflateInit_"
+addr = 0x416460
+
+[header.args]

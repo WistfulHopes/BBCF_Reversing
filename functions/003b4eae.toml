@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454981Z
+addr = 0x3b4eae
+size = 0x8d
+name = "___wtomb_environ"
+
+[header]
+name = "___wtomb_environ"
+addr = 0x3b4eae
+
+[header.args]

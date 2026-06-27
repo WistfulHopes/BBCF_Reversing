@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454242Z
+addr = 0x39d4ec
+size = 0x69
+name = "_fclose"
+
+[header]
+name = "_fclose"
+addr = 0x39d4ec
+
+[header.args]

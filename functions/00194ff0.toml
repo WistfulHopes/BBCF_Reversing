@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453508Z
+addr = 0x194ff0
+size = 0x147
+name = "OBJ_CBase::InitHitPointMax"
+
+[header]
+name = "OBJ_CBase::InitHitPointMax"
+addr = 0x194ff0
+
+[header.args]

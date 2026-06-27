@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455263Z
+addr = 0x3bedd6
+size = 0x32
+name = "?Remove@?$List@UBoostedObject@details@Concurrency@@VNoCount@CollectionTypes@23@@details@Concurrency@@QAEXPAUBoostedObject@23@@Z"
+
+[header]
+name = "?Remove@?$List@UBoostedObject@details@Concurrency@@VNoCount@CollectionTypes@23@@details@Concurrency@@QAEXPAUBoostedObject@23@@Z"
+addr = 0x3bedd6
+
+[header.args]

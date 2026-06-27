@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452739Z
+addr = 0x158cf0
+size = 0x22a
+name = "BATTLE_CObjectManager::ControlBattleObject"
+
+[header]
+name = "BATTLE_CObjectManager::ControlBattleObject"
+addr = 0x158cf0
+
+[header.args]

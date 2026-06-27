@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452966Z
+addr = 0x18cfc0
+size = 0x10
+name = "OBJ_CBase::ActionRequestNotSame"
+
+[header]
+name = "OBJ_CBase::ActionRequestNotSame"
+addr = 0x18cfc0
+
+[header.args]

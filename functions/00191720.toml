@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453385Z
+addr = 0x191720
+size = 0x91
+name = "OBJ_CBase::CreateObject"
+
+[header]
+name = "OBJ_CBase::CreateObject"
+addr = 0x191720
+
+[header.args]

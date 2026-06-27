@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456159Z
+addr = 0x3d5f6f
+size = 0x5b
+name = "?_InitBadAllocException@__ExceptionPtr@@CA?AV?$shared_ptr@V__ExceptionPtr@@@std@@XZ"
+
+[header]
+name = "?_InitBadAllocException@__ExceptionPtr@@CA?AV?$shared_ptr@V__ExceptionPtr@@@std@@XZ"
+addr = 0x3d5f6f
+
+[header.args]

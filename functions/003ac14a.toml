@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454797Z
+addr = 0x3ac14a
+size = 0x71
+name = "__lseeki64_nolock"
+
+[header]
+name = "__lseeki64_nolock"
+addr = 0x3ac14a
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455399Z
+addr = 0x3c23e3
+size = 0x110
+name = "?PopulateDynamicAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?PopulateDynamicAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c23e3
+
+[header.args]

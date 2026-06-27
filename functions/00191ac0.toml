@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453401Z
+addr = 0x191ac0
+size = 0x2e
+name = "OBJ_CBase::CreateParticleArgScale"
+
+[header]
+name = "OBJ_CBase::CreateParticleArgScale"
+addr = 0x191ac0
+
+[header.args]

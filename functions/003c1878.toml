@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455375Z
+addr = 0x3c1878
+size = 0x25
+name = "?GetNextGlobalCore@GlobalNode@details@Concurrency@@QAEPAUGlobalCore@23@PBU423@@Z"
+
+[header]
+name = "?GetNextGlobalCore@GlobalNode@details@Concurrency@@QAEPAUGlobalCore@23@PBU423@@Z"
+addr = 0x3c1878
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452360Z
+addr = 0x4e110
+size = 0x94
+name = "ImeProc::ImeProc"
+
+[header]
+name = "ImeProc::ImeProc"
+addr = 0x4e110
+
+[header.args]

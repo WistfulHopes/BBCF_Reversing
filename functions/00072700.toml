@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452521Z
+addr = 0x72700
+size = 0x13eb
+name = "AASTEAM_SystemManager::InitRenderer"
+
+[header]
+name = "AASTEAM_SystemManager::InitRenderer"
+addr = 0x72700
+
+[header.args]

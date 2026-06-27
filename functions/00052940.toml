@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452398Z
+addr = 0x52940
+size = 0x4f
+name = "AA_CRandMT::Init"
+
+[header]
+name = "AA_CRandMT::Init"
+addr = 0x52940
+
+[header.args]

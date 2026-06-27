@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453722Z
+addr = 0x19a300
+size = 0x45
+name = "OBJ_CBase::SetAcceleration"
+
+[header]
+name = "OBJ_CBase::SetAcceleration"
+addr = 0x19a300
+
+[header.args]

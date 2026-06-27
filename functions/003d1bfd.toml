@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456054Z
+addr = 0x3d1bfd
+size = 0xbc
+name = "?CreateOversubscriber@SchedulerProxy@details@Concurrency@@UAEPAUIVirtualProcessorRoot@3@PAUIExecutionResource@3@@Z"
+
+[header]
+name = "?CreateOversubscriber@SchedulerProxy@details@Concurrency@@UAEPAUIVirtualProcessorRoot@3@PAUIExecutionResource@3@@Z"
+addr = 0x3d1bfd
+
+[header.args]

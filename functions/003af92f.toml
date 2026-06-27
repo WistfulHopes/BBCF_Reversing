@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454896Z
+addr = 0x3af92f
+size = 0x40
+name = "__fassign_l"
+
+[header]
+name = "__fassign_l"
+addr = 0x3af92f
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453430Z
+addr = 0x192d10
+size = 0xf5
+name = "OBJ_CBase::EffectForWalkStep"
+
+[header]
+name = "OBJ_CBase::EffectForWalkStep"
+addr = 0x192d10
+
+[header.args]

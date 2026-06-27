@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454572Z
+addr = 0x3a59fe
+size = 0x13
+name = "___doserrno"
+
+[header]
+name = "___doserrno"
+addr = 0x3a59fe
+
+[header.args]

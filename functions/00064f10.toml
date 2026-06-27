@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452467Z
+addr = 0x64f10
+size = 0x78
+name = "AchievementUnlocker::GetInstance"
+
+[header]
+name = "AchievementUnlocker::GetInstance"
+addr = 0x64f10
+
+[header.args]

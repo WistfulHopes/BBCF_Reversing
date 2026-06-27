@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452629Z
+addr = 0xc1310
+size = 0x64
+name = "GAME_CETCManager::CreateLoading"
+
+[header]
+name = "GAME_CETCManager::CreateLoading"
+addr = 0xc1310
+
+[header.args]

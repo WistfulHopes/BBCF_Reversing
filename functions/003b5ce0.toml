@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455006Z
+addr = 0x3b5ce0
+size = 0x1a0
+name = "__setmbcp"
+
+[header]
+name = "__setmbcp"
+addr = 0x3b5ce0
+
+[header.args]

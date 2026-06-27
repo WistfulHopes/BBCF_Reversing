@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453365Z
+addr = 0x190b70
+size = 0x8d
+name = "OBJ_CBase::CheckEnemyNameNotBoss"
+
+[header]
+name = "OBJ_CBase::CheckEnemyNameNotBoss"
+addr = 0x190b70
+
+[header.args]

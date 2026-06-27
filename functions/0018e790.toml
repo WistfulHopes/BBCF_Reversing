@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453174Z
+addr = 0x18e790
+size = 0x1f
+name = "OBJ_CBase::AtkHitCountHoseiIgnore"
+
+[header]
+name = "OBJ_CBase::AtkHitCountHoseiIgnore"
+addr = 0x18e790
+
+[header.args]

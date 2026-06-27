@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453933Z
+addr = 0x2424a0
+size = 0x122
+name = "GAME_CETCManager::ReserveObjects"
+
+[header]
+name = "GAME_CETCManager::ReserveObjects"
+addr = 0x2424a0
+
+[header.args]

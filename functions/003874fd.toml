@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453992Z
+addr = 0x3874fd
+size = 0x24
+name = "??1_Lockit@std@@QAE@XZ"
+
+[header]
+name = "??1_Lockit@std@@QAE@XZ"
+addr = 0x3874fd
+
+[header.args]

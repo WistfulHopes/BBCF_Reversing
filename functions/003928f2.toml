@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454113Z
+addr = 0x3928f2
+size = 0x31
+name = "?do_compare@?$collate@G@std@@MBEHPBG000@Z"
+
+[header]
+name = "?do_compare@?$collate@G@std@@MBEHPBG000@Z"
+addr = 0x3928f2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455924Z
+addr = 0x3cf502
+size = 0x2e
+name = "?GetAndResetOversubscribedVProc@InternalContextBase@details@Concurrency@@QAEPAVVirtualProcessor@23@PAV423@@Z"
+
+[header]
+name = "?GetAndResetOversubscribedVProc@InternalContextBase@details@Concurrency@@QAEPAVVirtualProcessor@23@PAV423@@Z"
+addr = 0x3cf502
+
+[header.args]

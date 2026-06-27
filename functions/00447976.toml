@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456548Z
+addr = 0x447976
+size = 0x16
+name = "??__Einitlocks@std@@YAXXZ"
+
+[header]
+name = "??__Einitlocks@std@@YAXXZ"
+addr = 0x447976
+
+[header.args]

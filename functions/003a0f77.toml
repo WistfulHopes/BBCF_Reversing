@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454405Z
+addr = 0x3a0f77
+size = 0xbe
+name = "_wcsncpy_s"
+
+[header]
+name = "_wcsncpy_s"
+addr = 0x3a0f77
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455526Z
+addr = 0x3c6501
+size = 0xb7
+name = "?SingleSatisfy@MultiWaitBlock@details@Concurrency@@MAEXPAPAVContext@3@PAVEventWaitNode@23@@Z"
+
+[header]
+name = "?SingleSatisfy@MultiWaitBlock@details@Concurrency@@MAEXPAPAVContext@3@PAVEventWaitNode@23@@Z"
+addr = 0x3c6501
+
+[header.args]

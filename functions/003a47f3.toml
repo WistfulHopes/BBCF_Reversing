@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454527Z
+addr = 0x3a47f3
+size = 0x56
+name = "?RegisterAsyncTimerAndLoadLibrary@details@Concurrency@@YAPAU_TP_TIMER@@KP6GXPAU_TP_CALLBACK_INSTANCE@@PAXPAU3@@Z1@Z"
+
+[header]
+name = "?RegisterAsyncTimerAndLoadLibrary@details@Concurrency@@YAPAU_TP_TIMER@@KP6GXPAU_TP_CALLBACK_INSTANCE@@PAXPAU3@@Z1@Z"
+addr = 0x3a47f3
+
+[header.args]

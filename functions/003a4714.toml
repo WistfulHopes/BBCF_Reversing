@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454526Z
+addr = 0x3a4714
+size = 0x4b
+name = "?LoadLibraryAndCreateThread@details@Concurrency@@YAPAXPAU_SECURITY_ATTRIBUTES@@KP6GKPAX@Z1KPAK@Z"
+
+[header]
+name = "?LoadLibraryAndCreateThread@details@Concurrency@@YAPAXPAU_SECURITY_ATTRIBUTES@@KP6GKPAX@Z1KPAK@Z"
+addr = 0x3a4714
+
+[header.args]

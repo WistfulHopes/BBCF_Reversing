@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456416Z
+addr = 0x4214df
+size = 0xf8
+name = "__wfullpath"
+
+[header]
+name = "__wfullpath"
+addr = 0x4214df
+
+[header.args]

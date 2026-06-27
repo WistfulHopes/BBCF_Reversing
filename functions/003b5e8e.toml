@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455010Z
+addr = 0x3b5e8e
+size = 0x1f5
+name = "__setmbcp_nolock"
+
+[header]
+name = "__setmbcp_nolock"
+addr = 0x3b5e8e
+
+[header.args]

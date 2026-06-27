@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452442Z
+addr = 0x59c20
+size = 0xaf
+name = "BG_CList::BG_CList"
+
+[header]
+name = "BG_CList::BG_CList"
+addr = 0x59c20
+
+[header.args]

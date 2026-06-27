@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452621Z
+addr = 0xb9770
+size = 0x6c
+name = "CSaveDataManager::GetInstance"
+
+[header]
+name = "CSaveDataManager::GetInstance"
+addr = 0xb9770
+
+[header.args]

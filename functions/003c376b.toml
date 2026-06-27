@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455429Z
+addr = 0x3c376b
+size = 0xb9
+name = "?Shutdown@ResourceManager@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+
+[header]
+name = "?Shutdown@ResourceManager@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+addr = 0x3c376b
+
+[header.args]

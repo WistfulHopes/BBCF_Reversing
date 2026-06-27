@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454864Z
+addr = 0x3aec20
+size = 0x4a
+name = "__startTwoArgErrorHandling"
+
+[header]
+name = "__startTwoArgErrorHandling"
+addr = 0x3aec20
+
+[header.args]

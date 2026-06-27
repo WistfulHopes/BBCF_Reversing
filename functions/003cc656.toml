@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455758Z
+addr = 0x3cc656
+size = 0x6c
+name = "??0Segment@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@QAE@PAVSchedulerBase@23@ABVQuickBitSet@23@II@Z"
+
+[header]
+name = "??0Segment@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@QAE@PAVSchedulerBase@23@ABVQuickBitSet@23@II@Z"
+addr = 0x3cc656
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453364Z
+addr = 0x190a80
+size = 0xe4
+name = "OBJ_CBase::CheckEnemyNameUnk"
+
+[header]
+name = "OBJ_CBase::CheckEnemyNameUnk"
+addr = 0x190a80
+
+[header.args]

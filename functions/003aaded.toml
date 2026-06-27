@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454764Z
+addr = 0x3aaded
+size = 0x30
+name = "__freebuf"
+
+[header]
+name = "__freebuf"
+addr = 0x3aaded
+
+[header.args]

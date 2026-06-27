@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454841Z
+addr = 0x3ada1c
+size = 0x9
+name = "__rtpiby2"
+
+[header]
+name = "__rtpiby2"
+addr = 0x3ada1c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453961Z
+addr = 0x29da40
+size = 0x39
+name = "GAME_CInfomation::IsReplay"
+
+[header]
+name = "GAME_CInfomation::IsReplay"
+addr = 0x29da40
+
+[header.args]

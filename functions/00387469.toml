@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453987Z
+addr = 0x387469
+size = 0x9
+name = "operator new[]"
+
+[header]
+name = "operator new[]"
+addr = 0x387469
+
+[header.args]

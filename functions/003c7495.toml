@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455577Z
+addr = 0x3c7495
+size = 0x7c
+name = "__open"
+
+[header]
+name = "__open"
+addr = 0x3c7495
+
+[header.args]

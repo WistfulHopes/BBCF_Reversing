@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455772Z
+addr = 0x3ccc71
+size = 0x76
+name = "?DemandInitialize@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?DemandInitialize@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@AAEXXZ"
+addr = 0x3ccc71
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453426Z
+addr = 0x192af0
+size = 0x109
+name = "OBJ_CBase::EffectForLandDown"
+
+[header]
+name = "OBJ_CBase::EffectForLandDown"
+addr = 0x192af0
+
+[header.args]

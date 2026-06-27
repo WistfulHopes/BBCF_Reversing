@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456292Z
+addr = 0x3f3a40
+size = 0xe
+name = "?__CloseThreadHandle@platform@details@Concurrency@@YAXPAX@Z"
+
+[header]
+name = "?__CloseThreadHandle@platform@details@Concurrency@@YAXPAX@Z"
+addr = 0x3f3a40
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454073Z
+addr = 0x389e7c
+size = 0xfd
+name = "__Toupper"
+
+[header]
+name = "__Toupper"
+addr = 0x389e7c
+
+[header.args]

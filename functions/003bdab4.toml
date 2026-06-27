@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455198Z
+addr = 0x3bdab4
+size = 0x90
+name = "?GetDefaultScheduler@SchedulerBase@details@Concurrency@@CAPAV123@XZ"
+
+[header]
+name = "?GetDefaultScheduler@SchedulerBase@details@Concurrency@@CAPAV123@XZ"
+addr = 0x3bdab4
+
+[header.args]

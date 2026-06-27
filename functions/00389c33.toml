@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454069Z
+addr = 0x389c33
+size = 0x9d
+name = "_xtime_diff"
+
+[header]
+name = "_xtime_diff"
+addr = 0x389c33
+
+[header.args]

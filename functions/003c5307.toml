@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455463Z
+addr = 0x3c5307
+size = 0x19f
+name = "_raise"
+
+[header]
+name = "_raise"
+addr = 0x3c5307
+
+[header.args]

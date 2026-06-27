@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455969Z
+addr = 0x3d0577
+size = 0x33
+name = "?NotifyAffinitizedWork@CacheLocalScheduleGroupSegment@details@Concurrency@@UAEXXZ"
+
+[header]
+name = "?NotifyAffinitizedWork@CacheLocalScheduleGroupSegment@details@Concurrency@@UAEXXZ"
+addr = 0x3d0577
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455608Z
+addr = 0x3c7e49
+size = 0xd8
+name = "?__crtGetLocaleInfoA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPADH@Z"
+
+[header]
+name = "?__crtGetLocaleInfoA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPADH@Z"
+addr = 0x3c7e49
+
+[header.args]

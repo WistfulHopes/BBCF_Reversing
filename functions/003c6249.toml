@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455514Z
+addr = 0x3c6249
+size = 0x5f
+name = "?DispatchEventTimerXP@MultiWaitBlock@details@Concurrency@@SGXPAXE@Z"
+
+[header]
+name = "?DispatchEventTimerXP@MultiWaitBlock@details@Concurrency@@SGXPAXE@Z"
+addr = 0x3c6249
+
+[header.args]

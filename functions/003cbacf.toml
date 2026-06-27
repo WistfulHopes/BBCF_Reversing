@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455706Z
+addr = 0x3cbacf
+size = 0x18
+name = "?_IsValid@_CancellationTokenState@details@Concurrency@@SA_NPAV123@@Z"
+
+[header]
+name = "?_IsValid@_CancellationTokenState@details@Concurrency@@SA_NPAV123@@Z"
+addr = 0x3cbacf
+
+[header.args]

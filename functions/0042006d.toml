@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456374Z
+addr = 0x42006d
+size = 0xc
+name = "_cleanup"
+
+[header]
+name = "_cleanup"
+addr = 0x42006d
+
+[header.args]

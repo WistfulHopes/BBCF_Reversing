@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453995Z
+addr = 0x38758a
+size = 0x5c
+name = "__Wcrtomb"
+
+[header]
+name = "__Wcrtomb"
+addr = 0x38758a
+
+[header.args]

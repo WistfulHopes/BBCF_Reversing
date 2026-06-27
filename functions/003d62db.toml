@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456167Z
+addr = 0x3d62db
+size = 0x32
+name = "?_PrepareStealStructured@_UnrealizedChore@details@Concurrency@@AAEXPAVContextBase@23@@Z"
+
+[header]
+name = "?_PrepareStealStructured@_UnrealizedChore@details@Concurrency@@AAEXPAVContextBase@23@@Z"
+addr = 0x3d62db
+
+[header.args]

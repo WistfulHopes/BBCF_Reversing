@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453758Z
+addr = 0x19a990
+size = 0x17
+name = "OBJ_CBase::SetCompositeSpeedX"
+
+[header]
+name = "OBJ_CBase::SetCompositeSpeedX"
+addr = 0x19a990
+
+[header.args]

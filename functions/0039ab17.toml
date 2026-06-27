@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454181Z
+addr = 0x39ab17
+size = 0x6a
+name = "__Towupper"
+
+[header]
+name = "__Towupper"
+addr = 0x39ab17
+
+[header.args]

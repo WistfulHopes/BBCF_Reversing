@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454947Z
+addr = 0x3b24a3
+size = 0x21
+name = "___crtGetShowWindowMode"
+
+[header]
+name = "___crtGetShowWindowMode"
+addr = 0x3b24a3
+
+[header.args]

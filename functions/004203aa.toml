@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456385Z
+addr = 0x4203aa
+size = 0x99
+name = "__beginthreadex"
+
+[header]
+name = "__beginthreadex"
+addr = 0x4203aa
+
+[header.args]

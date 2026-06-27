@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452689Z
+addr = 0x14f880
+size = 0x12a
+name = "SCENE_CBase::DisplayFPS"
+
+[header]
+name = "SCENE_CBase::DisplayFPS"
+addr = 0x14f880
+
+[header.args]

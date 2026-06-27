@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456546Z
+addr = 0x442030
+size = 0x19
+name = "?OneShotStaticDestruction@SchedulerBase@details@Concurrency@@CAXXZ"
+
+[header]
+name = "?OneShotStaticDestruction@SchedulerBase@details@Concurrency@@CAXXZ"
+addr = 0x442030
+
+[header.args]

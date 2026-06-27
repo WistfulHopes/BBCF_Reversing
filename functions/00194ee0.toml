@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453503Z
+addr = 0x194ee0
+size = 0x1b
+name = "OBJ_CBase::InitFWalkSpeed"
+
+[header]
+name = "OBJ_CBase::InitFWalkSpeed"
+addr = 0x194ee0
+
+[header.args]

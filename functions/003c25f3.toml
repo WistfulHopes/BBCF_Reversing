@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455404Z
+addr = 0x3c25f3
+size = 0x22f
+name = "?PrepareReceiversForCoreTransfer@ResourceManager@details@Concurrency@@AAEII@Z"
+
+[header]
+name = "?PrepareReceiversForCoreTransfer@ResourceManager@details@Concurrency@@AAEII@Z"
+addr = 0x3c25f3
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455290Z
+addr = 0x3bf3be
+size = 0x54
+name = "?StartupVirtualProcessor@SchedulerBase@details@Concurrency@@QAE_NPAVScheduleGroupSegmentBase@23@Vlocation@3@K@Z"
+
+[header]
+name = "?StartupVirtualProcessor@SchedulerBase@details@Concurrency@@QAE_NPAVScheduleGroupSegmentBase@23@Vlocation@3@K@Z"
+addr = 0x3bf3be
+
+[header.args]

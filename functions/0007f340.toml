@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452566Z
+addr = 0x7f340
+size = 0x24
+name = "GAME_CInfomation::IsBoss"
+
+[header]
+name = "GAME_CInfomation::IsBoss"
+addr = 0x7f340
+
+[header.args]

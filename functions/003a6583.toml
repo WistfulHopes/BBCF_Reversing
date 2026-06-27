@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454665Z
+addr = 0x3a6583
+size = 0x17
+name = "?_Initialize@_SpinCount@details@Concurrency@@SAXXZ"
+
+[header]
+name = "?_Initialize@_SpinCount@details@Concurrency@@SAXXZ"
+addr = 0x3a6583
+
+[header.args]

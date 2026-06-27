@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453609Z
+addr = 0x198910
+size = 0x1a
+name = "OBJ_CBase::PerActionMark"
+
+[header]
+name = "OBJ_CBase::PerActionMark"
+addr = 0x198910
+
+[header.args]

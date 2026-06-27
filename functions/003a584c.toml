@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454565Z
+addr = 0x3a584c
+size = 0x39
+name = "__EH_prolog3_catch_GS"
+
+[header]
+name = "__EH_prolog3_catch_GS"
+addr = 0x3a584c
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455001Z
+addr = 0x3b5a44
+size = 0x69
+name = "?setSBCS@@YAXPAUthreadmbcinfostruct@@@Z"
+
+[header]
+name = "?setSBCS@@YAXPAUthreadmbcinfostruct@@@Z"
+addr = 0x3b5a44
+
+[header.args]

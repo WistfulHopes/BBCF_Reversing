@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452433Z
+addr = 0x59a50
+size = 0x2c
+name = "AA_CCollision_JON::GetViewTextureRect"
+
+[header]
+name = "AA_CCollision_JON::GetViewTextureRect"
+addr = 0x59a50
+
+[header.args]

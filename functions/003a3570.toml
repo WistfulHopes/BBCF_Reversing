@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454488Z
+addr = 0x3a3570
+size = 0x46
+name = "_strcspn"
+
+[header]
+name = "_strcspn"
+addr = 0x3a3570
+
+[header.args]

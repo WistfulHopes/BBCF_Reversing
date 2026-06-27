@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452575Z
+addr = 0x82ba0
+size = 0x5e
+name = "AA_PreloadTask::`vector deleting destructor`"
+
+[header]
+name = "AA_PreloadTask::`vector deleting destructor`"
+addr = 0x82ba0
+
+[header.args]

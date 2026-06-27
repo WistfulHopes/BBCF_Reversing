@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454160Z
+addr = 0x399ca2
+size = 0x206
+name = "__Stofx"
+
+[header]
+name = "__Stofx"
+addr = 0x399ca2
+
+[header.args]

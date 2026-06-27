@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453463Z
+addr = 0x194810
+size = 0x1b
+name = "OBJ_CBase::InitAirBDashSpeed"
+
+[header]
+name = "OBJ_CBase::InitAirBDashSpeed"
+addr = 0x194810
+
+[header.args]

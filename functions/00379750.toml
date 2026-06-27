@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453980Z
+addr = 0x379750
+size = 0x9e
+name = "AudioDeviceControlManager::AudioDeviceControlManager"
+
+[header]
+name = "AudioDeviceControlManager::AudioDeviceControlManager"
+addr = 0x379750
+
+[header.args]

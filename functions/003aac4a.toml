@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454757Z
+addr = 0x3aac4a
+size = 0x24
+name = "__fileno"
+
+[header]
+name = "__fileno"
+addr = 0x3aac4a
+
+[header.args]

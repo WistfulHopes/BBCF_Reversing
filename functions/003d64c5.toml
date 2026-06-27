@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456172Z
+addr = 0x3d64c5
+size = 0x25
+name = "??0location@Concurrency@@QAE@W4_Type@01@IIPAX@Z"
+
+[header]
+name = "??0location@Concurrency@@QAE@W4_Type@01@IIPAX@Z"
+addr = 0x3d64c5
+
+[header.args]

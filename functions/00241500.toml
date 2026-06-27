@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453930Z
+addr = 0x241500
+size = 0x1fe
+name = "GAME_CETCManager::~GAME_CETCManager"
+
+[header]
+name = "GAME_CETCManager::~GAME_CETCManager"
+addr = 0x241500
+
+[header.args]

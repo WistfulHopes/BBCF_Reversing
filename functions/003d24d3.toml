@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456081Z
+addr = 0x3d24d3
+size = 0x29
+name = "?RemoveThreadSubscription@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+
+[header]
+name = "?RemoveThreadSubscription@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+addr = 0x3d24d3
+
+[header.args]

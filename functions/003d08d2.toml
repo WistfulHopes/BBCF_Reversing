@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455987Z
+addr = 0x3d08d2
+size = 0x23
+name = "?ImplicitDetachHandlerXP@ExternalContextBase@details@Concurrency@@CGXPAXE@Z"
+
+[header]
+name = "?ImplicitDetachHandlerXP@ExternalContextBase@details@Concurrency@@CGXPAXE@Z"
+addr = 0x3d08d2
+
+[header.args]

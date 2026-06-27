@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455260Z
+addr = 0x3bed6b
+size = 0x4d
+name = "?ReleaseReservedContexts@SchedulerBase@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?ReleaseReservedContexts@SchedulerBase@details@Concurrency@@QAEXXZ"
+addr = 0x3bed6b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455323Z
+addr = 0x3bfe1b
+size = 0x2f
+name = "?ApplyAffinityRestrictions@ResourceManager@details@Concurrency@@CAXPAK@Z"
+
+[header]
+name = "?ApplyAffinityRestrictions@ResourceManager@details@Concurrency@@CAXPAK@Z"
+addr = 0x3bfe1b
+
+[header.args]

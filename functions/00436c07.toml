@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456482Z
+addr = 0x436c07
+size = 0xb
+name = "__unwindfunclet$??1SchedulerBase@details@Concurrency@@UAE@XZ$6"
+
+[header]
+name = "__unwindfunclet$??1SchedulerBase@details@Concurrency@@UAE@XZ$6"
+addr = 0x436c07
+
+[header.args]

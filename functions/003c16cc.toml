@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455368Z
+addr = 0x3c16cc
+size = 0x3b
+name = "?FindGroupAffinity@AffinityRestriction@ResourceManager@details@Concurrency@@QAEPAUHardwareAffinity@34@G@Z"
+
+[header]
+name = "?FindGroupAffinity@AffinityRestriction@ResourceManager@details@Concurrency@@QAEPAUHardwareAffinity@34@G@Z"
+addr = 0x3c16cc
+
+[header.args]

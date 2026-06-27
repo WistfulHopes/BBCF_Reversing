@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456258Z
+addr = 0x3d7f40
+size = 0x36
+name = "?SetAffinity@FreeThreadProxy@details@Concurrency@@QAEXUHardwareAffinity@23@@Z"
+
+[header]
+name = "?SetAffinity@FreeThreadProxy@details@Concurrency@@QAEXUHardwareAffinity@23@@Z"
+addr = 0x3d7f40
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454165Z
+addr = 0x39a3e4
+size = 0x17a
+name = "__Stoulx"
+
+[header]
+name = "__Stoulx"
+addr = 0x39a3e4
+
+[header.args]

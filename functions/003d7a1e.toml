@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456236Z
+addr = 0x3d7a1e
+size = 0x55
+name = "?TransferReferences@WorkItem@details@Concurrency@@QAEXPAVInternalContextBase@23@@Z"
+
+[header]
+name = "?TransferReferences@WorkItem@details@Concurrency@@QAEXPAVInternalContextBase@23@@Z"
+addr = 0x3d7a1e
+
+[header.args]

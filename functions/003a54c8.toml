@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454558Z
+addr = 0x3a54c8
+size = 0xb2
+name = "_strncat_s"
+
+[header]
+name = "_strncat_s"
+addr = 0x3a54c8
+
+[header.args]

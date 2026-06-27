@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453069Z
+addr = 0x18dff0
+size = 0x10
+name = "OBJ_CBase::AtkBoundRateLandCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkBoundRateLandCounterHit"
+addr = 0x18dff0
+
+[header.args]

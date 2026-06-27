@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453354Z
+addr = 0x190460
+size = 0x23
+name = "OBJ_CBase::CellTimeOverWriteIf"
+
+[header]
+name = "OBJ_CBase::CellTimeOverWriteIf"
+addr = 0x190460
+
+[header.args]

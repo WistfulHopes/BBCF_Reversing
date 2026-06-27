@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452593Z
+addr = 0x94a80
+size = 0x5d
+name = "GAME_CFadeTaskManager::GAME_CFadeTaskManager"
+
+[header]
+name = "GAME_CFadeTaskManager::GAME_CFadeTaskManager"
+addr = 0x94a80
+
+[header.args]

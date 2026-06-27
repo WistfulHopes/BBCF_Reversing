@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455232Z
+addr = 0x3be5d0
+size = 0x33
+name = "?InvokeAtNextSafePoint@SafePointInvocation@details@Concurrency@@QAEXP6AXPAX@Z0PAVSchedulerBase@23@@Z"
+
+[header]
+name = "?InvokeAtNextSafePoint@SafePointInvocation@details@Concurrency@@QAEXP6AXPAX@Z0PAVSchedulerBase@23@@Z"
+addr = 0x3be5d0
+
+[header.args]

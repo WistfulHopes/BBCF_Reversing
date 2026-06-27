@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454263Z
+addr = 0x39dd7a
+size = 0x157
+name = "__fwrite_nolock"
+
+[header]
+name = "__fwrite_nolock"
+addr = 0x39dd7a
+
+[header.args]

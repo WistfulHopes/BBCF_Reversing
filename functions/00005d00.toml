@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452120Z
+addr = 0x5d00
+size = 0x3d
+name = "AA_LooseList::PushTail"
+
+[header]
+name = "AA_LooseList::PushTail"
+addr = 0x5d00
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456349Z
+addr = 0x41fcaf
+size = 0x26
+name = "??1_Pad@std@@QAE@XZ"
+
+[header]
+name = "??1_Pad@std@@QAE@XZ"
+addr = 0x41fcaf
+
+[header.args]

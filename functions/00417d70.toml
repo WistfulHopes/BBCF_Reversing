@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456315Z
+addr = 0x417d70
+size = 0x420
+name = "inflate_table"
+
+[header]
+name = "inflate_table"
+addr = 0x417d70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453152Z
+addr = 0x18e610
+size = 0x30
+name = "OBJ_CBase::AtkFreezeTimeCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkFreezeTimeCounterHit"
+addr = 0x18e610
+
+[header.args]

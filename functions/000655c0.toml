@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452474Z
+addr = 0x655c0
+size = 0x5
+name = "j_sub_41c900"
+
+[header]
+name = "j_sub_41c900"
+addr = 0x655c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452693Z
+addr = 0x14fee0
+size = 0x50
+name = "AA_Filepack_FPAC::GetFileSize"
+
+[header]
+name = "AA_Filepack_FPAC::GetFileSize"
+addr = 0x14fee0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453052Z
+addr = 0x18dec0
+size = 0xb
+name = "OBJ_CBase::AtkAirHitActionReset"
+
+[header]
+name = "OBJ_CBase::AtkAirHitActionReset"
+addr = 0x18dec0
+
+[header.args]

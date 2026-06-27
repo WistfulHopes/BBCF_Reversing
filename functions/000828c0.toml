@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452572Z
+addr = 0x828c0
+size = 0xad
+name = "GAME_CInfomation::Log"
+
+[header]
+name = "GAME_CInfomation::Log"
+addr = 0x828c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454697Z
+addr = 0x3a6ab8
+size = 0x7a
+name = "___DestructExceptionObject"
+
+[header]
+name = "___DestructExceptionObject"
+addr = 0x3a6ab8
+
+[header.args]

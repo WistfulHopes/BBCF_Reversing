@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455867Z
+addr = 0x3ce3e0
+size = 0x48
+name = "?SpinUntilClear@QuickBitSet@details@Concurrency@@QBEXI@Z"
+
+[header]
+name = "?SpinUntilClear@QuickBitSet@details@Concurrency@@QBEXI@Z"
+addr = 0x3ce3e0
+
+[header.args]

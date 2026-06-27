@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453414Z
+addr = 0x192140
+size = 0x7f
+name = "OBJ_CBase::DirectionVsTarget"
+
+[header]
+name = "OBJ_CBase::DirectionVsTarget"
+addr = 0x192140
+
+[header.args]

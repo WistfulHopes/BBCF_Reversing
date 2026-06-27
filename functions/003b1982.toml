@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454926Z
+addr = 0x3b1982
+size = 0x3a
+name = "__isindst"
+
+[header]
+name = "__isindst"
+addr = 0x3b1982
+
+[header.args]

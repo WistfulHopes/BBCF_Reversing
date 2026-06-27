@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453093Z
+addr = 0x18e120
+size = 0xb
+name = "OBJ_CBase::AtkComboRateFirstCounterHitReset"
+
+[header]
+name = "OBJ_CBase::AtkComboRateFirstCounterHitReset"
+addr = 0x18e120
+
+[header.args]

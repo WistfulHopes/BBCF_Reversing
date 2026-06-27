@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455631Z
+addr = 0x3c8dc0
+size = 0x3a2
+name = "___init_monetary"
+
+[header]
+name = "___init_monetary"
+addr = 0x3c8dc0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455889Z
+addr = 0x3ceb15
+size = 0x40
+name = "?Steal@?$StructuredWorkStealingQueue@VInternalContextBase@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEPAVInternalContextBase@23@_N@Z"
+
+[header]
+name = "?Steal@?$StructuredWorkStealingQueue@VInternalContextBase@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEPAVInternalContextBase@23@_N@Z"
+addr = 0x3ceb15
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454916Z
+addr = 0x3b15fa
+size = 0x2a
+name = "__strtoi64"
+
+[header]
+name = "__strtoi64"
+addr = 0x3b15fa
+
+[header.args]

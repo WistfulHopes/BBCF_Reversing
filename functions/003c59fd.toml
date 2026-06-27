@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455476Z
+addr = 0x3c59fd
+size = 0x9a
+name = "___security_init_cookie"
+
+[header]
+name = "___security_init_cookie"
+addr = 0x3c59fd
+
+[header.args]

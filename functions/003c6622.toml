@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455530Z
+addr = 0x3c6622
+size = 0x2d
+name = "?SweepWaitNode@WaitAllBlock@details@Concurrency@@UAE_NXZ"
+
+[header]
+name = "?SweepWaitNode@WaitAllBlock@details@Concurrency@@UAE_NXZ"
+addr = 0x3c6622
+
+[header.args]

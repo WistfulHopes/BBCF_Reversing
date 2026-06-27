@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454158Z
+addr = 0x399c76
+size = 0x2c
+name = "?resize@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEXID@Z"
+
+[header]
+name = "?resize@?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@QAEXID@Z"
+addr = 0x399c76
+
+[header.args]

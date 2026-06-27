@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452639Z
+addr = 0xd1800
+size = 0x149
+name = "AAJVS_SystemManager::InitCredit"
+
+[header]
+name = "AAJVS_SystemManager::InitCredit"
+addr = 0xd1800
+
+[header.args]

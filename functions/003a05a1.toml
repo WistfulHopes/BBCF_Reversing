@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454394Z
+addr = 0x3a05a1
+size = 0x1c
+name = "_swprintf_s"
+
+[header]
+name = "_swprintf_s"
+addr = 0x3a05a1
+
+[header.args]

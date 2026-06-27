@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452322Z
+addr = 0x3b6f0
+size = 0x8e
+name = "AADX_CRenderer::CreatePostProcessTexture"
+
+[header]
+name = "AADX_CRenderer::CreatePostProcessTexture"
+addr = 0x3b6f0
+
+[header.args]

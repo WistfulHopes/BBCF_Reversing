@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456371Z
+addr = 0x41ff07
+size = 0xd0
+name = "__Cnd_do_broadcast_at_thread_exit"
+
+[header]
+name = "__Cnd_do_broadcast_at_thread_exit"
+addr = 0x41ff07
+
+[header.args]

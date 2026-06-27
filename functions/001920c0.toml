@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453412Z
+addr = 0x1920c0
+size = 0x52
+name = "OBJ_CBase::DirectionReverse"
+
+[header]
+name = "OBJ_CBase::DirectionReverse"
+addr = 0x1920c0
+
+[header.args]

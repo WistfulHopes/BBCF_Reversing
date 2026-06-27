@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453642Z
+addr = 0x199170
+size = 0xd
+name = "OBJ_CBase::PopAcceleration"
+
+[header]
+name = "OBJ_CBase::PopAcceleration"
+addr = 0x199170
+
+[header.args]

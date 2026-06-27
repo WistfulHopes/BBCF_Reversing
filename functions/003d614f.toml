@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456162Z
+addr = 0x3d614f
+size = 0x3e
+name = "?__ExceptionPtrCurrentException@@YAXPAX@Z"
+
+[header]
+name = "?__ExceptionPtrCurrentException@@YAXPAX@Z"
+addr = 0x3d614f
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455216Z
+addr = 0x3bde64
+size = 0x17
+name = "?GetReservedContext@SchedulerBase@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+
+[header]
+name = "?GetReservedContext@SchedulerBase@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+addr = 0x3bde64
+
+[header.args]

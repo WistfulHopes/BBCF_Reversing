@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454682Z
+addr = 0x3a683f
+size = 0x27
+name = "??0CancellationTokenRegistration_TaskProc@@QAE@P6AXPAX@Z0H@Z"
+
+[header]
+name = "??0CancellationTokenRegistration_TaskProc@@QAE@P6AXPAX@Z0H@Z"
+addr = 0x3a683f
+
+[header.args]

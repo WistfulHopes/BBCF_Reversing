@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452214Z
+addr = 0x9910
+size = 0x1d
+name = "AA_CModelInstanceManager::GetModel"
+
+[header]
+name = "AA_CModelInstanceManager::GetModel"
+addr = 0x9910
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456415Z
+addr = 0x421060
+size = 0x47f
+name = "__wstat64"
+
+[header]
+name = "__wstat64"
+addr = 0x421060
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453527Z
+addr = 0x195a10
+size = 0x1d
+name = "OBJ_CBase::InitializeForSpecialShotObject"
+
+[header]
+name = "OBJ_CBase::InitializeForSpecialShotObject"
+addr = 0x195a10
+
+[header.args]

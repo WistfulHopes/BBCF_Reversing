@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454416Z
+addr = 0x3a12e1
+size = 0x82
+name = "_sprintf"
+
+[header]
+name = "_sprintf"
+addr = 0x3a12e1
+
+[header.args]

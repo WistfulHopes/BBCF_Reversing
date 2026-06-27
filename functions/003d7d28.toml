@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456252Z
+addr = 0x3d7d28
+size = 0x5d
+name = "?Affinitize@FreeVirtualProcessorRoot@details@Concurrency@@QAEXPAVFreeThreadProxy@23@@Z"
+
+[header]
+name = "?Affinitize@FreeVirtualProcessorRoot@details@Concurrency@@QAEXPAVFreeThreadProxy@23@@Z"
+addr = 0x3d7d28
+
+[header.args]

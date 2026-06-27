@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456173Z
+addr = 0x3d64ea
+size = 0x2b
+name = "?ContainsResourceId@SchedulingNode@details@Concurrency@@QAE_NI@Z"
+
+[header]
+name = "?ContainsResourceId@SchedulingNode@details@Concurrency@@QAE_NI@Z"
+addr = 0x3d64ea
+
+[header.args]

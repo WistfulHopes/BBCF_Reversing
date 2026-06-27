@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456025Z
+addr = 0x3d117d
+size = 0x37
+name = "?CoefficientOfVariationMean@MeasuredHistory@HillClimbing@details@Concurrency@@QAENXZ"
+
+[header]
+name = "?CoefficientOfVariationMean@MeasuredHistory@HillClimbing@details@Concurrency@@QAENXZ"
+addr = 0x3d117d
+
+[header.args]

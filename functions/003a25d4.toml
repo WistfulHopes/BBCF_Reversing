@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454442Z
+addr = 0x3a25d4
+size = 0x56
+name = "__isalnum_l"
+
+[header]
+name = "__isalnum_l"
+addr = 0x3a25d4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455468Z
+addr = 0x3c5539
+size = 0xe
+name = "___CxxSetUnhandledExceptionFilter"
+
+[header]
+name = "___CxxSetUnhandledExceptionFilter"
+addr = 0x3c5539
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456362Z
+addr = 0x41fdf4
+size = 0x8d
+name = "?do_wait@@YAHPAPAU_Cnd_internal_imp_t@@PAPAU_Mtx_internal_imp_t@@PBUxtime@@@Z"
+
+[header]
+name = "?do_wait@@YAHPAPAU_Cnd_internal_imp_t@@PAPAU_Mtx_internal_imp_t@@PBUxtime@@@Z"
+addr = 0x41fdf4
+
+[header.args]

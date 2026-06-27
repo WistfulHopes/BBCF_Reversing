@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453955Z
+addr = 0x29bb70
+size = 0x61
+name = "CBattleReplayDataManager::CBattleReplayDataManager"
+
+[header]
+name = "CBattleReplayDataManager::CBattleReplayDataManager"
+addr = 0x29bb70
+
+[header.args]

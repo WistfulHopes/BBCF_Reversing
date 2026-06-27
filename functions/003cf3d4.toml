@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455921Z
+addr = 0x3cf3d4
+size = 0x102
+name = "?FindWorkForBlockingOrNesting@InternalContextBase@details@Concurrency@@AAEPAV123@AA_N0@Z"
+
+[header]
+name = "?FindWorkForBlockingOrNesting@InternalContextBase@details@Concurrency@@AAEPAV123@AA_N0@Z"
+addr = 0x3cf3d4
+
+[header.args]

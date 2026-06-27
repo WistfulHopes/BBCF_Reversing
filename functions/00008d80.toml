@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452198Z
+addr = 0x8d80
+size = 0xda
+name = "AA_Filepack_FPAC::Read"
+
+[header]
+name = "AA_Filepack_FPAC::Read"
+addr = 0x8d80
+
+[header.args]

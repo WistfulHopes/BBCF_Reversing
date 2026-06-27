@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453376Z
+addr = 0x1914d0
+size = 0x94
+name = "OBJ_CBase::CommonSE"
+
+[header]
+name = "OBJ_CBase::CommonSE"
+addr = 0x1914d0
+
+[header.args]

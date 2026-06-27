@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455640Z
+addr = 0x3c9fbe
+size = 0xc3
+name = "__strnicoll_l"
+
+[header]
+name = "__strnicoll_l"
+addr = 0x3c9fbe
+
+[header.args]

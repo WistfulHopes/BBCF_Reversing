@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452409Z
+addr = 0x59450
+size = 0x8e
+name = "AA_CCollision_JON::AA_CCollision_JON"
+
+[header]
+name = "AA_CCollision_JON::AA_CCollision_JON"
+addr = 0x59450
+
+[header.args]

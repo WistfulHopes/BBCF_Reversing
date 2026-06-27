@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453398Z
+addr = 0x191a40
+size = 0x4e
+name = "OBJ_CBase::CreateParticleArgRandAngleMinMax"
+
+[header]
+name = "OBJ_CBase::CreateParticleArgRandAngleMinMax"
+addr = 0x191a40
+
+[header.args]

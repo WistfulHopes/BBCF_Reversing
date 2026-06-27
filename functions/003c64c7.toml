@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455525Z
+addr = 0x3c64c7
+size = 0x3a
+name = "?Set@StructuredEvent@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?Set@StructuredEvent@details@Concurrency@@QAEXXZ"
+addr = 0x3c64c7
+
+[header.args]

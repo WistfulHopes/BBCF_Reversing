@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452821Z
+addr = 0x171c30
+size = 0xcc
+name = "OBJ_CBase::UpdateYukkuriSpeed"
+
+[header]
+name = "OBJ_CBase::UpdateYukkuriSpeed"
+addr = 0x171c30
+
+[header.args]

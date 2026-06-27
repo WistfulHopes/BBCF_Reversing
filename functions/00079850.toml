@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452545Z
+addr = 0x79850
+size = 0xaca
+name = "AA_CModelInstanceManager::CreateModel"
+
+[header]
+name = "AA_CModelInstanceManager::CreateModel"
+addr = 0x79850
+
+[header.args]

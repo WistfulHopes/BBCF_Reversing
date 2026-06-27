@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454404Z
+addr = 0x3a0bdf
+size = 0x398
+name = "___init_ctype"
+
+[header]
+name = "___init_ctype"
+addr = 0x3a0bdf
+
+[header.args]

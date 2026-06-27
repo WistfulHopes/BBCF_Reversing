@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454574Z
+addr = 0x3a5a32
+size = 0x13
+name = "__errno"
+
+[header]
+name = "__errno"
+addr = 0x3a5a32
+
+[header.args]

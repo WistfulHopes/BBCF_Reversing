@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455886Z
+addr = 0x3cea81
+size = 0x70
+name = "?FoundAvailableVirtualProcessor@SchedulingNode@details@Concurrency@@AAE_NAAVClaimTicket@VirtualProcessor@23@Vlocation@3@K@Z"
+
+[header]
+name = "?FoundAvailableVirtualProcessor@SchedulingNode@details@Concurrency@@AAE_NAAVClaimTicket@VirtualProcessor@23@Vlocation@3@K@Z"
+addr = 0x3cea81
+
+[header.args]

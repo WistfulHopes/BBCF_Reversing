@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454546Z
+addr = 0x3a512a
+size = 0xb0
+name = "___copy_path_to_wide_string"
+
+[header]
+name = "___copy_path_to_wide_string"
+addr = 0x3a512a
+
+[header.args]

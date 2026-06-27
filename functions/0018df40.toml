@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453061Z
+addr = 0x18df40
+size = 0xb
+name = "OBJ_CBase::AtkAirStunTimeReset"
+
+[header]
+name = "OBJ_CBase::AtkAirStunTimeReset"
+addr = 0x18df40
+
+[header.args]

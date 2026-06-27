@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453788Z
+addr = 0x19b2a0
+size = 0x10
+name = "OBJ_CBase::InitAtkSameAttackHoseiCount"
+
+[header]
+name = "OBJ_CBase::InitAtkSameAttackHoseiCount"
+addr = 0x19b2a0
+
+[header.args]

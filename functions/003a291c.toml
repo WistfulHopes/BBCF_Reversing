@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454456Z
+addr = 0x3a291c
+size = 0x2b
+name = "_isdigit"
+
+[header]
+name = "_isdigit"
+addr = 0x3a291c
+
+[header.args]

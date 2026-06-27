@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454082Z
+addr = 0x38a4e6
+size = 0x6c
+name = "??$_Getvals@_W@?$_Mpunct@_W@std@@IAEX_WPBUlconv@@@Z"
+
+[header]
+name = "??$_Getvals@_W@?$_Mpunct@_W@std@@IAEX_WPBUlconv@@@Z"
+addr = 0x38a4e6
+
+[header.args]

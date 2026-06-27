@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455611Z
+addr = 0x3c8080
+size = 0x137
+name = "_strrchr"
+
+[header]
+name = "_strrchr"
+addr = 0x3c8080
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455140Z
+addr = 0x3bcc63
+size = 0x2c
+name = "??_GSubAllocator@details@Concurrency@@QAEPAXI@Z"
+
+[header]
+name = "??_GSubAllocator@details@Concurrency@@QAEPAXI@Z"
+addr = 0x3bcc63
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452144Z
+addr = 0x6f80
+size = 0x4a
+name = "AA_TaskList::AllSearchForceAllRelease"
+
+[header]
+name = "AA_TaskList::AllSearchForceAllRelease"
+addr = 0x6f80
+
+[header.args]

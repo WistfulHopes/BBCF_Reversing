@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456115Z
+addr = 0x3d2b4f
+size = 0x14
+name = "?ShutdownFactory@FreeThreadProxyFactory@details@Concurrency@@UAEXXZ"
+
+[header]
+name = "?ShutdownFactory@FreeThreadProxyFactory@details@Concurrency@@UAEXXZ"
+addr = 0x3d2b4f
+
+[header.args]

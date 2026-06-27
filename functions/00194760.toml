@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453460Z
+addr = 0x194760
+size = 0x25
+name = "OBJ_CBase::InertiaIgnore"
+
+[header]
+name = "OBJ_CBase::InertiaIgnore"
+addr = 0x194760
+
+[header.args]

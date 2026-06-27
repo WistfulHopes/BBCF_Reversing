@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453813Z
+addr = 0x19b870
+size = 0x6f
+name = "OBJ_CBase::SetZLine"
+
+[header]
+name = "OBJ_CBase::SetZLine"
+addr = 0x19b870
+
+[header.args]

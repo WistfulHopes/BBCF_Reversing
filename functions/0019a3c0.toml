@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453731Z
+addr = 0x19a3c0
+size = 0x19
+name = "OBJ_CBase::SetAngle"
+
+[header]
+name = "OBJ_CBase::SetAngle"
+addr = 0x19a3c0
+
+[header.args]

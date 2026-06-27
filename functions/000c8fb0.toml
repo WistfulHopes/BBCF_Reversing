@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452632Z
+addr = 0xc8fb0
+size = 0x560
+name = "InitFadeFactory"
+
+[header]
+name = "InitFadeFactory"
+addr = 0xc8fb0
+
+[header.args]

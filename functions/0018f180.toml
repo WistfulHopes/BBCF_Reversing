@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453334Z
+addr = 0x18f180
+size = 0x10
+name = "OBJ_CBase::AtkWallHaritsukiTimeCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkWallHaritsukiTimeCounterHit"
+addr = 0x18f180
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453869Z
+addr = 0x1cc3c0
+size = 0xa6
+name = "OBJ_CCharBase::ControlPhase_MovementCalc"
+
+[header]
+name = "OBJ_CCharBase::ControlPhase_MovementCalc"
+addr = 0x1cc3c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452469Z
+addr = 0x65130
+size = 0xc6
+name = "GAMESTEAM_CClassGenerator::GAMESTEAM_CClassGenerator"
+
+[header]
+name = "GAMESTEAM_CClassGenerator::GAMESTEAM_CClassGenerator"
+addr = 0x65130
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455676Z
+addr = 0x3cb0f9
+size = 0x16
+name = "?current_exception@std@@YA?AVexception_ptr@1@XZ"
+
+[header]
+name = "?current_exception@std@@YA?AVexception_ptr@1@XZ"
+addr = 0x3cb0f9
+
+[header.args]

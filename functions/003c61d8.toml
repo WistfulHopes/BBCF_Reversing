@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455509Z
+addr = 0x3c61d8
+size = 0x5
+name = "j_Concurrency::details::MultiWaitBlock::NotifyCompletedNode"
+
+[header]
+name = "j_Concurrency::details::MultiWaitBlock::NotifyCompletedNode"
+addr = 0x3c61d8
+
+[header.args]

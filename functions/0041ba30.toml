@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456322Z
+addr = 0x41ba30
+size = 0xa7
+name = "Finalize"
+
+[header]
+name = "Finalize"
+addr = 0x41ba30
+
+[header.args]

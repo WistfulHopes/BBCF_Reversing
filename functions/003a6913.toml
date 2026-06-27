@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454689Z
+addr = 0x3a6913
+size = 0xb1
+name = "?_DeregisterCallback@_CancellationTokenState@details@Concurrency@@QAEXPAV_CancellationTokenRegistration@23@@Z"
+
+[header]
+name = "?_DeregisterCallback@_CancellationTokenState@details@Concurrency@@QAEXPAV_CancellationTokenRegistration@23@@Z"
+addr = 0x3a6913
+
+[header.args]

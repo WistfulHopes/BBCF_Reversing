@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455629Z
+addr = 0x3c8cc4
+size = 0xfc
+name = "___free_lconv_mon"
+
+[header]
+name = "___free_lconv_mon"
+addr = 0x3c8cc4
+
+[header.args]

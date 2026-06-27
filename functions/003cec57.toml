@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455900Z
+addr = 0x3cec57
+size = 0x55
+name = "?GetBucketIndex@SubAllocator@details@Concurrency@@SAHI@Z"
+
+[header]
+name = "?GetBucketIndex@SubAllocator@details@Concurrency@@SAHI@Z"
+addr = 0x3cec57
+
+[header.args]

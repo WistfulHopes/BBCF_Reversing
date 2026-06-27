@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453135Z
+addr = 0x18e480
+size = 0x22
+name = "OBJ_CBase::AtkHitStopTimeEnemyAddition"
+
+[header]
+name = "OBJ_CBase::AtkHitStopTimeEnemyAddition"
+addr = 0x18e480
+
+[header.args]

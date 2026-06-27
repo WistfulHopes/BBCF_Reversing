@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453579Z
+addr = 0x1975b0
+size = 0xd
+name = "OBJ_CBase::ObjectPriority"
+
+[header]
+name = "OBJ_CBase::ObjectPriority"
+addr = 0x1975b0
+
+[header.args]

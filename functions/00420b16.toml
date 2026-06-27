@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456403Z
+addr = 0x420b16
+size = 0x15
+name = "_strtod"
+
+[header]
+name = "_strtod"
+addr = 0x420b16
+
+[header.args]

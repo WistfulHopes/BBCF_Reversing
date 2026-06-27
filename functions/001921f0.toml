@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453416Z
+addr = 0x1921f0
+size = 0xe
+name = "OBJ_CBase::EarthGravity"
+
+[header]
+name = "OBJ_CBase::EarthGravity"
+addr = 0x1921f0
+
+[header.args]

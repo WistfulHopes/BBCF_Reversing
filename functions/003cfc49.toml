@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455946Z
+addr = 0x3cfc49
+size = 0xf7
+name = "?SwitchTo@InternalContextBase@details@Concurrency@@IAEXPAV123@W4ReasonForSwitch@123@@Z"
+
+[header]
+name = "?SwitchTo@InternalContextBase@details@Concurrency@@IAEXPAV123@W4ReasonForSwitch@123@@Z"
+addr = 0x3cfc49
+
+[header.args]

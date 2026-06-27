@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455998Z
+addr = 0x3d0bbf
+size = 0x3e
+name = "?CreateInternalContext@ThreadScheduler@details@Concurrency@@MAEPAVInternalContextBase@23@XZ"
+
+[header]
+name = "?CreateInternalContext@ThreadScheduler@details@Concurrency@@MAEPAVInternalContextBase@23@XZ"
+addr = 0x3d0bbf
+
+[header.args]

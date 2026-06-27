@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454426Z
+addr = 0x3a16d4
+size = 0x25
+name = "__gmtime32"
+
+[header]
+name = "__gmtime32"
+addr = 0x3a16d4
+
+[header.args]

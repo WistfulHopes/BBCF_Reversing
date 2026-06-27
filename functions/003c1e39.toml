@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455391Z
+addr = 0x3c1e39
+size = 0xc2
+name = "?InitializeRMBuffers@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?InitializeRMBuffers@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c1e39
+
+[header.args]

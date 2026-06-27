@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456375Z
+addr = 0x420079
+size = 0x13a
+name = "_fgets"
+
+[header]
+name = "_fgets"
+addr = 0x420079
+
+[header.args]

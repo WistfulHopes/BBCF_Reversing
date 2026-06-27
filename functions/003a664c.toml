@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454670Z
+addr = 0x3a664c
+size = 0x4f
+name = "?_Switch_to_active@critical_section@Concurrency@@AAEXPAX@Z"
+
+[header]
+name = "?_Switch_to_active@critical_section@Concurrency@@AAEXPAX@Z"
+addr = 0x3a664c
+
+[header.args]

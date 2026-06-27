@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454827Z
+addr = 0x3ad7a9
+size = 0x94
+name = "__initptd"
+
+[header]
+name = "__initptd"
+addr = 0x3ad7a9
+
+[header.args]

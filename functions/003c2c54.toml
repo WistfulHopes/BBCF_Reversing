@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455407Z
+addr = 0x3c2c54
+size = 0x97
+name = "?Release@ResourceManager@details@Concurrency@@UAEIXZ"
+
+[header]
+name = "?Release@ResourceManager@details@Concurrency@@UAEIXZ"
+addr = 0x3c2c54
+
+[header.args]

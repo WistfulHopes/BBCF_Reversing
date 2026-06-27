@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454739Z
+addr = 0x3a8109
+size = 0x56
+name = "?_W_store_number@@YAXHPAPA_WPAI@Z"
+
+[header]
+name = "?_W_store_number@@YAXHPAPA_WPAI@Z"
+addr = 0x3a8109
+
+[header.args]

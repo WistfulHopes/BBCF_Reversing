@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455783Z
+addr = 0x3ccf13
+size = 0x33
+name = "?GetInternalContext@ScheduleGroupSegmentBase@details@Concurrency@@IAEPAVInternalContextBase@23@PAU_Chore@23@_N@Z"
+
+[header]
+name = "?GetInternalContext@ScheduleGroupSegmentBase@details@Concurrency@@IAEPAVInternalContextBase@23@PAU_Chore@23@_N@Z"
+addr = 0x3ccf13
+
+[header.args]

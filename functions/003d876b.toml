@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456282Z
+addr = 0x3d876b
+size = 0x38
+name = "?ThreadProxyMain@ThreadProxy@details@Concurrency@@CGKPAX@Z"
+
+[header]
+name = "?ThreadProxyMain@ThreadProxy@details@Concurrency@@CGKPAX@Z"
+addr = 0x3d876b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455552Z
+addr = 0x3c6eba
+size = 0x17
+name = "___crtGetLocaleInfoEx"
+
+[header]
+name = "___crtGetLocaleInfoEx"
+addr = 0x3c6eba
+
+[header.args]

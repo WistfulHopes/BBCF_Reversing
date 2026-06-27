@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453413Z
+addr = 0x192120
+size = 0x20
+name = "OBJ_CBase::DirectionRight"
+
+[header]
+name = "OBJ_CBase::DirectionRight"
+addr = 0x192120
+
+[header.args]

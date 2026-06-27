@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452816Z
+addr = 0x170730
+size = 0x77
+name = "OBJ_CBase::ReleaseLinkModel"
+
+[header]
+name = "OBJ_CBase::ReleaseLinkModel"
+addr = 0x170730
+
+[header.args]

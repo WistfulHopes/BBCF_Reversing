@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455873Z
+addr = 0x3ce5a1
+size = 0x5e
+name = "?UpdateWorkState@VirtualProcessor@details@Concurrency@@QAEX_N0@Z"
+
+[header]
+name = "?UpdateWorkState@VirtualProcessor@details@Concurrency@@QAEX_N0@Z"
+addr = 0x3ce5a1
+
+[header.args]

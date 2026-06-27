@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455334Z
+addr = 0x3c0109
+size = 0x2d
+name = "?ComputeMinHWThreadsWithExternalThread@SchedulerProxy@details@Concurrency@@QBEIXZ"
+
+[header]
+name = "?ComputeMinHWThreadsWithExternalThread@SchedulerProxy@details@Concurrency@@QBEIXZ"
+addr = 0x3c0109
+
+[header.args]

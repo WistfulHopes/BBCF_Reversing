@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454184Z
+addr = 0x39ac27
+size = 0x105
+name = "__Stopfx"
+
+[header]
+name = "__Stopfx"
+addr = 0x39ac27
+
+[header.args]

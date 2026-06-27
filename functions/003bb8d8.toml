@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455076Z
+addr = 0x3bb8d8
+size = 0x32
+name = "?CancelCollectionComplete@ContextBase@details@Concurrency@@QAE_NH@Z"
+
+[header]
+name = "?CancelCollectionComplete@ContextBase@details@Concurrency@@QAE_NH@Z"
+addr = 0x3bb8d8
+
+[header.args]

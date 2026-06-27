@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454402Z
+addr = 0x3a0bb9
+size = 0x26
+name = "____mb_cur_max_func"
+
+[header]
+name = "____mb_cur_max_func"
+addr = 0x3a0bb9
+
+[header.args]

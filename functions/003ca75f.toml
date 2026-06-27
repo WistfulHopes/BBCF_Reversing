@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455659Z
+addr = 0x3ca75f
+size = 0x32
+name = "_GetPrimaryLen"
+
+[header]
+name = "_GetPrimaryLen"
+addr = 0x3ca75f
+
+[header.args]

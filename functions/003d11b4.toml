@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456026Z
+addr = 0x3d11b4
+size = 0x45
+name = "?EstablishControlSetting@HillClimbing@details@Concurrency@@AAEXI@Z"
+
+[header]
+name = "?EstablishControlSetting@HillClimbing@details@Concurrency@@AAEXI@Z"
+addr = 0x3d11b4
+
+[header.args]

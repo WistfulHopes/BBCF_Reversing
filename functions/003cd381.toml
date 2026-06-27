@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455808Z
+addr = 0x3cd381
+size = 0x27
+name = "?RetireDetachedQueue@ScheduleGroupSegmentBase@details@Concurrency@@QAEXPAVWorkQueue@23@@Z"
+
+[header]
+name = "?RetireDetachedQueue@ScheduleGroupSegmentBase@details@Concurrency@@QAEXPAVWorkQueue@23@@Z"
+addr = 0x3cd381
+
+[header.args]

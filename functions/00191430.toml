@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453374Z
+addr = 0x191430
+size = 0x97
+name = "OBJ_CBase::CommonDamageVoice"
+
+[header]
+name = "OBJ_CBase::CommonDamageVoice"
+addr = 0x191430
+
+[header.args]

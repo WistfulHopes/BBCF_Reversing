@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454497Z
+addr = 0x3a3ee8
+size = 0x121
+name = "__Strftime_l"
+
+[header]
+name = "__Strftime_l"
+addr = 0x3a3ee8
+
+[header.args]

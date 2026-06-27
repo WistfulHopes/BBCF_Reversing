@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452771Z
+addr = 0x15d990
+size = 0x28
+name = "OBJ_CBase::SetObjActive"
+
+[header]
+name = "OBJ_CBase::SetObjActive"
+addr = 0x15d990
+
+[header.args]

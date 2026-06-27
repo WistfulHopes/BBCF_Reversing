@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454198Z
+addr = 0x39b9fb
+size = 0x65
+name = "__FXp_setn"
+
+[header]
+name = "__FXp_setn"
+addr = 0x39b9fb
+
+[header.args]

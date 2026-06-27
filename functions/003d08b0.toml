@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455986Z
+addr = 0x3d08b0
+size = 0x22
+name = "?ImplicitDetachHandler@ExternalContextBase@details@Concurrency@@CGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_WAIT@@K@Z"
+
+[header]
+name = "?ImplicitDetachHandler@ExternalContextBase@details@Concurrency@@CGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_WAIT@@K@Z"
+addr = 0x3d08b0
+
+[header.args]

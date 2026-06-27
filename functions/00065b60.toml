@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452479Z
+addr = 0x65b60
+size = 0x5
+name = "j_AADX_CRenderer::GetInstance"
+
+[header]
+name = "j_AADX_CRenderer::GetInstance"
+addr = 0x65b60
+
+[header.args]

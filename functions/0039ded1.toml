@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454265Z
+addr = 0x39ded1
+size = 0x70
+name = "_fwrite"
+
+[header]
+name = "_fwrite"
+addr = 0x39ded1
+
+[header.args]

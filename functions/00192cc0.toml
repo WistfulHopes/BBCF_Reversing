@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453428Z
+addr = 0x192cc0
+size = 0x4d
+name = "OBJ_CBase::EffectForUkemi"
+
+[header]
+name = "OBJ_CBase::EffectForUkemi"
+addr = 0x192cc0
+
+[header.args]

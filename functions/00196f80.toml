@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453570Z
+addr = 0x196f80
+size = 0x51
+name = "OBJ_CBase::MoveToSrcDst"
+
+[header]
+name = "OBJ_CBase::MoveToSrcDst"
+addr = 0x196f80
+
+[header.args]

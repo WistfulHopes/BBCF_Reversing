@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453138Z
+addr = 0x18e520
+size = 0x1b
+name = "OBJ_CBase::AtkEnemyAction"
+
+[header]
+name = "OBJ_CBase::AtkEnemyAction"
+addr = 0x18e520
+
+[header.args]

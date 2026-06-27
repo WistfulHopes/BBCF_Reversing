@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455163Z
+addr = 0x3bd3d0
+size = 0x3d
+name = "?CopyFrom@QuickBitSet@details@Concurrency@@IAEXABV123@@Z"
+
+[header]
+name = "?CopyFrom@QuickBitSet@details@Concurrency@@IAEXABV123@@Z"
+addr = 0x3bd3d0
+
+[header.args]

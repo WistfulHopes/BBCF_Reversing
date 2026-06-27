@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455570Z
+addr = 0x3c72ec
+size = 0x9
+name = "$LN30"
+
+[header]
+name = "$LN30"
+addr = 0x3c72ec
+
+[header.args]

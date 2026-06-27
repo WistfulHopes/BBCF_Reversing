@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456564Z
+addr = 0x4493d3
+size = 0xa
+name = "??__Finitlocks@std@@YAXXZ"
+
+[header]
+name = "??__Finitlocks@std@@YAXXZ"
+addr = 0x4493d3
+
+[header.args]

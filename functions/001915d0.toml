@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453380Z
+addr = 0x1915d0
+size = 0xe
+name = "OBJ_CBase::ControlObjectEnd"
+
+[header]
+name = "OBJ_CBase::ControlObjectEnd"
+addr = 0x1915d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453121Z
+addr = 0x18e380
+size = 0x4d
+name = "OBJ_CBase::AtkDrainRate"
+
+[header]
+name = "OBJ_CBase::AtkDrainRate"
+addr = 0x18e380
+
+[header.args]

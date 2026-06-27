@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456277Z
+addr = 0x3d86d2
+size = 0xa
+name = "?ResumeExecution@ThreadProxy@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?ResumeExecution@ThreadProxy@details@Concurrency@@QAEXXZ"
+addr = 0x3d86d2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452192Z
+addr = 0x8850
+size = 0x45
+name = "AA_CCameraManager::RegistInst"
+
+[header]
+name = "AA_CCameraManager::RegistInst"
+addr = 0x8850
+
+[header.args]

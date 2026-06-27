@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455715Z
+addr = 0x3cbc9d
+size = 0x19
+name = "?_SweepAbortedChore@_TaskCollection@details@Concurrency@@CA_NPAV_UnrealizedChore@23@PAX@Z"
+
+[header]
+name = "?_SweepAbortedChore@_TaskCollection@details@Concurrency@@CA_NPAV_UnrealizedChore@23@PAX@Z"
+addr = 0x3cbc9d
+
+[header.args]

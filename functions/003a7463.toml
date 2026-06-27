@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454719Z
+addr = 0x3a7463
+size = 0x179
+name = "___BuildCatchObjectHelper"
+
+[header]
+name = "___BuildCatchObjectHelper"
+addr = 0x3a7463
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453101Z
+addr = 0x18e170
+size = 0x25
+name = "OBJ_CBase::AtkHoseiOnece"
+
+[header]
+name = "OBJ_CBase::AtkHoseiOnece"
+addr = 0x18e170
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456195Z
+addr = 0x3d6917
+size = 0x7b
+name = "?GetRunnableContextWithinGroup@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@W4SearchAffinity@123@_N@Z"
+
+[header]
+name = "?GetRunnableContextWithinGroup@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVScheduleGroupSegmentBase@23@W4SearchAffinity@123@_N@Z"
+addr = 0x3d6917
+
+[header.args]

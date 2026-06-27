@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454066Z
+addr = 0x389b35
+size = 0x21
+name = "__Mtx_unlock"
+
+[header]
+name = "__Mtx_unlock"
+addr = 0x389b35
+
+[header.args]

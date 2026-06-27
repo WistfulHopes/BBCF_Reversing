@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452371Z
+addr = 0x4f060
+size = 0x180
+name = "AAWin_CApplication::Init"
+
+[header]
+name = "AAWin_CApplication::Init"
+addr = 0x4f060
+
+[header.args]

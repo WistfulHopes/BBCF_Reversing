@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452161Z
+addr = 0x7890
+size = 0x84
+name = "AA_CRenderCtrlFactory::Product"
+
+[header]
+name = "AA_CRenderCtrlFactory::Product"
+addr = 0x7890
+
+[header.args]

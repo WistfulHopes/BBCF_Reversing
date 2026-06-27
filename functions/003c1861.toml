@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455374Z
+addr = 0x3c1861
+size = 0x17
+name = "?GetNext@TopologyObject@GlobalNode@details@Concurrency@@UBEPAUITopologyNode@4@XZ"
+
+[header]
+name = "?GetNext@TopologyObject@GlobalNode@details@Concurrency@@UBEPAUITopologyNode@4@XZ"
+addr = 0x3c1861
+
+[header.args]

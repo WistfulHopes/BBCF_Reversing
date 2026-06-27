@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455913Z
+addr = 0x3cf114
+size = 0x72
+name = "?Cancel@InternalContextBase@details@Concurrency@@MAEXXZ"
+
+[header]
+name = "?Cancel@InternalContextBase@details@Concurrency@@MAEXXZ"
+addr = 0x3cf114
+
+[header.args]

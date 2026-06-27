@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454834Z
+addr = 0x3ad8f0
+size = 0x4c
+name = "__CallSettingFrame@12"
+
+[header]
+name = "__CallSettingFrame@12"
+addr = 0x3ad8f0
+
+[header.args]

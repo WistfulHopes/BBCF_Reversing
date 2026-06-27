@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456231Z
+addr = 0x3d7959
+size = 0x42
+name = "?StealForeignLocalRunnable@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVSchedulingNode@23@@Z"
+
+[header]
+name = "?StealForeignLocalRunnable@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVSchedulingNode@23@@Z"
+addr = 0x3d7959
+
+[header.args]

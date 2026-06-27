@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454780Z
+addr = 0x3ab4eb
+size = 0x17
+name = "@_EH4_LocalUnwind@16"
+
+[header]
+name = "@_EH4_LocalUnwind@16"
+addr = 0x3ab4eb
+
+[header.args]

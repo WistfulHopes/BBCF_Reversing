@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455101Z
+addr = 0x3bbf52
+size = 0x1d
+name = "?PopContextFromTls@ContextBase@details@Concurrency@@AAEPAV123@XZ"
+
+[header]
+name = "?PopContextFromTls@ContextBase@details@Concurrency@@AAEPAV123@XZ"
+addr = 0x3bbf52
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454023Z
+addr = 0x387aaf
+size = 0x176
+name = "??$_Getloctxt@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@YAHAAV?$istreambuf_iterator@DU?$char_traits@D@std@@@0@0IPBD@Z"
+
+[header]
+name = "??$_Getloctxt@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@YAHAAV?$istreambuf_iterator@DU?$char_traits@D@std@@@0@0IPBD@Z"
+addr = 0x387aaf
+
+[header.args]

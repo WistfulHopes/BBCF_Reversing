@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454932Z
+addr = 0x3b1be4
+size = 0x321
+name = "__tzset_nolock"
+
+[header]
+name = "__tzset_nolock"
+addr = 0x3b1be4
+
+[header.args]

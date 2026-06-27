@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454088Z
+addr = 0x38b7f5
+size = 0x59
+name = "??4?$_Yarn@_W@std@@QAEAAV01@PB_W@Z"
+
+[header]
+name = "??4?$_Yarn@_W@std@@QAEAAV01@PB_W@Z"
+addr = 0x38b7f5
+
+[header.args]

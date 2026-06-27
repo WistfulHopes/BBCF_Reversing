@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452307Z
+addr = 0x3a7a0
+size = 0x355
+name = "AADX_CRenderer::AADX_CRenderer"
+
+[header]
+name = "AADX_CRenderer::AADX_CRenderer"
+addr = 0x3a7a0
+
+[header.args]

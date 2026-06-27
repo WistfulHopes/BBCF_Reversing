@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455348Z
+addr = 0x3c076c
+size = 0x4d
+name = "?DiscardExistingSchedulerStatistics@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?DiscardExistingSchedulerStatistics@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c076c
+
+[header.args]

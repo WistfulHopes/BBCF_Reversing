@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454517Z
+addr = 0x3a4563
+size = 0x3a
+name = "__unlock_file"
+
+[header]
+name = "__unlock_file"
+addr = 0x3a4563
+
+[header.args]

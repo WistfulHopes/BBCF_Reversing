@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455605Z
+addr = 0x3c7c26
+size = 0x41
+name = "__putwch_nolock"
+
+[header]
+name = "__putwch_nolock"
+addr = 0x3c7c26
+
+[header.args]

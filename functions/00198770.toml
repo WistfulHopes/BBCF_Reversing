@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453594Z
+addr = 0x198770
+size = 0x68
+name = "OBJ_CBase::OrderVoice"
+
+[header]
+name = "OBJ_CBase::OrderVoice"
+addr = 0x198770
+
+[header.args]

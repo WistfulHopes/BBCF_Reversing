@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453916Z
+addr = 0x240eb0
+size = 0x19d
+name = "GAME_CETCObjParam::GAME_CETCObjParam"
+
+[header]
+name = "GAME_CETCObjParam::GAME_CETCObjParam"
+addr = 0x240eb0
+
+[header.args]

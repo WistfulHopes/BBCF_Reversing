@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452520Z
+addr = 0x726b0
+size = 0x36
+name = "AASTEAM_SystemManager::InitParticle"
+
+[header]
+name = "AASTEAM_SystemManager::InitParticle"
+addr = 0x726b0
+
+[header.args]

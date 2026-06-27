@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456103Z
+addr = 0x3d2951
+size = 0x18
+name = "?Prepare@?$ThreadProxyFactory@VFreeThreadProxy@details@Concurrency@@@details@Concurrency@@MAEXPAVFreeThreadProxy@23@H@Z"
+
+[header]
+name = "?Prepare@?$ThreadProxyFactory@VFreeThreadProxy@details@Concurrency@@@details@Concurrency@@MAEXPAVFreeThreadProxy@23@H@Z"
+addr = 0x3d2951
+
+[header.args]

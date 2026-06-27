@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454358Z
+addr = 0x39f61d
+size = 0xd4
+name = "sqrt"
+
+[header]
+name = "sqrt"
+addr = 0x39f61d
+
+[header.args]

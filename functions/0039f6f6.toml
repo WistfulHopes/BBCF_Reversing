@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454359Z
+addr = 0x39f6f6
+size = 0x75
+name = "__ftol2"
+
+[header]
+name = "__ftol2"
+addr = 0x39f6f6
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452428Z
+addr = 0x597b0
+size = 0x16
+name = "AA_CCollision_JON::GetViewOfsZ"
+
+[header]
+name = "AA_CCollision_JON::GetViewOfsZ"
+addr = 0x597b0
+
+[header.args]

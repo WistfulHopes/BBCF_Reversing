@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454450Z
+addr = 0x3a281c
+size = 0x50
+name = "__isupper_l"
+
+[header]
+name = "__isupper_l"
+addr = 0x3a281c
+
+[header.args]

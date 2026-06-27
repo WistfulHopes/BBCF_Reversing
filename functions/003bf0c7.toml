@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455275Z
+addr = 0x3bf0c7
+size = 0xe
+name = "?RemoveSegments@FairScheduleGroup@details@Concurrency@@MAEXXZ"
+
+[header]
+name = "?RemoveSegments@FairScheduleGroup@details@Concurrency@@MAEXXZ"
+addr = 0x3bf0c7
+
+[header.args]

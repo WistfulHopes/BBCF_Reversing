@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454170Z
+addr = 0x39a80f
+size = 0x21
+name = "__Getcoll"
+
+[header]
+name = "__Getcoll"
+addr = 0x39a80f
+
+[header.args]

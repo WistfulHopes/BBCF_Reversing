@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456327Z
+addr = 0x41fc11
+size = 0x2d
+name = "__Thrd_start"
+
+[header]
+name = "__Thrd_start"
+addr = 0x41fc11
+
+[header.args]

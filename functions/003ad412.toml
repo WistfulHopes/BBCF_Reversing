@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454814Z
+addr = 0x3ad412
+size = 0x26
+name = "__callnewh"
+
+[header]
+name = "__callnewh"
+addr = 0x3ad412
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455223Z
+addr = 0x3bdf30
+size = 0x7f
+name = "?Grow@QuickBitSet@details@Concurrency@@QAEXI@Z"
+
+[header]
+name = "?Grow@QuickBitSet@details@Concurrency@@QAEXI@Z"
+addr = 0x3bdf30
+
+[header.args]

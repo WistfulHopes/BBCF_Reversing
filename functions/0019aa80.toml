@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453762Z
+addr = 0x19aa80
+size = 0x6a
+name = "OBJ_CBase::SetDestColor"
+
+[header]
+name = "OBJ_CBase::SetDestColor"
+addr = 0x19aa80
+
+[header.args]

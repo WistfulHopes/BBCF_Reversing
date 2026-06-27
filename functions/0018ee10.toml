@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453247Z
+addr = 0x18ee10
+size = 0x25
+name = "OBJ_CBase::AtkTate"
+
+[header]
+name = "OBJ_CBase::AtkTate"
+addr = 0x18ee10
+
+[header.args]

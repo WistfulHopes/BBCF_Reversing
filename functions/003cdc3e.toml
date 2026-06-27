@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455839Z
+addr = 0x3cdc3e
+size = 0x1e
+name = "?CheckAffinityNotification@VirtualProcessor@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?CheckAffinityNotification@VirtualProcessor@details@Concurrency@@QAE_NXZ"
+addr = 0x3cdc3e
+
+[header.args]

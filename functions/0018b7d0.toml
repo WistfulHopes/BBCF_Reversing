@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452943Z
+addr = 0x18b7d0
+size = 0x146
+name = "OBJ_CBase::CalcPushCollision"
+
+[header]
+name = "OBJ_CBase::CalcPushCollision"
+addr = 0x18b7d0
+
+[header.args]

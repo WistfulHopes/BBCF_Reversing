@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453905Z
+addr = 0x237db0
+size = 0x27
+name = "GAME_CETCObjParam::CreateObjectByID"
+
+[header]
+name = "GAME_CETCObjParam::CreateObjectByID"
+addr = 0x237db0
+
+[header.args]

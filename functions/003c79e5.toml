@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455593Z
+addr = 0x3c79e5
+size = 0x84
+name = "__local_unwind2"
+
+[header]
+name = "__local_unwind2"
+addr = 0x3c79e5
+
+[header.args]

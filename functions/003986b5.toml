@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454134Z
+addr = 0x3986b5
+size = 0x35
+name = "?_Put@?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@CA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@2@I@Z"
+
+[header]
+name = "?_Put@?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@CA?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@V?$_String_const_iterator@V?$_String_val@U?$_Simple_types@D@std@@@std@@@2@I@Z"
+addr = 0x3986b5
+
+[header.args]

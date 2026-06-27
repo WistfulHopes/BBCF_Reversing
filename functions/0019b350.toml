@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453798Z
+addr = 0x19b350
+size = 0x10
+name = "OBJ_CBase::SetScaleY"
+
+[header]
+name = "OBJ_CBase::SetScaleY"
+addr = 0x19b350
+
+[header.args]

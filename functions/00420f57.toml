@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456412Z
+addr = 0x420f57
+size = 0xab
+name = "_IsRootUNCName"
+
+[header]
+name = "_IsRootUNCName"
+addr = 0x420f57
+
+[header.args]

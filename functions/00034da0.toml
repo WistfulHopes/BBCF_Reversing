@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452304Z
+addr = 0x34da0
+size = 0xb
+name = "?unlock@stl_critical_section_vista@details@Concurrency@@UAEXXZ"
+
+[header]
+name = "?unlock@stl_critical_section_vista@details@Concurrency@@UAEXXZ"
+addr = 0x34da0
+
+[header.args]

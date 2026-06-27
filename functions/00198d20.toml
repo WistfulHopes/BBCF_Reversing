@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453624Z
+addr = 0x198d20
+size = 0x29
+name = "OBJ_CBase::PerRed"
+
+[header]
+name = "OBJ_CBase::PerRed"
+addr = 0x198d20
+
+[header.args]

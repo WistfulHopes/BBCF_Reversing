@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454987Z
+addr = 0x3b52ad
+size = 0x5b
+name = "_findenv"
+
+[header]
+name = "_findenv"
+addr = 0x3b52ad
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453830Z
+addr = 0x19ece0
+size = 0x18
+name = "OBJ_CBase::SyncEntry"
+
+[header]
+name = "OBJ_CBase::SyncEntry"
+addr = 0x19ece0
+
+[header.args]

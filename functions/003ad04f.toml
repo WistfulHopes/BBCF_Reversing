@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454812Z
+addr = 0x3ad04f
+size = 0x24
+name = "__GET_RTERRMSG"
+
+[header]
+name = "__GET_RTERRMSG"
+addr = 0x3ad04f
+
+[header.args]

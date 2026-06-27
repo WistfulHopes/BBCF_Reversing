@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452662Z
+addr = 0xe5680
+size = 0x6c
+name = "game_Stat_PCoinManager::GetInstance"
+
+[header]
+name = "game_Stat_PCoinManager::GetInstance"
+addr = 0xe5680
+
+[header.args]

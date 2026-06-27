@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452385Z
+addr = 0x50410
+size = 0xc9
+name = "AAWin_CFileReader_Thread::GetFileSize"
+
+[header]
+name = "AAWin_CFileReader_Thread::GetFileSize"
+addr = 0x50410
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455801Z
+addr = 0x3cd203
+size = 0x26
+name = "?ReleaseInternalContext@ScheduleGroupSegmentBase@details@Concurrency@@IAEXPAVInternalContextBase@23@@Z"
+
+[header]
+name = "?ReleaseInternalContext@ScheduleGroupSegmentBase@details@Concurrency@@IAEXPAVInternalContextBase@23@@Z"
+addr = 0x3cd203
+
+[header.args]

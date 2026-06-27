@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452440Z
+addr = 0x59b40
+size = 0x15
+name = "AA_CCollision_JON::SetUnkPosX"
+
+[header]
+name = "AA_CCollision_JON::SetUnkPosX"
+addr = 0x59b40
+
+[header.args]

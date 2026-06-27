@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452576Z
+addr = 0x82c00
+size = 0x4cc
+name = "AA_Main"
+
+[header]
+name = "AA_Main"
+addr = 0x82c00
+
+[header.args]

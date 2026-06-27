@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456394Z
+addr = 0x4205d7
+size = 0x386
+name = "__fstat64"
+
+[header]
+name = "__fstat64"
+addr = 0x4205d7
+
+[header.args]

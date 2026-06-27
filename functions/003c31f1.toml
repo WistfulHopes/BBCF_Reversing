@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455421Z
+addr = 0x3c31f1
+size = 0x57
+name = "?ResetGlobalAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?ResetGlobalAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c31f1
+
+[header.args]

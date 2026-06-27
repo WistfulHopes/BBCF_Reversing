@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454196Z
+addr = 0x39b927
+size = 0xd4
+name = "__FXp_mulx"
+
+[header]
+name = "__FXp_mulx"
+addr = 0x39b927
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452919Z
+addr = 0x182130
+size = 0x43
+name = "OBJ_CBase::ActionRequestGotoLabelOnly"
+
+[header]
+name = "OBJ_CBase::ActionRequestGotoLabelOnly"
+addr = 0x182130
+
+[header.args]

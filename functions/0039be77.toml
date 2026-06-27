@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454203Z
+addr = 0x39be77
+size = 0x2e3
+name = "__Xp_addh"
+
+[header]
+name = "__Xp_addh"
+addr = 0x39be77
+
+[header.args]

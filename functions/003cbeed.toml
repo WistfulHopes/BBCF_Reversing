@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455725Z
+addr = 0x3cbeed
+size = 0x30
+name = "?GetLoggerHandle@Etw@details@Concurrency@@QAE_KPAX@Z"
+
+[header]
+name = "?GetLoggerHandle@Etw@details@Concurrency@@QAE_KPAX@Z"
+addr = 0x3cbeed
+
+[header.args]

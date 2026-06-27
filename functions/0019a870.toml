@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453748Z
+addr = 0x19a870
+size = 0x10
+name = "OBJ_CBase::SetCommonActionMark"
+
+[header]
+name = "OBJ_CBase::SetCommonActionMark"
+addr = 0x19a870
+
+[header.args]

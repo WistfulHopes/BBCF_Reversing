@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454876Z
+addr = 0x3aee0c
+size = 0x66
+name = "__d_inttype"
+
+[header]
+name = "__d_inttype"
+addr = 0x3aee0c
+
+[header.args]

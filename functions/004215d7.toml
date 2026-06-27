@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456417Z
+addr = 0x4215d7
+size = 0xcd
+name = "__getdrive"
+
+[header]
+name = "__getdrive"
+addr = 0x4215d7
+
+[header.args]

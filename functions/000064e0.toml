@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452132Z
+addr = 0x64e0
+size = 0x14
+name = "AA_Cos_x1000"
+
+[header]
+name = "AA_Cos_x1000"
+addr = 0x64e0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455512Z
+addr = 0x3c622a
+size = 0x1f
+name = "?DispatchEventTimer@TimedSingleWaitBlock@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+
+[header]
+name = "?DispatchEventTimer@TimedSingleWaitBlock@details@Concurrency@@SGXPAU_TP_CALLBACK_INSTANCE@@PAXPAU_TP_TIMER@@@Z"
+addr = 0x3c622a
+
+[header.args]

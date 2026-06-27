@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455537Z
+addr = 0x3c6732
+size = 0x5c
+name = "?notify_all@_Condition_variable@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?notify_all@_Condition_variable@details@Concurrency@@QAEXXZ"
+addr = 0x3c6732
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455055Z
+addr = 0x3bb455
+size = 0x19
+name = "??0CancellationBeaconStack@ContextBase@details@Concurrency@@QAE@XZ"
+
+[header]
+name = "??0CancellationBeaconStack@ContextBase@details@Concurrency@@QAE@XZ"
+addr = 0x3bb455
+
+[header.args]

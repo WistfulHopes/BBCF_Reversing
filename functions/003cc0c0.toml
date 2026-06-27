@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455734Z
+addr = 0x3cc0c0
+size = 0x4c
+name = "??0WorkQueue@details@Concurrency@@QAE@XZ"
+
+[header]
+name = "??0WorkQueue@details@Concurrency@@QAE@XZ"
+addr = 0x3cc0c0
+
+[header.args]

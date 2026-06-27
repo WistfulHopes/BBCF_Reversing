@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452354Z
+addr = 0x4bbc0
+size = 0x155
+name = "AA_CGlobalTextureData::Init"
+
+[header]
+name = "AA_CGlobalTextureData::Init"
+addr = 0x4bbc0
+
+[header.args]

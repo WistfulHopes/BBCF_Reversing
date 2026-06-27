@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452446Z
+addr = 0x5a180
+size = 0x11a
+name = "AA_CParticleResourceMngr::GetResource"
+
+[header]
+name = "AA_CParticleResourceMngr::GetResource"
+addr = 0x5a180
+
+[header.args]

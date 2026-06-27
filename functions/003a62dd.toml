@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454641Z
+addr = 0x3a62dd
+size = 0x1e
+name = "?DerefTimerNode@LockQueueNode@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?DerefTimerNode@LockQueueNode@details@Concurrency@@QAEXXZ"
+addr = 0x3a62dd
+
+[header.args]

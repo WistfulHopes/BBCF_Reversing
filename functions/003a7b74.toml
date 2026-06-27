@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454736Z
+addr = 0x3a7b74
+size = 0x19
+name = "_wcslen"
+
+[header]
+name = "_wcslen"
+addr = 0x3a7b74
+
+[header.args]

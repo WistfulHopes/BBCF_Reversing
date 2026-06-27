@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454587Z
+addr = 0x3a5f96
+size = 0x49
+name = "__malloc_crt"
+
+[header]
+name = "__malloc_crt"
+addr = 0x3a5f96
+
+[header.args]

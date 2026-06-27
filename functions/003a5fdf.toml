@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454626Z
+addr = 0x3a5fdf
+size = 0x4c
+name = "__realloc_crt"
+
+[header]
+name = "__realloc_crt"
+addr = 0x3a5fdf
+
+[header.args]

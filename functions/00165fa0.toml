@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452789Z
+addr = 0x165fa0
+size = 0x6c
+name = "BATTLE_CScreenManager::GetInstance"
+
+[header]
+name = "BATTLE_CScreenManager::GetInstance"
+addr = 0x165fa0
+
+[header.args]

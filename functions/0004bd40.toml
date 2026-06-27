@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452356Z
+addr = 0x4bd40
+size = 0x8a
+name = "AA_CGlobalTextureData::GetInstance"
+
+[header]
+name = "AA_CGlobalTextureData::GetInstance"
+addr = 0x4bd40
+
+[header.args]

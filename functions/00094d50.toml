@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452594Z
+addr = 0x94d50
+size = 0x86
+name = "GAME_CFadeController::Func"
+
+[header]
+name = "GAME_CFadeController::Func"
+addr = 0x94d50
+
+[header.args]

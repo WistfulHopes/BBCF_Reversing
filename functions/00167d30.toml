@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452799Z
+addr = 0x167d30
+size = 0xfae
+name = "SCENE_CBattle::Loading"
+
+[header]
+name = "SCENE_CBattle::Loading"
+addr = 0x167d30
+
+[header.args]

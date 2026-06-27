@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452658Z
+addr = 0xe17b0
+size = 0x4f
+name = "BATTLE_CSpeedStarModeTimeCtrl::BATTLE_CSpeedStarModeTimeCtrl"
+
+[header]
+name = "BATTLE_CSpeedStarModeTimeCtrl::BATTLE_CSpeedStarModeTimeCtrl"
+addr = 0xe17b0
+
+[header.args]

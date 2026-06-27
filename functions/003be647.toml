@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455235Z
+addr = 0x3be647
+size = 0x1d
+name = "?IsActive@ExternalStatistics@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?IsActive@ExternalStatistics@details@Concurrency@@QAE_NXZ"
+addr = 0x3be647
+
+[header.args]

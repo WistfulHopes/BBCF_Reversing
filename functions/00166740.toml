@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452790Z
+addr = 0x166740
+size = 0x14b
+name = "BATTLE_CScreenManager::SetScreenCornerObject"
+
+[header]
+name = "BATTLE_CScreenManager::SetScreenCornerObject"
+addr = 0x166740
+
+[header.args]

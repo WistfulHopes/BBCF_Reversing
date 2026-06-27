@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453854Z
+addr = 0x1c2320
+size = 0x14
+name = "OBJ_CCharBase::GetExGage"
+
+[header]
+name = "OBJ_CCharBase::GetExGage"
+addr = 0x1c2320
+
+[header.args]

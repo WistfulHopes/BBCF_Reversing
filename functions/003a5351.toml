@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454554Z
+addr = 0x3a5351
+size = 0x22
+name = "__initterm_e"
+
+[header]
+name = "__initterm_e"
+addr = 0x3a5351
+
+[header.args]

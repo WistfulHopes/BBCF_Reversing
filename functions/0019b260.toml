@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453787Z
+addr = 0x19b260
+size = 0x10
+name = "OBJ_CBase::InitAtkStarterRating"
+
+[header]
+name = "OBJ_CBase::InitAtkStarterRating"
+addr = 0x19b260
+
+[header.args]

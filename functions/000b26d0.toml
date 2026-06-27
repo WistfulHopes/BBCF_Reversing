@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452615Z
+addr = 0xb26d0
+size = 0x91
+name = "InitParticleFactory"
+
+[header]
+name = "InitParticleFactory"
+addr = 0xb26d0
+
+[header.args]

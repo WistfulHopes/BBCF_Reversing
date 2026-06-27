@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455730Z
+addr = 0x3cbf86
+size = 0x2c
+name = "?UnregisterGuids@Etw@details@Concurrency@@QAEK_K@Z"
+
+[header]
+name = "?UnregisterGuids@Etw@details@Concurrency@@QAEK_K@Z"
+addr = 0x3cbf86
+
+[header.args]

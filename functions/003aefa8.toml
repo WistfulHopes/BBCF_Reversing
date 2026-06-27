@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454879Z
+addr = 0x3aefa8
+size = 0x21
+name = "__cfltcvt"
+
+[header]
+name = "__cfltcvt"
+addr = 0x3aefa8
+
+[header.args]

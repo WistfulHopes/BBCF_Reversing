@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456225Z
+addr = 0x3d7897
+size = 0x1d
+name = "?ServiceMark@ScheduleGroupSegmentBase@details@Concurrency@@QAEXK@Z"
+
+[header]
+name = "?ServiceMark@ScheduleGroupSegmentBase@details@Concurrency@@QAEXK@Z"
+addr = 0x3d7897
+
+[header.args]

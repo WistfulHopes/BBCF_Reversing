@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455739Z
+addr = 0x3cc1a4
+size = 0x11
+name = "?StaticRedetachFromScheduleGroup@WorkQueue@details@Concurrency@@CAXPAV123@@Z"
+
+[header]
+name = "?StaticRedetachFromScheduleGroup@WorkQueue@details@Concurrency@@CAXPAV123@@Z"
+addr = 0x3cc1a4
+
+[header.args]

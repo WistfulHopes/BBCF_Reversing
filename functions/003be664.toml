@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455237Z
+addr = 0x3be664
+size = 0x34
+name = "?IsAvailableLocation@SchedulerBase@details@Concurrency@@UBE_NABVlocation@3@@Z"
+
+[header]
+name = "?IsAvailableLocation@SchedulerBase@details@Concurrency@@UBE_NABVlocation@3@@Z"
+addr = 0x3be664
+
+[header.args]

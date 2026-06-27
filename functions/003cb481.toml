@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455685Z
+addr = 0x3cb481
+size = 0x12d
+name = "?_Abort@_TaskCollection@details@Concurrency@@AAEX_N@Z"
+
+[header]
+name = "?_Abort@_TaskCollection@details@Concurrency@@AAEX_N@Z"
+addr = 0x3cb481
+
+[header.args]

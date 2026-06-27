@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452740Z
+addr = 0x158f30
+size = 0x50a
+name = "BATTLE_CObjectManager::ControlBattleObject_EtcEffect"
+
+[header]
+name = "BATTLE_CObjectManager::ControlBattleObject_EtcEffect"
+addr = 0x158f30
+
+[header.args]

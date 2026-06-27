@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454479Z
+addr = 0x3a30c1
+size = 0xa4
+name = "_strncpy_s"
+
+[header]
+name = "_strncpy_s"
+addr = 0x3a30c1
+
+[header.args]

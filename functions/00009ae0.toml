@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452218Z
+addr = 0x9ae0
+size = 0x44
+name = "AA_CModelData::AddModel"
+
+[header]
+name = "AA_CModelData::AddModel"
+addr = 0x9ae0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452596Z
+addr = 0x94ef0
+size = 0x6c
+name = "GAME_CFadeTaskManager::GetInstance"
+
+[header]
+name = "GAME_CFadeTaskManager::GetInstance"
+addr = 0x94ef0
+
+[header.args]

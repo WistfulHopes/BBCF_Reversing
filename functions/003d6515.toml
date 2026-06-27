@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456175Z
+addr = 0x3d6515
+size = 0x47
+name = "?_FastNodeIntersects@location@Concurrency@@QBE_NABV12@@Z"
+
+[header]
+name = "?_FastNodeIntersects@location@Concurrency@@QBE_NABV12@@Z"
+addr = 0x3d6515
+
+[header.args]

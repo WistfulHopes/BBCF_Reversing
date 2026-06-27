@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452857Z
+addr = 0x17cca0
+size = 0x7
+name = "OBJ_CBase::GetHitPointMax"
+
+[header]
+name = "OBJ_CBase::GetHitPointMax"
+addr = 0x17cca0
+
+[header.args]

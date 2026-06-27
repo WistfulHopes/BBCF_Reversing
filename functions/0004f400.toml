@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452374Z
+addr = 0x4f400
+size = 0xca
+name = "AAWin_FPSTimer::AAWin_FPSTimer"
+
+[header]
+name = "AAWin_FPSTimer::AAWin_FPSTimer"
+addr = 0x4f400
+
+[header.args]

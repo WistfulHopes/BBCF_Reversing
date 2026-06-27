@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453531Z
+addr = 0x195d40
+size = 0x45
+name = "OBJ_CBase::InterruptAction"
+
+[header]
+name = "OBJ_CBase::InterruptAction"
+addr = 0x195d40
+
+[header.args]

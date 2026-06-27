@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455133Z
+addr = 0x3bcb7b
+size = 0x4a
+name = "??_ENumaInformation@SchedulerBase@details@Concurrency@@QAEPAXI@Z"
+
+[header]
+name = "??_ENumaInformation@SchedulerBase@details@Concurrency@@QAEPAXI@Z"
+addr = 0x3bcb7b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452450Z
+addr = 0x5f840
+size = 0x6a
+name = "_`CXXBYTE<32>`::Append"
+
+[header]
+name = "_`CXXBYTE<32>`::Append"
+addr = 0x5f840
+
+[header.args]

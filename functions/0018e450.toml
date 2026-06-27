@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453133Z
+addr = 0x18e450
+size = 0x25
+name = "OBJ_CBase::AtkEnemyCellFix"
+
+[header]
+name = "OBJ_CBase::AtkEnemyCellFix"
+addr = 0x18e450
+
+[header.args]

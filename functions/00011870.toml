@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452280Z
+addr = 0x11870
+size = 0x73
+name = "AA_CRenderer:AA_CRenderer"
+
+[header]
+name = "AA_CRenderer:AA_CRenderer"
+addr = 0x11870
+
+[header.args]

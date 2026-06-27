@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456388Z
+addr = 0x420484
+size = 0x2d
+name = "__endthreadex"
+
+[header]
+name = "__endthreadex"
+addr = 0x420484
+
+[header.args]

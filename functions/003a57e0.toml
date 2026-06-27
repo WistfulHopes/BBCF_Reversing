@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454562Z
+addr = 0x3a57e0
+size = 0x36
+name = "__EH_prolog3_GS"
+
+[header]
+name = "__EH_prolog3_GS"
+addr = 0x3a57e0
+
+[header.args]

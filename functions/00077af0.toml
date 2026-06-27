@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452532Z
+addr = 0x77af0
+size = 0x31
+name = "GAME_SGameLogFile::WriteLog"
+
+[header]
+name = "GAME_SGameLogFile::WriteLog"
+addr = 0x77af0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455917Z
+addr = 0x3cf32d
+size = 0x3d
+name = "?ExecuteChoreInline@InternalContextBase@details@Concurrency@@IAEXPAVWorkItem@23@@Z"
+
+[header]
+name = "?ExecuteChoreInline@InternalContextBase@details@Concurrency@@IAEXPAVWorkItem@23@@Z"
+addr = 0x3cf32d
+
+[header.args]

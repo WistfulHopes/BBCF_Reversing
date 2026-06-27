@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454240Z
+addr = 0x39d480
+size = 0x6c
+name = "__fclose_nolock"
+
+[header]
+name = "__fclose_nolock"
+addr = 0x39d480
+
+[header.args]

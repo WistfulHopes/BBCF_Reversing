@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455922Z
+addr = 0x3cf4d6
+size = 0x2c
+name = "?Free@InternalContextBase@details@Concurrency@@UAEXPAX@Z"
+
+[header]
+name = "?Free@InternalContextBase@details@Concurrency@@UAEXPAX@Z"
+addr = 0x3cf4d6
+
+[header.args]

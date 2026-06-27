@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452136Z
+addr = 0x6740
+size = 0x77
+name = "AA_Sin_x1000"
+
+[header]
+name = "AA_Sin_x1000"
+addr = 0x6740
+
+[header.args]

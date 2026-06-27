@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453963Z
+addr = 0x2cc450
+size = 0x1c
+name = "GAME_CInformation::IsTrainingMode"
+
+[header]
+name = "GAME_CInformation::IsTrainingMode"
+addr = 0x2cc450
+
+[header.args]

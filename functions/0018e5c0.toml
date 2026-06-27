@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453148Z
+addr = 0x18e5c0
+size = 0xb
+name = "OBJ_CBase::AtkFreezeLimitCounterHitReset"
+
+[header]
+name = "OBJ_CBase::AtkFreezeLimitCounterHitReset"
+addr = 0x18e5c0
+
+[header.args]

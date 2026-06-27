@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454366Z
+addr = 0x39f8d0
+size = 0xc8
+name = "__vsnprintf_helper"
+
+[header]
+name = "__vsnprintf_helper"
+addr = 0x39f8d0
+
+[header.args]

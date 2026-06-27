@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455329Z
+addr = 0x3bffbe
+size = 0x1b
+name = "?CleanupTopologyInformation@ResourceManager@details@Concurrency@@CAXXZ"
+
+[header]
+name = "?CleanupTopologyInformation@ResourceManager@details@Concurrency@@CAXXZ"
+addr = 0x3bffbe
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456042Z
+addr = 0x3d184b
+size = 0xb8
+name = "?AddCore@SchedulerProxy@details@Concurrency@@QAEXPAUSchedulerNode@23@I_N@Z"
+
+[header]
+name = "?AddCore@SchedulerProxy@details@Concurrency@@QAEXPAUSchedulerNode@23@I_N@Z"
+addr = 0x3d184b
+
+[header.args]

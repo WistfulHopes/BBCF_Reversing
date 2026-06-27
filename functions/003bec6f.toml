@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455252Z
+addr = 0x3bec6f
+size = 0x5
+name = "j_Concurrency::details::ScheduleGroupBase::InternalRelease"
+
+[header]
+name = "j_Concurrency::details::ScheduleGroupBase::InternalRelease"
+addr = 0x3bec6f
+
+[header.args]

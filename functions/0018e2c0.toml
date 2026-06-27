@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453113Z
+addr = 0x18e2c0
+size = 0xb
+name = "OBJ_CBase::AtkDamageReset"
+
+[header]
+name = "OBJ_CBase::AtkDamageReset"
+addr = 0x18e2c0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452940Z
+addr = 0x18b640
+size = 0xb3
+name = "OBJ_CBase::ScriptInitialize"
+
+[header]
+name = "OBJ_CBase::ScriptInitialize"
+addr = 0x18b640
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453386Z
+addr = 0x1917c0
+size = 0x7b
+name = "OBJ_CBase::CreateParticle"
+
+[header]
+name = "OBJ_CBase::CreateParticle"
+addr = 0x1917c0
+
+[header.args]

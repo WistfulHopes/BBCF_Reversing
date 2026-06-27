@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454461Z
+addr = 0x3a29cc
+size = 0x2b
+name = "_isspace"
+
+[header]
+name = "_isspace"
+addr = 0x3a29cc
+
+[header.args]

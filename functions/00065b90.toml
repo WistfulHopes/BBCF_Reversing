@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452482Z
+addr = 0x65b90
+size = 0x16
+name = "GAMESTEAM_CClassGenerator::CreateScriptInstanceFactory"
+
+[header]
+name = "GAMESTEAM_CClassGenerator::CreateScriptInstanceFactory"
+addr = 0x65b90
+
+[header.args]

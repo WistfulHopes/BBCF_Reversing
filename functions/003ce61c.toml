@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455876Z
+addr = 0x3ce61c
+size = 0x7d
+name = "??0SchedulingNode@details@Concurrency@@QAE@ABVQuickBitSet@12@KPAVSchedulingRing@12@@Z"
+
+[header]
+name = "??0SchedulingNode@details@Concurrency@@QAE@ABVQuickBitSet@12@KPAVSchedulingRing@12@@Z"
+addr = 0x3ce61c
+
+[header.args]

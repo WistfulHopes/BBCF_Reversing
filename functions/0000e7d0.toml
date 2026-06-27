@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452263Z
+addr = 0xe7d0
+size = 0x39
+name = "AA_CTextureData::CreateTexture"
+
+[header]
+name = "AA_CTextureData::CreateTexture"
+addr = 0xe7d0
+
+[header.args]

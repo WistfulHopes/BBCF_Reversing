@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455846Z
+addr = 0x3cdd94
+size = 0x74
+name = "?ExerciseClaim@VirtualProcessor@details@Concurrency@@AAE_NW4AvailabilityType@123@PAVScheduleGroupSegmentBase@23@PAVInternalContextBase@23@@Z"
+
+[header]
+name = "?ExerciseClaim@VirtualProcessor@details@Concurrency@@AAE_NW4AvailabilityType@123@PAVScheduleGroupSegmentBase@23@PAVInternalContextBase@23@@Z"
+addr = 0x3cdd94
+
+[header.args]

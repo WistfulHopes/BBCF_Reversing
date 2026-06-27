@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453994Z
+addr = 0x387521
+size = 0x69
+name = "__Getcvt"
+
+[header]
+name = "__Getcvt"
+addr = 0x387521
+
+[header.args]

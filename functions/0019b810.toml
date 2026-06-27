@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453812Z
+addr = 0x19b810
+size = 0x2c
+name = "OBJ_CBase::SetTransformCenterY"
+
+[header]
+name = "OBJ_CBase::SetTransformCenterY"
+addr = 0x19b810
+
+[header.args]

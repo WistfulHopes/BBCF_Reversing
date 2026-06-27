@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455425Z
+addr = 0x3c34af
+size = 0x1f
+name = "?SafeReference@ResourceManager@details@Concurrency@@AAE_NXZ"
+
+[header]
+name = "?SafeReference@ResourceManager@details@Concurrency@@AAE_NXZ"
+addr = 0x3c34af
+
+[header.args]

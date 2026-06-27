@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454674Z
+addr = 0x3a66be
+size = 0x39
+name = "?_WaitEquals@_ReaderWriterLock@details@Concurrency@@CAXADJJJ@Z"
+
+[header]
+name = "?_WaitEquals@_ReaderWriterLock@details@Concurrency@@CAXADJJJ@Z"
+addr = 0x3a66be
+
+[header.args]

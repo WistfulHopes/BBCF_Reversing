@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455230Z
+addr = 0x3be592
+size = 0x3e
+name = "?Intersects@QuickBitSet@details@Concurrency@@QBE_NABV123@@Z"
+
+[header]
+name = "?Intersects@QuickBitSet@details@Concurrency@@QBE_NABV123@@Z"
+addr = 0x3be592
+
+[header.args]

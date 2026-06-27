@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453601Z
+addr = 0x198860
+size = 0x10
+name = "OBJ_CBase::EffFadeParam0"
+
+[header]
+name = "OBJ_CBase::EffFadeParam0"
+addr = 0x198860
+
+[header.args]

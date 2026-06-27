@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452494Z
+addr = 0x70610
+size = 0x5
+name = "StaticFinalize"
+
+[header]
+name = "StaticFinalize"
+addr = 0x70610
+
+[header.args]

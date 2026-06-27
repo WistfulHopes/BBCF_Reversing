@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453461Z
+addr = 0x1947c0
+size = 0x25
+name = "OBJ_CBase::IgnoreWorldStop"
+
+[header]
+name = "OBJ_CBase::IgnoreWorldStop"
+addr = 0x1947c0
+
+[header.args]

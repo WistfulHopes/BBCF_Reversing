@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453353Z
+addr = 0x190430
+size = 0x25
+name = "OBJ_CBase::CellStopByLockWait"
+
+[header]
+name = "OBJ_CBase::CellStopByLockWait"
+addr = 0x190430
+
+[header.args]

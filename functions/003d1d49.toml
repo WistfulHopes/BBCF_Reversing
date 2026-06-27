@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456058Z
+addr = 0x3d1d49
+size = 0x7b
+name = "?DecrementFixedCoreCount@SchedulerProxy@details@Concurrency@@QAEXII_N@Z"
+
+[header]
+name = "?DecrementFixedCoreCount@SchedulerProxy@details@Concurrency@@QAEXII_N@Z"
+addr = 0x3d1d49
+
+[header.args]

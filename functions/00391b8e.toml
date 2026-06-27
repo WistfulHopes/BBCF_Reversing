@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454108Z
+addr = 0x391b8e
+size = 0x3e
+name = "?_Maklocwcs@std@@YAPA_WPB_W@Z"
+
+[header]
+name = "?_Maklocwcs@std@@YAPA_WPB_W@Z"
+addr = 0x391b8e
+
+[header.args]

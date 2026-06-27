@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453874Z
+addr = 0x1cec70
+size = 0x52f
+name = "OBJ_CCharBase::ObjectConstructor_ForPlayer"
+
+[header]
+name = "OBJ_CCharBase::ObjectConstructor_ForPlayer"
+addr = 0x1cec70
+
+[header.args]

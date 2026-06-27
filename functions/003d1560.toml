@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456038Z
+addr = 0x3d1560
+size = 0x4c
+name = "?Variance@MeasuredHistory@HillClimbing@details@Concurrency@@QAENXZ"
+
+[header]
+name = "?Variance@MeasuredHistory@HillClimbing@details@Concurrency@@QAENXZ"
+addr = 0x3d1560
+
+[header.args]

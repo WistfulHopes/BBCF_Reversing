@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453857Z
+addr = 0x1c2c30
+size = 0xfc
+name = "OBJ_CBase::IsRecoverableTypeA"
+
+[header]
+name = "OBJ_CBase::IsRecoverableTypeA"
+addr = 0x1c2c30
+
+[header.args]

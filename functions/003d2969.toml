@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456105Z
+addr = 0x3d2969
+size = 0x59
+name = "?ReclaimProxy@?$ThreadProxyFactory@VFreeThreadProxy@details@Concurrency@@@details@Concurrency@@UAEXPAUIThreadProxy@3@@Z"
+
+[header]
+name = "?ReclaimProxy@?$ThreadProxyFactory@VFreeThreadProxy@details@Concurrency@@@details@Concurrency@@UAEXPAUIThreadProxy@3@@Z"
+addr = 0x3d2969
+
+[header.args]

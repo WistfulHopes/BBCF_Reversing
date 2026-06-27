@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456298Z
+addr = 0x414ac0
+size = 0x117
+name = "uncompress"
+
+[header]
+name = "uncompress"
+addr = 0x414ac0
+
+[header.args]

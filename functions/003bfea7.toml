@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455328Z
+addr = 0x3bfea7
+size = 0x117
+name = "?CaptureProcessAffinity@ResourceManager@details@Concurrency@@CAXXZ"
+
+[header]
+name = "?CaptureProcessAffinity@ResourceManager@details@Concurrency@@CAXXZ"
+addr = 0x3bfea7
+
+[header.args]

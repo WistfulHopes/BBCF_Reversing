@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454769Z
+addr = 0x3ab015
+size = 0x10c
+name = "__getstream"
+
+[header]
+name = "__getstream"
+addr = 0x3ab015
+
+[header.args]

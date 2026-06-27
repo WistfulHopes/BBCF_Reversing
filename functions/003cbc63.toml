@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455713Z
+addr = 0x3cbc63
+size = 0x3a
+name = "?_SetCancelState@_TaskCollection@details@Concurrency@@AAE_NJ@Z"
+
+[header]
+name = "?_SetCancelState@_TaskCollection@details@Concurrency@@AAE_NJ@Z"
+addr = 0x3cbc63
+
+[header.args]

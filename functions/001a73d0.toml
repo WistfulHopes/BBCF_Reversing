@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453843Z
+addr = 0x1a73d0
+size = 0xdd
+name = "ConvertRenderStage"
+
+[header]
+name = "ConvertRenderStage"
+addr = 0x1a73d0
+
+[header.args]

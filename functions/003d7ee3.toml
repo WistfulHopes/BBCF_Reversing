@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456256Z
+addr = 0x3d7ee3
+size = 0x5d
+name = "?ResetOnIdle@FreeVirtualProcessorRoot@details@Concurrency@@QAEXW4SwitchingProxyState@3@@Z"
+
+[header]
+name = "?ResetOnIdle@FreeVirtualProcessorRoot@details@Concurrency@@QAEXW4SwitchingProxyState@3@@Z"
+addr = 0x3d7ee3
+
+[header.args]

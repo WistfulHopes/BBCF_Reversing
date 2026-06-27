@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453026Z
+addr = 0x18d830
+size = 0x25
+name = "OBJ_CBase::AfterImage"
+
+[header]
+name = "OBJ_CBase::AfterImage"
+addr = 0x18d830
+
+[header.args]

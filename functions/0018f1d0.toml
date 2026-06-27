@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453337Z
+addr = 0x18f1d0
+size = 0x135
+name = "OBJ_CBase::AttackVoice"
+
+[header]
+name = "OBJ_CBase::AttackVoice"
+addr = 0x18f1d0
+
+[header.args]

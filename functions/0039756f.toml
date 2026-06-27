@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454125Z
+addr = 0x39756f
+size = 0x109
+name = "?_Getfmt@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AAVios_base@2@AAHPAUtm@@PBD@Z"
+
+[header]
+name = "?_Getfmt@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@IBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AAVios_base@2@AAHPAUtm@@PBD@Z"
+addr = 0x39756f
+
+[header.args]

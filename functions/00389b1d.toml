@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454065Z
+addr = 0x389b1d
+size = 0x18
+name = "__Mtx_reset_owner"
+
+[header]
+name = "__Mtx_reset_owner"
+addr = 0x389b1d
+
+[header.args]

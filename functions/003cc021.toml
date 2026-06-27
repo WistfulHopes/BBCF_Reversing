@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455731Z
+addr = 0x3cc021
+size = 0x40
+name = "?_UnregisterConcRTEventTracing@details@Concurrency@@YAXXZ"
+
+[header]
+name = "?_UnregisterConcRTEventTracing@details@Concurrency@@YAXXZ"
+addr = 0x3cc021
+
+[header.args]

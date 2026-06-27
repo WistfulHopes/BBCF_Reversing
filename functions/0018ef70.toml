@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453296Z
+addr = 0x18ef70
+size = 0x10
+name = "OBJ_CBase::AtkStaggerMinTime"
+
+[header]
+name = "OBJ_CBase::AtkStaggerMinTime"
+addr = 0x18ef70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456372Z
+addr = 0x41fff1
+size = 0x7c
+name = "__Call_once"
+
+[header]
+name = "__Call_once"
+addr = 0x41fff1
+
+[header.args]

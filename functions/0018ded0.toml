@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453054Z
+addr = 0x18ded0
+size = 0x10
+name = "OBJ_CBase::AtkAirHitOnly"
+
+[header]
+name = "OBJ_CBase::AtkAirHitOnly"
+addr = 0x18ded0
+
+[header.args]

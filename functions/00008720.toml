@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452169Z
+addr = 0x8720
+size = 0x8a
+name = "AA_CCameraManager::GetInstance"
+
+[header]
+name = "AA_CCameraManager::GetInstance"
+addr = 0x8720
+
+[header.args]

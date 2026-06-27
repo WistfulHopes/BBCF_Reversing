@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453485Z
+addr = 0x194b30
+size = 0x6f
+name = "OBJ_CBase::InitComboRateMultDefaultLevelTable"
+
+[header]
+name = "OBJ_CBase::InitComboRateMultDefaultLevelTable"
+addr = 0x194b30
+
+[header.args]

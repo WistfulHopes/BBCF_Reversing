@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453515Z
+addr = 0x195260
+size = 0xaf
+name = "OBJ_CBase::InitOverDriveTime"
+
+[header]
+name = "OBJ_CBase::InitOverDriveTime"
+addr = 0x195260
+
+[header.args]

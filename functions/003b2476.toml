@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454943Z
+addr = 0x3b2476
+size = 0xe
+name = "___crtFlsFree"
+
+[header]
+name = "___crtFlsFree"
+addr = 0x3b2476
+
+[header.args]

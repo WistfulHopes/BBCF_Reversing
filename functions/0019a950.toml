@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453755Z
+addr = 0x19a950
+size = 0x17
+name = "OBJ_CBase::SetCompositeScaleX"
+
+[header]
+name = "OBJ_CBase::SetCompositeScaleX"
+addr = 0x19a950
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455209Z
+addr = 0x3bdd78
+size = 0x21
+name = "?GetNextSchedulingRing@SchedulerBase@details@Concurrency@@QAEPAVSchedulingRing@23@XZ"
+
+[header]
+name = "?GetNextSchedulingRing@SchedulerBase@details@Concurrency@@QAEPAVSchedulingRing@23@XZ"
+addr = 0x3bdd78
+
+[header.args]

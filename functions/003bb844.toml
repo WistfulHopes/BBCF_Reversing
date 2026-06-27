@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455073Z
+addr = 0x3bb844
+size = 0x27
+name = "?AddTail@?$SafeRWList@UListEntry@details@Concurrency@@VNoCount@CollectionTypes@23@V_ReaderWriterLock@23@@details@Concurrency@@QAEXPAUListEntry@23@@Z"
+
+[header]
+name = "?AddTail@?$SafeRWList@UListEntry@details@Concurrency@@VNoCount@CollectionTypes@23@V_ReaderWriterLock@23@@details@Concurrency@@QAEXPAUListEntry@23@@Z"
+addr = 0x3bb844
+
+[header.args]

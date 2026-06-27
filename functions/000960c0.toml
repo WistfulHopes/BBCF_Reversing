@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452599Z
+addr = 0x960c0
+size = 0xba
+name = "GAME_KeyControler::GAME_KeyControler"
+
+[header]
+name = "GAME_KeyControler::GAME_KeyControler"
+addr = 0x960c0
+
+[header.args]

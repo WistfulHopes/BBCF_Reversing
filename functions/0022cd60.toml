@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453901Z
+addr = 0x22cd60
+size = 0x5
+name = "j_sub_40ab60"
+
+[header]
+name = "j_sub_40ab60"
+addr = 0x22cd60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455360Z
+addr = 0x3c1057
+size = 0x19
+name = "?DynamicRMThreadProc@ResourceManager@details@Concurrency@@CGKPAX@Z"
+
+[header]
+name = "?DynamicRMThreadProc@ResourceManager@details@Concurrency@@CGKPAX@Z"
+addr = 0x3c1057
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453448Z
+addr = 0x193f90
+size = 0x24
+name = "OBJ_CBase::GotoIf"
+
+[header]
+name = "OBJ_CBase::GotoIf"
+addr = 0x193f90
+
+[header.args]

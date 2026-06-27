@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456396Z
+addr = 0x420971
+size = 0x26
+name = "_feof"
+
+[header]
+name = "_feof"
+addr = 0x420971
+
+[header.args]

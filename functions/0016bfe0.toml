@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452808Z
+addr = 0x16bfe0
+size = 0x30c6
+name = "SCENE_CBattle::PreloadInit"
+
+[header]
+name = "SCENE_CBattle::PreloadInit"
+addr = 0x16bfe0
+
+[header.args]

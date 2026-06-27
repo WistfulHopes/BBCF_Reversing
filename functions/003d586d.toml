@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456137Z
+addr = 0x3d586d
+size = 0x4b
+name = "??$_Resetp@V__ExceptionPtr@@@?$shared_ptr@V__ExceptionPtr@@@std@@AAEXPAV__ExceptionPtr@@@Z"
+
+[header]
+name = "??$_Resetp@V__ExceptionPtr@@@?$shared_ptr@V__ExceptionPtr@@@std@@AAEXPAV__ExceptionPtr@@@Z"
+addr = 0x3d586d
+
+[header.args]

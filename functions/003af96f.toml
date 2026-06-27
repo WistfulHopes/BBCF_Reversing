@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454898Z
+addr = 0x3af96f
+size = 0x11
+name = "__forcdecpt"
+
+[header]
+name = "__forcdecpt"
+addr = 0x3af96f
+
+[header.args]

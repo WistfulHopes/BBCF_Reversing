@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454583Z
+addr = 0x3a5cca
+size = 0x1e8
+name = "_ldexp"
+
+[header]
+name = "_ldexp"
+addr = 0x3a5cca
+
+[header.args]

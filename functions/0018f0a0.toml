@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453318Z
+addr = 0x18f0a0
+size = 0x10
+name = "OBJ_CBase::AtkWallBoundCount"
+
+[header]
+name = "OBJ_CBase::AtkWallBoundCount"
+addr = 0x18f0a0
+
+[header.args]

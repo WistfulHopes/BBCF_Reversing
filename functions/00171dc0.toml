@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452822Z
+addr = 0x171dc0
+size = 0xbc
+name = "CAtkParamEx::CAtkParamExInit"
+
+[header]
+name = "CAtkParamEx::CAtkParamExInit"
+addr = 0x171dc0
+
+[header.args]

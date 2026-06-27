@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453484Z
+addr = 0x194af0
+size = 0x36
+name = "OBJ_CBase::InitCharName"
+
+[header]
+name = "OBJ_CBase::InitCharName"
+addr = 0x194af0
+
+[header.args]

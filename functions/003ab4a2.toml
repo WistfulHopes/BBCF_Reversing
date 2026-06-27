@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454777Z
+addr = 0x3ab4a2
+size = 0x17
+name = "@_EH4_CallFilterFunc@8"
+
+[header]
+name = "@_EH4_CallFilterFunc@8"
+addr = 0x3ab4a2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454487Z
+addr = 0x3a33b6
+size = 0x77
+name = "__vswprintf_s_l"
+
+[header]
+name = "__vswprintf_s_l"
+addr = 0x3a33b6
+
+[header.args]

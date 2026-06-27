@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452803Z
+addr = 0x16b1f0
+size = 0x5e8
+name = "SCENE_CBattle::UpdateBattle"
+
+[header]
+name = "SCENE_CBattle::UpdateBattle"
+addr = 0x16b1f0
+
+[header.args]

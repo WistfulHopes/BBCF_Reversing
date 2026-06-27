@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455431Z
+addr = 0x3c3824
+size = 0x51
+name = "?SubscribeCurrentThread@ResourceManager@details@Concurrency@@QAEPAVExecutionResource@23@PAVSchedulerProxy@23@@Z"
+
+[header]
+name = "?SubscribeCurrentThread@ResourceManager@details@Concurrency@@QAEPAVExecutionResource@23@PAVSchedulerProxy@23@@Z"
+addr = 0x3c3824
+
+[header.args]

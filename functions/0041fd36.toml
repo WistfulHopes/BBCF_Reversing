@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456355Z
+addr = 0x41fd36
+size = 0x3b
+name = "?_Launch@_Pad@std@@QAEXPAU_Thrd_imp_t@@@Z"
+
+[header]
+name = "?_Launch@_Pad@std@@QAEXPAU_Thrd_imp_t@@@Z"
+addr = 0x41fd36
+
+[header.args]

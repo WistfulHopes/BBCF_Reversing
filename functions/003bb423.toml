@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455052Z
+addr = 0x3bb423
+size = 0x1b
+name = "??0scheduler_worker_creation_error@Concurrency@@QAE@J@Z"
+
+[header]
+name = "??0scheduler_worker_creation_error@Concurrency@@QAE@J@Z"
+addr = 0x3bb423
+
+[header.args]

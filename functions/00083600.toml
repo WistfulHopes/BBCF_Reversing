@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452581Z
+addr = 0x83600
+size = 0x6c
+name = "GAME_EventManager::GetInstance"
+
+[header]
+name = "GAME_EventManager::GetInstance"
+addr = 0x83600
+
+[header.args]

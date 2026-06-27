@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453068Z
+addr = 0x18dfe0
+size = 0x10
+name = "OBJ_CBase::AtkBoundRateLand"
+
+[header]
+name = "OBJ_CBase::AtkBoundRateLand"
+addr = 0x18dfe0
+
+[header.args]

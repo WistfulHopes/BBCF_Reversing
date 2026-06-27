@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456035Z
+addr = 0x3d12d1
+size = 0xd0
+name = "?RecommendControlSetting@HillClimbing@details@Concurrency@@AAEII@Z"
+
+[header]
+name = "?RecommendControlSetting@HillClimbing@details@Concurrency@@AAEII@Z"
+addr = 0x3d12d1
+
+[header.args]

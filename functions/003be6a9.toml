@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455238Z
+addr = 0x3be6a9
+size = 0x22
+name = "?MarkSafePoint@SchedulerBase@details@Concurrency@@QAE_NPAVSafePointMarker@23@@Z"
+
+[header]
+name = "?MarkSafePoint@SchedulerBase@details@Concurrency@@QAE_NPAVSafePointMarker@23@@Z"
+addr = 0x3be6a9
+
+[header.args]

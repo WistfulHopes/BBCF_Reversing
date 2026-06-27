@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452877Z
+addr = 0x17e520
+size = 0x12
+name = "OBJ_CBase::GetSpeedX"
+
+[header]
+name = "OBJ_CBase::GetSpeedX"
+addr = 0x17e520
+
+[header.args]

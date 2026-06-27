@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454676Z
+addr = 0x3a66f7
+size = 0x2e
+name = "?lock@critical_section@Concurrency@@QAEXXZ"
+
+[header]
+name = "?lock@critical_section@Concurrency@@QAEXXZ"
+addr = 0x3a66f7
+
+[header.args]

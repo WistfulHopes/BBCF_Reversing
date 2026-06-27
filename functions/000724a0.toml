@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452513Z
+addr = 0x724a0
+size = 0x31
+name = "AASTEAM_SystemManager::InitFade"
+
+[header]
+name = "AASTEAM_SystemManager::InitFade"
+addr = 0x724a0
+
+[header.args]

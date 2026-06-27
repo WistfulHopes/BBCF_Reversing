@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455462Z
+addr = 0x3c52eb
+size = 0x1c
+name = "__initp_misc_winsig"
+
+[header]
+name = "__initp_misc_winsig"
+addr = 0x3c52eb
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454917Z
+addr = 0x3b1624
+size = 0x224
+name = "?strtoxl@@YAKPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+
+[header]
+name = "?strtoxl@@YAKPAUlocaleinfo_struct@@PBDPAPBDHH@Z"
+addr = 0x3b1624
+
+[header.args]

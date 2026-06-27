@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454792Z
+addr = 0x3abfcf
+size = 0x72
+name = "__lseek_nolock"
+
+[header]
+name = "__lseek_nolock"
+addr = 0x3abfcf
+
+[header.args]

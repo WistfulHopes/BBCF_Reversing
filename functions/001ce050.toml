@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453871Z
+addr = 0x1ce050
+size = 0x19c
+name = "OBJ_CCharBase::DoInterrupt_Char"
+
+[header]
+name = "OBJ_CCharBase::DoInterrupt_Char"
+addr = 0x1ce050
+
+[header.args]

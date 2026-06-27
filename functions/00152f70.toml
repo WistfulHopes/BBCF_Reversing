@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452711Z
+addr = 0x152f70
+size = 0x69
+name = "BATTLE_CBGManager::InitBGCtrl"
+
+[header]
+name = "BATTLE_CBGManager::InitBGCtrl"
+addr = 0x152f70
+
+[header.args]

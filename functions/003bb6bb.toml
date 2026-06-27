@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455070Z
+addr = 0x3bb6bb
+size = 0x159
+name = "?Add@?$ListArray@VWorkQueue@details@Concurrency@@@details@Concurrency@@QAEHPAVWorkQueue@23@@Z"
+
+[header]
+name = "?Add@?$ListArray@VWorkQueue@details@Concurrency@@@details@Concurrency@@QAEHPAVWorkQueue@23@@Z"
+addr = 0x3bb6bb
+
+[header.args]

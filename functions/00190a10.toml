@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453363Z
+addr = 0x190a10
+size = 0x6f
+name = "OBJ_CBase::CheckEnemyName"
+
+[header]
+name = "OBJ_CBase::CheckEnemyName"
+addr = 0x190a10
+
+[header.args]

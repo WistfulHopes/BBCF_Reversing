@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455927Z
+addr = 0x3cf6ea
+size = 0x5e
+name = "?IsVirtualProcessorRetired@InternalContextBase@details@Concurrency@@IAE_NXZ"
+
+[header]
+name = "?IsVirtualProcessorRetired@InternalContextBase@details@Concurrency@@IAE_NXZ"
+addr = 0x3cf6ea
+
+[header.args]

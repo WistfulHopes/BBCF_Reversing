@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455452Z
+addr = 0x3c4dd1
+size = 0x29
+name = "__ctrlfp"
+
+[header]
+name = "__ctrlfp"
+addr = 0x3c4dd1
+
+[header.args]

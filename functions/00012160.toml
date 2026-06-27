@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452287Z
+addr = 0x12160
+size = 0x3c
+name = "AA_CVertexBuffer::Init"
+
+[header]
+name = "AA_CVertexBuffer::Init"
+addr = 0x12160
+
+[header.args]

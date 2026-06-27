@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454281Z
+addr = 0x39e149
+size = 0xb6
+name = "__onexit_nolock"
+
+[header]
+name = "__onexit_nolock"
+addr = 0x39e149
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452700Z
+addr = 0x150f30
+size = 0xa2
+name = "CSceneController::Func"
+
+[header]
+name = "CSceneController::Func"
+addr = 0x150f30
+
+[header.args]

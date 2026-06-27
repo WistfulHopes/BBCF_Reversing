@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454010Z
+addr = 0x38790f
+size = 0x59
+name = "?_Locimp_dtor@_Locimp@locale@std@@CAXPAV123@@Z"
+
+[header]
+name = "?_Locimp_dtor@_Locimp@locale@std@@CAXPAV123@@Z"
+addr = 0x38790f
+
+[header.args]

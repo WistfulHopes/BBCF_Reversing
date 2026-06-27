@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455176Z
+addr = 0x3bd533
+size = 0x48
+name = "?DestroySchedulerEventHandlers@SchedulerBase@details@Concurrency@@MAEXXZ"
+
+[header]
+name = "?DestroySchedulerEventHandlers@SchedulerBase@details@Concurrency@@MAEXXZ"
+addr = 0x3bd533
+
+[header.args]

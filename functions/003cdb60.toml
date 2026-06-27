@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455833Z
+addr = 0x3cdb60
+size = 0x4b
+name = "??1VirtualProcessor@details@Concurrency@@UAE@XZ"
+
+[header]
+name = "??1VirtualProcessor@details@Concurrency@@UAE@XZ"
+addr = 0x3cdb60
+
+[header.args]

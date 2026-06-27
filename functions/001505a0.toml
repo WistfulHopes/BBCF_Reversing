@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452697Z
+addr = 0x1505a0
+size = 0x741
+name = "CSceneController::Update"
+
+[header]
+name = "CSceneController::Update"
+addr = 0x1505a0
+
+[header.args]

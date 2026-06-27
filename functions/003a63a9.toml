@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454651Z
+addr = 0x3a63a9
+size = 0x23
+name = "?Unblock@LockQueueNode@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?Unblock@LockQueueNode@details@Concurrency@@QAE_NXZ"
+addr = 0x3a63a9
+
+[header.args]

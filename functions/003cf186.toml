@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455914Z
+addr = 0x3cf186
+size = 0x18
+name = "?Cleanup@InternalContextBase@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?Cleanup@InternalContextBase@details@Concurrency@@IAEXXZ"
+addr = 0x3cf186
+
+[header.args]

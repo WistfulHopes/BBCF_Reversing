@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456131Z
+addr = 0x3d5462
+size = 0x13c
+name = "__filwbuf"
+
+[header]
+name = "__filwbuf"
+addr = 0x3d5462
+
+[header.args]

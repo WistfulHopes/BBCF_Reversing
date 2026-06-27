@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455175Z
+addr = 0x3bd510
+size = 0x23
+name = "?Dequeue@?$SafeSQueue@VInternalContextBase@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+
+[header]
+name = "?Dequeue@?$SafeSQueue@VInternalContextBase@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEPAVInternalContextBase@23@XZ"
+addr = 0x3bd510
+
+[header.args]

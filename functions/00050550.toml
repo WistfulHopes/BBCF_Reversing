@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452388Z
+addr = 0x50550
+size = 0x8d
+name = "DFASFPAC::GetFileSize"
+
+[header]
+name = "DFASFPAC::GetFileSize"
+addr = 0x50550
+
+[header.args]

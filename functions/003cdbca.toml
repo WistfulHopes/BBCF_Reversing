@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455836Z
+addr = 0x3cdbca
+size = 0x37
+name = "?AcknowledgedAffinityMessage@SchedulerBase@details@Concurrency@@QAE_NI@Z"
+
+[header]
+name = "?AcknowledgedAffinityMessage@SchedulerBase@details@Concurrency@@QAE_NI@Z"
+addr = 0x3cdbca
+
+[header.args]

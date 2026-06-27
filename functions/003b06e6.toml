@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454907Z
+addr = 0x3b06e6
+size = 0x46
+name = "_write_char"
+
+[header]
+name = "_write_char"
+addr = 0x3b06e6
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454254Z
+addr = 0x39d8ab
+size = 0x8f
+name = "__fseek_nolock"
+
+[header]
+name = "__fseek_nolock"
+addr = 0x39d8ab
+
+[header.args]

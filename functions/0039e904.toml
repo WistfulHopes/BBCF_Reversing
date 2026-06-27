@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454287Z
+addr = 0x39e904
+size = 0x98
+name = "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z"
+
+[header]
+name = "?TranslatorGuardHandler@@YA?AW4_EXCEPTION_DISPOSITION@@PAUEHExceptionRecord@@PAUTranslatorGuardRN@@PAX2@Z"
+addr = 0x39e904
+
+[header.args]

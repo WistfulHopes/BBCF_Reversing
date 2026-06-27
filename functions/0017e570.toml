@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452879Z
+addr = 0x17e570
+size = 0x22
+name = "OBJ_CBase::GetZLine"
+
+[header]
+name = "OBJ_CBase::GetZLine"
+addr = 0x17e570
+
+[header.args]

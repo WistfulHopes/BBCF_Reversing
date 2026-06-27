@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456051Z
+addr = 0x3d1afa
+size = 0xbc
+name = "?Cleanup@SchedulerProxy@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?Cleanup@SchedulerProxy@details@Concurrency@@IAEXXZ"
+addr = 0x3d1afa
+
+[header.args]

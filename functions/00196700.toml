@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453548Z
+addr = 0x196700
+size = 0x1f
+name = "OBJ_CBase::LinkObjectCollision"
+
+[header]
+name = "OBJ_CBase::LinkObjectCollision"
+addr = 0x196700
+
+[header.args]

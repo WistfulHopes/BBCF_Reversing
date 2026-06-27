@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455386Z
+addr = 0x3c1cb1
+size = 0x36
+name = "?IncreaseFullyLoadedSchedulerAllocations@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?IncreaseFullyLoadedSchedulerAllocations@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c1cb1
+
+[header.args]

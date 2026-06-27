@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454208Z
+addr = 0x39c478
+size = 0x26
+name = "__Xp_setn"
+
+[header]
+name = "__Xp_setn"
+addr = 0x39c478
+
+[header.args]

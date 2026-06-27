@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452627Z
+addr = 0xc12c0
+size = 0x48
+name = "GAME_CETCManager::CreateStaticEternalObject"
+
+[header]
+name = "GAME_CETCManager::CreateStaticEternalObject"
+addr = 0xc12c0
+
+[header.args]

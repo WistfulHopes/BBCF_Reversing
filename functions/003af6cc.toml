@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454888Z
+addr = 0x3af6cc
+size = 0xbf
+name = "__cftof_l"
+
+[header]
+name = "__cftof_l"
+addr = 0x3af6cc
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452299Z
+addr = 0x31ed0
+size = 0x5
+name = "j__free"
+
+[header]
+name = "j__free"
+addr = 0x31ed0
+
+[header.args]

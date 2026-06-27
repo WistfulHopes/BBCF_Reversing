@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455149Z
+addr = 0x3bce7b
+size = 0x27
+name = "?AddTail@?$SafeRWList@VWaitNode@SchedulerBase@details@Concurrency@@VNoCount@CollectionTypes@34@V_ReaderWriterLock@34@@details@Concurrency@@QAEXPAVWaitNode@SchedulerBase@23@@Z"
+
+[header]
+name = "?AddTail@?$SafeRWList@VWaitNode@SchedulerBase@details@Concurrency@@VNoCount@CollectionTypes@34@V_ReaderWriterLock@34@@details@Concurrency@@QAEXPAVWaitNode@SchedulerBase@23@@Z"
+addr = 0x3bce7b
+
+[header.args]

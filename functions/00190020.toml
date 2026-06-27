@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453348Z
+addr = 0x190020
+size = 0x44
+name = "OBJ_CBase::CalcRound"
+
+[header]
+name = "OBJ_CBase::CalcRound"
+addr = 0x190020
+
+[header.args]

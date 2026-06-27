@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452914Z
+addr = 0x181b50
+size = 0x45f
+name = "OBJ_CBase::SubControlPhase_ScriptFrameStep"
+
+[header]
+name = "OBJ_CBase::SubControlPhase_ScriptFrameStep"
+addr = 0x181b50
+
+[header.args]

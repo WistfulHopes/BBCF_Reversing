@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453238Z
+addr = 0x18ec60
+size = 0x25
+name = "OBJ_CBase::AtkArmorThrough"
+
+[header]
+name = "OBJ_CBase::AtkArmorThrough"
+addr = 0x18ec60
+
+[header.args]

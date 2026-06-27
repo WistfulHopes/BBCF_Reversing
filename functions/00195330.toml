@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453518Z
+addr = 0x195330
+size = 0x1b
+name = "OBJ_CBase::InitPushWidth"
+
+[header]
+name = "OBJ_CBase::InitPushWidth"
+addr = 0x195330
+
+[header.args]

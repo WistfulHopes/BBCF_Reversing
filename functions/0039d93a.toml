@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454256Z
+addr = 0x39d93a
+size = 0x71
+name = "_fseek"
+
+[header]
+name = "_fseek"
+addr = 0x39d93a
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453289Z
+addr = 0x18ef20
+size = 0xb
+name = "OBJ_CBase::AtkSlideTimeReset"
+
+[header]
+name = "OBJ_CBase::AtkSlideTimeReset"
+addr = 0x18ef20
+
+[header.args]

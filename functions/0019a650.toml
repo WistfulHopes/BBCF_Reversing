@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453742Z
+addr = 0x19a650
+size = 0x10
+name = "OBJ_CBase::SetBlue"
+
+[header]
+name = "OBJ_CBase::SetBlue"
+addr = 0x19a650
+
+[header.args]

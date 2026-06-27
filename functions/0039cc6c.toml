@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454221Z
+addr = 0x39cc6c
+size = 0xec
+name = "__LXp_setw"
+
+[header]
+name = "__LXp_setw"
+addr = 0x39cc6c
+
+[header.args]

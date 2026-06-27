@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453495Z
+addr = 0x194e00
+size = 0x1b
+name = "OBJ_CBase::InitEffectWeight"
+
+[header]
+name = "OBJ_CBase::InitEffectWeight"
+addr = 0x194e00
+
+[header.args]

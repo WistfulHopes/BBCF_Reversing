@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453533Z
+addr = 0x195de0
+size = 0x3b
+name = "OBJ_CBase::InterruptGoto"
+
+[header]
+name = "OBJ_CBase::InterruptGoto"
+addr = 0x195de0
+
+[header.args]

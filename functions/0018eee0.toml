@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453257Z
+addr = 0x18eee0
+size = 0xb
+name = "OBJ_CBase::AtkSleepStunTimeReset"
+
+[header]
+name = "OBJ_CBase::AtkSleepStunTimeReset"
+addr = 0x18eee0
+
+[header.args]

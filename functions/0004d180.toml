@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452357Z
+addr = 0x4d180
+size = 0xc4
+name = "AADX_CStripBufferFactory::Product"
+
+[header]
+name = "AADX_CStripBufferFactory::Product"
+addr = 0x4d180
+
+[header.args]

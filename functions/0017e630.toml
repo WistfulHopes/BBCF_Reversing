@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452884Z
+addr = 0x17e630
+size = 0x10
+name = "OBJ_CBase::IsBoss"
+
+[header]
+name = "OBJ_CBase::IsBoss"
+addr = 0x17e630
+
+[header.args]

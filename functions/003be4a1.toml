@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455227Z
+addr = 0x3be4a1
+size = 0xc3
+name = "?InternalCreateScheduleGroup@SchedulerBase@details@Concurrency@@AAEPAVScheduleGroup@3@PAVlocation@3@@Z"
+
+[header]
+name = "?InternalCreateScheduleGroup@SchedulerBase@details@Concurrency@@AAEPAVScheduleGroup@3@PAVlocation@3@@Z"
+addr = 0x3be4a1
+
+[header.args]

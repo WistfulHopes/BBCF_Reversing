@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455736Z
+addr = 0x3cc10c
+size = 0x16
+name = "?IsEmpty@WorkQueue@details@Concurrency@@QBE_NXZ"
+
+[header]
+name = "?IsEmpty@WorkQueue@details@Concurrency@@QBE_NXZ"
+addr = 0x3cc10c
+
+[header.args]

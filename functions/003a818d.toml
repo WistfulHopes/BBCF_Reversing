@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454742Z
+addr = 0x3a818d
+size = 0x3fb
+name = "?_W_store_winword@@YAHPAUlocaleinfo_struct@@HPBUtm@@PAPA_WPAIPAU__lc_time_data@@@Z"
+
+[header]
+name = "?_W_store_winword@@YAHPAUlocaleinfo_struct@@HPBUtm@@PAPA_WPAIPAU__lc_time_data@@@Z"
+addr = 0x3a818d
+
+[header.args]

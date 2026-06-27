@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453327Z
+addr = 0x18f130
+size = 0xb
+name = "OBJ_CBase::AtkWallBoundWorldOnlyCounterHitReset"
+
+[header]
+name = "OBJ_CBase::AtkWallBoundWorldOnlyCounterHitReset"
+addr = 0x18f130
+
+[header.args]

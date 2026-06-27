@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453855Z
+addr = 0x1c23a0
+size = 0x7
+name = "OBJ_CCharBase::GetTensionVal"
+
+[header]
+name = "OBJ_CCharBase::GetTensionVal"
+addr = 0x1c23a0
+
+[header.args]

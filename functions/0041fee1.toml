@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456368Z
+addr = 0x41fee1
+size = 0x11
+name = "__Cnd_signal"
+
+[header]
+name = "__Cnd_signal"
+addr = 0x41fee1
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455087Z
+addr = 0x3bbb77
+size = 0x11d
+name = "?DetachStealers@ContextBase@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?DetachStealers@ContextBase@details@Concurrency@@QAEXXZ"
+addr = 0x3bbb77
+
+[header.args]

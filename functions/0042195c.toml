@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456425Z
+addr = 0x42195c
+size = 0x7a
+name = "__validdrive"
+
+[header]
+name = "__validdrive"
+addr = 0x42195c
+
+[header.args]

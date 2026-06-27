@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456047Z
+addr = 0x3d19a3
+size = 0x94
+name = "?AddVirtualProcessorRoots@SchedulerProxy@details@Concurrency@@QAEXPAPAUIVirtualProcessorRoot@3@I@Z"
+
+[header]
+name = "?AddVirtualProcessorRoots@SchedulerProxy@details@Concurrency@@QAEXPAPAUIVirtualProcessorRoot@3@I@Z"
+addr = 0x3d19a3
+
+[header.args]

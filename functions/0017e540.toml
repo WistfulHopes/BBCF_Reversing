@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452878Z
+addr = 0x17e540
+size = 0x22
+name = "OBJ_CBase::GetZLevel"
+
+[header]
+name = "OBJ_CBase::GetZLevel"
+addr = 0x17e540
+
+[header.args]

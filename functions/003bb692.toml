@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455068Z
+addr = 0x3bb692
+size = 0x29
+name = "??_GWorkQueue@details@Concurrency@@QAEPAXI@Z"
+
+[header]
+name = "??_GWorkQueue@details@Concurrency@@QAEPAXI@Z"
+addr = 0x3bb692
+
+[header.args]

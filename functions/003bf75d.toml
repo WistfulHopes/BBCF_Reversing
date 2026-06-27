@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455296Z
+addr = 0x3bf75d
+size = 0xf
+name = "?ThrottlerDispatchBridge@SchedulerBase@details@Concurrency@@CGXPAXE@Z"
+
+[header]
+name = "?ThrottlerDispatchBridge@SchedulerBase@details@Concurrency@@CGXPAXE@Z"
+addr = 0x3bf75d
+
+[header.args]

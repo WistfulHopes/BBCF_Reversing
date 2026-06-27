@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453719Z
+addr = 0x19a050
+size = 0x25
+name = "OBJ_CBase::ScaleForLinkIndependent"
+
+[header]
+name = "OBJ_CBase::ScaleForLinkIndependent"
+addr = 0x19a050
+
+[header.args]

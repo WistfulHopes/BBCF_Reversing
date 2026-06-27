@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454031Z
+addr = 0x388bfc
+size = 0x22
+name = "?_Inc@?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@AAEXXZ"
+
+[header]
+name = "?_Inc@?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@AAEXXZ"
+addr = 0x388bfc
+
+[header.args]

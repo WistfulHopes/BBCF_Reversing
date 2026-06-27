@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453838Z
+addr = 0x19f200
+size = 0x25
+name = "OBJ_CBase::WorldOutToEliminate"
+
+[header]
+name = "OBJ_CBase::WorldOutToEliminate"
+addr = 0x19f200
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454485Z
+addr = 0x3a32bd
+size = 0xf9
+name = "__vswprintf_helper"
+
+[header]
+name = "__vswprintf_helper"
+addr = 0x3a32bd
+
+[header.args]

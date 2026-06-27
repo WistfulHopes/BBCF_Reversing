@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453954Z
+addr = 0x295ac0
+size = 0x5
+name = "j_AA_CTextureData::GetInstance"
+
+[header]
+name = "j_AA_CTextureData::GetInstance"
+addr = 0x295ac0
+
+[header.args]

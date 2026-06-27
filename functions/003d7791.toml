@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456222Z
+addr = 0x3d7791
+size = 0x6e
+name = "?SearchFair_Runnables@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVSchedulingRing@23@@Z"
+
+[header]
+name = "?SearchFair_Runnables@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@PAVSchedulingRing@23@@Z"
+addr = 0x3d7791
+
+[header.args]

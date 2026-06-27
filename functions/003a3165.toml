@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454480Z
+addr = 0x3a3165
+size = 0x16
+name = "__heapmin"
+
+[header]
+name = "__heapmin"
+addr = 0x3a3165
+
+[header.args]

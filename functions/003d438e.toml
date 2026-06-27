@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456126Z
+addr = 0x3d438e
+size = 0x11
+name = "_towlower"
+
+[header]
+name = "_towlower"
+addr = 0x3d438e
+
+[header.args]

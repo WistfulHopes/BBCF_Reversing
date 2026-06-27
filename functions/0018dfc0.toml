@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453066Z
+addr = 0x18dfc0
+size = 0x10
+name = "OBJ_CBase::AtkBarrierDamageRate"
+
+[header]
+name = "OBJ_CBase::AtkBarrierDamageRate"
+addr = 0x18dfc0
+
+[header.args]

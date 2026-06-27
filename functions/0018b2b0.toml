@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452936Z
+addr = 0x18b2b0
+size = 0xc2
+name = "CBBSFileAnalyzeData::GetFuncAddr"
+
+[header]
+name = "CBBSFileAnalyzeData::GetFuncAddr"
+addr = 0x18b2b0
+
+[header.args]

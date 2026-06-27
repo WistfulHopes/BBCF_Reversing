@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452736Z
+addr = 0x158860
+size = 0x1b6
+name = "BATTLE_CObjectManager::BOM_ConstructorSub"
+
+[header]
+name = "BATTLE_CObjectManager::BOM_ConstructorSub"
+addr = 0x158860
+
+[header.args]

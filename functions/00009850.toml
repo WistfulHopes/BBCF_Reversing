@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452204Z
+addr = 0x9850
+size = 0x94
+name = "AA_CModelData::GetInstance"
+
+[header]
+name = "AA_CModelData::GetInstance"
+addr = 0x9850
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452935Z
+addr = 0x18b250
+size = 0x5e
+name = "CBBSFileAnalyzeData::GetNextCommandAddr"
+
+[header]
+name = "CBBSFileAnalyzeData::GetNextCommandAddr"
+addr = 0x18b250
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453818Z
+addr = 0x19e790
+size = 0x9e
+name = "OBJ_CBase::SmartRandomSubVoice"
+
+[header]
+name = "OBJ_CBase::SmartRandomSubVoice"
+addr = 0x19e790
+
+[header.args]

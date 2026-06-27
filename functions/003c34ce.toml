@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455426Z
+addr = 0x3c34ce
+size = 0x1cf
+name = "?SendResourceNotifications@ResourceManager@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+
+[header]
+name = "?SendResourceNotifications@ResourceManager@details@Concurrency@@QAEXPAVSchedulerProxy@23@@Z"
+addr = 0x3c34ce
+
+[header.args]

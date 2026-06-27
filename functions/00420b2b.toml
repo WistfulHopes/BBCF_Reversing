@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456404Z
+addr = 0x420b2b
+size = 0x1b
+name = "__vsnwprintf"
+
+[header]
+name = "__vsnwprintf"
+addr = 0x420b2b
+
+[header.args]

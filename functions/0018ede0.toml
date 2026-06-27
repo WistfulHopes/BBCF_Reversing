@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453245Z
+addr = 0x18ede0
+size = 0x19
+name = "OBJ_CBase::AtkPoison"
+
+[header]
+name = "OBJ_CBase::AtkPoison"
+addr = 0x18ede0
+
+[header.args]

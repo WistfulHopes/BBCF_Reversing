@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454844Z
+addr = 0x3adadb
+size = 0x41
+name = "__ctrandisp2"
+
+[header]
+name = "__ctrandisp2"
+addr = 0x3adadb
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453043Z
+addr = 0x18ddc0
+size = 0x34
+name = "OBJ_CBase::AtkAimType"
+
+[header]
+name = "OBJ_CBase::AtkAimType"
+addr = 0x18ddc0
+
+[header.args]

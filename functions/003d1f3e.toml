@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456069Z
+addr = 0x3d1f3e
+size = 0x4e
+name = "?GetResourceForNewSubscription@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@PAV423@@Z"
+
+[header]
+name = "?GetResourceForNewSubscription@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@PAV423@@Z"
+addr = 0x3d1f3e
+
+[header.args]

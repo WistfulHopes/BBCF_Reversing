@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453868Z
+addr = 0x1cc150
+size = 0x269
+name = "OBJ_CCharBase::CommonVoiceRequest"
+
+[header]
+name = "OBJ_CCharBase::CommonVoiceRequest"
+addr = 0x1cc150
+
+[header.args]

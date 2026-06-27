@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453866Z
+addr = 0x1c7cd0
+size = 0x10f7
+name = "OBJ_CBase::PlayerInitializeOnEasyResetSub"
+
+[header]
+name = "OBJ_CBase::PlayerInitializeOnEasyResetSub"
+addr = 0x1c7cd0
+
+[header.args]

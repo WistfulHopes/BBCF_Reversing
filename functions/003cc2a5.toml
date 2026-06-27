@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455745Z
+addr = 0x3cc2a5
+size = 0xc
+name = "?SweepUnstructured@WorkQueue@details@Concurrency@@QAEXP6A_NPAV_UnrealizedChore@23@PAX@Z12@Z"
+
+[header]
+name = "?SweepUnstructured@WorkQueue@details@Concurrency@@QAEXP6A_NPAV_UnrealizedChore@23@PAX@Z12@Z"
+addr = 0x3cc2a5
+
+[header.args]

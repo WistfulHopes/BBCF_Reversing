@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452823Z
+addr = 0x171e80
+size = 0x2ec
+name = "CAtkParam::CAtkParamInit"
+
+[header]
+name = "CAtkParam::CAtkParamInit"
+addr = 0x171e80
+
+[header.args]

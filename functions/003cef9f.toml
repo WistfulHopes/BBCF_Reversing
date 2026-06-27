@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455910Z
+addr = 0x3cef9f
+size = 0x51
+name = "?Alloc@InternalContextBase@details@Concurrency@@UAEPAXI@Z"
+
+[header]
+name = "?Alloc@InternalContextBase@details@Concurrency@@UAEPAXI@Z"
+addr = 0x3cef9f
+
+[header.args]

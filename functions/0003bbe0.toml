@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452332Z
+addr = 0x3bbe0
+size = 0x334
+name = "AADX_CRenderer::InitDirect3D"
+
+[header]
+name = "AADX_CRenderer::InitDirect3D"
+addr = 0x3bbe0
+
+[header.args]

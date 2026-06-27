@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453205Z
+addr = 0x18e960
+size = 0x10
+name = "OBJ_CBase::AtkLandHitOnly"
+
+[header]
+name = "OBJ_CBase::AtkLandHitOnly"
+addr = 0x18e960
+
+[header.args]

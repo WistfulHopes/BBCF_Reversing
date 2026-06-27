@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455636Z
+addr = 0x3c93d1
+size = 0x380
+name = "___free_lc_time"
+
+[header]
+name = "___free_lc_time"
+addr = 0x3c93d1
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453767Z
+addr = 0x19acc0
+size = 0x10
+name = "OBJ_CBase::SetFloorReflectColor"
+
+[header]
+name = "OBJ_CBase::SetFloorReflectColor"
+addr = 0x19acc0
+
+[header.args]

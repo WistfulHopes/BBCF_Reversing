@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455195Z
+addr = 0x3bda01
+size = 0x9
+name = "?GetAnonymousScheduleGroupSegment@SchedulerBase@details@Concurrency@@QAEPAVScheduleGroupSegmentBase@23@XZ"
+
+[header]
+name = "?GetAnonymousScheduleGroupSegment@SchedulerBase@details@Concurrency@@QAEPAVScheduleGroupSegmentBase@23@XZ"
+addr = 0x3bda01
+
+[header.args]

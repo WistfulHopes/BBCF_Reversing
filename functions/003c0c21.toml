@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455354Z
+addr = 0x3c0c21
+size = 0x262
+name = "?DoCoreMigration@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?DoCoreMigration@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c0c21
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452932Z
+addr = 0x182bb0
+size = 0x71fa
+name = "OBJ_CBase::FuncCallBySwitchCaseTable"
+
+[header]
+name = "OBJ_CBase::FuncCallBySwitchCaseTable"
+addr = 0x182bb0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455098Z
+addr = 0x3bbea4
+size = 0x23
+name = "?LockedSetOwningContext@WorkQueue@details@Concurrency@@QAEXPAVContextBase@23@@Z"
+
+[header]
+name = "?LockedSetOwningContext@WorkQueue@details@Concurrency@@QAEXPAVContextBase@23@@Z"
+addr = 0x3bbea4
+
+[header.args]

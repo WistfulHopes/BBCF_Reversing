@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455358Z
+addr = 0x3c0eef
+size = 0x168
+name = "?DynamicMigrateCores@ResourceManager@details@Concurrency@@AAEXPAUDynamicAllocationData@23@PAVSchedulerProxy@23@II@Z"
+
+[header]
+name = "?DynamicMigrateCores@ResourceManager@details@Concurrency@@AAEXPAUDynamicAllocationData@23@PAVSchedulerProxy@23@II@Z"
+addr = 0x3c0eef
+
+[header.args]

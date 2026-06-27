@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453573Z
+addr = 0x197500
+size = 0x25
+name = "OBJ_CBase::NoAttackAction"
+
+[header]
+name = "OBJ_CBase::NoAttackAction"
+addr = 0x197500
+
+[header.args]

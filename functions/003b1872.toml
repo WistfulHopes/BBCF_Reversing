@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454921Z
+addr = 0x3b1872
+size = 0x2a
+name = "_strtoul"
+
+[header]
+name = "_strtoul"
+addr = 0x3b1872
+
+[header.args]

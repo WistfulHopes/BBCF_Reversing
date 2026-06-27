@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452642Z
+addr = 0xd1b60
+size = 0x33
+name = "BB_AssertAndCrash"
+
+[header]
+name = "BB_AssertAndCrash"
+addr = 0xd1b60
+
+[header.args]

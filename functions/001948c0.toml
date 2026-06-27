@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453468Z
+addr = 0x1948c0
+size = 0x1b
+name = "OBJ_CBase::InitAirFDashGravity"
+
+[header]
+name = "OBJ_CBase::InitAirFDashGravity"
+addr = 0x1948c0
+
+[header.args]

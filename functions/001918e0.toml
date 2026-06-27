@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453389Z
+addr = 0x1918e0
+size = 0x2e
+name = "OBJ_CBase::CreateParticleArgAngle"
+
+[header]
+name = "OBJ_CBase::CreateParticleArgAngle"
+addr = 0x1918e0
+
+[header.args]

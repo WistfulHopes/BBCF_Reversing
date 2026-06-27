@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455843Z
+addr = 0x3cdd33
+size = 0x25
+name = "?ClearQuickCacheSlot@SchedulerBase@details@Concurrency@@QAEXI@Z"
+
+[header]
+name = "?ClearQuickCacheSlot@SchedulerBase@details@Concurrency@@QAEXI@Z"
+addr = 0x3cdd33
+
+[header.args]

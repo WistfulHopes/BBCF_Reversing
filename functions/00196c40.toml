@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453566Z
+addr = 0x196c40
+size = 0x36
+name = "OBJ_CBase::LockEnemyDisp"
+
+[header]
+name = "OBJ_CBase::LockEnemyDisp"
+addr = 0x196c40
+
+[header.args]

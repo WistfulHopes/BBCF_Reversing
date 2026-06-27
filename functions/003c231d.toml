@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455398Z
+addr = 0x3c231d
+size = 0xc6
+name = "?PopulateCommonAllocationData@ResourceManager@details@Concurrency@@AAEXIPAVSchedulerProxy@23@PAUAllocationData@23@@Z"
+
+[header]
+name = "?PopulateCommonAllocationData@ResourceManager@details@Concurrency@@AAEXIPAVSchedulerProxy@23@PAUAllocationData@23@@Z"
+addr = 0x3c231d
+
+[header.args]

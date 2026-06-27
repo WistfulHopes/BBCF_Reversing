@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452556Z
+addr = 0x7ca90
+size = 0x81
+name = "AA_CFilepackBuffer::GetInstance"
+
+[header]
+name = "AA_CFilepackBuffer::GetInstance"
+addr = 0x7ca90
+
+[header.args]

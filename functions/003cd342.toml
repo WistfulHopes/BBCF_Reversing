@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455806Z
+addr = 0x3cd342
+size = 0x3f
+name = "?RemoveSegments@ScheduleGroupBase@details@Concurrency@@MAEXXZ"
+
+[header]
+name = "?RemoveSegments@ScheduleGroupBase@details@Concurrency@@MAEXXZ"
+addr = 0x3cd342
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454577Z
+addr = 0x3a5a86
+size = 0x56
+name = "?x_ismbbtype_l@@YAHPAUlocaleinfo_struct@@IHH@Z"
+
+[header]
+name = "?x_ismbbtype_l@@YAHPAUlocaleinfo_struct@@IHH@Z"
+addr = 0x3a5a86
+
+[header.args]

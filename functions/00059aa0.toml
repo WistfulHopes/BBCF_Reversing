@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452436Z
+addr = 0x59aa0
+size = 0x16
+name = "AA_CCollision_JON::GetViewUsage"
+
+[header]
+name = "AA_CCollision_JON::GetViewUsage"
+addr = 0x59aa0
+
+[header.args]

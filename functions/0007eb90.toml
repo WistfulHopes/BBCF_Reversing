@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452564Z
+addr = 0x7eb90
+size = 0x14
+name = "GAME_CInfomation::GetCharID"
+
+[header]
+name = "GAME_CInfomation::GetCharID"
+addr = 0x7eb90
+
+[header.args]

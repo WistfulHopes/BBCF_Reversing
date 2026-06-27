@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453232Z
+addr = 0x18ebf0
+size = 0x25
+name = "OBJ_CBase::AtkNoHitThrowResist"
+
+[header]
+name = "OBJ_CBase::AtkNoHitThrowResist"
+addr = 0x18ebf0
+
+[header.args]

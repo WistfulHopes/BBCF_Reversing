@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452928Z
+addr = 0x182670
+size = 0xea
+name = "OBJ_CBase::DoInterrupt"
+
+[header]
+name = "OBJ_CBase::DoInterrupt"
+addr = 0x182670
+
+[header.args]

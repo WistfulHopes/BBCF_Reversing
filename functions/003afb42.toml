@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454905Z
+addr = 0x3afb42
+size = 0xb83
+name = "__output_l"
+
+[header]
+name = "__output_l"
+addr = 0x3afb42
+
+[header.args]

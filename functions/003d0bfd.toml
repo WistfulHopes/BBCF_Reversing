@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456000Z
+addr = 0x3d0bfd
+size = 0x38
+name = "?CreateVirtualProcessor@ThreadScheduler@details@Concurrency@@UAEPAVVirtualProcessor@23@PAVSchedulingNode@23@PAUIVirtualProcessorRoot@3@@Z"
+
+[header]
+name = "?CreateVirtualProcessor@ThreadScheduler@details@Concurrency@@UAEPAVVirtualProcessor@23@PAVSchedulingNode@23@PAUIVirtualProcessorRoot@3@@Z"
+addr = 0x3d0bfd
+
+[header.args]

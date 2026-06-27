@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456470Z
+addr = 0x436a09
+size = 0x8
+name = "__unwindfunclet$?do_put@?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@_NAAVios_base@2@DABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z$0"
+
+[header]
+name = "__unwindfunclet$?do_put@?$money_put@DV?$ostreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$ostreambuf_iterator@DU?$char_traits@D@std@@@2@V32@_NAAVios_base@2@DABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@@Z$0"
+addr = 0x436a09
+
+[header.args]

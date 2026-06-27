@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454400Z
+addr = 0x3a0b6b
+size = 0x26
+name = "____lc_collate_cp_func"
+
+[header]
+name = "____lc_collate_cp_func"
+addr = 0x3a0b6b
+
+[header.args]

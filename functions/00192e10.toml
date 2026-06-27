@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453431Z
+addr = 0x192e10
+size = 0x157
+name = "OBJ_CBase::EffectForWallBound"
+
+[header]
+name = "OBJ_CBase::EffectForWallBound"
+addr = 0x192e10
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455522Z
+addr = 0x3c6451
+size = 0x3d
+name = "?Satisfy@WaitAllBlock@details@Concurrency@@UAE_NPAPAVContext@3@PAVEventWaitNode@23@@Z"
+
+[header]
+name = "?Satisfy@WaitAllBlock@details@Concurrency@@UAE_NPAPAVContext@3@PAVEventWaitNode@23@@Z"
+addr = 0x3c6451
+
+[header.args]

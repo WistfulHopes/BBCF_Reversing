@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455774Z
+addr = 0x3ccce7
+size = 0xc2
+name = "?Dequeue@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@QAE_NPAPAV_UnrealizedChore@23@@Z"
+
+[header]
+name = "?Dequeue@?$Mailbox@V_UnrealizedChore@details@Concurrency@@@details@Concurrency@@QAE_NPAPAV_UnrealizedChore@23@@Z"
+addr = 0x3ccce7
+
+[header.args]

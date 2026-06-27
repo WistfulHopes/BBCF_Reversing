@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453466Z
+addr = 0x194850
+size = 0x4d
+name = "OBJ_CBase::InitAirDashCountMax"
+
+[header]
+name = "OBJ_CBase::InitAirDashCountMax"
+addr = 0x194850
+
+[header.args]

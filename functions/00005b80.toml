@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452109Z
+addr = 0x5b80
+size = 0x48
+name = "AA_LooseList::InsertPrev"
+
+[header]
+name = "AA_LooseList::InsertPrev"
+addr = 0x5b80
+
+[header.args]

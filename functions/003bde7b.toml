@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455218Z
+addr = 0x3bde7b
+size = 0x1e
+name = "?GetResourceMaskId@SchedulerBase@details@Concurrency@@QAEII@Z"
+
+[header]
+name = "?GetResourceMaskId@SchedulerBase@details@Concurrency@@QAEII@Z"
+addr = 0x3bde7b
+
+[header.args]

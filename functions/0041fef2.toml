@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456369Z
+addr = 0x41fef2
+size = 0x15
+name = "__Cnd_wait"
+
+[header]
+name = "__Cnd_wait"
+addr = 0x41fef2
+
+[header.args]

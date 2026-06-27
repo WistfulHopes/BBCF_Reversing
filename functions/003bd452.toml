@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455167Z
+addr = 0x3bd452
+size = 0x26
+name = "?CreateWithoutInitializing@SchedulerBase@details@Concurrency@@SAPAV123@ABVSchedulerPolicy@3@@Z"
+
+[header]
+name = "?CreateWithoutInitializing@SchedulerBase@details@Concurrency@@SAPAV123@ABVSchedulerPolicy@3@@Z"
+addr = 0x3bd452
+
+[header.args]

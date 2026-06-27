@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456134Z
+addr = 0x3d55c7
+size = 0xf3
+name = "_xtow_s@20"
+
+[header]
+name = "_xtow_s@20"
+addr = 0x3d55c7
+
+[header.args]

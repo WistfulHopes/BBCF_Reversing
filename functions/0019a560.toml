@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453739Z
+addr = 0x19a560
+size = 0x77
+name = "OBJ_CBase::SetBasePaletteAlpha"
+
+[header]
+name = "OBJ_CBase::SetBasePaletteAlpha"
+addr = 0x19a560
+
+[header.args]

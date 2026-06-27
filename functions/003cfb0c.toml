@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455943Z
+addr = 0x3cfb0c
+size = 0x51
+name = "?SwapScheduleGroupSegment@InternalContextBase@details@Concurrency@@QAEXPAVScheduleGroupSegmentBase@23@_N@Z"
+
+[header]
+name = "?SwapScheduleGroupSegment@InternalContextBase@details@Concurrency@@QAEXPAVScheduleGroupSegmentBase@23@_N@Z"
+addr = 0x3cfb0c
+
+[header.args]

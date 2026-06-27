@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453226Z
+addr = 0x18eb50
+size = 0x25
+name = "OBJ_CBase::AtkCounterHitMulti"
+
+[header]
+name = "OBJ_CBase::AtkCounterHitMulti"
+addr = 0x18eb50
+
+[header.args]

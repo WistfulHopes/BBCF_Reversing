@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454805Z
+addr = 0x3acf58
+size = 0x2e
+name = "__wremove"
+
+[header]
+name = "__wremove"
+addr = 0x3acf58
+
+[header.args]

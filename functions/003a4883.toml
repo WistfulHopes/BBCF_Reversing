@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454530Z
+addr = 0x3a4883
+size = 0x34
+name = "?UnRegisterAsyncTimerAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_CALLBACK_INSTANCE@@PAU_TP_TIMER@@@Z"
+
+[header]
+name = "?UnRegisterAsyncTimerAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_CALLBACK_INSTANCE@@PAU_TP_TIMER@@@Z"
+addr = 0x3a4883
+
+[header.args]

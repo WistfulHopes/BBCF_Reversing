@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455613Z
+addr = 0x3c81b7
+size = 0xb0
+name = "__fptostr"
+
+[header]
+name = "__fptostr"
+addr = 0x3c81b7
+
+[header.args]

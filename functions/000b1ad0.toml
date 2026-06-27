@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452609Z
+addr = 0xb1ad0
+size = 0xaa
+name = "AA_CParticleArg::AA_CParticleArg"
+
+[header]
+name = "AA_CParticleArg::AA_CParticleArg"
+addr = 0xb1ad0
+
+[header.args]

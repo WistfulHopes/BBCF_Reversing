@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452793Z
+addr = 0x166d70
+size = 0xa49
+name = "BATTLE_CScreenManager::UpdateScreenPosition"
+
+[header]
+name = "BATTLE_CScreenManager::UpdateScreenPosition"
+addr = 0x166d70
+
+[header.args]

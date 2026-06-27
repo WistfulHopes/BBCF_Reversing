@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456354Z
+addr = 0x41fcf4
+size = 0x1f
+name = "?_Cnd_signalX@std@@YAHPAPAU_Cnd_internal_imp_t@@@Z"
+
+[header]
+name = "?_Cnd_signalX@std@@YAHPAPAU_Cnd_internal_imp_t@@@Z"
+addr = 0x41fcf4
+
+[header.args]

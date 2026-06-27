@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454774Z
+addr = 0x3ab440
+size = 0x46
+name = "__unwind_handler4"
+
+[header]
+name = "__unwind_handler4"
+addr = 0x3ab440
+
+[header.args]

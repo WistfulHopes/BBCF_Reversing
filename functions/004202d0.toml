@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456381Z
+addr = 0x4202d0
+size = 0x40
+name = "_strpbrk"
+
+[header]
+name = "_strpbrk"
+addr = 0x4202d0
+
+[header.args]

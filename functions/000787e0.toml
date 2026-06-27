@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452541Z
+addr = 0x787e0
+size = 0x41
+name = "GAME_SGameLogFile::CreateSys"
+
+[header]
+name = "GAME_SGameLogFile::CreateSys"
+addr = 0x787e0
+
+[header.args]

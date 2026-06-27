@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456052Z
+addr = 0x3d1bb6
+size = 0x47
+name = "?CreateExternalThreadResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@PAUSchedulerNode@23@I@Z"
+
+[header]
+name = "?CreateExternalThreadResource@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@PAUSchedulerNode@23@I@Z"
+addr = 0x3d1bb6
+
+[header.args]

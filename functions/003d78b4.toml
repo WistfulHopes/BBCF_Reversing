@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456227Z
+addr = 0x3d78b4
+size = 0x1d
+name = "?ServiceMark@VirtualProcessor@details@Concurrency@@QAEXK@Z"
+
+[header]
+name = "?ServiceMark@VirtualProcessor@details@Concurrency@@QAEXK@Z"
+addr = 0x3d78b4
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455563Z
+addr = 0x3c70ba
+size = 0x80
+name = "___lock_fhandle"
+
+[header]
+name = "___lock_fhandle"
+addr = 0x3c70ba
+
+[header.args]

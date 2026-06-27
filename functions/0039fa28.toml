@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454370Z
+addr = 0x39fa28
+size = 0x14
+name = "__atoi64"
+
+[header]
+name = "__atoi64"
+addr = 0x39fa28
+
+[header.args]

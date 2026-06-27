@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454397Z
+addr = 0x3a0ace
+size = 0x77
+name = "_vscan_fn"
+
+[header]
+name = "_vscan_fn"
+addr = 0x3a0ace
+
+[header.args]

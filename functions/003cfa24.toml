@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455938Z
+addr = 0x3cfa24
+size = 0x2b
+name = "?SpinUntilBlocked@InternalContextBase@details@Concurrency@@IAEXXZ"
+
+[header]
+name = "?SpinUntilBlocked@InternalContextBase@details@Concurrency@@IAEXXZ"
+addr = 0x3cfa24
+
+[header.args]

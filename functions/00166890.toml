@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452792Z
+addr = 0x166890
+size = 0x21
+name = "BATTLE_CScreenManager::AddScreenTarget"
+
+[header]
+name = "BATTLE_CScreenManager::AddScreenTarget"
+addr = 0x166890
+
+[header.args]

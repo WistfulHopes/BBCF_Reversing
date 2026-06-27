@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452777Z
+addr = 0x15e8e0
+size = 0x58
+name = "BATTLE_CReferee::BATTLE_CReferee"
+
+[header]
+name = "BATTLE_CReferee::BATTLE_CReferee"
+addr = 0x15e8e0
+
+[header.args]

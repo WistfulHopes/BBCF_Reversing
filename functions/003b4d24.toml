@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454974Z
+addr = 0x3b4d24
+size = 0x4b
+name = "__updatetlocinfoEx_nolock"
+
+[header]
+name = "__updatetlocinfoEx_nolock"
+addr = 0x3b4d24
+
+[header.args]

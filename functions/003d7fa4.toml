@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456260Z
+addr = 0x3d7fa4
+size = 0x15
+name = "?AssociateExecutionContext@FreeThreadProxy@details@Concurrency@@QAEXPAUIExecutionContext@3@@Z"
+
+[header]
+name = "?AssociateExecutionContext@FreeThreadProxy@details@Concurrency@@QAEXPAUIExecutionContext@3@@Z"
+addr = 0x3d7fa4
+
+[header.args]

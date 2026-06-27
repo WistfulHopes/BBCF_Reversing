@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455620Z
+addr = 0x3c8645
+size = 0x122
+name = "__wctomb_s_l"
+
+[header]
+name = "__wctomb_s_l"
+addr = 0x3c8645
+
+[header.args]

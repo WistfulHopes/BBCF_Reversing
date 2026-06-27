@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454951Z
+addr = 0x3b2510
+size = 0xe
+name = "___crtSetUnhandledExceptionFilter"
+
+[header]
+name = "___crtSetUnhandledExceptionFilter"
+addr = 0x3b2510
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452111Z
+addr = 0x5cb0
+size = 0xf
+name = "AA_LooseRingList::NextCurrent"
+
+[header]
+name = "AA_LooseRingList::NextCurrent"
+addr = 0x5cb0
+
+[header.args]

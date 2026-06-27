@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454063Z
+addr = 0x389b0c
+size = 0x11
+name = "__Mtx_lock"
+
+[header]
+name = "__Mtx_lock"
+addr = 0x389b0c
+
+[header.args]

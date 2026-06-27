@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455051Z
+addr = 0x3bb405
+size = 0x1e
+name = "??0scheduler_resource_allocation_error@Concurrency@@QAE@J@Z"
+
+[header]
+name = "??0scheduler_resource_allocation_error@Concurrency@@QAE@J@Z"
+addr = 0x3bb405
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455213Z
+addr = 0x3bddf0
+size = 0x1b
+name = "?GetPolicy@SchedulerBase@details@Concurrency@@UBE?AVSchedulerPolicy@3@XZ"
+
+[header]
+name = "?GetPolicy@SchedulerBase@details@Concurrency@@UBE?AVSchedulerPolicy@3@XZ"
+addr = 0x3bddf0
+
+[header.args]

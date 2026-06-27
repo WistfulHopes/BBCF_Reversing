@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454017Z
+addr = 0x387a1c
+size = 0x28
+name = "?_Setgloballocale@locale@std@@CAXPAX@Z"
+
+[header]
+name = "?_Setgloballocale@locale@std@@CAXPAX@Z"
+addr = 0x387a1c
+
+[header.args]

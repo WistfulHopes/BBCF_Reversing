@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455181Z
+addr = 0x3bd5de
+size = 0x1d
+name = "?Fill@QuickBitSet@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?Fill@QuickBitSet@details@Concurrency@@QAEXXZ"
+addr = 0x3bd5de
+
+[header.args]

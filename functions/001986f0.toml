@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453591Z
+addr = 0x1986f0
+size = 0x24
+name = "OBJ_CBas::OpCopy"
+
+[header]
+name = "OBJ_CBas::OpCopy"
+addr = 0x1986f0
+
+[header.args]

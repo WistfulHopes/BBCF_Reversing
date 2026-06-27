@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454020Z
+addr = 0x387a63
+size = 0x2a
+name = "_tidy_global"
+
+[header]
+name = "_tidy_global"
+addr = 0x387a63
+
+[header.args]

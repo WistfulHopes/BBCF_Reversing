@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454232Z
+addr = 0x39d273
+size = 0x62
+name = "__Dtest"
+
+[header]
+name = "__Dtest"
+addr = 0x39d273
+
+[header.args]

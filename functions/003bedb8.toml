@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455261Z
+addr = 0x3bedb8
+size = 0x1e
+name = "?ReleaseSuspendedVirtualProcessors@SchedulerBase@details@Concurrency@@AAEXJ@Z"
+
+[header]
+name = "?ReleaseSuspendedVirtualProcessors@SchedulerBase@details@Concurrency@@AAEXJ@Z"
+addr = 0x3bedb8
+
+[header.args]

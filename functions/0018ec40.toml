@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453235Z
+addr = 0x18ec40
+size = 0x10
+name = "OBJ_CBase::AtkNoHitNotKillCombo"
+
+[header]
+name = "OBJ_CBase::AtkNoHitNotKillCombo"
+addr = 0x18ec40
+
+[header.args]

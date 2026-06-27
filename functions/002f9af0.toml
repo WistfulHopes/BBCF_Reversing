@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453973Z
+addr = 0x2f9af0
+size = 0x5
+name = "j_sub_4c0d80"
+
+[header]
+name = "j_sub_4c0d80"
+addr = 0x2f9af0
+
+[header.args]

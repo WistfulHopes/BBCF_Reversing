@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456170Z
+addr = 0x3d6383
+size = 0x106
+name = "?_StructuredChoreWrapper@_UnrealizedChore@details@Concurrency@@CAXPAV123@@Z"
+
+[header]
+name = "?_StructuredChoreWrapper@_UnrealizedChore@details@Concurrency@@CAXPAV123@@Z"
+addr = 0x3d6383
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454150Z
+addr = 0x39982d
+size = 0x18
+name = "?do_hash@?$collate@D@std@@MBEJPBD0@Z"
+
+[header]
+name = "?do_hash@?$collate@D@std@@MBEJPBD0@Z"
+addr = 0x39982d
+
+[header.args]

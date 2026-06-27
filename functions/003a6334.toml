@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454646Z
+addr = 0x3a6334
+size = 0x50
+name = "?DispatchNodeTimeoutTimerXP@LockQueueNode@details@Concurrency@@SGXPAXE@Z"
+
+[header]
+name = "?DispatchNodeTimeoutTimerXP@LockQueueNode@details@Concurrency@@SGXPAXE@Z"
+addr = 0x3a6334
+
+[header.args]

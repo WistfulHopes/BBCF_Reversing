@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452613Z
+addr = 0xb1f70
+size = 0x8c
+name = "CreateParticle"
+
+[header]
+name = "CreateParticle"
+addr = 0xb1f70
+
+[header.args]

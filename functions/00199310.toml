@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453656Z
+addr = 0x199310
+size = 0x1f
+name = "OBJ_CBase::PushCollision"
+
+[header]
+name = "OBJ_CBase::PushCollision"
+addr = 0x199310
+
+[header.args]

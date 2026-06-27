@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453216Z
+addr = 0x18ea10
+size = 0x10
+name = "OBJ_CBase::AtkLockWaitTime"
+
+[header]
+name = "OBJ_CBase::AtkLockWaitTime"
+addr = 0x18ea10
+
+[header.args]

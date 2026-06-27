@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454380Z
+addr = 0x39faee
+size = 0x9c
+name = "__aligned_offset_malloc"
+
+[header]
+name = "__aligned_offset_malloc"
+addr = 0x39faee
+
+[header.args]

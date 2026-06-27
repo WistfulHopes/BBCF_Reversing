@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454968Z
+addr = 0x3b4ab3
+size = 0x15a
+name = "___freetlocinfo"
+
+[header]
+name = "___freetlocinfo"
+addr = 0x3b4ab3
+
+[header.args]

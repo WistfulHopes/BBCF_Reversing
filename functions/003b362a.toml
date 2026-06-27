@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454963Z
+addr = 0x3b362a
+size = 0x31
+name = "__hextodec"
+
+[header]
+name = "__hextodec"
+addr = 0x3b362a
+
+[header.args]

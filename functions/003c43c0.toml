@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455439Z
+addr = 0x3c43c0
+size = 0xd2
+name = "__decomp"
+
+[header]
+name = "__decomp"
+addr = 0x3c43c0
+
+[header.args]

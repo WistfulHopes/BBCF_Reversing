@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454705Z
+addr = 0x3a6e17
+size = 0x4d
+name = "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+
+[header]
+name = "?ExFilterRethrow@@YAHPAU_EXCEPTION_POINTERS@@@Z"
+addr = 0x3a6e17
+
+[header.args]

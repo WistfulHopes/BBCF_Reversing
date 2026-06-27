@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453600Z
+addr = 0x198850
+size = 0x10
+name = "OBJ_CBase::PalEffParam3"
+
+[header]
+name = "OBJ_CBase::PalEffParam3"
+addr = 0x198850
+
+[header.args]

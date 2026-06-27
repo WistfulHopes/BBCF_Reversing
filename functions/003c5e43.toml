@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455486Z
+addr = 0x3c5e43
+size = 0x7a
+name = "__calloc_impl"
+
+[header]
+name = "__calloc_impl"
+addr = 0x3c5e43
+
+[header.args]

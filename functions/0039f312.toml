@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454296Z
+addr = 0x39f312
+size = 0x1e
+name = "??8type_info@@QBE_NABV0@@Z"
+
+[header]
+name = "??8type_info@@QBE_NABV0@@Z"
+addr = 0x39f312
+
+[header.args]

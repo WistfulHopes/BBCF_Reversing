@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452258Z
+addr = 0xe150
+size = 0x45
+name = "CShaderData::CreateShader"
+
+[header]
+name = "CShaderData::CreateShader"
+addr = 0xe150
+
+[header.args]

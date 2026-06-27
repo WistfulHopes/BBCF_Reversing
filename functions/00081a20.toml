@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452568Z
+addr = 0x81a20
+size = 0x91
+name = "AA_CCameraManager::Init"
+
+[header]
+name = "AA_CCameraManager::Init"
+addr = 0x81a20
+
+[header.args]

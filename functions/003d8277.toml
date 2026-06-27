@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456267Z
+addr = 0x3d8277
+size = 0x86
+name = "?FindSITargetTypeInstance@@YAPBU_s_RTTIBaseClassDescriptor@@PBU_s_RTTICompleteObjectLocator@@PAUTypeDescriptor@@1@Z"
+
+[header]
+name = "?FindSITargetTypeInstance@@YAPBU_s_RTTIBaseClassDescriptor@@PBU_s_RTTICompleteObjectLocator@@PAUTypeDescriptor@@1@Z"
+addr = 0x3d8277
+
+[header.args]

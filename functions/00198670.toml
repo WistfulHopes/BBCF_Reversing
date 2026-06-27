@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453590Z
+addr = 0x198670
+size = 0x80
+name = "OBJ_CBase::Op2To"
+
+[header]
+name = "OBJ_CBase::Op2To"
+addr = 0x198670
+
+[header.args]

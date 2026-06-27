@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455418Z
+addr = 0x3c2feb
+size = 0x34
+name = "?ReserveAtHigherUseCounts@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@I@Z"
+
+[header]
+name = "?ReserveAtHigherUseCounts@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@I@Z"
+addr = 0x3c2feb
+
+[header.args]

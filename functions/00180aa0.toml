@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452906Z
+addr = 0x180aa0
+size = 0xc8
+name = "OBJ_CBase::SetLockLinkPosition"
+
+[header]
+name = "OBJ_CBase::SetLockLinkPosition"
+addr = 0x180aa0
+
+[header.args]

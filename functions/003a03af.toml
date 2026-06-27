@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454388Z
+addr = 0x3a03af
+size = 0xcc
+name = "___report_securityfailure"
+
+[header]
+name = "___report_securityfailure"
+addr = 0x3a03af
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452860Z
+addr = 0x17cfd0
+size = 0x49
+name = "OBJ_CBase::GetObjectDistEx"
+
+[header]
+name = "OBJ_CBase::GetObjectDistEx"
+addr = 0x17cfd0
+
+[header.args]

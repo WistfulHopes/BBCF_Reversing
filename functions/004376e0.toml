@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456532Z
+addr = 0x4376e0
+size = 0xe
+name = "__unwindfunclet$?_CopyException@__ExceptionPtr@@SA?AV?$shared_ptr@V__ExceptionPtr@@@std@@PBXPBU_s_ThrowInfo@@_N@Z$5"
+
+[header]
+name = "__unwindfunclet$?_CopyException@__ExceptionPtr@@SA?AV?$shared_ptr@V__ExceptionPtr@@@std@@PBXPBU_s_ThrowInfo@@_N@Z$5"
+addr = 0x4376e0
+
+[header.args]

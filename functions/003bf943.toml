@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455306Z
+addr = 0x3bf943
+size = 0x48
+name = "?UpdateCommitVersion@SchedulerBase@details@Concurrency@@AAEKK@Z"
+
+[header]
+name = "?UpdateCommitVersion@SchedulerBase@details@Concurrency@@AAEKK@Z"
+addr = 0x3bf943
+
+[header.args]

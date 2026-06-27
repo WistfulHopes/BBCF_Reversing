@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452407Z
+addr = 0x57b50
+size = 0x80
+name = "AA_Filepack_FPAC::SearchFileID"
+
+[header]
+name = "AA_Filepack_FPAC::SearchFileID"
+addr = 0x57b50
+
+[header.args]

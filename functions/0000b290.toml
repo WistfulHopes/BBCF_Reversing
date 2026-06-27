@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452231Z
+addr = 0xb290
+size = 0x6c
+name = "AA_CParticleManager::GetInstance"
+
+[header]
+name = "AA_CParticleManager::GetInstance"
+addr = 0xb290
+
+[header.args]

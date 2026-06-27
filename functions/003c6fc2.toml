@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455561Z
+addr = 0x3c6fc2
+size = 0xd9
+name = "__wcsicmp_l"
+
+[header]
+name = "__wcsicmp_l"
+addr = 0x3c6fc2
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452651Z
+addr = 0xd1f30
+size = 0x18
+name = "DBM_Val"
+
+[header]
+name = "DBM_Val"
+addr = 0xd1f30
+
+[header.args]

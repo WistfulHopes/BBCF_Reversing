@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456363Z
+addr = 0x41fe81
+size = 0x11
+name = "__Cnd_broadcast"
+
+[header]
+name = "__Cnd_broadcast"
+addr = 0x41fe81
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452726Z
+addr = 0x157700
+size = 0x276
+name = "BATTLE_CObjectManager::BATTLE_CObjectManager"
+
+[header]
+name = "BATTLE_CObjectManager::BATTLE_CObjectManager"
+addr = 0x157700
+
+[header.args]

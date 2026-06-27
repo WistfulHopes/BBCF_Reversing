@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456390Z
+addr = 0x42050a
+size = 0x7c
+name = "__threadstartex@4"
+
+[header]
+name = "__threadstartex@4"
+addr = 0x42050a
+
+[header.args]

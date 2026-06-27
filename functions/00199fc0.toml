@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453716Z
+addr = 0x199fc0
+size = 0x65
+name = "OBJ_CBase::ResetSpeed"
+
+[header]
+name = "OBJ_CBase::ResetSpeed"
+addr = 0x199fc0
+
+[header.args]

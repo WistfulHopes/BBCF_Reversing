@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454123Z
+addr = 0x396aca
+size = 0x7c
+name = "??$_Getvals@D@?$_Mpunct@D@std@@IAEXDPBUlconv@@@Z"
+
+[header]
+name = "??$_Getvals@D@?$_Mpunct@D@std@@IAEXDPBUlconv@@@Z"
+addr = 0x396aca
+
+[header.args]

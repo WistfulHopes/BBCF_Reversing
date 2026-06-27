@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454387Z
+addr = 0x3a03a3
+size = 0xa
+name = "___report_rangecheckfailure"
+
+[header]
+name = "___report_rangecheckfailure"
+addr = 0x3a03a3
+
+[header.args]

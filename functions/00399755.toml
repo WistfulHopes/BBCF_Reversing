@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454147Z
+addr = 0x399755
+size = 0x40
+name = "?do_get_weekday@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AAVios_base@2@AAHPAUtm@@@Z"
+
+[header]
+name = "?do_get_weekday@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@MBE?AV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@V32@0AAVios_base@2@AAHPAUtm@@@Z"
+addr = 0x399755
+
+[header.args]

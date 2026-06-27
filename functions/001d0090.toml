@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453879Z
+addr = 0x1d0090
+size = 0xa1
+name = "OBJ_CBase::ResetVoiceSchedule"
+
+[header]
+name = "OBJ_CBase::ResetVoiceSchedule"
+addr = 0x1d0090
+
+[header.args]

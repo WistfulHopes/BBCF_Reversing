@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454789Z
+addr = 0x3abedf
+size = 0xe1
+name = "__lseek"
+
+[header]
+name = "__lseek"
+addr = 0x3abedf
+
+[header.args]

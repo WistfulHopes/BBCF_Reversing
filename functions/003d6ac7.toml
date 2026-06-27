@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456201Z
+addr = 0x3d6ac7
+size = 0x30
+name = "?PreSearch@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@@Z"
+
+[header]
+name = "?PreSearch@WorkSearchContext@details@Concurrency@@AAE_NPAVWorkItem@23@@Z"
+addr = 0x3d6ac7
+
+[header.args]

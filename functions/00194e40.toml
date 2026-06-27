@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453497Z
+addr = 0x194e40
+size = 0x1b
+name = "OBJ_CBase::InitFDashAccelSpeed"
+
+[header]
+name = "OBJ_CBase::InitFDashAccelSpeed"
+addr = 0x194e40
+
+[header.args]

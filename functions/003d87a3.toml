@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456283Z
+addr = 0x3d87a3
+size = 0x1b4
+name = "__chsize_nolock"
+
+[header]
+name = "__chsize_nolock"
+addr = 0x3d87a3
+
+[header.args]

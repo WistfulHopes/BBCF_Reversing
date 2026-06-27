@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453660Z
+addr = 0x199360
+size = 0x25
+name = "OBJ_CBase::PushFix"
+
+[header]
+name = "OBJ_CBase::PushFix"
+addr = 0x199360
+
+[header.args]

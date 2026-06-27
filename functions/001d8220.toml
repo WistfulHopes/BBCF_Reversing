@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453887Z
+addr = 0x1d8220
+size = 0xb12
+name = "BG_CBase::Func"
+
+[header]
+name = "BG_CBase::Func"
+addr = 0x1d8220
+
+[header.args]

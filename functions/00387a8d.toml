@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454021Z
+addr = 0x387a8d
+size = 0x22
+name = "??$_Find_elem@D@std@@YAIPADD@Z"
+
+[header]
+name = "??$_Find_elem@D@std@@YAIPADD@Z"
+addr = 0x387a8d
+
+[header.args]

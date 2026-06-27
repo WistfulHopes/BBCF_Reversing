@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452570Z
+addr = 0x81c60
+size = 0x86
+name = "GAME_CInfomation::SetTime"
+
+[header]
+name = "GAME_CInfomation::SetTime"
+addr = 0x81c60
+
+[header.args]

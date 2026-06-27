@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456208Z
+addr = 0x3d6c26
+size = 0x7e
+name = "?ResolveToken@WorkItem@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?ResolveToken@WorkItem@details@Concurrency@@QAE_NXZ"
+addr = 0x3d6c26
+
+[header.args]

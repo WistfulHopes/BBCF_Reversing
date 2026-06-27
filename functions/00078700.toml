@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452539Z
+addr = 0x78700
+size = 0x79
+name = "GAME_SGameLogFile::CreateGame"
+
+[header]
+name = "GAME_SGameLogFile::CreateGame"
+addr = 0x78700
+
+[header.args]

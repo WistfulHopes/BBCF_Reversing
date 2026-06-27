@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453546Z
+addr = 0x1966c0
+size = 0x1f
+name = "OBJ_CBase::LinkObjectAngle"
+
+[header]
+name = "OBJ_CBase::LinkObjectAngle"
+addr = 0x1966c0
+
+[header.args]

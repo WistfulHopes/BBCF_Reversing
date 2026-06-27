@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453487Z
+addr = 0x194ba0
+size = 0x4a
+name = "OBJ_CBase::InitCommonVoice"
+
+[header]
+name = "OBJ_CBase::InitCommonVoice"
+addr = 0x194ba0
+
+[header.args]

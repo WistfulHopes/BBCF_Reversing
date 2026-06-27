@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452317Z
+addr = 0x3ade0
+size = 0x59
+name = "AADX_CRenderer::CreateShader"
+
+[header]
+name = "AADX_CRenderer::CreateShader"
+addr = 0x3ade0
+
+[header.args]

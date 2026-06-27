@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452377Z
+addr = 0x4f600
+size = 0x40
+name = "AAWin_HQTimer::GetHQTime"
+
+[header]
+name = "AAWin_HQTimer::GetHQTime"
+addr = 0x4f600
+
+[header.args]

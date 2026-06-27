@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456084Z
+addr = 0x3d250f
+size = 0xc5
+name = "?SendCoreNotification@SchedulerProxy@details@Concurrency@@QAEXPAUSchedulerCore@23@_N@Z"
+
+[header]
+name = "?SendCoreNotification@SchedulerProxy@details@Concurrency@@QAEXPAUSchedulerCore@23@_N@Z"
+addr = 0x3d250f
+
+[header.args]

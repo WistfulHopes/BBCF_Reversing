@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452957Z
+addr = 0x18cf20
+size = 0x10
+name = "OBJ_CBase::ActionBegin"
+
+[header]
+name = "OBJ_CBase::ActionBegin"
+addr = 0x18cf20
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452253Z
+addr = 0xc020
+size = 0xce
+name = "AA_CRandomManager::Init"
+
+[header]
+name = "AA_CRandomManager::Init"
+addr = 0xc020
+
+[header.args]

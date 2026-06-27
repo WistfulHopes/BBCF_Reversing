@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452158Z
+addr = 0x7570
+size = 0x1f
+name = "AA_CFileCtrlFactory::CreateThread"
+
+[header]
+name = "AA_CFileCtrlFactory::CreateThread"
+addr = 0x7570
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454585Z
+addr = 0x3a5f4c
+size = 0x4a
+name = "__calloc_crt"
+
+[header]
+name = "__calloc_crt"
+addr = 0x3a5f4c
+
+[header.args]

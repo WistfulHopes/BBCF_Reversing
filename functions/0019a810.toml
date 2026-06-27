@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453746Z
+addr = 0x19a810
+size = 0x31
+name = "OBJ_CBase::SetColor"
+
+[header]
+name = "OBJ_CBase::SetColor"
+addr = 0x19a810
+
+[header.args]

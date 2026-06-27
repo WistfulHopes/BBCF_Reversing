@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454731Z
+addr = 0x3a78c7
+size = 0x1e9
+name = "?__crtLCMapStringA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPBDHPADHHH@Z"
+
+[header]
+name = "?__crtLCMapStringA_stat@@YAHPAUlocaleinfo_struct@@PB_WKPBDHPADHHH@Z"
+addr = 0x3a78c7
+
+[header.args]

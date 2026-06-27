@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455599Z
+addr = 0x3c7ab4
+size = 0x3
+name = "__NLG_Call"
+
+[header]
+name = "__NLG_Call"
+addr = 0x3c7ab4
+
+[header.args]

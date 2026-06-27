@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453750Z
+addr = 0x19a8a0
+size = 0x33
+name = "OBJ_CBase::SetCompositeColor"
+
+[header]
+name = "OBJ_CBase::SetCompositeColor"
+addr = 0x19a8a0
+
+[header.args]

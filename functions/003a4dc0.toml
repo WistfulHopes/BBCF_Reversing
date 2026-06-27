@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454542Z
+addr = 0x3a4dc0
+size = 0x16
+name = "__alloca_probe_16"
+
+[header]
+name = "__alloca_probe_16"
+addr = 0x3a4dc0
+
+[header.args]

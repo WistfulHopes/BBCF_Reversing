@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452666Z
+addr = 0xf8070
+size = 0x5
+name = "j_sub_4f7f50"
+
+[header]
+name = "j_sub_4f7f50"
+addr = 0xf8070
+
+[header.args]

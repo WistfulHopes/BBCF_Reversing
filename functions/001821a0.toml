@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452922Z
+addr = 0x1821a0
+size = 0x49
+name = "OBJ_CBase::AllInterruptClear"
+
+[header]
+name = "OBJ_CBase::AllInterruptClear"
+addr = 0x1821a0
+
+[header.args]

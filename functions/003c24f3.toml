@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455401Z
+addr = 0x3c24f3
+size = 0xd1
+name = "?PreProcessDynamicAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+
+[header]
+name = "?PreProcessDynamicAllocationData@ResourceManager@details@Concurrency@@AAEXXZ"
+addr = 0x3c24f3
+
+[header.args]

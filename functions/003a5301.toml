@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454551Z
+addr = 0x3a5301
+size = 0x34
+name = "__init_pointers"
+
+[header]
+name = "__init_pointers"
+addr = 0x3a5301
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452951Z
+addr = 0x18bff0
+size = 0xb9
+name = "OBJ_CBase::GetWorldCollisionPoint"
+
+[header]
+name = "OBJ_CBase::GetWorldCollisionPoint"
+addr = 0x18bff0
+
+[header.args]

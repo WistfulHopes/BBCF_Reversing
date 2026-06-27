@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456509Z
+addr = 0x4371fa
+size = 0x12
+name = "__unwindfunclet$?_Initialize@_TaskCollection@details@Concurrency@@AAEXXZ$0"
+
+[header]
+name = "__unwindfunclet$?_Initialize@_TaskCollection@details@Concurrency@@AAEXXZ$0"
+addr = 0x4371fa
+
+[header.args]

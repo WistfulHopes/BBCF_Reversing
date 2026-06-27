@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454244Z
+addr = 0x39d563
+size = 0xb6
+name = "__fsopen"
+
+[header]
+name = "__fsopen"
+addr = 0x39d563
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452343Z
+addr = 0x3d980
+size = 0x25a
+name = "AADX_CRenderer::InitVertexBuffer"
+
+[header]
+name = "AADX_CRenderer::InitVertexBuffer"
+addr = 0x3d980
+
+[header.args]

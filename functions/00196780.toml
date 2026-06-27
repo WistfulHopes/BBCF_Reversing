@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453554Z
+addr = 0x196780
+size = 0xaf
+name = "OBJ_CBase::LinkObjectPosition"
+
+[header]
+name = "OBJ_CBase::LinkObjectPosition"
+addr = 0x196780
+
+[header.args]

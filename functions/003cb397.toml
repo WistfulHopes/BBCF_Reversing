@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455683Z
+addr = 0x3cb397
+size = 0x5c
+name = "?GetArbitraryAlias@ContextBase@details@Concurrency@@QAEPAV_TaskCollection@23@PAV423@@Z"
+
+[header]
+name = "?GetArbitraryAlias@ContextBase@details@Concurrency@@QAEPAV_TaskCollection@23@PAV423@@Z"
+addr = 0x3cb397
+
+[header.args]

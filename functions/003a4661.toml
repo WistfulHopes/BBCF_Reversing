@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454521Z
+addr = 0x3a4661
+size = 0x3c
+name = "?DeleteAsyncTimerAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_TIMER@@@Z"
+
+[header]
+name = "?DeleteAsyncTimerAndUnloadLibrary@details@Concurrency@@YAXPAU_TP_TIMER@@@Z"
+addr = 0x3a4661
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453187Z
+addr = 0x18e880
+size = 0x10
+name = "OBJ_CBase::AtkPushCollisionOff"
+
+[header]
+name = "OBJ_CBase::AtkPushCollisionOff"
+addr = 0x18e880
+
+[header.args]

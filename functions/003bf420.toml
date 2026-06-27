@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455291Z
+addr = 0x3bf420
+size = 0x55
+name = "?StaticDestruction@SchedulerBase@details@Concurrency@@CAXXZ"
+
+[header]
+name = "?StaticDestruction@SchedulerBase@details@Concurrency@@CAXXZ"
+addr = 0x3bf420
+
+[header.args]

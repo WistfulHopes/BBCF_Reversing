@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453370Z
+addr = 0x190d10
+size = 0x1b8
+name = "OBJ_CBase::CheckInputEx"
+
+[header]
+name = "OBJ_CBase::CheckInputEx"
+addr = 0x190d10
+
+[header.args]

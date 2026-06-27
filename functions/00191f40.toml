@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453408Z
+addr = 0x191f40
+size = 0x22
+name = "OBJ_CBase::DeleteObject"
+
+[header]
+name = "OBJ_CBase::DeleteObject"
+addr = 0x191f40
+
+[header.args]

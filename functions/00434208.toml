@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456444Z
+addr = 0x434208
+size = 0x8
+name = "__unwindfunclet$?VirtualProcessorActiveNotification@UMSThreadScheduler@details@Concurrency@@MAEX_NJ@Z$0"
+
+[header]
+name = "__unwindfunclet$?VirtualProcessorActiveNotification@UMSThreadScheduler@details@Concurrency@@MAEX_NJ@Z$0"
+addr = 0x434208
+
+[header.args]

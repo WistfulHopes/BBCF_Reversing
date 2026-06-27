@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455771Z
+addr = 0x3ccbd9
+size = 0x98
+name = "?CreateSegment@ScheduleGroupBase@details@Concurrency@@IAEPAVScheduleGroupSegmentBase@23@PAVlocation@3@PAVSchedulingRing@23@@Z"
+
+[header]
+name = "?CreateSegment@ScheduleGroupBase@details@Concurrency@@IAEPAVScheduleGroupSegmentBase@23@PAVlocation@3@PAVSchedulingRing@23@@Z"
+addr = 0x3ccbd9
+
+[header.args]

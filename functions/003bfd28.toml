@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455320Z
+addr = 0x3bfd28
+size = 0xd0
+name = "?AdjustDynamicAllocation@ResourceManager@details@Concurrency@@AAEIIII@Z"
+
+[header]
+name = "?AdjustDynamicAllocation@ResourceManager@details@Concurrency@@AAEIIII@Z"
+addr = 0x3bfd28
+
+[header.args]

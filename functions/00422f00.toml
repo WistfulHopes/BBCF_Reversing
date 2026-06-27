@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456433Z
+addr = 0x422f00
+size = 0x8
+name = "__unwindfunclet$??0_Locinfo@std@@QAE@PBD@Z$0"
+
+[header]
+name = "__unwindfunclet$??0_Locinfo@std@@QAE@PBD@Z$0"
+addr = 0x422f00
+
+[header.args]

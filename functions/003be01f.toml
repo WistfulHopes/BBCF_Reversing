@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455225Z
+addr = 0x3be01f
+size = 0x15
+name = "?HasCompletedShutdown@SchedulerBase@details@Concurrency@@QAE_NXZ"
+
+[header]
+name = "?HasCompletedShutdown@SchedulerBase@details@Concurrency@@QAE_NXZ"
+addr = 0x3be01f
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452619Z
+addr = 0xb9350
+size = 0x133
+name = "CSaveDataManager::CSaveDataManager"
+
+[header]
+name = "CSaveDataManager::CSaveDataManager"
+addr = 0xb9350
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454564Z
+addr = 0x3a5816
+size = 0x36
+name = "__EH_prolog3_catch"
+
+[header]
+name = "__EH_prolog3_catch"
+addr = 0x3a5816
+
+[header.args]

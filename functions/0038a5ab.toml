@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454086Z
+addr = 0x38a5ab
+size = 0x4d
+name = "??$_LStrcoll@G@std@@YAHPBG000PBU_Collvec@@@Z"
+
+[header]
+name = "??$_LStrcoll@G@std@@YAHPBG000PBU_Collvec@@@Z"
+addr = 0x38a5ab
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454401Z
+addr = 0x3a0b91
+size = 0x28
+name = "____lc_locale_name_func"
+
+[header]
+name = "____lc_locale_name_func"
+addr = 0x3a0b91
+
+[header.args]

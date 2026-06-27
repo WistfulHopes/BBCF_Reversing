@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454202Z
+addr = 0x39bc07
+size = 0x270
+name = "__Dscale"
+
+[header]
+name = "__Dscale"
+addr = 0x39bc07
+
+[header.args]

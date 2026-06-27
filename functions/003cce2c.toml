@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455778Z
+addr = 0x3cce2c
+size = 0x30
+name = "?Enqueue@?$SafeSQueue@VRealizedChore@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEXPAVRealizedChore@23@@Z"
+
+[header]
+name = "?Enqueue@?$SafeSQueue@VRealizedChore@details@Concurrency@@V_HyperNonReentrantLock@23@@details@Concurrency@@QAEXPAVRealizedChore@23@@Z"
+addr = 0x3cce2c
+
+[header.args]

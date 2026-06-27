@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453441Z
+addr = 0x193b60
+size = 0xc5
+name = "OBJ_CBase::OverDriveEnd"
+
+[header]
+name = "OBJ_CBase::OverDriveEnd"
+addr = 0x193b60
+
+[header.args]

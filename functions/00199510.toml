@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453673Z
+addr = 0x199510
+size = 0x47
+name = "OBJ_CBase::RandAddAngle"
+
+[header]
+name = "OBJ_CBase::RandAddAngle"
+addr = 0x199510
+
+[header.args]

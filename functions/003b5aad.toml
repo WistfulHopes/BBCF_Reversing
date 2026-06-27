@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455002Z
+addr = 0x3b5aad
+size = 0x18e
+name = "?setSBUpLow@@YAXPAUthreadmbcinfostruct@@@Z"
+
+[header]
+name = "?setSBUpLow@@YAXPAUthreadmbcinfostruct@@@Z"
+addr = 0x3b5aad
+
+[header.args]

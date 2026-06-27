@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453242Z
+addr = 0x18ecc0
+size = 0xe3
+name = "OBJ_CBase::AtkParamCopy"
+
+[header]
+name = "OBJ_CBase::AtkParamCopy"
+addr = 0x18ecc0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452405Z
+addr = 0x57ad0
+size = 0x3b
+name = "AA_Filepack_FPAC::GetPackOffsetAddr"
+
+[header]
+name = "AA_Filepack_FPAC::GetPackOffsetAddr"
+addr = 0x57ad0
+
+[header.args]

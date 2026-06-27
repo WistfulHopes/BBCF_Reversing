@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453623Z
+addr = 0x198c50
+size = 0x28
+name = "OBJ_CBase::PerInertia"
+
+[header]
+name = "OBJ_CBase::PerInertia"
+addr = 0x198c50
+
+[header.args]

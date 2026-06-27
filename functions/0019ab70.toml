@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453764Z
+addr = 0x19ab70
+size = 0x10
+name = "OBJ_CBase::SetDistortionLevelSpeed"
+
+[header]
+name = "OBJ_CBase::SetDistortionLevelSpeed"
+addr = 0x19ab70
+
+[header.args]

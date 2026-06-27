@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454663Z
+addr = 0x3a656b
+size = 0x18
+name = "?_Flush_current_owner@critical_section@Concurrency@@QAEXXZ"
+
+[header]
+name = "?_Flush_current_owner@critical_section@Concurrency@@QAEXXZ"
+addr = 0x3a656b
+
+[header.args]

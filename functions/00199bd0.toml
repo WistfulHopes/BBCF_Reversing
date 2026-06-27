@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453697Z
+addr = 0x199bd0
+size = 0x37
+name = "OBJ_CBase::RandAddSpeedXRaw"
+
+[header]
+name = "OBJ_CBase::RandAddSpeedXRaw"
+addr = 0x199bd0
+
+[header.args]

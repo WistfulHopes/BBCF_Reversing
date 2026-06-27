@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454499Z
+addr = 0x3a4009
+size = 0x46
+name = "__fflush_nolock"
+
+[header]
+name = "__fflush_nolock"
+addr = 0x3a4009
+
+[header.args]

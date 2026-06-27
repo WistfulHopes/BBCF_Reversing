@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452887Z
+addr = 0x17e7d0
+size = 0x2c
+name = "OBJ_CBase::IsStorySpecialType"
+
+[header]
+name = "OBJ_CBase::IsStorySpecialType"
+addr = 0x17e7d0
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454727Z
+addr = 0x3a77ee
+size = 0x5d
+name = "___TypeMatch"
+
+[header]
+name = "___TypeMatch"
+addr = 0x3a77ee
+
+[header.args]

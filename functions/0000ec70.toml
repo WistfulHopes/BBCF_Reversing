@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452270Z
+addr = 0xec70
+size = 0x4c
+name = "AA_VertexBufferData::CreateVertexBuffer"
+
+[header]
+name = "AA_VertexBufferData::CreateVertexBuffer"
+addr = 0xec70
+
+[header.args]

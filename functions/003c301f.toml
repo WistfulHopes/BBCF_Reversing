@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455420Z
+addr = 0x3c301f
+size = 0x1d2
+name = "?ReserveCores@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@II@Z"
+
+[header]
+name = "?ReserveCores@ResourceManager@details@Concurrency@@AAEIPAVSchedulerProxy@23@II@Z"
+addr = 0x3c301f
+
+[header.args]

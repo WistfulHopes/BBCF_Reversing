@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453286Z
+addr = 0x18ef00
+size = 0x10
+name = "OBJ_CBase::AtkSlideTimeCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkSlideTimeCounterHit"
+addr = 0x18ef00
+
+[header.args]

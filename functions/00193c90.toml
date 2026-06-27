@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453444Z
+addr = 0x193c90
+size = 0x10
+name = "OBJ_CBase::FuncCall"
+
+[header]
+name = "OBJ_CBase::FuncCall"
+addr = 0x193c90
+
+[header.args]

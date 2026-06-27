@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456061Z
+addr = 0x3d1dd9
+size = 0x8c
+name = "?DestroyExecutionResource@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+
+[header]
+name = "?DestroyExecutionResource@SchedulerProxy@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+addr = 0x3d1dd9
+
+[header.args]

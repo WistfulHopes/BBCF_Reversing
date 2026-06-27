@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455337Z
+addr = 0x3c02d6
+size = 0x5
+name = "j_Concurrency::details::ResourceManager::CreateSingleton"
+
+[header]
+name = "j_Concurrency::details::ResourceManager::CreateSingleton"
+addr = 0x3c02d6
+
+[header.args]

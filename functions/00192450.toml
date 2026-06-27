@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453417Z
+addr = 0x192450
+size = 0x10d
+name = "OBJ_CBase::EffectForAirDash"
+
+[header]
+name = "OBJ_CBase::EffectForAirDash"
+addr = 0x192450
+
+[header.args]

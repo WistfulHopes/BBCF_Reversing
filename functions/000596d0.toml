@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452416Z
+addr = 0x596d0
+size = 0x1f
+name = "AA_CCollision_JON::GetImageFileName"
+
+[header]
+name = "AA_CCollision_JON::GetImageFileName"
+addr = 0x596d0
+
+[header.args]

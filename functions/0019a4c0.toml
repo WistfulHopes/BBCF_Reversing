@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453736Z
+addr = 0x19a4c0
+size = 0x25
+name = "OBJ_CBase::AstralPinch"
+
+[header]
+name = "OBJ_CBase::AstralPinch"
+addr = 0x19a4c0
+
+[header.args]

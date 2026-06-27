@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454222Z
+addr = 0x39cd58
+size = 0x120
+name = "__LDtento"
+
+[header]
+name = "__LDtento"
+addr = 0x39cd58
+
+[header.args]

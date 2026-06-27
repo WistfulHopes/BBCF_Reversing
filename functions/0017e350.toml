@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452871Z
+addr = 0x17e350
+size = 0x11
+name = "OBJ_CBase::GetPushColH"
+
+[header]
+name = "OBJ_CBase::GetPushColH"
+addr = 0x17e350
+
+[header.args]

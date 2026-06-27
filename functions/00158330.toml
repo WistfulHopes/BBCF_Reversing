@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452734Z
+addr = 0x158330
+size = 0x2a8
+name = "BATTLE_CObjectManager::BOM_RoundAndEasyResetInitialize"
+
+[header]
+name = "BATTLE_CObjectManager::BOM_RoundAndEasyResetInitialize"
+addr = 0x158330
+
+[header.args]

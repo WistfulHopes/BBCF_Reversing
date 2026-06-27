@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455475Z
+addr = 0x3c59bd
+size = 0x40
+name = "__set_error_mode"
+
+[header]
+name = "__set_error_mode"
+addr = 0x3c59bd
+
+[header.args]

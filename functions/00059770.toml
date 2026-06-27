@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452425Z
+addr = 0x59770
+size = 0x16
+name = "AA_CCollision_JON::GetViewAngleCenterOfsY"
+
+[header]
+name = "AA_CCollision_JON::GetViewAngleCenterOfsY"
+addr = 0x59770
+
+[header.args]

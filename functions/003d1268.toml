@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456030Z
+addr = 0x3d1268
+size = 0x19
+name = "?GetRandomMove@HillClimbing@details@Concurrency@@AAEHXZ"
+
+[header]
+name = "?GetRandomMove@HillClimbing@details@Concurrency@@AAEHXZ"
+addr = 0x3d1268
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456148Z
+addr = 0x3d5c5d
+size = 0x5
+name = "__catch$?_CallCopyCtor@__ExceptionPtr@@ABEXPAX0IQBU_s_CatchableType@@@Z$0"
+
+[header]
+name = "__catch$?_CallCopyCtor@__ExceptionPtr@@ABEXPAX0IQBU_s_CatchableType@@@Z$0"
+addr = 0x3d5c5d
+
+[header.args]

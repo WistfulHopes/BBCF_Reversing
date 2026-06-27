@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453381Z
+addr = 0x191610
+size = 0xb
+name = "OBJ_CBase::AttackEndDelay"
+
+[header]
+name = "OBJ_CBase::AttackEndDelay"
+addr = 0x191610
+
+[header.args]

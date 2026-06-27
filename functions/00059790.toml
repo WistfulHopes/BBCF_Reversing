@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452426Z
+addr = 0x59790
+size = 0x16
+name = "AA_CCollision_JON::GetViewImageIndex"
+
+[header]
+name = "AA_CCollision_JON::GetViewImageIndex"
+addr = 0x59790
+
+[header.args]

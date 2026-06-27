@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452652Z
+addr = 0xd2430
+size = 0x10
+name = "BG_EffectManager::BG_EffectManager"
+
+[header]
+name = "BG_EffectManager::BG_EffectManager"
+addr = 0xd2430
+
+[header.args]

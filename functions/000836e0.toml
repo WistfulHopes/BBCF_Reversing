@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452583Z
+addr = 0x836e0
+size = 0x70
+name = "CSceneControllerTaskFactory::Product"
+
+[header]
+name = "CSceneControllerTaskFactory::Product"
+addr = 0x836e0
+
+[header.args]

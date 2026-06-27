@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453883Z
+addr = 0x1d2790
+size = 0x39
+name = "OBJ_CCharBase::EnableAll"
+
+[header]
+name = "OBJ_CCharBase::EnableAll"
+addr = 0x1d2790
+
+[header.args]

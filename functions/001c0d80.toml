@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453852Z
+addr = 0x1c0d80
+size = 0x73
+name = "OBJ_CCharBase::AddBarrierVal"
+
+[header]
+name = "OBJ_CCharBase::AddBarrierVal"
+addr = 0x1c0d80
+
+[header.args]

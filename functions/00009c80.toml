@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452221Z
+addr = 0x9c80
+size = 0x5e
+name = "AA_CModelInstanceManager::ResetModel"
+
+[header]
+name = "AA_CModelInstanceManager::ResetModel"
+addr = 0x9c80
+
+[header.args]

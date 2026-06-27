@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456071Z
+addr = 0x3d1f8c
+size = 0x2de
+name = "?GrantAllocation@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@I_N0@Z"
+
+[header]
+name = "?GrantAllocation@SchedulerProxy@details@Concurrency@@QAEPAVExecutionResource@23@I_N0@Z"
+addr = 0x3d1f8c
+
+[header.args]

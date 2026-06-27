@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454185Z
+addr = 0x39ad2c
+size = 0x24f
+name = "__Stoflt"
+
+[header]
+name = "__Stoflt"
+addr = 0x39ad2c
+
+[header.args]

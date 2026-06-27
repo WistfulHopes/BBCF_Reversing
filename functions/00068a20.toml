@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452489Z
+addr = 0x68a20
+size = 0x6c
+name = "GAMESTEAM_ImeEditBox::GetInstance"
+
+[header]
+name = "GAMESTEAM_ImeEditBox::GetInstance"
+addr = 0x68a20
+
+[header.args]

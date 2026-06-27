@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453120Z
+addr = 0x18e360
+size = 0x19
+name = "OBJ_CBase::AtkDrain"
+
+[header]
+name = "OBJ_CBase::AtkDrain"
+addr = 0x18e360
+
+[header.args]

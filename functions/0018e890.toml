@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453189Z
+addr = 0x18e890
+size = 0x1f
+name = "OBJ_CBase::AtkKeepOutPower"
+
+[header]
+name = "OBJ_CBase::AtkKeepOutPower"
+addr = 0x18e890
+
+[header.args]

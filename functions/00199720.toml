@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453680Z
+addr = 0x199720
+size = 0x37
+name = "OBJ_CBase::RandAddPosXRaw"
+
+[header]
+name = "OBJ_CBase::RandAddPosXRaw"
+addr = 0x199720
+
+[header.args]

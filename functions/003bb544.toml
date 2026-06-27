@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455059Z
+addr = 0x3bb544
+size = 0x17
+name = "??1?$WorkStealingQueue@V_UnrealizedChore@details@Concurrency@@V_CriticalNonReentrantLock@23@@details@Concurrency@@QAE@XZ"
+
+[header]
+name = "??1?$WorkStealingQueue@V_UnrealizedChore@details@Concurrency@@V_CriticalNonReentrantLock@23@@details@Concurrency@@QAE@XZ"
+addr = 0x3bb544
+
+[header.args]

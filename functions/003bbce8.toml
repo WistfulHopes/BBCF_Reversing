@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455092Z
+addr = 0x3bbce8
+size = 0x3f
+name = "?FindAndDelete@?$Hash@PAV_TaskCollection@details@Concurrency@@PAV123@@details@Concurrency@@QAE_NABQAV_TaskCollection@23@PAPAV423@@Z"
+
+[header]
+name = "?FindAndDelete@?$Hash@PAV_TaskCollection@details@Concurrency@@PAV123@@details@Concurrency@@QAE_NABQAV_TaskCollection@23@PAPAV423@@Z"
+addr = 0x3bbce8
+
+[header.args]

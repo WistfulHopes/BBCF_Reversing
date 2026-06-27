@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453488Z
+addr = 0x194bf0
+size = 0x2a
+name = "OBJ_CBase::InitDashSenkoInput"
+
+[header]
+name = "OBJ_CBase::InitDashSenkoInput"
+addr = 0x194bf0
+
+[header.args]

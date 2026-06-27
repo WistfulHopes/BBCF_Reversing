@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453305Z
+addr = 0x18efd0
+size = 0x1f
+name = "OBJ_CBase::AtkTimeHoseiIgnore"
+
+[header]
+name = "OBJ_CBase::AtkTimeHoseiIgnore"
+addr = 0x18efd0
+
+[header.args]

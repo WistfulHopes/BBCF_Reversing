@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453447Z
+addr = 0x193f60
+size = 0x2c
+name = "OBJ_CBase::Goto"
+
+[header]
+name = "OBJ_CBase::Goto"
+addr = 0x193f60
+
+[header.args]

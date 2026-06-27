@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456156Z
+addr = 0x3d5f26
+size = 0x18
+name = "?_Destroy@?$_Ref_count@V__ExceptionPtr@@@std@@EAEXXZ"
+
+[header]
+name = "?_Destroy@?$_Ref_count@V__ExceptionPtr@@@std@@EAEXXZ"
+addr = 0x3d5f26
+
+[header.args]

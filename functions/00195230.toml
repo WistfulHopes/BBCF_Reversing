@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453514Z
+addr = 0x195230
+size = 0x30
+name = "OBJ_CBase::InitNegativeAnti"
+
+[header]
+name = "OBJ_CBase::InitNegativeAnti"
+addr = 0x195230
+
+[header.args]

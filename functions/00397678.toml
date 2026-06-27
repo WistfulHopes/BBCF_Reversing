@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454127Z
+addr = 0x397678
+size = 0x188
+name = "?_Getint@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABAHAAV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@0HHAAHABV?$ctype@D@2@@Z"
+
+[header]
+name = "?_Getint@?$time_get@DV?$istreambuf_iterator@DU?$char_traits@D@std@@@std@@@std@@ABAHAAV?$istreambuf_iterator@DU?$char_traits@D@std@@@2@0HHAAHABV?$ctype@D@2@@Z"
+addr = 0x397678
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453803Z
+addr = 0x19b540
+size = 0x7c
+name = "OBJ_CBase::SetSpeedTowardsObject"
+
+[header]
+name = "OBJ_CBase::SetSpeedTowardsObject"
+addr = 0x19b540
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454247Z
+addr = 0x39d627
+size = 0x15
+name = "_fopen"
+
+[header]
+name = "_fopen"
+addr = 0x39d627
+
+[header.args]

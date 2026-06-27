@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454710Z
+addr = 0x3a7319
+size = 0x80
+name = "?IsInExceptionSpec@@YAEPAUEHExceptionRecord@@PBU_s_ESTypeList@@@Z"
+
+[header]
+name = "?IsInExceptionSpec@@YAEPAUEHExceptionRecord@@PBU_s_ESTypeList@@@Z"
+addr = 0x3a7319
+
+[header.args]

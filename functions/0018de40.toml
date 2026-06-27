@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453046Z
+addr = 0x18de40
+size = 0x31
+name = "OBJ_CBase::AtkAirDamageLevel"
+
+[header]
+name = "OBJ_CBase::AtkAirDamageLevel"
+addr = 0x18de40
+
+[header.args]

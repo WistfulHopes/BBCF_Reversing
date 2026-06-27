@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455723Z
+addr = 0x3cbeba
+size = 0x33
+name = "?GetEnableLevel@Etw@details@Concurrency@@QAEE_K@Z"
+
+[header]
+name = "?GetEnableLevel@Etw@details@Concurrency@@QAEE_K@Z"
+addr = 0x3cbeba
+
+[header.args]

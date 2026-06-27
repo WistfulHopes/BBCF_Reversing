@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453827Z
+addr = 0x19eca0
+size = 0xb
+name = "OBJ_CBase::Suicide"
+
+[header]
+name = "OBJ_CBase::Suicide"
+addr = 0x19eca0
+
+[header.args]

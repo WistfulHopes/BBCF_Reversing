@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453456Z
+addr = 0x1945d0
+size = 0x118
+name = "OBJ_CBase::HomingType2"
+
+[header]
+name = "OBJ_CBase::HomingType2"
+addr = 0x1945d0
+
+[header.args]

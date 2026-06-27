@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452256Z
+addr = 0xe050
+size = 0x94
+name = "CShaderData::GetInstance"
+
+[header]
+name = "CShaderData::GetInstance"
+addr = 0xe050
+
+[header.args]

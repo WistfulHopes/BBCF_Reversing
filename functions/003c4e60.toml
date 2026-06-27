@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455455Z
+addr = 0x3c4e60
+size = 0x18
+name = "__CIatan_pentium4"
+
+[header]
+name = "__CIatan_pentium4"
+addr = 0x3c4e60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456409Z
+addr = 0x420c70
+size = 0x21
+name = "__allshr"
+
+[header]
+name = "__allshr"
+addr = 0x420c70
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455691Z
+addr = 0x3cb6d6
+size = 0x9f
+name = "?_Cancel@_TaskCollection@details@Concurrency@@AAEX_NPAV123@@Z"
+
+[header]
+name = "?_Cancel@_TaskCollection@details@Concurrency@@AAEX_NPAV123@@Z"
+addr = 0x3cb6d6
+
+[header.args]

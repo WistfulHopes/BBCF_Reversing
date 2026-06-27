@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453403Z
+addr = 0x191c70
+size = 0xe
+name = "OBJ_CBase::DamageGravity"
+
+[header]
+name = "OBJ_CBase::DamageGravity"
+addr = 0x191c70
+
+[header.args]

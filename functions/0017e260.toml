@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452868Z
+addr = 0x17e260
+size = 0x3a
+name = "OBJ_CBase::GetPosYCenter"
+
+[header]
+name = "OBJ_CBase::GetPosYCenter"
+addr = 0x17e260
+
+[header.args]

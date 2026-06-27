@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452527Z
+addr = 0x74260
+size = 0x8f
+name = "GAME_CFadeControllerFactory::Product"
+
+[header]
+name = "GAME_CFadeControllerFactory::Product"
+addr = 0x74260
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454248Z
+addr = 0x39d63c
+size = 0x1c3
+name = "__fread_nolock_s"
+
+[header]
+name = "__fread_nolock_s"
+addr = 0x39d63c
+
+[header.args]

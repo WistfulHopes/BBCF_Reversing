@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456518Z
+addr = 0x4373d9
+size = 0xe
+name = "__unwindfunclet$??1VirtualProcessor@details@Concurrency@@UAE@XZ$1"
+
+[header]
+name = "__unwindfunclet$??1VirtualProcessor@details@Concurrency@@UAE@XZ$1"
+addr = 0x4373d9
+
+[header.args]

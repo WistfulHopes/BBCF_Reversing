@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453025Z
+addr = 0x18d810
+size = 0x1c
+name = "OBJ_CBase::AddZVal"
+
+[header]
+name = "OBJ_CBase::AddZVal"
+addr = 0x18d810
+
+[header.args]

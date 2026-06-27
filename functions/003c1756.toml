@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455370Z
+addr = 0x3c1756
+size = 0xd5
+name = "?GetCurrentNodeAndCore@ResourceManager@details@Concurrency@@QAEIPAI@Z"
+
+[header]
+name = "?GetCurrentNodeAndCore@ResourceManager@details@Concurrency@@QAEIPAI@Z"
+addr = 0x3c1756
+
+[header.args]

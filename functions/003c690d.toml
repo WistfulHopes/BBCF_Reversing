@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455541Z
+addr = 0x3c690d
+size = 0x64
+name = "?wait@_Condition_variable@details@Concurrency@@QAEXAAVcritical_section@3@@Z"
+
+[header]
+name = "?wait@_Condition_variable@details@Concurrency@@QAEXAAVcritical_section@3@@Z"
+addr = 0x3c690d
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455081Z
+addr = 0x3bba6b
+size = 0x3f
+name = "?ClearAliasTable@ContextBase@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?ClearAliasTable@ContextBase@details@Concurrency@@QAEXXZ"
+addr = 0x3bba6b
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456386Z
+addr = 0x420443
+size = 0x21
+name = "__callthreadstartex"
+
+[header]
+name = "__callthreadstartex"
+addr = 0x420443
+
+[header.args]

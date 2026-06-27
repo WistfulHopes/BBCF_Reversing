@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452925Z
+addr = 0x182320
+size = 0x2f5
+name = "OBJ_CBase::BBST_OnActionBegin"
+
+[header]
+name = "OBJ_CBase::BBST_OnActionBegin"
+addr = 0x182320
+
+[header.args]

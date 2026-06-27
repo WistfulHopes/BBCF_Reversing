@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454762Z
+addr = 0x3aad45
+size = 0xa8
+name = "__close_nolock"
+
+[header]
+name = "__close_nolock"
+addr = 0x3aad45
+
+[header.args]

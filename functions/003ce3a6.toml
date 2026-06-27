@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455865Z
+addr = 0x3ce3a6
+size = 0x3a
+name = "?SaveRetiredVirtualProcessorStatistics@SchedulerBase@details@Concurrency@@QAEXPAVVirtualProcessor@23@@Z"
+
+[header]
+name = "?SaveRetiredVirtualProcessorStatistics@SchedulerBase@details@Concurrency@@QAEXPAVVirtualProcessor@23@@Z"
+addr = 0x3ce3a6
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452825Z
+addr = 0x172410
+size = 0xa4
+name = "CAtkParam::CalcAtkDamage"
+
+[header]
+name = "CAtkParam::CalcAtkDamage"
+addr = 0x172410
+
+[header.args]

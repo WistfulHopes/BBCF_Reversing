@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453655Z
+addr = 0x1992f0
+size = 0xd
+name = "OBJ_CBase::PushAcceleration"
+
+[header]
+name = "OBJ_CBase::PushAcceleration"
+addr = 0x1992f0
+
+[header.args]

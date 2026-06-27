@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455030Z
+addr = 0x3b81aa
+size = 0x2e
+name = "__whiteout"
+
+[header]
+name = "__whiteout"
+addr = 0x3b81aa
+
+[header.args]

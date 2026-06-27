@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453688Z
+addr = 0x199940
+size = 0x37
+name = "OBJ_CBase::RandAddScaleSpeedZ"
+
+[header]
+name = "OBJ_CBase::RandAddScaleSpeedZ"
+addr = 0x199940
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453677Z
+addr = 0x199660
+size = 0x37
+name = "OBJ_CBase::RandAddInertiaRaw"
+
+[header]
+name = "OBJ_CBase::RandAddInertiaRaw"
+addr = 0x199660
+
+[header.args]

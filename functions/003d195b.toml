@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456045Z
+addr = 0x3d195b
+size = 0x39
+name = "?AddTail@?$List@VExecutionResource@details@Concurrency@@VCount@CollectionTypes@23@@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+
+[header]
+name = "?AddTail@?$List@VExecutionResource@details@Concurrency@@VCount@CollectionTypes@23@@details@Concurrency@@QAEXPAVExecutionResource@23@@Z"
+addr = 0x3d195b
+
+[header.args]

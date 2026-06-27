@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456005Z
+addr = 0x3d0d36
+size = 0x5f
+name = "??0ExecutionResource@details@Concurrency@@QAE@PAVSchedulerProxy@12@PAV012@@Z"
+
+[header]
+name = "??0ExecutionResource@details@Concurrency@@QAE@PAVSchedulerProxy@12@PAV012@@Z"
+addr = 0x3d0d36
+
+[header.args]

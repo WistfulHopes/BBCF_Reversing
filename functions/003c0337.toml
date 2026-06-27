@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455340Z
+addr = 0x3c0337
+size = 0x95
+name = "?CreateSingleton@ResourceManager@details@Concurrency@@SAPAV123@XZ"
+
+[header]
+name = "?CreateSingleton@ResourceManager@details@Concurrency@@SAPAV123@XZ"
+addr = 0x3c0337
+
+[header.args]

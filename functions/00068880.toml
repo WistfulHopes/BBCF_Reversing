@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452488Z
+addr = 0x68880
+size = 0x14e
+name = "GAMESTEAM_ImeEditBox::GAMESTEAM_ImeEditBox"
+
+[header]
+name = "GAMESTEAM_ImeEditBox::GAMESTEAM_ImeEditBox"
+addr = 0x68880
+
+[header.args]

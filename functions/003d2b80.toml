@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456117Z
+addr = 0x3d2b80
+size = 0x91
+name = "___createFile"
+
+[header]
+name = "___createFile"
+addr = 0x3d2b80
+
+[header.args]

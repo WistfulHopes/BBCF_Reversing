@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456129Z
+addr = 0x3d440a
+size = 0xaf
+name = "__strnicmp_l"
+
+[header]
+name = "__strnicmp_l"
+addr = 0x3d440a
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453141Z
+addr = 0x18e570
+size = 0x10
+name = "OBJ_CBase::AtkFinishBG"
+
+[header]
+name = "OBJ_CBase::AtkFinishBG"
+addr = 0x18e570
+
+[header.args]

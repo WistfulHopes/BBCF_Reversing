@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456179Z
+addr = 0x3d65e8
+size = 0x33
+name = "?ActualGetQuickCacheSlot@SchedulerBase@details@Concurrency@@AAEPAVScheduleGroupSegmentBase@23@I@Z"
+
+[header]
+name = "?ActualGetQuickCacheSlot@SchedulerBase@details@Concurrency@@AAEPAVScheduleGroupSegmentBase@23@I@Z"
+addr = 0x3d65e8
+
+[header.args]

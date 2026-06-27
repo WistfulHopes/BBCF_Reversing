@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455506Z
+addr = 0x3c6122
+size = 0x75
+name = "??1event@Concurrency@@QAE@XZ"
+
+[header]
+name = "??1event@Concurrency@@QAE@XZ"
+addr = 0x3c6122
+
+[header.args]

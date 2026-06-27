@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455657Z
+addr = 0x3ca715
+size = 0x4a
+name = "_GetLocaleNameFromLanguage"
+
+[header]
+name = "_GetLocaleNameFromLanguage"
+addr = 0x3ca715
+
+[header.args]

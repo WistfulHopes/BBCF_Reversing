@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453292Z
+addr = 0x18ef40
+size = 0x10
+name = "OBJ_CBase::AtkStaggerMaxTimeCounterHit"
+
+[header]
+name = "OBJ_CBase::AtkStaggerMaxTimeCounterHit"
+addr = 0x18ef40
+
+[header.args]

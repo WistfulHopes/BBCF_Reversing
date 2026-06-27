@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456183Z
+addr = 0x3d669a
+size = 0x1e
+name = "?CheckPriorityList@WorkSearchContext@details@Concurrency@@AAE_NK@Z"
+
+[header]
+name = "?CheckPriorityList@WorkSearchContext@details@Concurrency@@AAE_NK@Z"
+addr = 0x3d669a
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454288Z
+addr = 0x39e9a1
+size = 0x5e
+name = "?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z"
+
+[header]
+name = "?_CallCatchBlock2@@YAPAXPAUEHRegistrationNode@@PBU_s_FuncInfo@@PAXHK@Z"
+addr = 0x39e9a1
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452534Z
+addr = 0x77b60
+size = 0x134
+name = "BB_Log"
+
+[header]
+name = "BB_Log"
+addr = 0x77b60
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453564Z
+addr = 0x196be0
+size = 0x5e
+name = "OBJ_CBase::LinkPolyLine"
+
+[header]
+name = "OBJ_CBase::LinkPolyLine"
+addr = 0x196be0
+
+[header.args]

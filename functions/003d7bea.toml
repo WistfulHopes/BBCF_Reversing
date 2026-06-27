@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456246Z
+addr = 0x3d7bea
+size = 0xd
+name = "?Unsubscribe@VirtualProcessorRoot@details@Concurrency@@QAEXXZ"
+
+[header]
+name = "?Unsubscribe@VirtualProcessorRoot@details@Concurrency@@QAEXXZ"
+addr = 0x3d7bea
+
+[header.args]

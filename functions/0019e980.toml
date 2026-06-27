@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453823Z
+addr = 0x19e980
+size = 0xfd
+name = "OBJ_Cbase::StackControlObject"
+
+[header]
+name = "OBJ_Cbase::StackControlObject"
+addr = 0x19e980
+
+[header.args]

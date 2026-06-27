@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.453537Z
+addr = 0x195ec0
+size = 0x25
+name = "OBJ_CBase::KeepAirDash"
+
+[header]
+name = "OBJ_CBase::KeepAirDash"
+addr = 0x195ec0
+
+[header.args]

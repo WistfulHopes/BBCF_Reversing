@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452365Z
+addr = 0x4e740
+size = 0x7e
+name = "AA_MinidumpHandler"
+
+[header]
+name = "AA_MinidumpHandler"
+addr = 0x4e740
+
+[header.args]

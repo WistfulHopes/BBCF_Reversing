@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452946Z
+addr = 0x18bbd0
+size = 0x40
+name = "OBJ_CBase::GetCollisionNum"
+
+[header]
+name = "OBJ_CBase::GetCollisionNum"
+addr = 0x18bbd0
+
+[header.args]

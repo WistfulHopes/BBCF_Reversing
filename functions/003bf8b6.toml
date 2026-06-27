@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.455301Z
+addr = 0x3bf8b6
+size = 0x2a
+name = "?TraceSchedulerEvent@SchedulerBase@details@Concurrency@@AAEXW4ConcRT_EventType@3@EI@Z"
+
+[header]
+name = "?TraceSchedulerEvent@SchedulerBase@details@Concurrency@@AAEXW4ConcRT_EventType@3@EI@Z"
+addr = 0x3bf8b6
+
+[header.args]

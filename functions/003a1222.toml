@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.454412Z
+addr = 0x3a1222
+size = 0x33
+name = "??4exception@std@@QAEAAV01@ABV01@@Z"
+
+[header]
+name = "??4exception@std@@QAEAAV01@ABV01@@Z"
+addr = 0x3a1222
+
+[header.args]

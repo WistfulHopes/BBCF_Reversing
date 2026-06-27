@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.456421Z
+addr = 0x421766
+size = 0x15
+name = "__wgetcwd"
+
+[header]
+name = "__wgetcwd"
+addr = 0x421766
+
+[header.args]

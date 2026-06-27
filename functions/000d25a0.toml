@@ -1,0 +1,10 @@
+last_change = 2026-06-27T20:52:06.452654Z
+addr = 0xd25a0
+size = 0x76
+name = "BG_EffectManager::GetInstance"
+
+[header]
+name = "BG_EffectManager::GetInstance"
+addr = 0xd25a0
+
+[header.args]
