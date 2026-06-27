@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.593096Z
+name = "CInterruptInfo"
+size = 0x34
+
+[members.0x0]
+name = "m_BeginAddr"
+offset = 0x0
+type = "uchar*"
+size = 0x4
+
+[members.0x4]
+name = "m_ActionName"
+offset = 0x4
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x24]
+name = "m_GotoLabel"
+offset = 0x24
+type = "ushort"
+size = 0x2
+
+[members.0x28]
+name = "m_IntFlg"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "m_IIParam0"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_IIParam1"
+offset = 0x30
+type = "int"
+size = 0x4

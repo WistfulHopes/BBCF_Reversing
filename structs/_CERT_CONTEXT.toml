@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.641010Z
+name = "_CERT_CONTEXT"
+size = 0x14
+
+[members.0x0]
+name = "dwCertEncodingType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pbCertEncoded"
+offset = 0x4
+type = "BYTE*"
+size = 0x4
+
+[members.0x8]
+name = "cbCertEncoded"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pCertInfo"
+offset = 0xc
+type = "PCERT_INFO"
+size = 0x4
+
+[members.0x10]
+name = "hCertStore"
+offset = 0x10
+type = "HCERTSTORE"
+size = 0x4

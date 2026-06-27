@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.862327Z
+name = "tagDESIGNVECTOR"
+size = 0x48
+
+[members.0x0]
+name = "dvReserved"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dvNumAxes"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dvValues"
+offset = 0x8
+type = "LONG[0x10]"
+size = 0x40

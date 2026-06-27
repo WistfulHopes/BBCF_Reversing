@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.728276Z
+name = "_KTMOBJECT_CURSOR"
+size = 0x24
+
+[members.0x0]
+name = "LastQuery"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "ObjectIdCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ObjectIds"
+offset = 0x14
+type = "GUID[0x1]"
+size = 0x10

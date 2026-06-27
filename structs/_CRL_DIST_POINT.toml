@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.661552Z
+name = "_CRL_DIST_POINT"
+size = 0x20
+
+[members.0x0]
+name = "DistPointName"
+offset = 0x0
+type = "CRL_DIST_POINT_NAME"
+size = 0xc
+
+[members.0xc]
+name = "ReasonFlags"
+offset = 0xc
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x18]
+name = "CRLIssuer"
+offset = 0x18
+type = "CERT_ALT_NAME_INFO"
+size = 0x8

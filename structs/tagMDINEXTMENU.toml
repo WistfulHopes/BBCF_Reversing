@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.889818Z
+name = "tagMDINEXTMENU"
+size = 0xc
+
+[members.0x0]
+name = "hmenuIn"
+offset = 0x0
+type = "HMENU"
+size = 0x4
+
+[members.0x4]
+name = "hmenuNext"
+offset = 0x4
+type = "HMENU"
+size = 0x4
+
+[members.0x8]
+name = "hwndNext"
+offset = 0x8
+type = "HWND"
+size = 0x4

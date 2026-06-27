@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.757744Z
+name = "_POWERBROADCAST_SETTING"
+size = 0x18
+
+[members.0x0]
+name = "PowerSetting"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "DataLength"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Data"
+offset = 0x14
+type = "UCHAR[0x1]"
+size = 0x1

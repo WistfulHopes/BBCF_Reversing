@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.691638Z
+name = "_ENCRYPTION_CERTIFICATE"
+size = 0xc
+
+[members.0x0]
+name = "cbTotalLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pUserSid"
+offset = 0x4
+type = "SID*"
+size = 0x4
+
+[members.0x8]
+name = "pCertBlob"
+offset = 0x8
+type = "PEFS_CERTIFICATE_BLOB"
+size = 0x4

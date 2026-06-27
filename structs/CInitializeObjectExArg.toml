@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.592957Z
+name = "CInitializeObjectExArg"
+size = 0x78
+
+[members.0x0]
+name = "argcharID"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "argsideID"
+offset = 0x4
+type = "enum SIDE_ID"
+size = 0x4
+
+[members.0x8]
+name = "argfriendID"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "isPlayer"
+offset = 0xc
+type = "bool"
+size = 0x1
+
+[members.0x10]
+name = "argparent"
+offset = 0x10
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x14]
+name = "posx"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "posy"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "posz"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "dir"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "actName"
+offset = 0x24
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x44]
+name = "doScriptStep"
+offset = 0x44
+type = "bool"
+size = 0x1
+
+[members.0x48]
+name = "posType"
+offset = 0x48
+type = "enum POS_TYPE"
+size = 0x4
+
+[members.0x4c]
+name = "isUnk"
+offset = 0x4c
+type = "bool"
+size = 0x1
+
+[members.0x50]
+name = "unkSideID"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "unkCharID"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "unkActName"
+offset = 0x58
+type = "struct CXXBYTE<32>"
+size = 0x20

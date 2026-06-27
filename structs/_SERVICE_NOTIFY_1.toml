@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.796945Z
+name = "_SERVICE_NOTIFY_1"
+size = 0x34
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pfnNotifyCallback"
+offset = 0x4
+type = "PFN_SC_NOTIFY_CALLBACK"
+size = 0x4
+
+[members.0x8]
+name = "pContext"
+offset = 0x8
+type = "PVOID"
+size = 0x4
+
+[members.0xc]
+name = "dwNotificationStatus"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ServiceStatus"
+offset = 0x10
+type = "SERVICE_STATUS_PROCESS"
+size = 0x24

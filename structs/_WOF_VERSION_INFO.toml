@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.837190Z
+name = "_WOF_VERSION_INFO"
+size = 0x4
+
+[members.0x0]
+name = "WofVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4

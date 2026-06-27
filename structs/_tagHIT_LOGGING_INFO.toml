@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.844230Z
+name = "_tagHIT_LOGGING_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "dwStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpszLoggedUrlName"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "StartTime"
+offset = 0x8
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x18]
+name = "EndTime"
+offset = 0x18
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x28]
+name = "lpszExtendedInfo"
+offset = 0x28
+type = "LPSTR"
+size = 0x4

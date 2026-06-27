@@ -1,0 +1,111 @@
+last_change = 2026-06-27T20:49:16.910591Z
+name = "tagRPC_CALL_ATTRIBUTES_V2_W"
+size = 0x54
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "ServerPrincipalNameBufferLength"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "ServerPrincipalName"
+offset = 0xc
+type = "ushort*"
+size = 0x4
+
+[members.0x10]
+name = "ClientPrincipalNameBufferLength"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "ClientPrincipalName"
+offset = 0x14
+type = "ushort*"
+size = 0x4
+
+[members.0x18]
+name = "AuthenticationLevel"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "AuthenticationService"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "NullSession"
+offset = 0x20
+type = "BOOL"
+size = 0x4
+
+[members.0x24]
+name = "KernelModeCaller"
+offset = 0x24
+type = "BOOL"
+size = 0x4
+
+[members.0x28]
+name = "ProtocolSequence"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "IsClientLocal"
+offset = 0x2c
+type = "RpcCallClientLocality"
+size = 0x4
+
+[members.0x30]
+name = "ClientPID"
+offset = 0x30
+type = "HANDLE"
+size = 0x4
+
+[members.0x34]
+name = "CallStatus"
+offset = 0x34
+type = "uint"
+size = 0x4
+
+[members.0x38]
+name = "CallType"
+offset = 0x38
+type = "RpcCallType"
+size = 0x4
+
+[members.0x3c]
+name = "CallLocalAddress"
+offset = 0x3c
+type = "RPC_CALL_LOCAL_ADDRESS_V1*"
+size = 0x4
+
+[members.0x40]
+name = "OpNum"
+offset = 0x40
+type = "ushort"
+size = 0x2
+
+[members.0x44]
+name = "InterfaceUuid"
+offset = 0x44
+type = "UUID"
+size = 0x10

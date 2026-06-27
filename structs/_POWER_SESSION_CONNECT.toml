@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.758113Z
+name = "_POWER_SESSION_CONNECT"
+size = 0x2
+
+[members.0x0]
+name = "Connected"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "Console"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1

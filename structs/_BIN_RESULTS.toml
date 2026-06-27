@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.637062Z
+name = "_BIN_RESULTS"
+size = 0x20
+
+[members.0x0]
+name = "NumberOfBins"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "BinCounts"
+offset = 0x8
+type = "BIN_COUNT[0x1]"
+size = 0x18

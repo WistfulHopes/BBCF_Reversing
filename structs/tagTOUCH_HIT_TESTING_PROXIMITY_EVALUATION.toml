@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.917354Z
+name = "tagTOUCH_HIT_TESTING_PROXIMITY_EVALUATION"
+size = 0xc
+
+[members.0x0]
+name = "score"
+offset = 0x0
+type = "UINT16"
+size = 0x2
+
+[members.0x4]
+name = "adjustedPoint"
+offset = 0x4
+type = "POINT"
+size = 0x8

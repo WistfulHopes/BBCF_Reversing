@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.908229Z
+name = "tagRAWKEYBOARD"
+size = 0x10
+
+[members.0x0]
+name = "MakeCode"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "USHORT"
+size = 0x2
+
+[members.0x6]
+name = "VKey"
+offset = 0x6
+type = "USHORT"
+size = 0x2
+
+[members.0x8]
+name = "Message"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "ExtraInformation"
+offset = 0xc
+type = "ULONG"
+size = 0x4

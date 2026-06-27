@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.656250Z
+name = "_CMSG_SIGNED_AND_ENVELOPED_ENCODE_INFO"
+size = 0x40
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SignedInfo"
+offset = 0x4
+type = "CMSG_SIGNED_ENCODE_INFO"
+size = 0x1c
+
+[members.0x20]
+name = "EnvelopedInfo"
+offset = 0x20
+type = "CMSG_ENVELOPED_ENCODE_INFO"
+size = 0x20

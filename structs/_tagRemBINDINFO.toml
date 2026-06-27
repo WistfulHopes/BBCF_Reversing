@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.844753Z
+name = "_tagRemBINDINFO"
+size = 0x48
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "szExtraInfo"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "grfBindInfoF"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwBindVerb"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "szCustomVerb"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "cbstgmedData"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwOptions"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwOptionsFlags"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwCodePage"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "securityAttributes"
+offset = 0x24
+type = "REMSECURITY_ATTRIBUTES"
+size = 0xc
+
+[members.0x30]
+name = "iid"
+offset = 0x30
+type = "IID"
+size = 0x10
+
+[members.0x40]
+name = "pUnk"
+offset = 0x40
+type = "void*"
+size = 0x4
+
+[members.0x44]
+name = "dwReserved"
+offset = 0x44
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.861461Z
+name = "tagCUSTDATA"
+size = 0x8
+
+[members.0x0]
+name = "cCustData"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "prgCustData"
+offset = 0x4
+type = "LPCUSTDATAITEM"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.600630Z
+name = "D3DVIEWPORT9"
+size = 0x18
+
+[members.0x0]
+name = "X"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Y"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Width"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "Height"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "MinZ"
+offset = 0x10
+type = "float"
+size = 0x4
+
+[members.0x14]
+name = "MaxZ"
+offset = 0x14
+type = "float"
+size = 0x4

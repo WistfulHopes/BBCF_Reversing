@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.774319Z
+name = "_QUERY_SERVICE_CONFIGA"
+size = 0x24
+
+[members.0x0]
+name = "dwServiceType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwStartType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwErrorControl"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lpBinaryPathName"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpLoadOrderGroup"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "dwTagId"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "lpDependencies"
+offset = 0x18
+type = "LPSTR"
+size = 0x4
+
+[members.0x1c]
+name = "lpServiceStartName"
+offset = 0x1c
+type = "LPSTR"
+size = 0x4
+
+[members.0x20]
+name = "lpDisplayName"
+offset = 0x20
+type = "LPSTR"
+size = 0x4

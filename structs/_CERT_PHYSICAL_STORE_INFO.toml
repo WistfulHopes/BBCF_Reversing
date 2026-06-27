@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.644126Z
+name = "_CERT_PHYSICAL_STORE_INFO"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pszOpenStoreProvider"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "dwOpenEncodingType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwOpenFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "OpenParameters"
+offset = 0x10
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x18]
+name = "dwFlags"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwPriority"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

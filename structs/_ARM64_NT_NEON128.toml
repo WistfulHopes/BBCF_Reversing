@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.632713Z
+name = "_ARM64_NT_NEON128"
+size = 0x10
+
+[members.0x0]
+name = "B"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10

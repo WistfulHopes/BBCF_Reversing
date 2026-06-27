@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.788371Z
+name = "_SCM_BUS_DEDICATED_MEMORY_STATE"
+size = 0x1
+
+[members.0x0]
+name = "ActivateState"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

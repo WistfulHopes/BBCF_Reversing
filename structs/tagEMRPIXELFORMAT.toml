@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.868612Z
+name = "tagEMRPIXELFORMAT"
+size = 0x30
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "pfd"
+offset = 0x8
+type = "PIXELFORMATDESCRIPTOR"
+size = 0x28

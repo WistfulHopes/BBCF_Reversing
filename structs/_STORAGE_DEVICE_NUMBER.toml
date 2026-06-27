@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.807430Z
+name = "_STORAGE_DEVICE_NUMBER"
+size = 0xc
+
+[members.0x0]
+name = "DeviceType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DeviceNumber"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PartitionNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4

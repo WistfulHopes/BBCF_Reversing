@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.804630Z
+name = "_STARTUPINFOEXW"
+size = 0x48
+
+[members.0x0]
+name = "StartupInfo"
+offset = 0x0
+type = "STARTUPINFOW"
+size = 0x44
+
+[members.0x44]
+name = "lpAttributeList"
+offset = 0x44
+type = "LPPROC_THREAD_ATTRIBUTE_LIST"
+size = 0x4

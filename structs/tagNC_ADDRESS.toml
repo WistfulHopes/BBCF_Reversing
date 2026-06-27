@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.898439Z
+name = "tagNC_ADDRESS"
+size = 0x8
+
+[members.0x0]
+name = "pAddrInfo"
+offset = 0x0
+type = "struct NET_ADDRESS_INFO_*"
+size = 0x4
+
+[members.0x4]
+name = "PortNumber"
+offset = 0x4
+type = "USHORT"
+size = 0x2
+
+[members.0x6]
+name = "PrefixLength"
+offset = 0x6
+type = "BYTE"
+size = 0x1

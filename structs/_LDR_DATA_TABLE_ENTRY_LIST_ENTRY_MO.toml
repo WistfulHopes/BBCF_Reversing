@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.730515Z
+name = "_LDR_DATA_TABLE_ENTRY_LIST_ENTRY_MO"
+size = 0x8
+
+[members.0x0]
+name = "Flink"
+offset = 0x0
+type = "void* __offset(_LDR_DATA_TABLE_ENTRY, 0x8)"
+size = 0x4
+
+[members.0x4]
+name = "Blink"
+offset = 0x4
+type = "void* __offset(_LDR_DATA_TABLE_ENTRY, 0x8)"
+size = 0x4

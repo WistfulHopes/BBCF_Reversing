@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.689624Z
+name = "_DRIVE_LAYOUT_INFORMATION_GPT"
+size = 0x28
+
+[members.0x0]
+name = "DiskId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "StartingUsableOffset"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "UsableLength"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "MaxPartitionCount"
+offset = 0x20
+type = "DWORD"
+size = 0x4

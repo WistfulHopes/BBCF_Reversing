@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.682469Z
+name = "_DISK_PERFORMANCE"
+size = 0x58
+
+[members.0x0]
+name = "BytesRead"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "BytesWritten"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "ReadTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "WriteTime"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "IdleTime"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "ReadCount"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "WriteCount"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "QueueDepth"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "SplitCount"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "QueryTime"
+offset = 0x38
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x40]
+name = "StorageDeviceNumber"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "StorageManagerName"
+offset = 0x44
+type = "WCHAR[0x8]"
+size = 0x10

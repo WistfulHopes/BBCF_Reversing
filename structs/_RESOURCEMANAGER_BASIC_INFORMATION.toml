@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.778564Z
+name = "_RESOURCEMANAGER_BASIC_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "ResourceManagerId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "DescriptionLength"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Description"
+offset = 0x14
+type = "WCHAR[0x1]"
+size = 0x2

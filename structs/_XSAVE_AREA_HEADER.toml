@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.838599Z
+name = "_XSAVE_AREA_HEADER"
+size = 0x40
+
+[members.0x0]
+name = "Mask"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "CompactionMask"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "Reserved2"
+offset = 0x10
+type = "DWORD64[0x6]"
+size = 0x30

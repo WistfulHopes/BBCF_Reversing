@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.657548Z
+name = "_COAUTHINFO"
+size = 0x1c
+
+[members.0x0]
+name = "dwAuthnSvc"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwAuthzSvc"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pwszServerPrincName"
+offset = 0x8
+type = "LPWSTR"
+size = 0x4
+
+[members.0xc]
+name = "dwAuthnLevel"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwImpersonationLevel"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pAuthIdentityData"
+offset = 0x14
+type = "COAUTHIDENTITY*"
+size = 0x4
+
+[members.0x18]
+name = "dwCapabilities"
+offset = 0x18
+type = "DWORD"
+size = 0x4

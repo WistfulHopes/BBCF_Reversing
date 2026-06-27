@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.601144Z
+name = "D3DVSHADERCAPS2_0"
+size = 0x10
+
+[members.0x0]
+name = "Caps"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "DynamicFlowControlDepth"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "NumTemps"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "StaticFlowControlDepth"
+offset = 0xc
+type = "int"
+size = 0x4

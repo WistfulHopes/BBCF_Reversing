@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.836784Z
+name = "_WIN32_FIND_STREAM_DATA"
+size = 0x258
+
+[members.0x0]
+name = "StreamSize"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "cStreamName"
+offset = 0x8
+type = "WCHAR[0x128]"
+size = 0x250

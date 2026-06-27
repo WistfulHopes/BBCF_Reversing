@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.839383Z
+name = "_XSTATE_CONTEXT"
+size = 0x20
+
+[members.0x0]
+name = "Mask"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Reserved1"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Area"
+offset = 0x10
+type = "PXSAVE_AREA"
+size = 0x4
+
+[members.0x14]
+name = "Reserved2"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Buffer"
+offset = 0x18
+type = "PVOID"
+size = 0x4
+
+[members.0x1c]
+name = "Reserved3"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

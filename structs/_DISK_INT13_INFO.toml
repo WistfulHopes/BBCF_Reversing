@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.682007Z
+name = "_DISK_INT13_INFO"
+size = 0x10
+
+[members.0x0]
+name = "DriveSelect"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "MaxCylinders"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SectorsPerTrack"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "MaxHeads"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "NumberDrives"
+offset = 0xc
+type = "WORD"
+size = 0x2

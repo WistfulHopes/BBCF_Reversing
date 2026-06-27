@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.704838Z
+name = "_FPO_DATA"
+size = 0x10
+
+[members.0x0]
+name = "ulOffStart"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cbProcSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "cdwLocals"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "cdwParams"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "__bitfielde"
+offset = 0xe
+type = "union"
+size = 0x2

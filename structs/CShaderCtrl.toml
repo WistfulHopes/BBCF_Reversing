@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.595419Z
+name = "CShaderCtrl"
+size = 0x34
+
+[members.0x0]
+name = "m_WorldNoTex"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "m_WorldTexBorad"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "m_WorldTexBasicModel"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "m_WorldTexBasicModelShadowMap"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "m_ScreenNoTex"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "m_ScreenTex"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "m_PostEffectBlur"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "m_Particle"
+offset = 0x1c
+type = "void*"
+size = 0x4
+
+[members.0x20]
+name = "m_ParticlePal"
+offset = 0x20
+type = "void*"
+size = 0x4
+
+[members.0x24]
+name = "m_WorldPolyLine"
+offset = 0x24
+type = "void*"
+size = 0x4
+
+[members.0x28]
+name = "m_ScreenTexVolumUp"
+offset = 0x28
+type = "void*"
+size = 0x4
+
+[members.0x2c]
+name = "m_WorldModelPlaneUV"
+offset = 0x2c
+type = "void*"
+size = 0x4
+
+[members.0x30]
+name = "m_ShiningModel"
+offset = 0x30
+type = "void*"
+size = 0x4

@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.853698Z
+name = "tagAUXCAPS2W"
+size = 0x80
+
+[members.0x0]
+name = "wMid"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPid"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "vDriverVersion"
+offset = 0x4
+type = "MMVERSION"
+size = 0x4
+
+[members.0x8]
+name = "szPname"
+offset = 0x8
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0x48]
+name = "wTechnology"
+offset = 0x48
+type = "WORD"
+size = 0x2
+
+[members.0x4a]
+name = "wReserved1"
+offset = 0x4a
+type = "WORD"
+size = 0x2
+
+[members.0x4c]
+name = "dwSupport"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "ManufacturerGuid"
+offset = 0x50
+type = "GUID"
+size = 0x10
+
+[members.0x60]
+name = "ProductGuid"
+offset = 0x60
+type = "GUID"
+size = 0x10
+
+[members.0x70]
+name = "NameGuid"
+offset = 0x70
+type = "GUID"
+size = 0x10

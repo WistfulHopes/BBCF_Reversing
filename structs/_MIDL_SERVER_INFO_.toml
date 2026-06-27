@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.734959Z
+name = "_MIDL_SERVER_INFO_"
+size = 0x20
+
+[members.0x0]
+name = "pStubDesc"
+offset = 0x0
+type = "PMIDL_STUB_DESC"
+size = 0x4
+
+[members.0x4]
+name = "DispatchTable"
+offset = 0x4
+type = "SERVER_ROUTINE*"
+size = 0x4
+
+[members.0x8]
+name = "ProcString"
+offset = 0x8
+type = "PFORMAT_STRING"
+size = 0x4
+
+[members.0xc]
+name = "FmtStringOffset"
+offset = 0xc
+type = "ushort const*"
+size = 0x4
+
+[members.0x10]
+name = "ThunkTable"
+offset = 0x10
+type = "STUB_THUNK*"
+size = 0x4
+
+[members.0x14]
+name = "pTransferSyntax"
+offset = 0x14
+type = "PRPC_SYNTAX_IDENTIFIER"
+size = 0x4
+
+[members.0x18]
+name = "nCount"
+offset = 0x18
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x1c]
+name = "pSyntaxInfo"
+offset = 0x1c
+type = "PMIDL_SYNTAX_INFO"
+size = 0x4

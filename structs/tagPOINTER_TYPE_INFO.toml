@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.906454Z
+name = "tagPOINTER_TYPE_INFO"
+size = 0x90
+
+[members.0x0]
+name = "type"
+offset = 0x0
+type = "POINTER_INPUT_TYPE"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x88

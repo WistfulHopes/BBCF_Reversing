@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.740752Z
+name = "_NETINFOSTRUCT"
+size = 0x20
+
+[members.0x0]
+name = "cbStructure"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwProviderVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwStatus"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwCharacteristics"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwHandle"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x14]
+name = "wNetType"
+offset = 0x14
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = "dwPrinters"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwDrives"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

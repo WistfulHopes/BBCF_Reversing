@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.840816Z
+name = "__NCRYPT_UI_POLICY"
+size = 0x14
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pszCreationTitle"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4
+
+[members.0xc]
+name = "pszFriendlyName"
+offset = 0xc
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "pszDescription"
+offset = 0x10
+type = "LPCWSTR"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.752818Z
+name = "_PARTITION_INFORMATION_EX"
+size = 0x90
+
+[members.0x0]
+name = "PartitionStyle"
+offset = 0x0
+type = "PARTITION_STYLE"
+size = 0x4
+
+[members.0x8]
+name = "StartingOffset"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "PartitionLength"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "PartitionNumber"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "RewritePartition"
+offset = 0x1c
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1d]
+name = "IsServicePartition"
+offset = 0x1d
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x20]
+name = ""
+offset = 0x20
+type = "union"
+size = 0x70

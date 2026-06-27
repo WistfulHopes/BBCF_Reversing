@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.615560Z
+name = "IDirect3DVolumeTexture9VTable"
+size = 0x58
+
+[members.0x44]
+name = "GetLevelDesc"
+offset = 0x44
+type = "HRESULT (*)(struct IDirect3DVolumeTexture9* this, uint Level, struct D3DVOLUME_DESC* pDesc)"
+size = 0x4
+
+[members.0x48]
+name = "GetVolumeLevel"
+offset = 0x48
+type = "HRESULT (*)(struct IDirect3DVolumeTexture9* this, uint Level, struct IDirect3DVolume9* ppVolumeLevel)"
+size = 0x4
+
+[members.0x4c]
+name = "LockBox"
+offset = 0x4c
+type = "HRESULT (*)(struct IDirect3DVolumeTexture9* this, uint Level, struct D3DLOCKED_BOX* pLockedVolume, struct D3DBOX* pBox, uint Flags)"
+size = 0x4
+
+[members.0x50]
+name = "UnlockBox"
+offset = 0x50
+type = "HRESULT (*)(struct IDirect3DVolumeTexture9* this, uint Level)"
+size = 0x4
+
+[members.0x54]
+name = "AddDirtyBox"
+offset = 0x54
+type = "HRESULT (*)(struct IDirect3DVolumeTexture9* this, struct D3DBOX* pDirtyBox)"
+size = 0x4

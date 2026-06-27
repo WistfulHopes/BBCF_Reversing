@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.699741Z
+name = "_FILE_NOTIFY_EXTENDED_INFORMATION"
+size = 0x58
+
+[members.0x0]
+name = "NextEntryOffset"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Action"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "CreationTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "LastModificationTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "LastChangeTime"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "LastAccessTime"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "AllocatedLength"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "FileSize"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "FileAttributes"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "ReparsePointTag"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "FileId"
+offset = 0x40
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x48]
+name = "ParentFileId"
+offset = 0x48
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x50]
+name = "FileNameLength"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "FileName"
+offset = 0x54
+type = "WCHAR[0x1]"
+size = 0x2

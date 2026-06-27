@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.614445Z
+name = "IDirect3DSurface9VTable"
+size = 0x44
+
+[members.0x2c]
+name = "GetContainer"
+offset = 0x2c
+type = "HRESULT (*)(struct IDirect3DSurface9* this, GUID* riid, void** ppContainer)"
+size = 0x4
+
+[members.0x30]
+name = "GetDesc"
+offset = 0x30
+type = "HRESULT (*)(struct IDirect3DSurface9* this, struct D3DSURFACE_DESC* pDesc)"
+size = 0x4
+
+[members.0x34]
+name = "LockRect"
+offset = 0x34
+type = "HRESULT (*)(struct IDirect3DSurface9* this, struct D3DLOCKED_RECT* pLockedRect, RECT* pRect, uint Flags)"
+size = 0x4
+
+[members.0x38]
+name = "UnlockRect"
+offset = 0x38
+type = "HRESULT (*)(struct IDirect3DSurface9* this)"
+size = 0x4
+
+[members.0x3c]
+name = "GetDC"
+offset = 0x3c
+type = "HRESULT (*)(struct IDirect3DSurface9* this, HDC* phdc)"
+size = 0x4
+
+[members.0x40]
+name = "ReleaseDC"
+offset = 0x40
+type = "HRESULT (*)(struct IDirect3DSurface9* this, HDC hdc)"
+size = 0x4

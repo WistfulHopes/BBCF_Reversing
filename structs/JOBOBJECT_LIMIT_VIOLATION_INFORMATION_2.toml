@@ -1,0 +1,105 @@
+last_change = 2026-06-27T20:49:16.618542Z
+name = "JOBOBJECT_LIMIT_VIOLATION_INFORMATION_2"
+size = 0x68
+
+[members.0x0]
+name = "LimitFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ViolationLimitFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "IoReadBytes"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "IoReadBytesLimit"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "IoWriteBytes"
+offset = 0x18
+type = "DWORD64"
+size = 0x8
+
+[members.0x20]
+name = "IoWriteBytesLimit"
+offset = 0x20
+type = "DWORD64"
+size = 0x8
+
+[members.0x28]
+name = "PerJobUserTime"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "PerJobUserTimeLimit"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "JobMemory"
+offset = 0x38
+type = "DWORD64"
+size = 0x8
+
+[members.0x40]
+name = ""
+offset = 0x40
+type = "union"
+size = 0x8
+
+[members.0x48]
+name = "_1"
+offset = 0x48
+type = "union"
+size = 0x4
+
+[members.0x4c]
+name = "_2"
+offset = 0x4c
+type = "union"
+size = 0x4
+
+[members.0x50]
+name = "JobLowMemoryLimit"
+offset = 0x50
+type = "DWORD64"
+size = 0x8
+
+[members.0x58]
+name = "IoRateControlTolerance"
+offset = 0x58
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x5c]
+name = "IoRateControlToleranceLimit"
+offset = 0x5c
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x60]
+name = "NetRateControlTolerance"
+offset = 0x60
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x64]
+name = "NetRateControlToleranceLimit"
+offset = 0x64
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4

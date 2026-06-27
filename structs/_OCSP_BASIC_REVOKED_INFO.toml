@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.745769Z
+name = "_OCSP_BASIC_REVOKED_INFO"
+size = 0xc
+
+[members.0x0]
+name = "RevocationDate"
+offset = 0x0
+type = "FILETIME"
+size = 0x8
+
+[members.0x8]
+name = "dwCrlReasonCode"
+offset = 0x8
+type = "DWORD"
+size = 0x4

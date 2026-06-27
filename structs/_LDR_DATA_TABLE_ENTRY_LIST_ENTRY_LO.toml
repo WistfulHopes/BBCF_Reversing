@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.730453Z
+name = "_LDR_DATA_TABLE_ENTRY_LIST_ENTRY_LO"
+size = 0x8
+
+[members.0x0]
+name = "Flink"
+offset = 0x0
+type = "struct _LDR_DATA_TABLE_ENTRY*"
+size = 0x4
+
+[members.0x4]
+name = "Blink"
+offset = 0x4
+type = "struct _LDR_DATA_TABLE_ENTRY*"
+size = 0x4

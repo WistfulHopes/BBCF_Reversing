@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.849651Z
+name = "sCommandSize"
+size = 0x8
+
+[members.0x0]
+name = "m_ID"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "m_Size"
+offset = 0x4
+type = "uint"
+size = 0x4

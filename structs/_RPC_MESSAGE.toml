@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.782966Z
+name = "_RPC_MESSAGE"
+size = 0x2c
+
+[members.0x0]
+name = "Handle"
+offset = 0x0
+type = "RPC_BINDING_HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "DataRepresentation"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Buffer"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "BufferLength"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "ProcNum"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "TransferSyntax"
+offset = 0x14
+type = "PRPC_SYNTAX_IDENTIFIER"
+size = 0x4
+
+[members.0x18]
+name = "RpcInterfaceInformation"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "ReservedForRuntime"
+offset = 0x1c
+type = "void*"
+size = 0x4
+
+[members.0x20]
+name = "ManagerEpv"
+offset = 0x20
+type = "void*"
+size = 0x4
+
+[members.0x24]
+name = "ImportContext"
+offset = 0x24
+type = "void*"
+size = 0x4
+
+[members.0x28]
+name = "RpcFlags"
+offset = 0x28
+type = "uint"
+size = 0x4

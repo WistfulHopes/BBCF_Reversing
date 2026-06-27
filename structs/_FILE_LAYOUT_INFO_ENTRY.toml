@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.698772Z
+name = "_FILE_LAYOUT_INFO_ENTRY"
+size = 0x40
+
+[members.0x0]
+name = "BasicInformation"
+offset = 0x0
+type = "struct"
+size = 0x28
+
+[members.0x28]
+name = "OwnerId"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "SecurityId"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "Usn"
+offset = 0x30
+type = "USN"
+size = 0x8
+
+[members.0x38]
+name = "StorageReserveId"
+offset = 0x38
+type = "STORAGE_RESERVE_ID"
+size = 0x4

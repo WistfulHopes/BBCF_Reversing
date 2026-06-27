@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.825974Z
+name = "_TOKEN_ORIGIN"
+size = 0x8
+
+[members.0x0]
+name = "OriginatingLogonSession"
+offset = 0x0
+type = "LUID"
+size = 0x8

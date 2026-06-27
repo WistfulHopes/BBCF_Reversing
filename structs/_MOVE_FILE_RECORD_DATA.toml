@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.738150Z
+name = "_MOVE_FILE_RECORD_DATA"
+size = 0x18
+
+[members.0x0]
+name = "FileHandle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "SourceFileRecord"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "TargetFileRecord"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8

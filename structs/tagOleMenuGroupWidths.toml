@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.902468Z
+name = "tagOleMenuGroupWidths"
+size = 0x18
+
+[members.0x0]
+name = "width"
+offset = 0x0
+type = "LONG[0x6]"
+size = 0x18

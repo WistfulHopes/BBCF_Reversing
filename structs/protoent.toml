@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.849014Z
+name = "protoent"
+size = 0xc
+
+[members.0x0]
+name = "p_name"
+offset = 0x0
+type = "char*"
+size = 0x4
+
+[members.0x4]
+name = "p_aliases"
+offset = 0x4
+type = "char**"
+size = 0x4
+
+[members.0x8]
+name = "p_proto"
+offset = 0x8
+type = "short"
+size = 0x2

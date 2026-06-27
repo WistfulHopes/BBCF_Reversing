@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.606428Z
+name = "GAME_CEff3DInstHndlManager"
+size = 0x1c
+
+[members.0x0]
+name = "vftable_Serializable"
+offset = 0x0
+type = "struct ISerializable::GAME_CEff3DInstHndlManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "vftable_GameState"
+offset = 0x4
+type = "struct IGameState::GAME_CEff3DInstHndlManager::VTable*"
+size = 0x4
+
+[members.0x8]
+name = "m_pUnk"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "m_Count"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_pList1"
+offset = 0x14
+type = "struct BG_CList*"
+size = 0x4
+
+[members.0x18]
+name = "m_pList2"
+offset = 0x18
+type = "struct BG_CList*"
+size = 0x4

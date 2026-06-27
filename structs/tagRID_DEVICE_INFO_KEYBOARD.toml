@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.909428Z
+name = "tagRID_DEVICE_INFO_KEYBOARD"
+size = 0x18
+
+[members.0x0]
+name = "dwType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwSubType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwKeyboardMode"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwNumberOfFunctionKeys"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwNumberOfIndicators"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwNumberOfKeysTotal"
+offset = 0x14
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.767164Z
+name = "_PROCESS_HANDLE_TRACING_ENABLE"
+size = 0x4
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "ULONG"
+size = 0x4

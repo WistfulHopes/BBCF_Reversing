@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.599267Z
+name = "D3DMATERIAL9"
+size = 0x44
+
+[members.0x0]
+name = "Diffuse"
+offset = 0x0
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x10]
+name = "Ambient"
+offset = 0x10
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x20]
+name = "Specular"
+offset = 0x20
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x30]
+name = "Emissive"
+offset = 0x30
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x40]
+name = "Power"
+offset = 0x40
+type = "float"
+size = 0x4

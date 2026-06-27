@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.587465Z
+name = "ASSOCIATIONELEMENT"
+size = 0xc
+
+[members.0x0]
+name = "ac"
+offset = 0x0
+type = "enum ASSOCCLASS"
+size = 0x4
+
+[members.0x4]
+name = "hkClass"
+offset = 0x4
+type = "HKEY"
+size = 0x4
+
+[members.0x8]
+name = "pszClass"
+offset = 0x8
+type = "PCWSTR"
+size = 0x4

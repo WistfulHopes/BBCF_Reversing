@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.793507Z
+name = "_SCRUB_PARITY_EXTENT_DATA"
+size = 0x18
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "NumberOfParityExtents"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "MaximumNumberOfParityExtents"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "ParityExtents"
+offset = 0x8
+type = "SCRUB_PARITY_EXTENT[0x1]"
+size = 0x10

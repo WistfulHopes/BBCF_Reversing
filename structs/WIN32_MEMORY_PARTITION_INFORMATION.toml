@@ -1,0 +1,105 @@
+last_change = 2026-06-27T20:49:16.628113Z
+name = "WIN32_MEMORY_PARTITION_INFORMATION"
+size = 0xf0
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "NumaNode"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "Channel"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "NumberOfNumaNodes"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "ResidentAvailablePages"
+offset = 0x10
+type = "ULONG64"
+size = 0x8
+
+[members.0x18]
+name = "CommittedPages"
+offset = 0x18
+type = "ULONG64"
+size = 0x8
+
+[members.0x20]
+name = "CommitLimit"
+offset = 0x20
+type = "ULONG64"
+size = 0x8
+
+[members.0x28]
+name = "PeakCommitment"
+offset = 0x28
+type = "ULONG64"
+size = 0x8
+
+[members.0x30]
+name = "TotalNumberOfPages"
+offset = 0x30
+type = "ULONG64"
+size = 0x8
+
+[members.0x38]
+name = "AvailablePages"
+offset = 0x38
+type = "ULONG64"
+size = 0x8
+
+[members.0x40]
+name = "ZeroPages"
+offset = 0x40
+type = "ULONG64"
+size = 0x8
+
+[members.0x48]
+name = "FreePages"
+offset = 0x48
+type = "ULONG64"
+size = 0x8
+
+[members.0x50]
+name = "StandbyPages"
+offset = 0x50
+type = "ULONG64"
+size = 0x8
+
+[members.0x58]
+name = "Reserved"
+offset = 0x58
+type = "ULONG64[0x10]"
+size = 0x80
+
+[members.0xd8]
+name = "MaximumCommitLimit"
+offset = 0xd8
+type = "ULONG64"
+size = 0x8
+
+[members.0xe0]
+name = "Reserved2"
+offset = 0xe0
+type = "ULONG64"
+size = 0x8
+
+[members.0xe8]
+name = "PartitionId"
+offset = 0xe8
+type = "ULONG"
+size = 0x4

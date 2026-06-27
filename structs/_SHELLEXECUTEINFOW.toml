@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.801323Z
+name = "_SHELLEXECUTEINFOW"
+size = 0x3c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "fMask"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "hwnd"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "lpVerb"
+offset = 0xc
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpFile"
+offset = 0x10
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x14]
+name = "lpParameters"
+offset = 0x14
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x18]
+name = "lpDirectory"
+offset = 0x18
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "nShow"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "hInstApp"
+offset = 0x20
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x24]
+name = "lpIDList"
+offset = 0x24
+type = "void*"
+size = 0x4
+
+[members.0x28]
+name = "lpClass"
+offset = 0x28
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x2c]
+name = "hkeyClass"
+offset = 0x2c
+type = "HKEY"
+size = 0x4
+
+[members.0x30]
+name = "dwHotKey"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = ""
+offset = 0x34
+type = "union"
+size = 0x4
+
+[members.0x38]
+name = "hProcess"
+offset = 0x38
+type = "HANDLE"
+size = 0x4

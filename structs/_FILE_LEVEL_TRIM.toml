@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.698986Z
+name = "_FILE_LEVEL_TRIM"
+size = 0x18
+
+[members.0x0]
+name = "Key"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "NumRanges"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Ranges"
+offset = 0x8
+type = "FILE_LEVEL_TRIM_RANGE[0x1]"
+size = 0x10

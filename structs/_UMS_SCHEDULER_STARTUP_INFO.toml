@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.831182Z
+name = "_UMS_SCHEDULER_STARTUP_INFO"
+size = 0x10
+
+[members.0x0]
+name = "UmsVersion"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "CompletionList"
+offset = 0x4
+type = "PUMS_COMPLETION_LIST"
+size = 0x4
+
+[members.0x8]
+name = "SchedulerProc"
+offset = 0x8
+type = "PUMS_SCHEDULER_ENTRY_POINT"
+size = 0x4
+
+[members.0xc]
+name = "SchedulerParam"
+offset = 0xc
+type = "PVOID"
+size = 0x4

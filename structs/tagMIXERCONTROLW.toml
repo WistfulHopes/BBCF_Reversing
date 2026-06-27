@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.894201Z
+name = "tagMIXERCONTROLW"
+size = 0xe4
+
+[members.0x0]
+name = "cbStruct"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwControlID"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwControlType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "fdwControl"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cMultipleItems"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "szShortName"
+offset = 0x14
+type = "WCHAR[0x10]"
+size = 0x20
+
+[members.0x34]
+name = "szName"
+offset = 0x34
+type = "WCHAR[0x40]"
+size = 0x80
+
+[members.0xb4]
+name = "Bounds"
+offset = 0xb4
+type = "union"
+size = 0x18
+
+[members.0xcc]
+name = "Metrics"
+offset = 0xcc
+type = "union"
+size = 0x18

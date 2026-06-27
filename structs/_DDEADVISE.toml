@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.674517Z
+name = "_DDEADVISE"
+size = 0x4
+
+[members.0x0]
+name = "__bitfield0"
+offset = 0x0
+type = "union"
+size = 0x2
+
+[members.0x2]
+name = "cfFormat"
+offset = 0x2
+type = "short"
+size = 0x2

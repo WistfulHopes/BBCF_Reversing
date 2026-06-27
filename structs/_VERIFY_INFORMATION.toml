@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.833710Z
+name = "_VERIFY_INFORMATION"
+size = 0x10
+
+[members.0x0]
+name = "StartingOffset"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "DWORD"
+size = 0x4

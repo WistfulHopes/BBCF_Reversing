@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.776966Z
+name = "_REFS_SMR_VOLUME_GC_PARAMETERS"
+size = 0x58
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Action"
+offset = 0x8
+type = "REFS_SMR_VOLUME_GC_ACTION"
+size = 0x4
+
+[members.0xc]
+name = "Method"
+offset = 0xc
+type = "REFS_SMR_VOLUME_GC_METHOD"
+size = 0x4
+
+[members.0x10]
+name = "IoGranularity"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "CompressionFormat"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Unused"
+offset = 0x18
+type = "DWORDLONG[0x8]"
+size = 0x40

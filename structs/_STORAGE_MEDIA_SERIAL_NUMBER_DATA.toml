@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.810755Z
+name = "_STORAGE_MEDIA_SERIAL_NUMBER_DATA"
+size = 0x4
+
+[members.0x0]
+name = "Reserved"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "SerialNumberLength"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "SerialNumber"
+offset = 0x4
+type = "BYTE[0x0]"
+size = 0x0

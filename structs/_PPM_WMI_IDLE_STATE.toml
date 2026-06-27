@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.759702Z
+name = "_PPM_WMI_IDLE_STATE"
+size = 0x20
+
+[members.0x0]
+name = "Latency"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Power"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "TimeCheck"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "PromotePercent"
+offset = 0xc
+type = "BYTE"
+size = 0x1
+
+[members.0xd]
+name = "DemotePercent"
+offset = 0xd
+type = "BYTE"
+size = 0x1
+
+[members.0xe]
+name = "StateType"
+offset = 0xe
+type = "BYTE"
+size = 0x1
+
+[members.0xf]
+name = "Reserved"
+offset = 0xf
+type = "BYTE"
+size = 0x1
+
+[members.0x10]
+name = "StateFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Context"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "IdleHandler"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "Reserved1"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

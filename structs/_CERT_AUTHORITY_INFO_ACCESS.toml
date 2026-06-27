@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.639129Z
+name = "_CERT_AUTHORITY_INFO_ACCESS"
+size = 0x8
+
+[members.0x0]
+name = "cAccDescr"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgAccDescr"
+offset = 0x4
+type = "PCERT_ACCESS_DESCRIPTION"
+size = 0x4

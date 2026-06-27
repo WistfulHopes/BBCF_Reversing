@@ -1,0 +1,171 @@
+last_change = 2026-06-27T20:49:16.707699Z
+name = "_GET_CHANGER_PARAMETERS"
+size = 0x3c
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "NumberTransportElements"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "NumberStorageElements"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "NumberCleanerSlots"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "NumberIEElements"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "NumberDataTransferElements"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "NumberOfDoors"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "FirstSlotNumber"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "FirstDriveNumber"
+offset = 0x12
+type = "WORD"
+size = 0x2
+
+[members.0x14]
+name = "FirstTransportNumber"
+offset = 0x14
+type = "WORD"
+size = 0x2
+
+[members.0x16]
+name = "FirstIEPortNumber"
+offset = 0x16
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = "FirstCleanerSlotAddress"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "MagazineSize"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "DriveCleanTimeout"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "Features0"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "Features1"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "MoveFromTransport"
+offset = 0x28
+type = "BYTE"
+size = 0x1
+
+[members.0x29]
+name = "MoveFromSlot"
+offset = 0x29
+type = "BYTE"
+size = 0x1
+
+[members.0x2a]
+name = "MoveFromIePort"
+offset = 0x2a
+type = "BYTE"
+size = 0x1
+
+[members.0x2b]
+name = "MoveFromDrive"
+offset = 0x2b
+type = "BYTE"
+size = 0x1
+
+[members.0x2c]
+name = "ExchangeFromTransport"
+offset = 0x2c
+type = "BYTE"
+size = 0x1
+
+[members.0x2d]
+name = "ExchangeFromSlot"
+offset = 0x2d
+type = "BYTE"
+size = 0x1
+
+[members.0x2e]
+name = "ExchangeFromIePort"
+offset = 0x2e
+type = "BYTE"
+size = 0x1
+
+[members.0x2f]
+name = "ExchangeFromDrive"
+offset = 0x2f
+type = "BYTE"
+size = 0x1
+
+[members.0x30]
+name = "LockUnlockCapabilities"
+offset = 0x30
+type = "BYTE"
+size = 0x1
+
+[members.0x31]
+name = "PositionCapabilities"
+offset = 0x31
+type = "BYTE"
+size = 0x1
+
+[members.0x32]
+name = "Reserved1"
+offset = 0x32
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x34]
+name = "Reserved2"
+offset = 0x34
+type = "DWORD[0x2]"
+size = 0x8

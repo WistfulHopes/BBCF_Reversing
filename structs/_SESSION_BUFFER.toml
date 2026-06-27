@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.798938Z
+name = "_SESSION_BUFFER"
+size = 0x24
+
+[members.0x0]
+name = "lsn"
+offset = 0x0
+type = "UCHAR"
+size = 0x1
+
+[members.0x1]
+name = "state"
+offset = 0x1
+type = "UCHAR"
+size = 0x1
+
+[members.0x2]
+name = "local_name"
+offset = 0x2
+type = "UCHAR[0x10]"
+size = 0x10
+
+[members.0x12]
+name = "remote_name"
+offset = 0x12
+type = "UCHAR[0x10]"
+size = 0x10
+
+[members.0x22]
+name = "rcvs_outstanding"
+offset = 0x22
+type = "UCHAR"
+size = 0x1
+
+[members.0x23]
+name = "sends_outstanding"
+offset = 0x23
+type = "UCHAR"
+size = 0x1

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.692030Z
+name = "_ENCRYPTION_KEY_CTRL_INPUT"
+size = 0x20
+
+[members.0x0]
+name = "HeaderSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "StructureSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "KeyOffset"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "KeySize"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "DplLock"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "DplUserId"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "DplCredentialId"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8

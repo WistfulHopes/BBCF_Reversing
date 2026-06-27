@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.812197Z
+name = "_STORAGE_PHYSICAL_TOPOLOGY_DESCRIPTOR"
+size = 0x38
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NodeCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Reserved"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Node"
+offset = 0x10
+type = "STORAGE_PHYSICAL_NODE_DATA[0x1]"
+size = 0x28

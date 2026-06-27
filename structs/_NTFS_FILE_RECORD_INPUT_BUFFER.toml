@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.742275Z
+name = "_NTFS_FILE_RECORD_INPUT_BUFFER"
+size = 0x8
+
+[members.0x0]
+name = "FileReferenceNumber"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8

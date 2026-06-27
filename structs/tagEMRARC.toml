@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.864361Z
+name = "tagEMRARC"
+size = 0x28
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBox"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "ptlStart"
+offset = 0x18
+type = "POINTL"
+size = 0x8
+
+[members.0x20]
+name = "ptlEnd"
+offset = 0x20
+type = "POINTL"
+size = 0x8

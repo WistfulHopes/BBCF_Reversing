@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.894025Z
+name = "tagMIXERCONTROLDETAILS_LISTTEXTW"
+size = 0x88
+
+[members.0x0]
+name = "dwParam1"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwParam2"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "szName"
+offset = 0x8
+type = "WCHAR[0x40]"
+size = 0x80

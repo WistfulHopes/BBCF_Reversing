@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.677060Z
+name = "_DEVICE_DATA_SET_TOPOLOGY_ID_QUERY_OUTPUT"
+size = 0x18
+
+[members.0x0]
+name = "TopologyRangeBytes"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "TopologyId"
+offset = 0x8
+type = "BYTE[0x10]"
+size = 0x10

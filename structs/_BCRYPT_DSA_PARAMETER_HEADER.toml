@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.634851Z
+name = "_BCRYPT_DSA_PARAMETER_HEADER"
+size = 0x38
+
+[members.0x0]
+name = "cbLength"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwMagic"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "cbKeyLength"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "Count"
+offset = 0xc
+type = "UCHAR[0x4]"
+size = 0x4
+
+[members.0x10]
+name = "Seed"
+offset = 0x10
+type = "UCHAR[0x14]"
+size = 0x14
+
+[members.0x24]
+name = "q"
+offset = 0x24
+type = "UCHAR[0x14]"
+size = 0x14

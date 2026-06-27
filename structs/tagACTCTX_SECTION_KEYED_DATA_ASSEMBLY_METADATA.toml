@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.852909Z
+name = "tagACTCTX_SECTION_KEYED_DATA_ASSEMBLY_METADATA"
+size = 0x14
+
+[members.0x0]
+name = "lpInformation"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "lpSectionBase"
+offset = 0x4
+type = "PVOID"
+size = 0x4
+
+[members.0x8]
+name = "ulSectionLength"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "lpSectionGlobalDataBase"
+offset = 0xc
+type = "PVOID"
+size = 0x4
+
+[members.0x10]
+name = "ulSectionGlobalDataLength"
+offset = 0x10
+type = "ULONG"
+size = 0x4

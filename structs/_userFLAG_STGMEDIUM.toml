@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.845460Z
+name = "_userFLAG_STGMEDIUM"
+size = 0xc
+
+[members.0x0]
+name = "ContextFlags"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "fPassOwnership"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "Stgmed"
+offset = 0x8
+type = "userSTGMEDIUM"
+size = 0x4

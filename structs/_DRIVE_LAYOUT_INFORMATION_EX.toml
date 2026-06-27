@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.689519Z
+name = "_DRIVE_LAYOUT_INFORMATION_EX"
+size = 0xc0
+
+[members.0x0]
+name = "PartitionStyle"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "PartitionCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x28
+
+[members.0x30]
+name = "PartitionEntry"
+offset = 0x30
+type = "PARTITION_INFORMATION_EX[0x1]"
+size = 0x90

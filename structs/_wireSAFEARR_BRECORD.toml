@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.846482Z
+name = "_wireSAFEARR_BRECORD"
+size = 0x8
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "aRecord"
+offset = 0x4
+type = "wireBRECORD*"
+size = 0x4

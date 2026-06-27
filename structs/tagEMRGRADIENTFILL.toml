@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.867306Z
+name = "tagEMRGRADIENTFILL"
+size = 0x34
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBounds"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "nVer"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "nTri"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "ulMode"
+offset = 0x20
+type = "ULONG"
+size = 0x4
+
+[members.0x24]
+name = "Ver"
+offset = 0x24
+type = "TRIVERTEX[0x1]"
+size = 0x10

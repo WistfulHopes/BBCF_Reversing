@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.908904Z
+name = "tagREGISTERWORDW"
+size = 0x8
+
+[members.0x0]
+name = "lpReading"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "lpWord"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4

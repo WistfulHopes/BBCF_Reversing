@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.921740Z
+name = "tagWINDOWINFO"
+size = 0x3c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcWindow"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "rcClient"
+offset = 0x14
+type = "RECT"
+size = 0x10
+
+[members.0x24]
+name = "dwStyle"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwExStyle"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwWindowStatus"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "cxWindowBorders"
+offset = 0x30
+type = "UINT"
+size = 0x4
+
+[members.0x34]
+name = "cyWindowBorders"
+offset = 0x34
+type = "UINT"
+size = 0x4
+
+[members.0x38]
+name = "atomWindowType"
+offset = 0x38
+type = "ATOM"
+size = 0x2
+
+[members.0x3a]
+name = "wCreatorVersion"
+offset = 0x3a
+type = "WORD"
+size = 0x2

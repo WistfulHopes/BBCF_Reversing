@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.667168Z
+name = "_CRYPT_OBJECT_LOCATOR_PROVIDER_TABLE"
+size = 0x18
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pfnGet"
+offset = 0x4
+type = "PFN_CRYPT_OBJECT_LOCATOR_PROVIDER_GET"
+size = 0x4
+
+[members.0x8]
+name = "pfnRelease"
+offset = 0x8
+type = "PFN_CRYPT_OBJECT_LOCATOR_PROVIDER_RELEASE"
+size = 0x4
+
+[members.0xc]
+name = "pfnFreePassword"
+offset = 0xc
+type = "PFN_CRYPT_OBJECT_LOCATOR_PROVIDER_FREE_PASSWORD"
+size = 0x4
+
+[members.0x10]
+name = "pfnFree"
+offset = 0x10
+type = "PFN_CRYPT_OBJECT_LOCATOR_PROVIDER_FREE"
+size = 0x4
+
+[members.0x14]
+name = "pfnFreeIdentifier"
+offset = 0x14
+type = "PFN_CRYPT_OBJECT_LOCATOR_PROVIDER_FREE_IDENTIFIER"
+size = 0x4

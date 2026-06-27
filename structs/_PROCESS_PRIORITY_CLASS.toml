@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.769158Z
+name = "_PROCESS_PRIORITY_CLASS"
+size = 0x2
+
+[members.0x0]
+name = "Foreground"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "PriorityClass"
+offset = 0x1
+type = "UCHAR"
+size = 0x1

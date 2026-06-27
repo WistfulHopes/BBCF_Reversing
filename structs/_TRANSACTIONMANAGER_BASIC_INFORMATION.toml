@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.827075Z
+name = "_TRANSACTIONMANAGER_BASIC_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "TmIdentity"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "VirtualClock"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8

@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.711990Z
+name = "_IMAGE_DELAYLOAD_DESCRIPTOR"
+size = 0x20
+
+[members.0x0]
+name = "Attributes"
+offset = 0x0
+type = "union"
+size = 0x4
+
+[members.0x4]
+name = "DllNameRVA"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ModuleHandleRVA"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ImportAddressTableRVA"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ImportNameTableRVA"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "BoundImportAddressTableRVA"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "UnloadInformationTableRVA"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "TimeDateStamp"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

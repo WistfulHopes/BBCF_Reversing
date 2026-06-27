@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.642919Z
+name = "_CERT_LOGOTYPE_DETAILS"
+size = 0xc
+
+[members.0x0]
+name = "pwszMimeType"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "cHashedUrl"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgHashedUrl"
+offset = 0x8
+type = "PCERT_HASHED_URL"
+size = 0x4

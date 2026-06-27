@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.638863Z
+name = "_CERTIFICATE_BLOB"
+size = 0xc
+
+[members.0x0]
+name = "dwCertEncodingType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cbData"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pbData"
+offset = 0x8
+type = "PBYTE"
+size = 0x4

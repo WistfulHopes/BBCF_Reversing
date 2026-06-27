@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.862543Z
+name = "tagDIBSECTION"
+size = 0x54
+
+[members.0x0]
+name = "dsBm"
+offset = 0x0
+type = "BITMAP"
+size = 0x18
+
+[members.0x18]
+name = "dsBmih"
+offset = 0x18
+type = "BITMAPINFOHEADER"
+size = 0x28
+
+[members.0x40]
+name = "dsBitfields"
+offset = 0x40
+type = "DWORD[0x3]"
+size = 0xc
+
+[members.0x4c]
+name = "dshSection"
+offset = 0x4c
+type = "HANDLE"
+size = 0x4
+
+[members.0x50]
+name = "dsOffset"
+offset = 0x50
+type = "DWORD"
+size = 0x4

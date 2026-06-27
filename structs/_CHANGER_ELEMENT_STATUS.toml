@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.648985Z
+name = "_CHANGER_ELEMENT_STATUS"
+size = 0x64
+
+[members.0x0]
+name = "Element"
+offset = 0x0
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x8]
+name = "SrcElementAddress"
+offset = 0x8
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ExceptionCode"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "TargetId"
+offset = 0x18
+type = "BYTE"
+size = 0x1
+
+[members.0x19]
+name = "Lun"
+offset = 0x19
+type = "BYTE"
+size = 0x1
+
+[members.0x1a]
+name = "Reserved"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "PrimaryVolumeID"
+offset = 0x1c
+type = "BYTE[0x24]"
+size = 0x24
+
+[members.0x40]
+name = "AlternateVolumeID"
+offset = 0x40
+type = "BYTE[0x24]"
+size = 0x24

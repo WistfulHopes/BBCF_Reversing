@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.783043Z
+name = "_RPC_POLICY"
+size = 0xc
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "EndpointFlags"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "NICFlags"
+offset = 0x8
+type = "uint"
+size = 0x4

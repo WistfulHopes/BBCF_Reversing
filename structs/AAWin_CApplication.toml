@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.577883Z
+name = "AAWin_CApplication"
+size = 0x1668
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "AAWin_CApplication::VTable*"
+size = 0x4
+
+[members.0x18]
+name = "m_BaseAddress"
+offset = 0x18
+type = "uintptr_t"
+size = 0x4
+
+[members.0x1c]
+name = "m_Hwnd"
+offset = 0x1c
+type = "HWND"
+size = 0x4
+
+[members.0x20]
+name = "m_Title"
+offset = 0x20
+type = "wchar16[0x102]"
+size = 0x204
+
+[members.0x224]
+name = "m_ResX"
+offset = 0x224
+type = "uint"
+size = 0x4
+
+[members.0x228]
+name = "m_ResY"
+offset = 0x228
+type = "uint"
+size = 0x4
+
+[members.0x22c]
+name = "m_bInitialized"
+offset = 0x22c
+type = "bool"
+size = 0x1
+
+[members.0x230]
+name = "m_ImeProc"
+offset = 0x230
+type = "struct ImeProc"
+size = 0x1438

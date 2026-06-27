@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.635991Z
+name = "_BCRYPT_PROVIDER_NAME"
+size = 0x4
+
+[members.0x0]
+name = "pszProviderName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4

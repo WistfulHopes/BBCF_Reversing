@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.820217Z
+name = "_SYSTEM_POWER_LEVEL"
+size = 0x18
+
+[members.0x0]
+name = "Enable"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "Spare"
+offset = 0x1
+type = "BYTE[0x3]"
+size = 0x3
+
+[members.0x4]
+name = "BatteryLevel"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PowerPolicy"
+offset = 0x8
+type = "POWER_ACTION_POLICY"
+size = 0xc
+
+[members.0x14]
+name = "MinSystemState"
+offset = 0x14
+type = "SYSTEM_POWER_STATE"
+size = 0x4

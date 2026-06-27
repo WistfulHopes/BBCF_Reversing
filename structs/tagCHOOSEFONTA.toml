@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.858360Z
+name = "tagCHOOSEFONTA"
+size = 0x3c
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hDC"
+offset = 0x8
+type = "HDC"
+size = 0x4
+
+[members.0xc]
+name = "lpLogFont"
+offset = 0xc
+type = "LPLOGFONTA"
+size = 0x4
+
+[members.0x10]
+name = "iPointSize"
+offset = 0x10
+type = "INT"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "rgbColors"
+offset = 0x18
+type = "COLORREF"
+size = 0x4
+
+[members.0x1c]
+name = "lCustData"
+offset = 0x1c
+type = "LPARAM"
+size = 0x4
+
+[members.0x20]
+name = "lpfnHook"
+offset = 0x20
+type = "LPCFHOOKPROC"
+size = 0x4
+
+[members.0x24]
+name = "lpTemplateName"
+offset = 0x24
+type = "LPCSTR"
+size = 0x4
+
+[members.0x28]
+name = "hInstance"
+offset = 0x28
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x2c]
+name = "lpszStyle"
+offset = 0x2c
+type = "LPSTR"
+size = 0x4
+
+[members.0x30]
+name = "nFontType"
+offset = 0x30
+type = "WORD"
+size = 0x2
+
+[members.0x32]
+name = "___MISSING_ALIGNMENT__"
+offset = 0x32
+type = "WORD"
+size = 0x2
+
+[members.0x34]
+name = "nSizeMin"
+offset = 0x34
+type = "INT"
+size = 0x4
+
+[members.0x38]
+name = "nSizeMax"
+offset = 0x38
+type = "INT"
+size = 0x4

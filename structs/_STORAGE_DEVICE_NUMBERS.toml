@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.807529Z
+name = "_STORAGE_DEVICE_NUMBERS"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NumberOfDevices"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Devices"
+offset = 0xc
+type = "STORAGE_DEVICE_NUMBER[0x1]"
+size = 0xc

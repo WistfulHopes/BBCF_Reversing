@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.850047Z
+name = "servent"
+size = 0x10
+
+[members.0x0]
+name = "s_name"
+offset = 0x0
+type = "char*"
+size = 0x4
+
+[members.0x4]
+name = "s_aliases"
+offset = 0x4
+type = "char**"
+size = 0x4
+
+[members.0x8]
+name = "s_port"
+offset = 0x8
+type = "short"
+size = 0x2
+
+[members.0xc]
+name = "s_proto"
+offset = 0xc
+type = "char*"
+size = 0x4

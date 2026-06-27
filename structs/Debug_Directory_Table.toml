@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.604284Z
+name = "Debug_Directory_Table"
+size = 0x1c
+
+[members.0x0]
+name = "characteristics"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "timeDateStamp"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "majorVersion"
+offset = 0x8
+type = "ushort"
+size = 0x2
+
+[members.0xa]
+name = "minorVersion"
+offset = 0xa
+type = "ushort"
+size = 0x2
+
+[members.0xc]
+name = "type"
+offset = 0xc
+type = "enum"
+size = 0x4
+
+[members.0x10]
+name = "sizeOfData"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "addressOfRawData"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "pointerToRawData"
+offset = 0x18
+type = "uint"
+size = 0x4

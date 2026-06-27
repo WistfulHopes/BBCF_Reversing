@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.644191Z
+name = "_CERT_POLICIES_INFO"
+size = 0x8
+
+[members.0x0]
+name = "cPolicyInfo"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgPolicyInfo"
+offset = 0x4
+type = "CERT_POLICY_INFO*"
+size = 0x4

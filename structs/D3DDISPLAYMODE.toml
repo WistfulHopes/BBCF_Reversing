@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.598373Z
+name = "D3DDISPLAYMODE"
+size = 0x10
+
+[members.0x0]
+name = "Width"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Height"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "RefreshRate"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "Format"
+offset = 0xc
+type = "enum D3DFORMAT"
+size = 0x4

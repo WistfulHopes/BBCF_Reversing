@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.712685Z
+name = "_IMAGE_DYNAMIC_RELOCATION64_V2"
+size = 0x18
+
+[members.0x0]
+name = "HeaderSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "FixupInfoSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Symbol"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "SymbolGroup"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,279 @@
+last_change = 2026-06-27T20:49:16.743233Z
+name = "_NTFS_STATISTICS"
+size = 0xd8
+
+[members.0x0]
+name = "LogFileFullExceptions"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "OtherExceptions"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MftReads"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MftReadBytes"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "MftWrites"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "MftWriteBytes"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "MftWritesUserLevel"
+offset = 0x18
+type = "struct"
+size = 0x8
+
+[members.0x20]
+name = "MftWritesFlushForLogFileFull"
+offset = 0x20
+type = "WORD"
+size = 0x2
+
+[members.0x22]
+name = "MftWritesLazyWriter"
+offset = 0x22
+type = "WORD"
+size = 0x2
+
+[members.0x24]
+name = "MftWritesUserRequest"
+offset = 0x24
+type = "WORD"
+size = 0x2
+
+[members.0x28]
+name = "Mft2Writes"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "Mft2WriteBytes"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "Mft2WritesUserLevel"
+offset = 0x30
+type = "struct"
+size = 0x8
+
+[members.0x38]
+name = "Mft2WritesFlushForLogFileFull"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "Mft2WritesLazyWriter"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "Mft2WritesUserRequest"
+offset = 0x3c
+type = "WORD"
+size = 0x2
+
+[members.0x40]
+name = "RootIndexReads"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "RootIndexReadBytes"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "RootIndexWrites"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "RootIndexWriteBytes"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "BitmapReads"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "BitmapReadBytes"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "BitmapWrites"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "BitmapWriteBytes"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "BitmapWritesFlushForLogFileFull"
+offset = 0x60
+type = "WORD"
+size = 0x2
+
+[members.0x62]
+name = "BitmapWritesLazyWriter"
+offset = 0x62
+type = "WORD"
+size = 0x2
+
+[members.0x64]
+name = "BitmapWritesUserRequest"
+offset = 0x64
+type = "WORD"
+size = 0x2
+
+[members.0x66]
+name = "BitmapWritesUserLevel"
+offset = 0x66
+type = "struct"
+size = 0x6
+
+[members.0x6c]
+name = "MftBitmapReads"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "MftBitmapReadBytes"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x74]
+name = "MftBitmapWrites"
+offset = 0x74
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "MftBitmapWriteBytes"
+offset = 0x78
+type = "DWORD"
+size = 0x4
+
+[members.0x7c]
+name = "MftBitmapWritesFlushForLogFileFull"
+offset = 0x7c
+type = "WORD"
+size = 0x2
+
+[members.0x7e]
+name = "MftBitmapWritesLazyWriter"
+offset = 0x7e
+type = "WORD"
+size = 0x2
+
+[members.0x80]
+name = "MftBitmapWritesUserRequest"
+offset = 0x80
+type = "WORD"
+size = 0x2
+
+[members.0x82]
+name = "MftBitmapWritesUserLevel"
+offset = 0x82
+type = "struct"
+size = 0x8
+
+[members.0x8c]
+name = "UserIndexReads"
+offset = 0x8c
+type = "DWORD"
+size = 0x4
+
+[members.0x90]
+name = "UserIndexReadBytes"
+offset = 0x90
+type = "DWORD"
+size = 0x4
+
+[members.0x94]
+name = "UserIndexWrites"
+offset = 0x94
+type = "DWORD"
+size = 0x4
+
+[members.0x98]
+name = "UserIndexWriteBytes"
+offset = 0x98
+type = "DWORD"
+size = 0x4
+
+[members.0x9c]
+name = "LogFileReads"
+offset = 0x9c
+type = "DWORD"
+size = 0x4
+
+[members.0xa0]
+name = "LogFileReadBytes"
+offset = 0xa0
+type = "DWORD"
+size = 0x4
+
+[members.0xa4]
+name = "LogFileWrites"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "LogFileWriteBytes"
+offset = 0xa8
+type = "DWORD"
+size = 0x4
+
+[members.0xac]
+name = "Allocate"
+offset = 0xac
+type = "struct"
+size = 0x28
+
+[members.0xd4]
+name = "DiskResourcesExhausted"
+offset = 0xd4
+type = "DWORD"
+size = 0x4

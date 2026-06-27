@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.787551Z
+name = "_SCARD_READERSTATEW"
+size = 0x38
+
+[members.0x0]
+name = "szReader"
+offset = 0x0
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pvUserData"
+offset = 0x4
+type = "LPVOID"
+size = 0x4
+
+[members.0x8]
+name = "dwCurrentState"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwEventState"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cbAtr"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgbAtr"
+offset = 0x14
+type = "BYTE[0x24]"
+size = 0x24

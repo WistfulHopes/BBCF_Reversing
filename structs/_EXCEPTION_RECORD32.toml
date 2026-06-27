@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.693976Z
+name = "_EXCEPTION_RECORD32"
+size = 0x50
+
+[members.0x0]
+name = "ExceptionCode"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ExceptionFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ExceptionRecord"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ExceptionAddress"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "NumberParameters"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ExceptionInformation"
+offset = 0x14
+type = "DWORD[0xf]"
+size = 0x3c

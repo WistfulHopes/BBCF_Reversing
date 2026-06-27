@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.745035Z
+name = "_NUMA_NODE_RELATIONSHIP"
+size = 0x24
+
+[members.0x0]
+name = "NodeNumber"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "BYTE[0x12]"
+size = 0x12
+
+[members.0x16]
+name = "GroupCount"
+offset = 0x16
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = ""
+offset = 0x18
+type = "union"
+size = 0xc

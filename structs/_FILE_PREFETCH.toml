@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.699996Z
+name = "_FILE_PREFETCH"
+size = 0x10
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Count"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Prefetch"
+offset = 0x8
+type = "DWORDLONG[0x1]"
+size = 0x8

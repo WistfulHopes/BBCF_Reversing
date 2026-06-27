@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.678477Z
+name = "_DEVICE_DSM_REPORT_ZONES_PARAMETERS"
+size = 0x8
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ReportOption"
+offset = 0x4
+type = "BYTE"
+size = 0x1
+
+[members.0x5]
+name = "Partial"
+offset = 0x5
+type = "BYTE"
+size = 0x1
+
+[members.0x6]
+name = "Reserved"
+offset = 0x6
+type = "BYTE[0x2]"
+size = 0x2

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.638001Z
+name = "_BOOT_AREA_INFO"
+size = 0x18
+
+[members.0x0]
+name = "BootSectorCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "BootSectors"
+offset = 0x8
+type = "struct { LARGE_INTEGER Offset; }[0x2]"
+size = 0x10

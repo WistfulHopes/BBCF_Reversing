@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.786974Z
+name = "_RTTIClassHierarchyDescriptor"
+size = 0x10
+
+[members.0x0]
+name = "signature"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "attributes"
+offset = 0x4
+type = "enum"
+size = 0x4
+
+[members.0x8]
+name = "numBaseClasses"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "pBaseClassArray"
+offset = 0xc
+type = "void*"
+size = 0x4

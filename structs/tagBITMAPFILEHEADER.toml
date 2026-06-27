@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.855097Z
+name = "tagBITMAPFILEHEADER"
+size = 0x14
+
+[members.0x0]
+name = "bfType"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "bfSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "bfReserved1"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "bfReserved2"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "bfOffBits"
+offset = 0xc
+type = "DWORD"
+size = 0x4

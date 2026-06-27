@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.741080Z
+name = "_NETRESOURCEW"
+size = 0x20
+
+[members.0x0]
+name = "dwScope"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwDisplayType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwUsage"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "lpLocalName"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "lpRemoteName"
+offset = 0x14
+type = "LPWSTR"
+size = 0x4
+
+[members.0x18]
+name = "lpComment"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "lpProvider"
+offset = 0x1c
+type = "LPWSTR"
+size = 0x4

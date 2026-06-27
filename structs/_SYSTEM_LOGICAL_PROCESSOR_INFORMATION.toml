@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.819146Z
+name = "_SYSTEM_LOGICAL_PROCESSOR_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "ProcessorMask"
+offset = 0x0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x4]
+name = "Relationship"
+offset = 0x4
+type = "LOGICAL_PROCESSOR_RELATIONSHIP"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x10

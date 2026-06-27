@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.643570Z
+name = "_CERT_NAME_INFO"
+size = 0x8
+
+[members.0x0]
+name = "cRDN"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgRDN"
+offset = 0x4
+type = "PCERT_RDN"
+size = 0x4

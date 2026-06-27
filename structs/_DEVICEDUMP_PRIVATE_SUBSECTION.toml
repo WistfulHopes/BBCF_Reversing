@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.675084Z
+name = "_DEVICEDUMP_PRIVATE_SUBSECTION"
+size = 0xc
+
+[members.0x0]
+name = "dwFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "GPLogId"
+offset = 0x4
+type = "GP_LOG_PAGE_DESCRIPTOR"
+size = 0x4
+
+[members.0x8]
+name = "bData"
+offset = 0x8
+type = "BYTE[0x1]"
+size = 0x1

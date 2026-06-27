@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.839610Z
+name = "_ZONEATTRIBUTES"
+size = 0x5b4
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "szDisplayName"
+offset = 0x4
+type = "WCHAR[0x104]"
+size = 0x208
+
+[members.0x20c]
+name = "szDescription"
+offset = 0x20c
+type = "WCHAR[0xc8]"
+size = 0x190
+
+[members.0x39c]
+name = "szIconPath"
+offset = 0x39c
+type = "WCHAR[0x104]"
+size = 0x208
+
+[members.0x5a4]
+name = "dwTemplateMinLevel"
+offset = 0x5a4
+type = "DWORD"
+size = 0x4
+
+[members.0x5a8]
+name = "dwTemplateRecommended"
+offset = 0x5a8
+type = "DWORD"
+size = 0x4
+
+[members.0x5ac]
+name = "dwTemplateCurrentLevel"
+offset = 0x5ac
+type = "DWORD"
+size = 0x4
+
+[members.0x5b0]
+name = "dwFlags"
+offset = 0x5b0
+type = "DWORD"
+size = 0x4

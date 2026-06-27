@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.825881Z
+name = "_TOKEN_MANDATORY_LABEL"
+size = 0x8
+
+[members.0x0]
+name = "Label"
+offset = 0x0
+type = "SID_AND_ATTRIBUTES"
+size = 0x8

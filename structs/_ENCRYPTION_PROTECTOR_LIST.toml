@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.692178Z
+name = "_ENCRYPTION_PROTECTOR_LIST"
+size = 0x8
+
+[members.0x0]
+name = "nProtectors"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pProtectors"
+offset = 0x4
+type = "PENCRYPTION_PROTECTOR*"
+size = 0x4

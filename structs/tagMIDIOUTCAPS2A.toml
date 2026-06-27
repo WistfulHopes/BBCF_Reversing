@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.892242Z
+name = "tagMIDIOUTCAPS2A"
+size = 0x64
+
+[members.0x0]
+name = "wMid"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPid"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "vDriverVersion"
+offset = 0x4
+type = "MMVERSION"
+size = 0x4
+
+[members.0x8]
+name = "szPname"
+offset = 0x8
+type = "CHAR[0x20]"
+size = 0x20
+
+[members.0x28]
+name = "wTechnology"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "wVoices"
+offset = 0x2a
+type = "WORD"
+size = 0x2
+
+[members.0x2c]
+name = "wNotes"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "wChannelMask"
+offset = 0x2e
+type = "WORD"
+size = 0x2
+
+[members.0x30]
+name = "dwSupport"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "ManufacturerGuid"
+offset = 0x34
+type = "GUID"
+size = 0x10
+
+[members.0x44]
+name = "ProductGuid"
+offset = 0x44
+type = "GUID"
+size = 0x10
+
+[members.0x54]
+name = "NameGuid"
+offset = 0x54
+type = "GUID"
+size = 0x10

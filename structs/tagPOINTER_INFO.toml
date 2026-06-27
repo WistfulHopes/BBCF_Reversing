@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.906076Z
+name = "tagPOINTER_INFO"
+size = 0x58
+
+[members.0x0]
+name = "pointerType"
+offset = 0x0
+type = "POINTER_INPUT_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "pointerId"
+offset = 0x4
+type = "UINT32"
+size = 0x4
+
+[members.0x8]
+name = "frameId"
+offset = 0x8
+type = "UINT32"
+size = 0x4
+
+[members.0xc]
+name = "pointerFlags"
+offset = 0xc
+type = "POINTER_FLAGS"
+size = 0x4
+
+[members.0x10]
+name = "sourceDevice"
+offset = 0x10
+type = "HANDLE"
+size = 0x4
+
+[members.0x14]
+name = "hwndTarget"
+offset = 0x14
+type = "HWND"
+size = 0x4
+
+[members.0x18]
+name = "ptPixelLocation"
+offset = 0x18
+type = "POINT"
+size = 0x8
+
+[members.0x20]
+name = "ptHimetricLocation"
+offset = 0x20
+type = "POINT"
+size = 0x8
+
+[members.0x28]
+name = "ptPixelLocationRaw"
+offset = 0x28
+type = "POINT"
+size = 0x8
+
+[members.0x30]
+name = "ptHimetricLocationRaw"
+offset = 0x30
+type = "POINT"
+size = 0x8
+
+[members.0x38]
+name = "dwTime"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "historyCount"
+offset = 0x3c
+type = "UINT32"
+size = 0x4
+
+[members.0x40]
+name = "InputData"
+offset = 0x40
+type = "INT32"
+size = 0x4
+
+[members.0x44]
+name = "dwKeyStates"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "PerformanceCount"
+offset = 0x48
+type = "UINT64"
+size = 0x8
+
+[members.0x50]
+name = "ButtonChangeType"
+offset = 0x50
+type = "POINTER_BUTTON_CHANGE_TYPE"
+size = 0x4

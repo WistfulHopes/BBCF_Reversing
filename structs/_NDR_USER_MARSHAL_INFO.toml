@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.740348Z
+name = "_NDR_USER_MARSHAL_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "InformationLevel"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = ""
+offset = 0x4
+type = "union"
+size = 0x28

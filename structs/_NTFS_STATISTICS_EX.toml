@@ -1,0 +1,345 @@
+last_change = 2026-06-27T20:49:16.744212Z
+name = "_NTFS_STATISTICS_EX"
+size = 0x1f0
+
+[members.0x0]
+name = "LogFileFullExceptions"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "OtherExceptions"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MftReads"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "MftReadBytes"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "MftWrites"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "MftWriteBytes"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "MftWritesUserLevel"
+offset = 0x28
+type = "struct"
+size = 0x10
+
+[members.0x38]
+name = "MftWritesFlushForLogFileFull"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "MftWritesLazyWriter"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "MftWritesUserRequest"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "Mft2Writes"
+offset = 0x48
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x50]
+name = "Mft2WriteBytes"
+offset = 0x50
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x58]
+name = "Mft2WritesUserLevel"
+offset = 0x58
+type = "struct"
+size = 0x10
+
+[members.0x68]
+name = "Mft2WritesFlushForLogFileFull"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "Mft2WritesLazyWriter"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "Mft2WritesUserRequest"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "RootIndexReads"
+offset = 0x78
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x80]
+name = "RootIndexReadBytes"
+offset = 0x80
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x88]
+name = "RootIndexWrites"
+offset = 0x88
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x90]
+name = "RootIndexWriteBytes"
+offset = 0x90
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x98]
+name = "BitmapReads"
+offset = 0x98
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xa0]
+name = "BitmapReadBytes"
+offset = 0xa0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xa8]
+name = "BitmapWrites"
+offset = 0xa8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xb0]
+name = "BitmapWriteBytes"
+offset = 0xb0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xb8]
+name = "BitmapWritesFlushForLogFileFull"
+offset = 0xb8
+type = "DWORD"
+size = 0x4
+
+[members.0xbc]
+name = "BitmapWritesLazyWriter"
+offset = 0xbc
+type = "DWORD"
+size = 0x4
+
+[members.0xc0]
+name = "BitmapWritesUserRequest"
+offset = 0xc0
+type = "DWORD"
+size = 0x4
+
+[members.0xc4]
+name = "BitmapWritesUserLevel"
+offset = 0xc4
+type = "struct"
+size = 0x10
+
+[members.0xd8]
+name = "MftBitmapReads"
+offset = 0xd8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xe0]
+name = "MftBitmapReadBytes"
+offset = 0xe0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xe8]
+name = "MftBitmapWrites"
+offset = 0xe8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xf0]
+name = "MftBitmapWriteBytes"
+offset = 0xf0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0xf8]
+name = "MftBitmapWritesFlushForLogFileFull"
+offset = 0xf8
+type = "DWORD"
+size = 0x4
+
+[members.0xfc]
+name = "MftBitmapWritesLazyWriter"
+offset = 0xfc
+type = "DWORD"
+size = 0x4
+
+[members.0x100]
+name = "MftBitmapWritesUserRequest"
+offset = 0x100
+type = "DWORD"
+size = 0x4
+
+[members.0x104]
+name = "MftBitmapWritesUserLevel"
+offset = 0x104
+type = "struct"
+size = 0x10
+
+[members.0x118]
+name = "UserIndexReads"
+offset = 0x118
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x120]
+name = "UserIndexReadBytes"
+offset = 0x120
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x128]
+name = "UserIndexWrites"
+offset = 0x128
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x130]
+name = "UserIndexWriteBytes"
+offset = 0x130
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x138]
+name = "LogFileReads"
+offset = 0x138
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x140]
+name = "LogFileReadBytes"
+offset = 0x140
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x148]
+name = "LogFileWrites"
+offset = 0x148
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x150]
+name = "LogFileWriteBytes"
+offset = 0x150
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x158]
+name = "Allocate"
+offset = 0x158
+type = "struct"
+size = 0x38
+
+[members.0x190]
+name = "DiskResourcesExhausted"
+offset = 0x190
+type = "DWORD"
+size = 0x4
+
+[members.0x198]
+name = "VolumeTrimCount"
+offset = 0x198
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1a0]
+name = "VolumeTrimTime"
+offset = 0x1a0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1a8]
+name = "VolumeTrimByteCount"
+offset = 0x1a8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1b0]
+name = "FileLevelTrimCount"
+offset = 0x1b0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1b8]
+name = "FileLevelTrimTime"
+offset = 0x1b8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1c0]
+name = "FileLevelTrimByteCount"
+offset = 0x1c0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1c8]
+name = "VolumeTrimSkippedCount"
+offset = 0x1c8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1d0]
+name = "VolumeTrimSkippedByteCount"
+offset = 0x1d0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1d8]
+name = "NtfsFillStatInfoFromMftRecordCalledCount"
+offset = 0x1d8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1e0]
+name = "NtfsFillStatInfoFromMftRecordBailedBecauseOfAttributeListCount"
+offset = 0x1e0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x1e8]
+name = "NtfsFillStatInfoFromMftRecordBailedBecauseOfNonResReparsePointCount"
+offset = 0x1e8
+type = "DWORDLONG"
+size = 0x8

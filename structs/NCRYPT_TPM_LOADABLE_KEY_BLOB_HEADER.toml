@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.619724Z
+name = "NCRYPT_TPM_LOADABLE_KEY_BLOB_HEADER"
+size = 0x14
+
+[members.0x0]
+name = "magic"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cbHeader"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "cbPublic"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "cbPrivate"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cbName"
+offset = 0x10
+type = "DWORD"
+size = 0x4

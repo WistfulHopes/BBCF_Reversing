@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.825428Z
+name = "_TOKEN_DEFAULT_DACL"
+size = 0x4
+
+[members.0x0]
+name = "DefaultDacl"
+offset = 0x0
+type = "PACL"
+size = 0x4

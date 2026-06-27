@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.672706Z
+name = "_CSV_QUERY_VOLUME_REDIRECT_STATE"
+size = 0x10
+
+[members.0x0]
+name = "MdsNodeId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DsNodeId"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "IsDiskConnected"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x9]
+name = "ClusterEnableDirectIo"
+offset = 0x9
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xc]
+name = "DiskConnectivity"
+offset = 0xc
+type = "CSVFS_DISK_CONNECTIVITY"
+size = 0x4

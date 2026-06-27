@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.635942Z
+name = "_BCRYPT_PKCS1_PADDING_INFO"
+size = 0x4
+
+[members.0x0]
+name = "pszAlgId"
+offset = 0x0
+type = "LPCWSTR"
+size = 0x4

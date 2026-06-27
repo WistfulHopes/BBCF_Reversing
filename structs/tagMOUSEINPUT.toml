@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.897149Z
+name = "tagMOUSEINPUT"
+size = 0x18
+
+[members.0x0]
+name = "dx"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "dy"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "mouseData"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "time"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwExtraInfo"
+offset = 0x14
+type = "ULONG_PTR"
+size = 0x4

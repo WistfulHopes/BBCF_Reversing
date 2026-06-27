@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.822513Z
+name = "_TAPE_WRITE_MARKS"
+size = 0xc
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Count"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Immediate"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1

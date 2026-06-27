@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.815401Z
+name = "_STORAGE_TEMPERATURE_INFO"
+size = 0x10
+
+[members.0x0]
+name = "Index"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Temperature"
+offset = 0x2
+type = "SHORT"
+size = 0x2
+
+[members.0x4]
+name = "OverThreshold"
+offset = 0x4
+type = "SHORT"
+size = 0x2
+
+[members.0x6]
+name = "UnderThreshold"
+offset = 0x6
+type = "SHORT"
+size = 0x2
+
+[members.0x8]
+name = "OverThresholdChangable"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x9]
+name = "UnderThresholdChangable"
+offset = 0x9
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xa]
+name = "EventGenerated"
+offset = 0xa
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xb]
+name = "Reserved0"
+offset = 0xb
+type = "BYTE"
+size = 0x1
+
+[members.0xc]
+name = "Reserved1"
+offset = 0xc
+type = "DWORD"
+size = 0x4

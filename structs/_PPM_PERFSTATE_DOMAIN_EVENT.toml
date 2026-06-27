@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.759235Z
+name = "_PPM_PERFSTATE_DOMAIN_EVENT"
+size = 0x18
+
+[members.0x0]
+name = "State"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Latency"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Speed"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Processors"
+offset = 0x10
+type = "DWORD64"
+size = 0x8

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.746680Z
+name = "_OCSP_SIGNATURE_INFO"
+size = 0x20
+
+[members.0x0]
+name = "SignatureAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "Signature"
+offset = 0xc
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x18]
+name = "cCertEncoded"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "rgCertEncoded"
+offset = 0x1c
+type = "PCERT_BLOB"
+size = 0x4

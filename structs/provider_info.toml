@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.849148Z
+name = "provider_info"
+size = 0x18
+
+[members.0x0]
+name = "pi_R0_1val"
+offset = 0x0
+type = "PQUERYHANDLER"
+size = 0x4
+
+[members.0x4]
+name = "pi_R0_allvals"
+offset = 0x4
+type = "PQUERYHANDLER"
+size = 0x4
+
+[members.0x8]
+name = "pi_R3_1val"
+offset = 0x8
+type = "PQUERYHANDLER"
+size = 0x4
+
+[members.0xc]
+name = "pi_R3_allvals"
+offset = 0xc
+type = "PQUERYHANDLER"
+size = 0x4
+
+[members.0x10]
+name = "pi_flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pi_key_context"
+offset = 0x14
+type = "LPVOID"
+size = 0x4

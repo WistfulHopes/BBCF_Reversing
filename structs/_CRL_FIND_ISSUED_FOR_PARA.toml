@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.661856Z
+name = "_CRL_FIND_ISSUED_FOR_PARA"
+size = 0x8
+
+[members.0x0]
+name = "pSubjectCert"
+offset = 0x0
+type = "PCCERT_CONTEXT"
+size = 0x4
+
+[members.0x4]
+name = "pIssuerCert"
+offset = 0x4
+type = "PCCERT_CONTEXT"
+size = 0x4

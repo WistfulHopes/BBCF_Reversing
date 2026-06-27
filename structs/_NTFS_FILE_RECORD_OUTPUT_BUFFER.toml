@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.742359Z
+name = "_NTFS_FILE_RECORD_OUTPUT_BUFFER"
+size = 0x10
+
+[members.0x0]
+name = "FileReferenceNumber"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "FileRecordLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "FileRecordBuffer"
+offset = 0xc
+type = "BYTE[0x1]"
+size = 0x1

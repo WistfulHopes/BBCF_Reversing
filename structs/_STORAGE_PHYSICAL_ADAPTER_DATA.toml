@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.811691Z
+name = "_STORAGE_PHYSICAL_ADAPTER_DATA"
+size = 0x80
+
+[members.0x0]
+name = "AdapterId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "HealthStatus"
+offset = 0x4
+type = "STORAGE_COMPONENT_HEALTH_STATUS"
+size = 0x4
+
+[members.0x8]
+name = "CommandProtocol"
+offset = 0x8
+type = "STORAGE_PROTOCOL_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "SpecVersion"
+offset = 0xc
+type = "STORAGE_SPEC_VERSION"
+size = 0x4
+
+[members.0x10]
+name = "Vendor"
+offset = 0x10
+type = "BYTE[0x8]"
+size = 0x8
+
+[members.0x18]
+name = "Model"
+offset = 0x18
+type = "BYTE[0x28]"
+size = 0x28
+
+[members.0x40]
+name = "FirmwareRevision"
+offset = 0x40
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x50]
+name = "PhysicalLocation"
+offset = 0x50
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x70]
+name = "ExpanderConnected"
+offset = 0x70
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x71]
+name = "Reserved0"
+offset = 0x71
+type = "BYTE[0x3]"
+size = 0x3
+
+[members.0x74]
+name = "Reserved1"
+offset = 0x74
+type = "DWORD[0x3]"
+size = 0xc

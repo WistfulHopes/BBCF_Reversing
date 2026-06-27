@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.746157Z
+name = "_OCSP_REQUEST_INFO"
+size = 0x18
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pRequestorName"
+offset = 0x4
+type = "PCERT_ALT_NAME_ENTRY"
+size = 0x4
+
+[members.0x8]
+name = "cRequestEntry"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rgRequestEntry"
+offset = 0xc
+type = "POCSP_REQUEST_ENTRY"
+size = 0x4
+
+[members.0x10]
+name = "cExtension"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgExtension"
+offset = 0x14
+type = "PCERT_EXTENSION"
+size = 0x4

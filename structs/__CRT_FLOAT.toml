@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.839785Z
+name = "__CRT_FLOAT"
+size = 0x4
+
+[members.0x0]
+name = "f"
+offset = 0x0
+type = "float"
+size = 0x4

@@ -1,0 +1,537 @@
+last_change = 2026-06-27T20:49:16.591044Z
+name = "CAtkParam"
+size = 0x1d4
+
+[members.0x0]
+name = "m_AtkType"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "m_AtkLevel"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_AtkDamage"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_AtkStarterRating"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_AtkSameAttackHoseiCount"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_AtkFlag"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "m_AtkHitStopTimeEnemyAddition"
+offset = 0x1c
+type = "int[0x3]"
+size = 0xc
+
+[members.0x28]
+name = "m_AtkHitStopTime"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "m_AtkLockWaitTime"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_AtkAttackCollisionForceExpand"
+offset = 0x30
+type = "bool"
+size = 0x1
+
+[members.0x32]
+name = "m_AtkBurst"
+offset = 0x32
+type = "bool"
+size = 0x1
+
+[members.0x34]
+name = "m_AtkIsLock"
+offset = 0x34
+type = "bool"
+size = 0x1
+
+[members.0x38]
+name = "m_AtkGuardTime"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "m_AtkAirGuardTimeAddition"
+offset = 0x3c
+type = "int"
+size = 0x4
+
+[members.0x40]
+name = "m_AtkGuardBreakTime"
+offset = 0x40
+type = "int"
+size = 0x4
+
+[members.0x44]
+name = "m_AtkKezuriRate"
+offset = 0x44
+type = "int"
+size = 0x4
+
+[members.0x48]
+name = "m_AtkKezuriRate2"
+offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "m_AtkRangeMaxX"
+offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "m_AtkRangeMaxY"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "m_AtkRangeMinX"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "m_AtkRangeMinY"
+offset = 0x58
+type = "int"
+size = 0x4
+
+[members.0x5c]
+name = "m_AtkPushRangeX"
+offset = 0x5c
+type = "int"
+size = 0x4
+
+[members.0x60]
+name = "m_AtkShotLevel"
+offset = 0x60
+type = "uchar"
+size = 0x1
+
+[members.0x61]
+name = "m_AtkNikuLevel"
+offset = 0x61
+type = "uchar"
+size = 0x1
+
+[members.0x62]
+name = "m_AtkLowDamageLevel"
+offset = 0x62
+type = "uchar"
+size = 0x1
+
+[members.0x63]
+name = "m_AtkMidDamageLevel"
+offset = 0x63
+type = "uchar"
+size = 0x1
+
+[members.0x64]
+name = "m_AtkAirDamageLevel"
+offset = 0x64
+type = "uchar"
+size = 0x1
+
+[members.0x65]
+name = "m_AtkLowBreakLevel"
+offset = 0x65
+type = "uchar"
+size = 0x1
+
+[members.0x66]
+name = "m_AtkMidBreakLevel"
+offset = 0x66
+type = "uchar"
+size = 0x1
+
+[members.0x67]
+name = "m_AtkAirBreakLevel"
+offset = 0x67
+type = "uchar"
+size = 0x1
+
+[members.0x68]
+name = "m_AtkCounterHitType"
+offset = 0x68
+type = "enum CHT_TYPE"
+size = 0x4
+
+[members.0x6c]
+name = "m_AtkTensionRate"
+offset = 0x6c
+type = "int"
+size = 0x4
+
+[members.0x70]
+name = "m_AtkIgnoreBurst"
+offset = 0x70
+type = "int"
+size = 0x4
+
+[members.0x74]
+name = "m_AtkLandHitOnly"
+offset = 0x74
+type = "int"
+size = 0x4
+
+[members.0x78]
+name = "m_AtkAirHitOnly"
+offset = 0x78
+type = "int"
+size = 0x4
+
+[members.0x7c]
+name = "m_AtkLockAction"
+offset = 0x7c
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x9c]
+name = "m_AtkDamageDrainRate"
+offset = 0x9c
+type = "int"
+size = 0x4
+
+[members.0xa0]
+name = "m_AtkKezuriDrainRate"
+offset = 0xa0
+type = "int"
+size = 0x4
+
+[members.0xa4]
+name = "m_AtkDamageEffectPos"
+offset = 0xa4
+type = "enum POS_TYPE"
+size = 0x4
+
+[members.0xa8]
+name = "m_AtkDamageEffectName"
+offset = 0xa8
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0xc8]
+name = "m_AtkGuardEffectPos"
+offset = 0xc8
+type = "enum POS_TYPE"
+size = 0x4
+
+[members.0xcc]
+name = "m_AtkGuardEffectName"
+offset = 0xcc
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0xec]
+name = "m_AtkBarrierDamageRate"
+offset = 0xec
+type = "int"
+size = 0x4
+
+[members.0xf0]
+name = "m_AtkMagnet"
+offset = 0xf0
+type = "int"
+size = 0x4
+
+[members.0xf4]
+name = "m_AtkEffectLimit"
+offset = 0xf4
+type = "int"
+size = 0x4
+
+[members.0xf8]
+name = "m_AtkDirection"
+offset = 0xf8
+type = "int"
+size = 0x4
+
+[members.0xfc]
+name = "m_AtkEffectScale"
+offset = 0xfc
+type = "int"
+size = 0x4
+
+[members.0x100]
+name = "m_AtkAimLevel"
+offset = 0x100
+type = "uchar"
+size = 0x1
+
+[members.0x101]
+name = "m_AtkAimHead"
+offset = 0x101
+type = "uchar"
+size = 0x1
+
+[members.0x102]
+name = "m_AtkAimBody"
+offset = 0x102
+type = "uchar"
+size = 0x1
+
+[members.0x103]
+name = "m_AtkAimLeg"
+offset = 0x103
+type = "uchar"
+size = 0x1
+
+[members.0x104]
+name = "m_AtkAimShot"
+offset = 0x104
+type = "uchar"
+size = 0x1
+
+[members.0x105]
+name = "m_AtkAimThrow"
+offset = 0x105
+type = "uchar"
+size = 0x1
+
+[members.0x108]
+name = "m_AtkNoHitNotCombo"
+offset = 0x108
+type = "int"
+size = 0x4
+
+[members.0x10c]
+name = "m_AtkNoHitCrouch"
+offset = 0x10c
+type = "int"
+size = 0x4
+
+[members.0x110]
+name = "m_AtkIgnoreOutPower"
+offset = 0x110
+type = "int"
+size = 0x4
+
+[members.0x114]
+name = "m_AtkIgnoreCaution"
+offset = 0x114
+type = "int"
+size = 0x4
+
+[members.0x118]
+name = "m_AtkKillType"
+offset = 0x118
+type = "enum KILL_TYPE"
+size = 0x4
+
+[members.0x11c]
+name = "m_AtkSleepStunLandHitOnly"
+offset = 0x11c
+type = "int"
+size = 0x4
+
+[members.0x120]
+name = "m_AtkPlayerHitOnly"
+offset = 0x120
+type = "int"
+size = 0x4
+
+[members.0x124]
+name = "m_AtkPushCollisionOff"
+offset = 0x124
+type = "int"
+size = 0x4
+
+[members.0x128]
+name = "m_AtkNextHitActionName"
+offset = 0x128
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x148]
+name = "m_AtkNoHitNotKillCombo"
+offset = 0x148
+type = "int"
+size = 0x4
+
+[members.0x14c]
+name = "m_AtkFinishBG"
+offset = 0x14c
+type = "enum BG_TYPE"
+size = 0x4
+
+[members.0x150]
+name = "m_AtkHitPositionType"
+offset = 0x150
+type = "enum HIT_POSITION_TYPE"
+size = 0x4
+
+[members.0x154]
+name = "m_AtkHitPositionX"
+offset = 0x154
+type = "int"
+size = 0x4
+
+[members.0x158]
+name = "m_AtkHitPositionY"
+offset = 0x158
+type = "int"
+size = 0x4
+
+[members.0x15c]
+name = "m_AtkBoundKeepGravity"
+offset = 0x15c
+type = "int"
+size = 0x4
+
+[members.0x160]
+name = "m_AtkExHitParamAddVal"
+offset = 0x160
+type = "int"
+size = 0x4
+
+[members.0x164]
+name = "m_AtkExHitParamObjType"
+offset = 0x164
+type = "enum CO_TYPE"
+size = 0x4
+
+[members.0x168]
+name = "m_AtkExHitParamFlag"
+offset = 0x168
+type = "uint"
+size = 0x4
+
+[members.0x16c]
+name = "m_AtkExHitParamOperand"
+offset = 0x16c
+type = "struct COperand"
+size = 0x8
+
+[members.0x174]
+name = "m_AtkExHitParamMax"
+offset = 0x174
+type = "int"
+size = 0x4
+
+[members.0x178]
+name = "m_AtkExHitParamMin"
+offset = 0x178
+type = "int"
+size = 0x4
+
+[members.0x17c]
+name = "m_AtkPoisonTime"
+offset = 0x17c
+type = "int"
+size = 0x4
+
+[members.0x180]
+name = "m_AtkPoisonDamage"
+offset = 0x180
+type = "int"
+size = 0x4
+
+[members.0x184]
+name = "m_AtkLockRejectType"
+offset = 0x184
+type = "int"
+size = 0x4
+
+[members.0x188]
+name = "m_AtkGuardCrushType"
+offset = 0x188
+type = "int"
+size = 0x4
+
+[members.0x18c]
+name = "m_AtkGuardCrushTime"
+offset = 0x18c
+type = "int"
+size = 0x4
+
+[members.0x190]
+name = "m_AtkSameAttackHosei"
+offset = 0x190
+type = "int"
+size = 0x4
+
+[members.0x194]
+name = "m_AtkBonusHosei"
+offset = 0x194
+type = "int"
+size = 0x4
+
+[members.0x198]
+name = "m_AtkFixDamageRate"
+offset = 0x198
+type = "int"
+size = 0x4
+
+[members.0x19c]
+name = "m_AtkCurseOnHit"
+offset = 0x19c
+type = "int"
+size = 0x4
+
+[members.0x1a0]
+name = "m_AtkCurseOnGuard"
+offset = 0x1a0
+type = "int"
+size = 0x4
+
+[members.0x1a4]
+name = "m_AtkDrainOnHit"
+offset = 0x1a4
+type = "int"
+size = 0x4
+
+[members.0x1a8]
+name = "m_AtkDrainOnGuard"
+offset = 0x1a8
+type = "int"
+size = 0x4
+
+[members.0x1ac]
+name = "m_AtkDisable2UkemiAir"
+offset = 0x1ac
+type = "int"
+size = 0x4
+
+[members.0x1b0]
+name = "m_AtkEnemyAction"
+offset = 0x1b0
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x1d0]
+name = "m_AtkEnemyTensionRate"
+offset = 0x1d0
+type = "int"
+size = 0x4

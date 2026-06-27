@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.586560Z
+name = "AA_VertexBufferData"
+size = 0x20
+
+[members.0x0]
+name = "m_pBuffers"
+offset = 0x0
+type = "class AA_CVertexBuffer**"
+size = 0x4
+
+[members.0x4]
+name = "m_BufferCapacity"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "m_BufferCount"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "m_pAllocations"
+offset = 0xc
+type = "struct AA_VertexBufferAllocation*"
+size = 0x4
+
+[members.0x10]
+name = "m_AllocationCapacity"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "m_NextAllocationIndex"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "m_SavedAllocationIndex"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "m_IterationIndex"
+offset = 0x1c
+type = "uint"
+size = 0x4

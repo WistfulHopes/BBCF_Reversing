@@ -1,0 +1,195 @@
+last_change = 2026-06-27T20:49:16.752131Z
+name = "_OUTLINETEXTMETRICW"
+size = 0xd8
+
+[members.0x0]
+name = "otmSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "otmTextMetrics"
+offset = 0x4
+type = "TEXTMETRICW"
+size = 0x3c
+
+[members.0x40]
+name = "otmFiller"
+offset = 0x40
+type = "BYTE"
+size = 0x1
+
+[members.0x41]
+name = "otmPanoseNumber"
+offset = 0x41
+type = "PANOSE"
+size = 0xa
+
+[members.0x4c]
+name = "otmfsSelection"
+offset = 0x4c
+type = "UINT"
+size = 0x4
+
+[members.0x50]
+name = "otmfsType"
+offset = 0x50
+type = "UINT"
+size = 0x4
+
+[members.0x54]
+name = "otmsCharSlopeRise"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "otmsCharSlopeRun"
+offset = 0x58
+type = "int"
+size = 0x4
+
+[members.0x5c]
+name = "otmItalicAngle"
+offset = 0x5c
+type = "int"
+size = 0x4
+
+[members.0x60]
+name = "otmEMSquare"
+offset = 0x60
+type = "UINT"
+size = 0x4
+
+[members.0x64]
+name = "otmAscent"
+offset = 0x64
+type = "int"
+size = 0x4
+
+[members.0x68]
+name = "otmDescent"
+offset = 0x68
+type = "int"
+size = 0x4
+
+[members.0x6c]
+name = "otmLineGap"
+offset = 0x6c
+type = "UINT"
+size = 0x4
+
+[members.0x70]
+name = "otmsCapEmHeight"
+offset = 0x70
+type = "UINT"
+size = 0x4
+
+[members.0x74]
+name = "otmsXHeight"
+offset = 0x74
+type = "UINT"
+size = 0x4
+
+[members.0x78]
+name = "otmrcFontBox"
+offset = 0x78
+type = "RECT"
+size = 0x10
+
+[members.0x88]
+name = "otmMacAscent"
+offset = 0x88
+type = "int"
+size = 0x4
+
+[members.0x8c]
+name = "otmMacDescent"
+offset = 0x8c
+type = "int"
+size = 0x4
+
+[members.0x90]
+name = "otmMacLineGap"
+offset = 0x90
+type = "UINT"
+size = 0x4
+
+[members.0x94]
+name = "otmusMinimumPPEM"
+offset = 0x94
+type = "UINT"
+size = 0x4
+
+[members.0x98]
+name = "otmptSubscriptSize"
+offset = 0x98
+type = "POINT"
+size = 0x8
+
+[members.0xa0]
+name = "otmptSubscriptOffset"
+offset = 0xa0
+type = "POINT"
+size = 0x8
+
+[members.0xa8]
+name = "otmptSuperscriptSize"
+offset = 0xa8
+type = "POINT"
+size = 0x8
+
+[members.0xb0]
+name = "otmptSuperscriptOffset"
+offset = 0xb0
+type = "POINT"
+size = 0x8
+
+[members.0xb8]
+name = "otmsStrikeoutSize"
+offset = 0xb8
+type = "UINT"
+size = 0x4
+
+[members.0xbc]
+name = "otmsStrikeoutPosition"
+offset = 0xbc
+type = "int"
+size = 0x4
+
+[members.0xc0]
+name = "otmsUnderscoreSize"
+offset = 0xc0
+type = "int"
+size = 0x4
+
+[members.0xc4]
+name = "otmsUnderscorePosition"
+offset = 0xc4
+type = "int"
+size = 0x4
+
+[members.0xc8]
+name = "otmpFamilyName"
+offset = 0xc8
+type = "PSTR"
+size = 0x4
+
+[members.0xcc]
+name = "otmpFaceName"
+offset = 0xcc
+type = "PSTR"
+size = 0x4
+
+[members.0xd0]
+name = "otmpStyleName"
+offset = 0xd0
+type = "PSTR"
+size = 0x4
+
+[members.0xd4]
+name = "otmpFullName"
+offset = 0xd4
+type = "PSTR"
+size = 0x4

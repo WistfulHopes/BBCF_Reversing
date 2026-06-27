@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.757180Z
+name = "_POOLED_USAGE_AND_LIMITS"
+size = 0x24
+
+[members.0x0]
+name = "PeakPagedPoolUsage"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "PagedPoolUsage"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4
+
+[members.0x8]
+name = "PagedPoolLimit"
+offset = 0x8
+type = "SIZE_T"
+size = 0x4
+
+[members.0xc]
+name = "PeakNonPagedPoolUsage"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "NonPagedPoolUsage"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4
+
+[members.0x14]
+name = "NonPagedPoolLimit"
+offset = 0x14
+type = "SIZE_T"
+size = 0x4
+
+[members.0x18]
+name = "PeakPagefileUsage"
+offset = 0x18
+type = "SIZE_T"
+size = 0x4
+
+[members.0x1c]
+name = "PagefileUsage"
+offset = 0x1c
+type = "SIZE_T"
+size = 0x4
+
+[members.0x20]
+name = "PagefileLimit"
+offset = 0x20
+type = "SIZE_T"
+size = 0x4

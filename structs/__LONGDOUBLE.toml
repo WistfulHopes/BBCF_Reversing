@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.840023Z
+name = "__LONGDOUBLE"
+size = 0x8
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "double"
+size = 0x8

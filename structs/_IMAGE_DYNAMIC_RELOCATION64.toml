@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.712572Z
+name = "_IMAGE_DYNAMIC_RELOCATION64"
+size = 0x10
+
+[members.0x0]
+name = "Symbol"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "BaseRelocSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4

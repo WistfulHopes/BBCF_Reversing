@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.913749Z
+name = "tagSOLE_AUTHENTICATION_LIST"
+size = 0x8
+
+[members.0x0]
+name = "cAuthInfo"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "aAuthInfo"
+offset = 0x4
+type = "SOLE_AUTHENTICATION_INFO*"
+size = 0x4

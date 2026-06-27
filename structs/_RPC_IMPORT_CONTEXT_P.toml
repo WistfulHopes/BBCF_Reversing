@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.782396Z
+name = "_RPC_IMPORT_CONTEXT_P"
+size = 0xc
+
+[members.0x0]
+name = "LookupContext"
+offset = 0x0
+type = "RPC_NS_HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "ProposedHandle"
+offset = 0x4
+type = "RPC_BINDING_HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "Bindings"
+offset = 0x8
+type = "RPC_BINDING_VECTOR*"
+size = 0x4

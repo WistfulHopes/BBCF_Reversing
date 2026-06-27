@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.854912Z
+name = "tagBITMAPCOREHEADER"
+size = 0xc
+
+[members.0x0]
+name = "bcSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "bcWidth"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "bcHeight"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "bcPlanes"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "bcBitCount"
+offset = 0xa
+type = "WORD"
+size = 0x2

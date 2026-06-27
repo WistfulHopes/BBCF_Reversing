@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.768028Z
+name = "_PROCESS_INFORMATION"
+size = 0x10
+
+[members.0x0]
+name = "hProcess"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "hThread"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "dwProcessId"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwThreadId"
+offset = 0xc
+type = "DWORD"
+size = 0x4

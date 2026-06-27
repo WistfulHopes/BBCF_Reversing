@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.745232Z
+name = "_NV_MEMORY_RANGE"
+size = 0x8
+
+[members.0x0]
+name = "BaseAddress"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "Length"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4

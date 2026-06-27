@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.769726Z
+name = "_PROPSHEETHEADERA_V2"
+size = 0x34
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hwndParent"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "hInstance"
+offset = 0xc
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x4
+
+[members.0x14]
+name = "pszCaption"
+offset = 0x14
+type = "LPCSTR"
+size = 0x4
+
+[members.0x18]
+name = "nPages"
+offset = 0x18
+type = "UINT"
+size = 0x4
+
+[members.0x1c]
+name = "_1"
+offset = 0x1c
+type = "union"
+size = 0x4
+
+[members.0x20]
+name = "_2"
+offset = 0x20
+type = "union"
+size = 0x4
+
+[members.0x24]
+name = "pfnCallback"
+offset = 0x24
+type = "PFNPROPSHEETCALLBACK"
+size = 0x4
+
+[members.0x28]
+name = "_3"
+offset = 0x28
+type = "union"
+size = 0x4
+
+[members.0x2c]
+name = "hplWatermark"
+offset = 0x2c
+type = "HPALETTE"
+size = 0x4
+
+[members.0x30]
+name = "_4"
+offset = 0x30
+type = "union"
+size = 0x4

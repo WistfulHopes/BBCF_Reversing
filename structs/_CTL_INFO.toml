@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.673489Z
+name = "_CTL_INFO"
+size = 0x48
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SubjectUsage"
+offset = 0x4
+type = "CTL_USAGE"
+size = 0x8
+
+[members.0xc]
+name = "ListIdentifier"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x14]
+name = "SequenceNumber"
+offset = 0x14
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8
+
+[members.0x1c]
+name = "ThisUpdate"
+offset = 0x1c
+type = "FILETIME"
+size = 0x8
+
+[members.0x24]
+name = "NextUpdate"
+offset = 0x24
+type = "FILETIME"
+size = 0x8
+
+[members.0x2c]
+name = "SubjectAlgorithm"
+offset = 0x2c
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x38]
+name = "cCTLEntry"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "rgCTLEntry"
+offset = 0x3c
+type = "PCTL_ENTRY"
+size = 0x4
+
+[members.0x40]
+name = "cExtension"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "rgExtension"
+offset = 0x44
+type = "PCERT_EXTENSION"
+size = 0x4

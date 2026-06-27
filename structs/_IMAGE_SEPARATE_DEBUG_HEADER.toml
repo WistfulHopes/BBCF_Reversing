@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.720511Z
+name = "_IMAGE_SEPARATE_DEBUG_HEADER"
+size = 0x30
+
+[members.0x0]
+name = "Signature"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Machine"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Characteristics"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "TimeDateStamp"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "CheckSum"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ImageBase"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "SizeOfImage"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "NumberOfSections"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "ExportedNamesSize"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "DebugDirectorySize"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "SectionAlignment"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "Reserved"
+offset = 0x28
+type = "DWORD[0x2]"
+size = 0x8

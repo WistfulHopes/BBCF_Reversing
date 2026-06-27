@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.651717Z
+name = "_CMC_PEND_INFO"
+size = 0x10
+
+[members.0x0]
+name = "PendToken"
+offset = 0x0
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "PendTime"
+offset = 0x8
+type = "FILETIME"
+size = 0x8

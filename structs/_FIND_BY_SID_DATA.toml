@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.702661Z
+name = "_FIND_BY_SID_DATA"
+size = 0x10
+
+[members.0x0]
+name = "Restart"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Sid"
+offset = 0x4
+type = "SID"
+size = 0xc

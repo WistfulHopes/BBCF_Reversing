@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.675817Z
+name = "_DEVICEDUMP_STORAGESTACK_PUBLIC_STATE_RECORD"
+size = 0x40
+
+[members.0x0]
+name = "Cdb"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x10]
+name = "Command"
+offset = 0x10
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x20]
+name = "StartTime"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "EndTime"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "OperationStatus"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "OperationError"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "StackSpecific"
+offset = 0x38
+type = "union"
+size = 0x4

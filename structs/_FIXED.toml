@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.703035Z
+name = "_FIXED"
+size = 0x4
+
+[members.0x0]
+name = "fract"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "value"
+offset = 0x2
+type = "short"
+size = 0x2

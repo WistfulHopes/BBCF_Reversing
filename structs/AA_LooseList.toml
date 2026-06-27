@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.584011Z
+name = "AA_LooseList"
+size = 0xc
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_LooseList::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_Top"
+offset = 0x4
+type = "struct AA_ListNode*"
+size = 0x4
+
+[members.0x8]
+name = "m_Tail"
+offset = 0x8
+type = "struct AA_ListNode*"
+size = 0x4

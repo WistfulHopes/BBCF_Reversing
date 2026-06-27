@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.864255Z
+name = "tagEMRANGLEARC"
+size = 0x1c
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ptlCenter"
+offset = 0x8
+type = "POINTL"
+size = 0x8
+
+[members.0x10]
+name = "nRadius"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "eStartAngle"
+offset = 0x14
+type = "FLOAT"
+size = 0x4
+
+[members.0x18]
+name = "eSweepAngle"
+offset = 0x18
+type = "FLOAT"
+size = 0x4

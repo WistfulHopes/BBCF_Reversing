@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.642736Z
+name = "_CERT_LOGOTYPE_AUDIO_INFO"
+size = 0x14
+
+[members.0x0]
+name = "dwFileSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwPlayTime"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwChannels"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwSampleRate"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "pwszLanguage"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4

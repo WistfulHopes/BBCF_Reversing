@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.693412Z
+name = "_EVENTSFORLOGFILE"
+size = 0x20c
+
+[members.0x0]
+name = "ulSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "szLogicalLogFile"
+offset = 0x4
+type = "WCHAR[0x100]"
+size = 0x200
+
+[members.0x204]
+name = "ulNumRecords"
+offset = 0x204
+type = "DWORD"
+size = 0x4
+
+[members.0x208]
+name = "pEventLogRecords"
+offset = 0x208
+type = "EVENTLOGRECORD*"
+size = 0x4

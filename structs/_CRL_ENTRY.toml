@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.661787Z
+name = "_CRL_ENTRY"
+size = 0x18
+
+[members.0x0]
+name = "SerialNumber"
+offset = 0x0
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "RevocationDate"
+offset = 0x8
+type = "FILETIME"
+size = 0x8
+
+[members.0x10]
+name = "cExtension"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgExtension"
+offset = 0x14
+type = "PCERT_EXTENSION"
+size = 0x4

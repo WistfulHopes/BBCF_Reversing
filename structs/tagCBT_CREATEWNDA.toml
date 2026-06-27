@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.857477Z
+name = "tagCBT_CREATEWNDA"
+size = 0x8
+
+[members.0x0]
+name = "lpcs"
+offset = 0x0
+type = "struct tagCREATESTRUCTA*"
+size = 0x4
+
+[members.0x4]
+name = "hwndInsertAfter"
+offset = 0x4
+type = "HWND"
+size = 0x4

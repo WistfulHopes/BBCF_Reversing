@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.824196Z
+name = "_TEB_ACTIVE_FRAME_CONTEXT"
+size = 0x8
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "FrameName"
+offset = 0x4
+type = "PCSTR"
+size = 0x4

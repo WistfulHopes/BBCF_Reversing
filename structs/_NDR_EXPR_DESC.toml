@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.740203Z
+name = "_NDR_EXPR_DESC"
+size = 0x8
+
+[members.0x0]
+name = "pOffset"
+offset = 0x0
+type = "ushort const*"
+size = 0x4
+
+[members.0x4]
+name = "pFormatExpr"
+offset = 0x4
+type = "PFORMAT_STRING"
+size = 0x4

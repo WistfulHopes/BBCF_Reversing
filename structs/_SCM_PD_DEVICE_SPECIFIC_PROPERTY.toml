@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.789945Z
+name = "_SCM_PD_DEVICE_SPECIFIC_PROPERTY"
+size = 0x108
+
+[members.0x0]
+name = "Name"
+offset = 0x0
+type = "WCHAR[0x80]"
+size = 0x100
+
+[members.0x100]
+name = "Value"
+offset = 0x100
+type = "LONGLONG"
+size = 0x8

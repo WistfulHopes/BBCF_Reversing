@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.649343Z
+name = "_CHANGER_EXCHANGE_MEDIUM"
+size = 0x24
+
+[members.0x0]
+name = "Transport"
+offset = 0x0
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x8]
+name = "Source"
+offset = 0x8
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x10]
+name = "Destination1"
+offset = 0x10
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x18]
+name = "Destination2"
+offset = 0x18
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x20]
+name = "Flip1"
+offset = 0x20
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x21]
+name = "Flip2"
+offset = 0x21
+type = "BOOLEAN"
+size = 0x1

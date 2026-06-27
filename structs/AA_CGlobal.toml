@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.579555Z
+name = "AA_CGlobal"
+size = 0x68
+
+[members.0x0]
+name = "m_SystemTime"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "m_GameMode"
+offset = 0x4
+type = "enum GAME_MODE"
+size = 0x4
+
+[members.0x8]
+name = "m_SceneID"
+offset = 0x8
+type = "enum SCENE_ID"
+size = 0x4
+
+[members.0xc]
+name = "m_bIsBattle"
+offset = 0xc
+type = "bool"
+size = 0x1
+
+[members.0x50]
+name = "m_Time"
+offset = 0x50
+type = "time_t"
+size = 0x8

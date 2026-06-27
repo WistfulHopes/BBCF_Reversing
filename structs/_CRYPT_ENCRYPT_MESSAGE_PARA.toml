@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.665641Z
+name = "_CRYPT_ENCRYPT_MESSAGE_PARA"
+size = 0x24
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hCryptProv"
+offset = 0x8
+type = "HCRYPTPROV_LEGACY"
+size = 0x4
+
+[members.0xc]
+name = "ContentEncryptionAlgorithm"
+offset = 0xc
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x18]
+name = "pvEncryptionAuxInfo"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "dwFlags"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwInnerContentType"
+offset = 0x20
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.668534Z
+name = "_CRYPT_PROVIDERS"
+size = 0x8
+
+[members.0x0]
+name = "cProviders"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "rgpszProviders"
+offset = 0x4
+type = "PWSTR*"
+size = 0x4

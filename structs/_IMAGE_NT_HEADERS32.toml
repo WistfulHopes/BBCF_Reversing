@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.717173Z
+name = "_IMAGE_NT_HEADERS32"
+size = 0xf8
+
+[members.0x0]
+name = "magic"
+offset = 0x0
+type = "char[0x4]"
+size = 0x4
+
+[members.0x4]
+name = "FileHeader"
+offset = 0x4
+type = "IMAGE_FILE_HEADER"
+size = 0x14
+
+[members.0x18]
+name = "OptionalHeader"
+offset = 0x18
+type = "IMAGE_OPTIONAL_HEADER32"
+size = 0xe0

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.769271Z
+name = "_PROCESS_WS_WATCH_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "FaultingPc"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "FaultingVa"
+offset = 0x4
+type = "PVOID"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.731730Z
+name = "_MAT2"
+size = 0x10
+
+[members.0x0]
+name = "eM11"
+offset = 0x0
+type = "FIXED"
+size = 0x4
+
+[members.0x4]
+name = "eM12"
+offset = 0x4
+type = "FIXED"
+size = 0x4
+
+[members.0x8]
+name = "eM21"
+offset = 0x8
+type = "FIXED"
+size = 0x4
+
+[members.0xc]
+name = "eM22"
+offset = 0xc
+type = "FIXED"
+size = 0x4

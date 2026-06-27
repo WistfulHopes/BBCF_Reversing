@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.794131Z
+name = "_SD_ENUM_SDS_OUTPUT"
+size = 0x30
+
+[members.0x0]
+name = "NextOffset"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "NumSDEntriesReturned"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "NumSDBytesReturned"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "SDEntry"
+offset = 0x18
+type = "SD_ENUM_SDS_ENTRY[0x1]"
+size = 0x18

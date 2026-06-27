@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.588466Z
+name = "BATTLE_CReferee"
+size = 0x210
+
+[members.0x0]
+name = "m_RefereeFlag"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_BattleStatus"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x68]
+name = "m_SpeedStarCtrl"
+offset = 0x68
+type = "struct BATTLE_CSpeedStarModeTimeCtrl"
+size = 0x154

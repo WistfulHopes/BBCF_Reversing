@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.731629Z
+name = "_MARK_HANDLE_INFO"
+size = 0xc
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4
+
+[members.0x4]
+name = "VolumeHandle"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "HandleInfo"
+offset = 0x8
+type = "DWORD"
+size = 0x4

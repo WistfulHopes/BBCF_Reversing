@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.722829Z
+name = "_JOBOBJECT_ASSOCIATE_COMPLETION_PORT"
+size = 0x8
+
+[members.0x0]
+name = "CompletionKey"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "CompletionPort"
+offset = 0x4
+type = "HANDLE"
+size = 0x4

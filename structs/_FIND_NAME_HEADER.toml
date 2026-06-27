@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.702968Z
+name = "_FIND_NAME_HEADER"
+size = 0x4
+
+[members.0x0]
+name = "node_count"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "reserved"
+offset = 0x2
+type = "UCHAR"
+size = 0x1
+
+[members.0x3]
+name = "unique_group"
+offset = 0x3
+type = "UCHAR"
+size = 0x1

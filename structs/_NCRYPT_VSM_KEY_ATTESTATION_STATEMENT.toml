@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.739821Z
+name = "_NCRYPT_VSM_KEY_ATTESTATION_STATEMENT"
+size = 0x14
+
+[members.0x0]
+name = "Magic"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "cbSignature"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "cbReport"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "cbAttributes"
+offset = 0x10
+type = "ULONG"
+size = 0x4

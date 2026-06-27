@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.689757Z
+name = "_DSSSEED"
+size = 0x18
+
+[members.0x0]
+name = "counter"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "seed"
+offset = 0x4
+type = "BYTE[0x14]"
+size = 0x14

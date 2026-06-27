@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.886757Z
+name = "tagMCI_OVLY_LOAD_PARMSW"
+size = 0x18
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "lpfilename"
+offset = 0x4
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x8]
+name = "rc"
+offset = 0x8
+type = "RECT"
+size = 0x10

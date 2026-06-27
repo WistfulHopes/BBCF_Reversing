@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.839979Z
+name = "__LDOUBLE"
+size = 0xa
+
+[members.0x0]
+name = "ld"
+offset = 0x0
+type = "uchar[0xa]"
+size = 0xa

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.661353Z
+name = "_CREATE_USN_JOURNAL_DATA"
+size = 0x10
+
+[members.0x0]
+name = "MaximumSize"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "AllocationDelta"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

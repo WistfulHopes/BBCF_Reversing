@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.833642Z
+name = "_UUID_VECTOR"
+size = 0x8
+
+[members.0x0]
+name = "Count"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Uuid"
+offset = 0x4
+type = "UUID*[0x1]"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.625666Z
+name = "Resource_Directory_Table"
+size = 0x10
+
+[members.0x0]
+name = "characteristics"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "timeDateStamp"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "majorVersion"
+offset = 0x8
+type = "ushort"
+size = 0x2
+
+[members.0xa]
+name = "minorVersion"
+offset = 0xa
+type = "ushort"
+size = 0x2
+
+[members.0xc]
+name = "numNameEntries"
+offset = 0xc
+type = "ushort"
+size = 0x2
+
+[members.0xe]
+name = "numIdEntries"
+offset = 0xe
+type = "ushort"
+size = 0x2

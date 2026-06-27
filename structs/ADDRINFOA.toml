@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.586711Z
+name = "ADDRINFOA"
+size = 0x20
+
+[members.0x0]
+name = "ai_flags"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "ai_family"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "ai_socktype"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "ai_protocol"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "ai_addrlen"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "ai_canonname"
+offset = 0x14
+type = "PSTR"
+size = 0x4
+
+[members.0x18]
+name = "ai_addr"
+offset = 0x18
+type = "SOCKADDR*"
+size = 0x4
+
+[members.0x1c]
+name = "ai_next"
+offset = 0x1c
+type = "struct ADDRINFOA*"
+size = 0x4

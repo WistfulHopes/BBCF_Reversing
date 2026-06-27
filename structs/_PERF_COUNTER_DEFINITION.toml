@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.755292Z
+name = "_PERF_COUNTER_DEFINITION"
+size = 0x28
+
+[members.0x0]
+name = "ByteLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "CounterNameTitleIndex"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "CounterNameTitle"
+offset = 0x8
+type = "LPWSTR"
+size = 0x4
+
+[members.0xc]
+name = "CounterHelpTitleIndex"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "CounterHelpTitle"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "DefaultScale"
+offset = 0x14
+type = "LONG"
+size = 0x4
+
+[members.0x18]
+name = "DetailLevel"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "CounterType"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "CounterSize"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "CounterOffset"
+offset = 0x24
+type = "DWORD"
+size = 0x4

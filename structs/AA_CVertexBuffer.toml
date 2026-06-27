@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.583223Z
+name = "AA_CVertexBuffer"
+size = 0x14
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_CVertexBuffer::VTable*"
+size = 0x4

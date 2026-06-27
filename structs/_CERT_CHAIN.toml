@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.639885Z
+name = "_CERT_CHAIN"
+size = 0x24
+
+[members.0x0]
+name = "cCerts"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "certs"
+offset = 0x4
+type = "PCERT_BLOB"
+size = 0x4
+
+[members.0x8]
+name = "keyLocatorInfo"
+offset = 0x8
+type = "CRYPT_KEY_PROV_INFO"
+size = 0x1c

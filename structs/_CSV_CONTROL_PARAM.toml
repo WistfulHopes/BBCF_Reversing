@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.671589Z
+name = "_CSV_CONTROL_PARAM"
+size = 0x10
+
+[members.0x0]
+name = "Operation"
+offset = 0x0
+type = "CSV_CONTROL_OP"
+size = 0x4
+
+[members.0x8]
+name = "Unused"
+offset = 0x8
+type = "LONGLONG"
+size = 0x8

@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.742224Z
+name = "_NTFS_EXTENDED_VOLUME_DATA"
+size = 0x20
+
+[members.0x0]
+name = "ByteCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MajorVersion"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "MinorVersion"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "BytesPerPhysicalSector"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "LfsMajorVersion"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "LfsMinorVersion"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "MaxDeviceTrimExtentCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "MaxDeviceTrimByteCount"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "MaxVolumeTrimExtentCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "MaxVolumeTrimByteCount"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

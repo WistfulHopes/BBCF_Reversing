@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.793845Z
+name = "_SD_CHANGE_MACHINE_SID_OUTPUT"
+size = 0x38
+
+[members.0x0]
+name = "NumSDChangedSuccess"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "NumSDChangedFail"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "NumSDUnused"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "NumSDTotal"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "NumMftSDChangedSuccess"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "NumMftSDChangedFail"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "NumMftSDTotal"
+offset = 0x30
+type = "DWORDLONG"
+size = 0x8

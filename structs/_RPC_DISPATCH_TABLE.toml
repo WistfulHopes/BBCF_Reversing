@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.780868Z
+name = "_RPC_DISPATCH_TABLE"
+size = 0xc
+
+[members.0x0]
+name = "DispatchTableCount"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "DispatchTable"
+offset = 0x4
+type = "RPC_DISPATCH_FUNCTION*"
+size = 0x4
+
+[members.0x8]
+name = "Reserved"
+offset = 0x8
+type = "LONG_PTR"
+size = 0x4

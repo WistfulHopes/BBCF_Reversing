@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.735413Z
+name = "_MIDL_STUB_DESC"
+size = 0x50
+
+[members.0x0]
+name = "RpcInterfaceInformation"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "pfnAllocate"
+offset = 0x4
+type = "void* (*)(uint cb)"
+size = 0x4
+
+[members.0x8]
+name = "pfnFree"
+offset = 0x8
+type = "void (*)(void*)"
+size = 0x4
+
+[members.0xc]
+name = "IMPLICIT_HANDLE_INFO"
+offset = 0xc
+type = "union"
+size = 0x4
+
+[members.0x10]
+name = "apfnNdrRundownRoutines"
+offset = 0x10
+type = "NDR_RUNDOWN*"
+size = 0x4
+
+[members.0x14]
+name = "aGenericBindingRoutinePairs"
+offset = 0x14
+type = "GENERIC_BINDING_ROUTINE_PAIR*"
+size = 0x4
+
+[members.0x18]
+name = "apfnExprEval"
+offset = 0x18
+type = "EXPR_EVAL*"
+size = 0x4
+
+[members.0x1c]
+name = "aXmitQuintuple"
+offset = 0x1c
+type = "XMIT_ROUTINE_QUINTUPLE*"
+size = 0x4
+
+[members.0x20]
+name = "pFormatTypes"
+offset = 0x20
+type = "uchar const*"
+size = 0x4
+
+[members.0x24]
+name = "fCheckBounds"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "Version"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "pMallocFreeStruct"
+offset = 0x2c
+type = "MALLOC_FREE_STRUCT*"
+size = 0x4
+
+[members.0x30]
+name = "MIDLVersion"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "CommFaultOffsets"
+offset = 0x34
+type = "COMM_FAULT_OFFSETS*"
+size = 0x4
+
+[members.0x38]
+name = "aUserMarshalQuadruple"
+offset = 0x38
+type = "USER_MARSHAL_ROUTINE_QUADRUPLE*"
+size = 0x4
+
+[members.0x3c]
+name = "NotifyRoutineTable"
+offset = 0x3c
+type = "NDR_NOTIFY_ROUTINE*"
+size = 0x4
+
+[members.0x40]
+name = "mFlags"
+offset = 0x40
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x44]
+name = "CsRoutineTables"
+offset = 0x44
+type = "NDR_CS_ROUTINES*"
+size = 0x4
+
+[members.0x48]
+name = "ProxyServerInfo"
+offset = 0x48
+type = "void*"
+size = 0x4
+
+[members.0x4c]
+name = "pExprInfo"
+offset = 0x4c
+type = "NDR_EXPR_DESC*"
+size = 0x4

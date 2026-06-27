@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.591627Z
+name = "CBGCtrl"
+size = 0x414
+
+[members.0x29c]
+name = "m_Collision"
+offset = 0x29c
+type = "struct AA_CCollision_JON"
+size = 0xc8

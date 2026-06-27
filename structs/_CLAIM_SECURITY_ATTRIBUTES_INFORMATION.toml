@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.650083Z
+name = "_CLAIM_SECURITY_ATTRIBUTES_INFORMATION"
+size = 0xc
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "AttributeCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Attribute"
+offset = 0x8
+type = "union"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.800220Z
+name = "_SHARED_VIRTUAL_DISK_SUPPORT"
+size = 0x8
+
+[members.0x0]
+name = "SharedVirtualDiskSupport"
+offset = 0x0
+type = "SharedVirtualDiskSupportType"
+size = 0x4
+
+[members.0x4]
+name = "HandleState"
+offset = 0x4
+type = "SharedVirtualDiskHandleState"
+size = 0x4

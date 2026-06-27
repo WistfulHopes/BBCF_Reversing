@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.674995Z
+name = "_DELETE_USN_JOURNAL_DATA"
+size = 0x10
+
+[members.0x0]
+name = "UsnJournalID"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "DeleteFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4

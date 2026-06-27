@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.740030Z
+name = "_NDR_CS_ROUTINES"
+size = 0x8
+
+[members.0x0]
+name = "pSizeConvertRoutines"
+offset = 0x0
+type = "NDR_CS_SIZE_CONVERT_ROUTINES*"
+size = 0x4
+
+[members.0x4]
+name = "pTagGettingRoutines"
+offset = 0x4
+type = "CS_TAG_GETTING_ROUTINE*"
+size = 0x4

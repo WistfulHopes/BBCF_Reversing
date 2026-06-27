@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.599090Z
+name = "D3DLOCKED_BOX"
+size = 0xc
+
+[members.0x0]
+name = "RowPitch"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "SlicePitch"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "pBits"
+offset = 0x8
+type = "void*"
+size = 0x4

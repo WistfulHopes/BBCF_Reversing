@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.761636Z
+name = "_PRINTER_ENUM_VALUESA"
+size = 0x14
+
+[members.0x0]
+name = "pValueName"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "cbValueName"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pData"
+offset = 0xc
+type = "LPBYTE"
+size = 0x4
+
+[members.0x10]
+name = "cbData"
+offset = 0x10
+type = "DWORD"
+size = 0x4

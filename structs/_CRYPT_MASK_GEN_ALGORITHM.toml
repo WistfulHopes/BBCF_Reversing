@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.667028Z
+name = "_CRYPT_MASK_GEN_ALGORITHM"
+size = 0x10
+
+[members.0x0]
+name = "pszObjId"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "HashAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc

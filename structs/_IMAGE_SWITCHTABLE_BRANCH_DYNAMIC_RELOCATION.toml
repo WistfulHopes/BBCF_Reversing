@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.720577Z
+name = "_IMAGE_SWITCHTABLE_BRANCH_DYNAMIC_RELOCATION"
+size = 0x2
+
+[members.0x0]
+name = "RegisterNumber"
+offset = 0x0
+type = "WORD"
+size = 0x2

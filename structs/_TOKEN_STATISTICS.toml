@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.826487Z
+name = "_TOKEN_STATISTICS"
+size = 0x38
+
+[members.0x0]
+name = "TokenId"
+offset = 0x0
+type = "LUID"
+size = 0x8
+
+[members.0x8]
+name = "AuthenticationId"
+offset = 0x8
+type = "LUID"
+size = 0x8
+
+[members.0x10]
+name = "ExpirationTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "TokenType"
+offset = 0x18
+type = "TOKEN_TYPE"
+size = 0x4
+
+[members.0x1c]
+name = "ImpersonationLevel"
+offset = 0x1c
+type = "SECURITY_IMPERSONATION_LEVEL"
+size = 0x4
+
+[members.0x20]
+name = "DynamicCharged"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "DynamicAvailable"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "GroupCount"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "PrivilegeCount"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "ModifiedId"
+offset = 0x30
+type = "LUID"
+size = 0x8

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.672011Z
+name = "_CSV_QUERY_MDS_PATH"
+size = 0x10
+
+[members.0x0]
+name = "MdsNodeId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DsNodeId"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PathLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Path"
+offset = 0xc
+type = "WCHAR[0x1]"
+size = 0x2

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.745298Z
+name = "_OBJECTID"
+size = 0x14
+
+[members.0x0]
+name = "Lineage"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "Uniquifier"
+offset = 0x10
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,309 @@
+last_change = 2026-06-27T20:49:16.722096Z
+name = "_IMAGE_VXD_HEADER"
+size = 0xc4
+
+[members.0x0]
+name = "e32_magic"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "e32_border"
+offset = 0x2
+type = "BYTE"
+size = 0x1
+
+[members.0x3]
+name = "e32_worder"
+offset = 0x3
+type = "BYTE"
+size = 0x1
+
+[members.0x4]
+name = "e32_level"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "e32_cpu"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "e32_os"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "e32_ver"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "e32_mflags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "e32_mpages"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "e32_startobj"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "e32_eip"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "e32_stackobj"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "e32_esp"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "e32_pagesize"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "e32_lastpagesize"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "e32_fixupsize"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "e32_fixupsum"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "e32_ldrsize"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "e32_ldrsum"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "e32_objtab"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "e32_objcnt"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "e32_objmap"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "e32_itermap"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "e32_rsrctab"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "e32_rsrccnt"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "e32_restab"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "e32_enttab"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "e32_dirtab"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "e32_dircnt"
+offset = 0x64
+type = "DWORD"
+size = 0x4
+
+[members.0x68]
+name = "e32_fpagetab"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "e32_frectab"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "e32_impmod"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x74]
+name = "e32_impmodcnt"
+offset = 0x74
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "e32_impproc"
+offset = 0x78
+type = "DWORD"
+size = 0x4
+
+[members.0x7c]
+name = "e32_pagesum"
+offset = 0x7c
+type = "DWORD"
+size = 0x4
+
+[members.0x80]
+name = "e32_datapage"
+offset = 0x80
+type = "DWORD"
+size = 0x4
+
+[members.0x84]
+name = "e32_preload"
+offset = 0x84
+type = "DWORD"
+size = 0x4
+
+[members.0x88]
+name = "e32_nrestab"
+offset = 0x88
+type = "DWORD"
+size = 0x4
+
+[members.0x8c]
+name = "e32_cbnrestab"
+offset = 0x8c
+type = "DWORD"
+size = 0x4
+
+[members.0x90]
+name = "e32_nressum"
+offset = 0x90
+type = "DWORD"
+size = 0x4
+
+[members.0x94]
+name = "e32_autodata"
+offset = 0x94
+type = "DWORD"
+size = 0x4
+
+[members.0x98]
+name = "e32_debuginfo"
+offset = 0x98
+type = "DWORD"
+size = 0x4
+
+[members.0x9c]
+name = "e32_debuglen"
+offset = 0x9c
+type = "DWORD"
+size = 0x4
+
+[members.0xa0]
+name = "e32_instpreload"
+offset = 0xa0
+type = "DWORD"
+size = 0x4
+
+[members.0xa4]
+name = "e32_instdemand"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "e32_heapsize"
+offset = 0xa8
+type = "DWORD"
+size = 0x4
+
+[members.0xac]
+name = "e32_res3"
+offset = 0xac
+type = "BYTE[0xc]"
+size = 0xc
+
+[members.0xb8]
+name = "e32_winresoff"
+offset = 0xb8
+type = "DWORD"
+size = 0x4
+
+[members.0xbc]
+name = "e32_winreslen"
+offset = 0xbc
+type = "DWORD"
+size = 0x4
+
+[members.0xc0]
+name = "e32_devid"
+offset = 0xc0
+type = "WORD"
+size = 0x2
+
+[members.0xc2]
+name = "e32_ddkver"
+offset = 0xc2
+type = "WORD"
+size = 0x2

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.658800Z
+name = "_CONSOLE_FONT_INFO"
+size = 0x8
+
+[members.0x0]
+name = "nFont"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFontSize"
+offset = 0x4
+type = "COORD"
+size = 0x4

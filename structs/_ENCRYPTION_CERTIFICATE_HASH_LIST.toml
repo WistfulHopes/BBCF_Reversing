@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.691809Z
+name = "_ENCRYPTION_CERTIFICATE_HASH_LIST"
+size = 0x8
+
+[members.0x0]
+name = "nCert_Hash"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pUsers"
+offset = 0x4
+type = "PENCRYPTION_CERTIFICATE_HASH*"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.803846Z
+name = "_SSL_KEY_PIN_EXTRA_CERT_CHAIN_POLICY_STATUS"
+size = 0x408
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lError"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "wszErrorText"
+offset = 0x8
+type = "WCHAR[0x200]"
+size = 0x400

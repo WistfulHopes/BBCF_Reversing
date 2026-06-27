@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.577696Z
+name = "AASTEAM_SystemManager"
+size = 0xa04
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "AASTEAM_SystemManager::VTable*"
+size = 0x4
+
+[members.0x2c]
+name = "m_FileReaderThread"
+offset = 0x2c
+type = "struct AAWin_CFileReader_Thread*"
+size = 0x4
+
+[members.0x30]
+name = "m_ComInitialized"
+offset = 0x30
+type = "bool"
+size = 0x1
+
+[members.0x34]
+name = "m_InputIdx"
+offset = 0x34
+type = "int"
+size = 0x4

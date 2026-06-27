@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.647407Z
+name = "_CERT_SIMPLE_CHAIN"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TrustStatus"
+offset = 0x4
+type = "CERT_TRUST_STATUS"
+size = 0x8
+
+[members.0xc]
+name = "cElement"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rgpElement"
+offset = 0x10
+type = "PCERT_CHAIN_ELEMENT*"
+size = 0x4
+
+[members.0x14]
+name = "pTrustListInfo"
+offset = 0x14
+type = "PCERT_TRUST_LIST_INFO"
+size = 0x4
+
+[members.0x18]
+name = "fHasRevocationFreshnessTime"
+offset = 0x18
+type = "BOOL"
+size = 0x4
+
+[members.0x1c]
+name = "dwRevocationFreshnessTime"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

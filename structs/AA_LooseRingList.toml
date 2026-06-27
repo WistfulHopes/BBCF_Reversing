@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.584109Z
+name = "AA_LooseRingList"
+size = 0xc
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_LooseRingList::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_Current"
+offset = 0x4
+type = "struct AA_ListNode*"
+size = 0x4
+
+[members.0x8]
+name = "m_NodeNum"
+offset = 0x8
+type = "uint"
+size = 0x4

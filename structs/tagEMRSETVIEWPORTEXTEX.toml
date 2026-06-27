@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.871606Z
+name = "tagEMRSETVIEWPORTEXTEX"
+size = 0x10
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "szlExtent"
+offset = 0x8
+type = "SIZEL"
+size = 0x8

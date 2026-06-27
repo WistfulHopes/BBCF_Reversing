@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.869815Z
+name = "tagEMRPOLYTEXTOUTA"
+size = 0x50
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBounds"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "iGraphicsMode"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "exScale"
+offset = 0x1c
+type = "FLOAT"
+size = 0x4
+
+[members.0x20]
+name = "eyScale"
+offset = 0x20
+type = "FLOAT"
+size = 0x4
+
+[members.0x24]
+name = "cStrings"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "aemrtext"
+offset = 0x28
+type = "EMRTEXT[0x1]"
+size = 0x28

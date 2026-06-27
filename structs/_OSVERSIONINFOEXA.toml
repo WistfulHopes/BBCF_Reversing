@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.750232Z
+name = "_OSVERSIONINFOEXA"
+size = 0x9c
+
+[members.0x0]
+name = "dwOSVersionInfoSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMajorVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwMinorVersion"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwBuildNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwPlatformId"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "szCSDVersion"
+offset = 0x14
+type = "CHAR[0x80]"
+size = 0x80
+
+[members.0x94]
+name = "wServicePackMajor"
+offset = 0x94
+type = "WORD"
+size = 0x2
+
+[members.0x96]
+name = "wServicePackMinor"
+offset = 0x96
+type = "WORD"
+size = 0x2
+
+[members.0x98]
+name = "wSuiteMask"
+offset = 0x98
+type = "WORD"
+size = 0x2
+
+[members.0x9a]
+name = "wProductType"
+offset = 0x9a
+type = "BYTE"
+size = 0x1
+
+[members.0x9b]
+name = "wReserved"
+offset = 0x9b
+type = "BYTE"
+size = 0x1

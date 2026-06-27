@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.592127Z
+name = "CColorWithSpeed"
+size = 0x2c
+
+[members.0x0]
+name = "Value"
+offset = 0x0
+type = "struct AA_Color"
+size = 0x4
+
+[members.0x4]
+name = "SpeedA"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "SpeedR"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "SpeedG"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "SpeedB"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "BeginValue"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "EndValue"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "FrameCounter"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "FrameCountMax"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "m_LoopCount"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "m_IgnoreStop"
+offset = 0x28
+type = "bool"
+size = 0x1

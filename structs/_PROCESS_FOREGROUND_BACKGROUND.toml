@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.767118Z
+name = "_PROCESS_FOREGROUND_BACKGROUND"
+size = 0x1
+
+[members.0x0]
+name = "Foreground"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

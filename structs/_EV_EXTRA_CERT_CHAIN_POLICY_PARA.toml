@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.693479Z
+name = "_EV_EXTRA_CERT_CHAIN_POLICY_PARA"
+size = 0x8
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwRootProgramQualifierFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4

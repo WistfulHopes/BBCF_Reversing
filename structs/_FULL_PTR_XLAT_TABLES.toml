@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.706697Z
+name = "_FULL_PTR_XLAT_TABLES"
+size = 0x10
+
+[members.0x0]
+name = "RefIdToPointer"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "PointerToRefId"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "NextRefId"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "XlatSide"
+offset = 0xc
+type = "XLAT_SIDE"
+size = 0x4

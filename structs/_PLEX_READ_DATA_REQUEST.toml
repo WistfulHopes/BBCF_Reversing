@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.756788Z
+name = "_PLEX_READ_DATA_REQUEST"
+size = 0x10
+
+[members.0x0]
+name = "ByteOffset"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "ByteLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "PlexNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4

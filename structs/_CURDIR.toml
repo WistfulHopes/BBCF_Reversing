@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.673961Z
+name = "_CURDIR"
+size = 0xc
+
+[members.0x0]
+name = "DosPath"
+offset = 0x0
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x8]
+name = "Handle"
+offset = 0x8
+type = "VOID*"
+size = 0x4

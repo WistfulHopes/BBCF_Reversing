@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.850284Z
+name = "sockproto"
+size = 0x4
+
+[members.0x0]
+name = "sp_family"
+offset = 0x0
+type = "u_short"
+size = 0x2
+
+[members.0x2]
+name = "sp_protocol"
+offset = 0x2
+type = "u_short"
+size = 0x2

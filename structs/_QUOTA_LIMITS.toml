@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.774798Z
+name = "_QUOTA_LIMITS"
+size = 0x20
+
+[members.0x0]
+name = "PagedPoolLimit"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "NonPagedPoolLimit"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4
+
+[members.0x8]
+name = "MinimumWorkingSetSize"
+offset = 0x8
+type = "SIZE_T"
+size = 0x4
+
+[members.0xc]
+name = "MaximumWorkingSetSize"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "PagefileLimit"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4
+
+[members.0x18]
+name = "TimeLimit"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8

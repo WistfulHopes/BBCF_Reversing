@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.848669Z
+name = "mmtime_tag"
+size = 0xc
+
+[members.0x0]
+name = "wType"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "u"
+offset = 0x4
+type = "union"
+size = 0x8

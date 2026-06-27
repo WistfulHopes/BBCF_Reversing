@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.587124Z
+name = "ANON_OBJECT_HEADER_BIGOBJ"
+size = 0x38
+
+[members.0x0]
+name = "Sig1"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Sig2"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Machine"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "TimeDateStamp"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ClassID"
+offset = 0xc
+type = "CLSID"
+size = 0x10
+
+[members.0x1c]
+name = "SizeOfData"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "Flags"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "MetaDataSize"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "MetaDataOffset"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "NumberOfSections"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "PointerToSymbolTable"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "NumberOfSymbols"
+offset = 0x34
+type = "DWORD"
+size = 0x4

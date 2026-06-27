@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.594225Z
+name = "CONFIRMSAFETY"
+size = 0x18
+
+[members.0x0]
+name = "clsid"
+offset = 0x0
+type = "CLSID"
+size = 0x10
+
+[members.0x10]
+name = "pUnk"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "dwFlags"
+offset = 0x14
+type = "DWORD"
+size = 0x4

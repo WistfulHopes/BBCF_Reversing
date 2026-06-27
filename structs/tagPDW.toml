@@ -1,0 +1,117 @@
+last_change = 2026-06-27T20:49:16.904749Z
+name = "tagPDW"
+size = 0x48
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hDevMode"
+offset = 0x8
+type = "HGLOBAL"
+size = 0x4
+
+[members.0xc]
+name = "hDevNames"
+offset = 0xc
+type = "HGLOBAL"
+size = 0x4
+
+[members.0x10]
+name = "hDC"
+offset = 0x10
+type = "HDC"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "nFromPage"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "nToPage"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "nMinPage"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "nMaxPage"
+offset = 0x1e
+type = "WORD"
+size = 0x2
+
+[members.0x20]
+name = "nCopies"
+offset = 0x20
+type = "WORD"
+size = 0x2
+
+[members.0x24]
+name = "hInstance"
+offset = 0x24
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x28]
+name = "lCustData"
+offset = 0x28
+type = "LPARAM"
+size = 0x4
+
+[members.0x2c]
+name = "lpfnPrintHook"
+offset = 0x2c
+type = "LPPRINTHOOKPROC"
+size = 0x4
+
+[members.0x30]
+name = "lpfnSetupHook"
+offset = 0x30
+type = "LPSETUPHOOKPROC"
+size = 0x4
+
+[members.0x34]
+name = "lpPrintTemplateName"
+offset = 0x34
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x38]
+name = "lpSetupTemplateName"
+offset = 0x38
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x3c]
+name = "hPrintTemplate"
+offset = 0x3c
+type = "HGLOBAL"
+size = 0x4
+
+[members.0x40]
+name = "hSetupTemplate"
+offset = 0x40
+type = "HGLOBAL"
+size = 0x4

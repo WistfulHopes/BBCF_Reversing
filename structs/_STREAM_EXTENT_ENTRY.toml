@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.816636Z
+name = "_STREAM_EXTENT_ENTRY"
+size = 0x28
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ExtentInformation"
+offset = 0x8
+type = "union"
+size = 0x20

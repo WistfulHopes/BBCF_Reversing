@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.834662Z
+name = "_VIRTUALIZATION_INSTANCE_INFO_INPUT_EX"
+size = 0x10
+
+[members.0x0]
+name = "HeaderSize"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NotificationInfoSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "NotificationInfoOffset"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "ProviderMajorVersion"
+offset = 0xe
+type = "WORD"
+size = 0x2

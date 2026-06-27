@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.777466Z
+name = "_REFS_VOLUME_DATA_BUFFER"
+size = 0x98
+
+[members.0x0]
+name = "ByteCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MajorVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MinorVersion"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "BytesPerPhysicalSector"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "VolumeSerialNumber"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "NumberSectors"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "TotalClusters"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "FreeClusters"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "TotalReserved"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "BytesPerSector"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "BytesPerCluster"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "MaximumSizeOfResidentFile"
+offset = 0x40
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x48]
+name = "FastTierDataFillRatio"
+offset = 0x48
+type = "WORD"
+size = 0x2
+
+[members.0x4a]
+name = "SlowTierDataFillRatio"
+offset = 0x4a
+type = "WORD"
+size = 0x2
+
+[members.0x4c]
+name = "DestagesFastTierToSlowTierRate"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "Reserved"
+offset = 0x50
+type = "LARGE_INTEGER[0x9]"
+size = 0x48

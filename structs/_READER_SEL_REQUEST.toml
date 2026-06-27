@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.775507Z
+name = "_READER_SEL_REQUEST"
+size = 0x24
+
+[members.0x0]
+name = "dwShareMode"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwPreferredProtocols"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MatchType"
+offset = 0x8
+type = "READER_SEL_REQUEST_MATCH_TYPE"
+size = 0x4
+
+[members.0xc]
+name = ""
+offset = 0xc
+type = "union"
+size = 0x18

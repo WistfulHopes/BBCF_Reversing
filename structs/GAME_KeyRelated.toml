@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.607364Z
+name = "GAME_KeyRelated"
+size = 0x1c
+
+[members.0x0]
+name = "m_Unk0"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x4]
+name = "m_bInitialized"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_KeyRingBuffer"
+offset = 0x8
+type = "class AA_LooseRingList"
+size = 0xc
+
+[members.0x14]
+name = "m_Unk1"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_Unk2"
+offset = 0x18
+type = "short"
+size = 0x2

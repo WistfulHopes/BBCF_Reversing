@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.796609Z
+name = "_SERVICE_FAILURE_ACTIONSA"
+size = 0x14
+
+[members.0x0]
+name = "dwResetPeriod"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpRebootMsg"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpCommand"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "cActions"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "lpsaActions"
+offset = 0x10
+type = "SC_ACTION*"
+size = 0x4

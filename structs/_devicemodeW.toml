@@ -1,0 +1,165 @@
+last_change = 2026-06-27T20:49:16.842616Z
+name = "_devicemodeW"
+size = 0xdc
+
+[members.0x0]
+name = "dmDeviceName"
+offset = 0x0
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0x40]
+name = "dmSpecVersion"
+offset = 0x40
+type = "WORD"
+size = 0x2
+
+[members.0x42]
+name = "dmDriverVersion"
+offset = 0x42
+type = "WORD"
+size = 0x2
+
+[members.0x44]
+name = "dmSize"
+offset = 0x44
+type = "WORD"
+size = 0x2
+
+[members.0x46]
+name = "dmDriverExtra"
+offset = 0x46
+type = "WORD"
+size = 0x2
+
+[members.0x48]
+name = "dmFields"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = ""
+offset = 0x4c
+type = "union"
+size = 0x10
+
+[members.0x5c]
+name = "dmColor"
+offset = 0x5c
+type = "short"
+size = 0x2
+
+[members.0x5e]
+name = "dmDuplex"
+offset = 0x5e
+type = "short"
+size = 0x2
+
+[members.0x60]
+name = "dmYResolution"
+offset = 0x60
+type = "short"
+size = 0x2
+
+[members.0x62]
+name = "dmTTOption"
+offset = 0x62
+type = "short"
+size = 0x2
+
+[members.0x64]
+name = "dmCollate"
+offset = 0x64
+type = "short"
+size = 0x2
+
+[members.0x66]
+name = "dmFormName"
+offset = 0x66
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0xa6]
+name = "dmLogPixels"
+offset = 0xa6
+type = "WORD"
+size = 0x2
+
+[members.0xa8]
+name = "dmBitsPerPel"
+offset = 0xa8
+type = "DWORD"
+size = 0x4
+
+[members.0xac]
+name = "dmPelsWidth"
+offset = 0xac
+type = "DWORD"
+size = 0x4
+
+[members.0xb0]
+name = "dmPelsHeight"
+offset = 0xb0
+type = "DWORD"
+size = 0x4
+
+[members.0xb4]
+name = "_2"
+offset = 0xb4
+type = "union"
+size = 0x4
+
+[members.0xb8]
+name = "dmDisplayFrequency"
+offset = 0xb8
+type = "DWORD"
+size = 0x4
+
+[members.0xbc]
+name = "dmICMMethod"
+offset = 0xbc
+type = "DWORD"
+size = 0x4
+
+[members.0xc0]
+name = "dmICMIntent"
+offset = 0xc0
+type = "DWORD"
+size = 0x4
+
+[members.0xc4]
+name = "dmMediaType"
+offset = 0xc4
+type = "DWORD"
+size = 0x4
+
+[members.0xc8]
+name = "dmDitherType"
+offset = 0xc8
+type = "DWORD"
+size = 0x4
+
+[members.0xcc]
+name = "dmReserved1"
+offset = 0xcc
+type = "DWORD"
+size = 0x4
+
+[members.0xd0]
+name = "dmReserved2"
+offset = 0xd0
+type = "DWORD"
+size = 0x4
+
+[members.0xd4]
+name = "dmPanningWidth"
+offset = 0xd4
+type = "DWORD"
+size = 0x4
+
+[members.0xd8]
+name = "dmPanningHeight"
+offset = 0xd8
+type = "DWORD"
+size = 0x4

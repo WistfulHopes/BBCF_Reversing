@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.906228Z
+name = "tagPOINTER_PEN_INFO"
+size = 0x70
+
+[members.0x0]
+name = "pointerInfo"
+offset = 0x0
+type = "POINTER_INFO"
+size = 0x58
+
+[members.0x58]
+name = "penFlags"
+offset = 0x58
+type = "PEN_FLAGS"
+size = 0x4
+
+[members.0x5c]
+name = "penMask"
+offset = 0x5c
+type = "PEN_MASK"
+size = 0x4
+
+[members.0x60]
+name = "pressure"
+offset = 0x60
+type = "UINT32"
+size = 0x4
+
+[members.0x64]
+name = "rotation"
+offset = 0x64
+type = "UINT32"
+size = 0x4
+
+[members.0x68]
+name = "tiltX"
+offset = 0x68
+type = "INT32"
+size = 0x4
+
+[members.0x6c]
+name = "tiltY"
+offset = 0x6c
+type = "INT32"
+size = 0x4

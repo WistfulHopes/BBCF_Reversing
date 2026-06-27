@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.738303Z
+name = "_NAME_BUFFER"
+size = 0x12
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "UCHAR[0x10]"
+size = 0x10
+
+[members.0x10]
+name = "name_num"
+offset = 0x10
+type = "UCHAR"
+size = 0x1
+
+[members.0x11]
+name = "name_flags"
+offset = 0x11
+type = "UCHAR"
+size = 0x1

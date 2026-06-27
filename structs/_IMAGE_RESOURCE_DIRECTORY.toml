@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.719398Z
+name = "_IMAGE_RESOURCE_DIRECTORY"
+size = 0x10
+
+[members.0x0]
+name = "Characteristics"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TimeDateStamp"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MajorVersion"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "MinorVersion"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "NumberOfNamedEntries"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "NumberOfIdEntries"
+offset = 0xe
+type = "WORD"
+size = 0x2

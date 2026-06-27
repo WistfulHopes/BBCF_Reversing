@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.669866Z
+name = "_CRYPT_SIGN_MESSAGE_PARA"
+size = 0x44
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pSigningCert"
+offset = 0x8
+type = "PCCERT_CONTEXT"
+size = 0x4
+
+[members.0xc]
+name = "HashAlgorithm"
+offset = 0xc
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x18]
+name = "pvHashAuxInfo"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "cMsgCert"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "rgpMsgCert"
+offset = 0x20
+type = "PCCERT_CONTEXT*"
+size = 0x4
+
+[members.0x24]
+name = "cMsgCrl"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "rgpMsgCrl"
+offset = 0x28
+type = "PCCRL_CONTEXT*"
+size = 0x4
+
+[members.0x2c]
+name = "cAuthAttr"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "rgAuthAttr"
+offset = 0x30
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4
+
+[members.0x34]
+name = "cUnauthAttr"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "rgUnauthAttr"
+offset = 0x38
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4
+
+[members.0x3c]
+name = "dwFlags"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "dwInnerContentType"
+offset = 0x40
+type = "DWORD"
+size = 0x4

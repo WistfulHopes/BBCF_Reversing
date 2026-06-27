@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.593304Z
+name = "CM_Power_Data_s"
+size = 0x38
+
+[members.0x0]
+name = "PD_Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "PD_MostRecentPowerState"
+offset = 0x4
+type = "DEVICE_POWER_STATE"
+size = 0x4
+
+[members.0x8]
+name = "PD_Capabilities"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "PD_D1Latency"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "PD_D2Latency"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "PD_D3Latency"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "PD_PowerStateMapping"
+offset = 0x18
+type = "DEVICE_POWER_STATE[0x7]"
+size = 0x1c
+
+[members.0x34]
+name = "PD_DeepestSystemWake"
+offset = 0x34
+type = "SYSTEM_POWER_STATE"
+size = 0x4

@@ -1,0 +1,201 @@
+last_change = 2026-06-27T20:49:16.820098Z
+name = "_SYSTEM_POWER_CAPABILITIES"
+size = 0x4c
+
+[members.0x0]
+name = "PowerButtonPresent"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "SleepButtonPresent"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "LidPresent"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x3]
+name = "SystemS1"
+offset = 0x3
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "SystemS2"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x5]
+name = "SystemS3"
+offset = 0x5
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x6]
+name = "SystemS4"
+offset = 0x6
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x7]
+name = "SystemS5"
+offset = 0x7
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x8]
+name = "HiberFilePresent"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x9]
+name = "FullWake"
+offset = 0x9
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xa]
+name = "VideoDimPresent"
+offset = 0xa
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xb]
+name = "ApmPresent"
+offset = 0xb
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xc]
+name = "UpsPresent"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "ThermalControl"
+offset = 0xd
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xe]
+name = "ProcessorThrottle"
+offset = 0xe
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xf]
+name = "ProcessorMinThrottle"
+offset = 0xf
+type = "BYTE"
+size = 0x1
+
+[members.0x10]
+name = "ProcessorMaxThrottle"
+offset = 0x10
+type = "BYTE"
+size = 0x1
+
+[members.0x11]
+name = "FastSystemS4"
+offset = 0x11
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x12]
+name = "Hiberboot"
+offset = 0x12
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x13]
+name = "WakeAlarmPresent"
+offset = 0x13
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x14]
+name = "AoAc"
+offset = 0x14
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x15]
+name = "DiskSpinDown"
+offset = 0x15
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x16]
+name = "HiberFileType"
+offset = 0x16
+type = "BYTE"
+size = 0x1
+
+[members.0x17]
+name = "AoAcConnectivitySupported"
+offset = 0x17
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x18]
+name = "spare3"
+offset = 0x18
+type = "BYTE[0x6]"
+size = 0x6
+
+[members.0x1e]
+name = "SystemBatteriesPresent"
+offset = 0x1e
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1f]
+name = "BatteriesAreShortTerm"
+offset = 0x1f
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x20]
+name = "BatteryScale"
+offset = 0x20
+type = "BATTERY_REPORTING_SCALE[0x3]"
+size = 0x18
+
+[members.0x38]
+name = "AcOnLineWake"
+offset = 0x38
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x3c]
+name = "SoftLidWake"
+offset = 0x3c
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x40]
+name = "RtcWake"
+offset = 0x40
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x44]
+name = "MinDeviceWakeState"
+offset = 0x44
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x48]
+name = "DefaultLowLatencyWake"
+offset = 0x48
+type = "SYSTEM_POWER_STATE"
+size = 0x4

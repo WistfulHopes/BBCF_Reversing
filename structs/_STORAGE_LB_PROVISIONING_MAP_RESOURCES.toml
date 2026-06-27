@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.810673Z
+name = "_STORAGE_LB_PROVISIONING_MAP_RESOURCES"
+size = 0x20
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "__bitfield8"
+offset = 0x8
+type = "union"
+size = 0x1
+
+[members.0x10]
+name = "AvailableMappingResources"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "UsedMappingResources"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8

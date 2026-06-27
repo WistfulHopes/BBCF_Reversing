@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.713758Z
+name = "_IMAGE_ENCLAVE_IMPORT"
+size = 0x50
+
+[members.0x0]
+name = "MatchType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MinimumSecurityVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "UniqueOrAuthorID"
+offset = 0x8
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x28]
+name = "FamilyID"
+offset = 0x28
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x38]
+name = "ImageID"
+offset = 0x38
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x48]
+name = "ImportName"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "Reserved"
+offset = 0x4c
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.849592Z
+name = "sActionBegin"
+size = 0x24
+
+[members.0x0]
+name = "m_ActionName"
+offset = 0x0
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x20]
+name = "m_OffsetAddr"
+offset = 0x20
+type = "uint"
+size = 0x4

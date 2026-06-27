@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.670005Z
+name = "_CRYPT_SMIME_CAPABILITIES"
+size = 0x8
+
+[members.0x0]
+name = "cCapability"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgCapability"
+offset = 0x4
+type = "PCRYPT_SMIME_CAPABILITY"
+size = 0x4

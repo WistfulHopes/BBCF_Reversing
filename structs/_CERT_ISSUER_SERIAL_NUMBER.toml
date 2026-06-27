@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.642174Z
+name = "_CERT_ISSUER_SERIAL_NUMBER"
+size = 0x10
+
+[members.0x0]
+name = "Issuer"
+offset = 0x0
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "SerialNumber"
+offset = 0x8
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8

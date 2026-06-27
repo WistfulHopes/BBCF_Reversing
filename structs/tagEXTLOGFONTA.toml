@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.874627Z
+name = "tagEXTLOGFONTA"
+size = 0xc0
+
+[members.0x0]
+name = "elfLogFont"
+offset = 0x0
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0x3c]
+name = "elfFullName"
+offset = 0x3c
+type = "BYTE[0x40]"
+size = 0x40
+
+[members.0x7c]
+name = "elfStyle"
+offset = 0x7c
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x9c]
+name = "elfVersion"
+offset = 0x9c
+type = "DWORD"
+size = 0x4
+
+[members.0xa0]
+name = "elfStyleSize"
+offset = 0xa0
+type = "DWORD"
+size = 0x4
+
+[members.0xa4]
+name = "elfMatch"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "elfReserved"
+offset = 0xa8
+type = "DWORD"
+size = 0x4
+
+[members.0xac]
+name = "elfVendorId"
+offset = 0xac
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0xb0]
+name = "elfCulture"
+offset = 0xb0
+type = "DWORD"
+size = 0x4
+
+[members.0xb4]
+name = "elfPanose"
+offset = 0xb4
+type = "PANOSE"
+size = 0xa

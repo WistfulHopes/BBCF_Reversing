@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.662703Z
+name = "_CRYPTNET_URL_CACHE_RESPONSE_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "wResponseType"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "wResponseFlags"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "LastModifiedTime"
+offset = 0x8
+type = "FILETIME"
+size = 0x8
+
+[members.0x10]
+name = "dwMaxAge"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pwszETag"
+offset = 0x14
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x18]
+name = "dwProxyId"
+offset = 0x18
+type = "DWORD"
+size = 0x4

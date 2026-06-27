@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.721063Z
+name = "_IMAGE_TLS_DIRECTORY32"
+size = 0x18
+
+[members.0x0]
+name = "StartAddressOfRawData"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "EndAddressOfRawData"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "AddressOfIndex"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "AddressOfCallBacks"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "SizeOfZeroFill"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = ""
+offset = 0x14
+type = "union"
+size = 0x4

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.862244Z
+name = "tagDELETEITEMSTRUCT"
+size = 0x14
+
+[members.0x0]
+name = "CtlType"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "CtlID"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "itemID"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "hwndItem"
+offset = 0xc
+type = "HWND"
+size = 0x4
+
+[members.0x10]
+name = "itemData"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4

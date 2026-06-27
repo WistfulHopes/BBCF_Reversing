@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.785359Z
+name = "_RTL_ACTIVATION_CONTEXT_STACK_FRAME"
+size = 0xc
+
+[members.0x0]
+name = "Previous"
+offset = 0x0
+type = "struct _RTL_ACTIVATION_CONTEXT_STACK_FRAME*"
+size = 0x4
+
+[members.0x4]
+name = "ActivationContext"
+offset = 0x4
+type = "struct _ACTIVATION_CONTEXT*"
+size = 0x4
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "ULONG"
+size = 0x4

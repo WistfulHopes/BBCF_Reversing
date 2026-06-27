@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.636350Z
+name = "_BCryptBufferDesc"
+size = 0xc
+
+[members.0x0]
+name = "ulVersion"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "cBuffers"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pBuffers"
+offset = 0x8
+type = "PBCryptBuffer"
+size = 0x4

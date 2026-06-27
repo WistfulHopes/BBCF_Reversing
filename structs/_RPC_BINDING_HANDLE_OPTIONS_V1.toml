@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.779471Z
+name = "_RPC_BINDING_HANDLE_OPTIONS_V1"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "ComTimeout"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "CallTimeout"
+offset = 0xc
+type = "uint"
+size = 0x4

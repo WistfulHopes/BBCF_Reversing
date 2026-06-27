@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.662157Z
+name = "_CRL_ISSUING_DIST_POINT"
+size = 0x24
+
+[members.0x0]
+name = "DistPointName"
+offset = 0x0
+type = "CRL_DIST_POINT_NAME"
+size = 0xc
+
+[members.0xc]
+name = "fOnlyContainsUserCerts"
+offset = 0xc
+type = "BOOL"
+size = 0x4
+
+[members.0x10]
+name = "fOnlyContainsCACerts"
+offset = 0x10
+type = "BOOL"
+size = 0x4
+
+[members.0x14]
+name = "OnlySomeReasonFlags"
+offset = 0x14
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x20]
+name = "fIndirectCRL"
+offset = 0x20
+type = "BOOL"
+size = 0x4

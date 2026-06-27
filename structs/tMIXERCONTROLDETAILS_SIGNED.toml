@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.851601Z
+name = "tMIXERCONTROLDETAILS_SIGNED"
+size = 0x4
+
+[members.0x0]
+name = "lValue"
+offset = 0x0
+type = "LONG"
+size = 0x4

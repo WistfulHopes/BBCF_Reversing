@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.600514Z
+name = "D3DVERTEXELEMENT9"
+size = 0x8
+
+[members.0x0]
+name = "Stream"
+offset = 0x0
+type = "ushort"
+size = 0x2
+
+[members.0x2]
+name = "Offset"
+offset = 0x2
+type = "ushort"
+size = 0x2
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "uchar"
+size = 0x1
+
+[members.0x5]
+name = "Method"
+offset = 0x5
+type = "uchar"
+size = 0x1
+
+[members.0x6]
+name = "Usage"
+offset = 0x6
+type = "uchar"
+size = 0x1
+
+[members.0x7]
+name = "UsageIndex"
+offset = 0x7
+type = "uchar"
+size = 0x1

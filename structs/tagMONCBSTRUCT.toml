@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.895376Z
+name = "tagMONCBSTRUCT"
+size = 0x78
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwTime"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hTask"
+offset = 0x8
+type = "HANDLE"
+size = 0x4
+
+[members.0xc]
+name = "dwRet"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "wType"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "wFmt"
+offset = 0x14
+type = "UINT"
+size = 0x4
+
+[members.0x18]
+name = "hConv"
+offset = 0x18
+type = "HCONV"
+size = 0x4
+
+[members.0x1c]
+name = "hsz1"
+offset = 0x1c
+type = "HSZ"
+size = 0x4
+
+[members.0x20]
+name = "hsz2"
+offset = 0x20
+type = "HSZ"
+size = 0x4
+
+[members.0x24]
+name = "hData"
+offset = 0x24
+type = "HDDEDATA"
+size = 0x4
+
+[members.0x28]
+name = "dwData1"
+offset = 0x28
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x2c]
+name = "dwData2"
+offset = 0x2c
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x30]
+name = "cc"
+offset = 0x30
+type = "CONVCONTEXT"
+size = 0x24
+
+[members.0x54]
+name = "cbData"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "Data"
+offset = 0x58
+type = "DWORD[0x8]"
+size = 0x20

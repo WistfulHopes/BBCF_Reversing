@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.604538Z
+name = "FILE_ID_DESCRIPTOR"
+size = 0x18
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "FILE_ID_TYPE"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x10

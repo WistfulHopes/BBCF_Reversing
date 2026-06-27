@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.675676Z
+name = "_DEVICEDUMP_STORAGESTACK_PUBLIC_DUMP"
+size = 0x68
+
+[members.0x0]
+name = "Descriptor"
+offset = 0x0
+type = "DEVICEDUMP_STRUCTURE_VERSION"
+size = 0xc
+
+[members.0xc]
+name = "dwReasonForCollection"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cDriverName"
+offset = 0x10
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x20]
+name = "uiNumRecords"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "RecordArray"
+offset = 0x28
+type = "DEVICEDUMP_STORAGESTACK_PUBLIC_STATE_RECORD[0x1]"
+size = 0x40

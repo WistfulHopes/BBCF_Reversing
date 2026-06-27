@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.889953Z
+name = "tagMEASUREITEMSTRUCT"
+size = 0x18
+
+[members.0x0]
+name = "CtlType"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "CtlID"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "itemID"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "itemWidth"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "itemHeight"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "itemData"
+offset = 0x14
+type = "ULONG_PTR"
+size = 0x4

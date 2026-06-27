@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.795763Z
+name = "_SERVERSILO_BASIC_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "ServiceSessionId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "State"
+offset = 0x4
+type = "SERVERSILO_STATE"
+size = 0x4
+
+[members.0x8]
+name = "ExitStatus"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "IsDownlevelContainer"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x10]
+name = "ApiSetSchema"
+offset = 0x10
+type = "PVOID"
+size = 0x4
+
+[members.0x14]
+name = "HostApiSetSchema"
+offset = 0x14
+type = "PVOID"
+size = 0x4

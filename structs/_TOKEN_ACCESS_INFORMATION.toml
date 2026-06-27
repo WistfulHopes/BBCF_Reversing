@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.825117Z
+name = "_TOKEN_ACCESS_INFORMATION"
+size = 0x38
+
+[members.0x0]
+name = "SidHash"
+offset = 0x0
+type = "PSID_AND_ATTRIBUTES_HASH"
+size = 0x4
+
+[members.0x4]
+name = "RestrictedSidHash"
+offset = 0x4
+type = "PSID_AND_ATTRIBUTES_HASH"
+size = 0x4
+
+[members.0x8]
+name = "Privileges"
+offset = 0x8
+type = "PTOKEN_PRIVILEGES"
+size = 0x4
+
+[members.0xc]
+name = "AuthenticationId"
+offset = 0xc
+type = "LUID"
+size = 0x8
+
+[members.0x14]
+name = "TokenType"
+offset = 0x14
+type = "TOKEN_TYPE"
+size = 0x4
+
+[members.0x18]
+name = "ImpersonationLevel"
+offset = 0x18
+type = "SECURITY_IMPERSONATION_LEVEL"
+size = 0x4
+
+[members.0x1c]
+name = "MandatoryPolicy"
+offset = 0x1c
+type = "TOKEN_MANDATORY_POLICY"
+size = 0x4
+
+[members.0x20]
+name = "Flags"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "AppContainerNumber"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "PackageSid"
+offset = 0x28
+type = "PSID"
+size = 0x4
+
+[members.0x2c]
+name = "CapabilitiesHash"
+offset = 0x2c
+type = "PSID_AND_ATTRIBUTES_HASH"
+size = 0x4
+
+[members.0x30]
+name = "TrustLevelSid"
+offset = 0x30
+type = "PSID"
+size = 0x4
+
+[members.0x34]
+name = "SecurityAttributes"
+offset = 0x34
+type = "PSECURITY_ATTRIBUTES_OPAQUE"
+size = 0x4

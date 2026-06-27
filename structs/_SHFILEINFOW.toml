@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.801623Z
+name = "_SHFILEINFOW"
+size = 0x2b4
+
+[members.0x0]
+name = "hIcon"
+offset = 0x0
+type = "HICON"
+size = 0x4
+
+[members.0x4]
+name = "iIcon"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "dwAttributes"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "szDisplayName"
+offset = 0xc
+type = "WCHAR[0x104]"
+size = 0x208
+
+[members.0x214]
+name = "szTypeName"
+offset = 0x214
+type = "WCHAR[0x50]"
+size = 0xa0

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.711161Z
+name = "_IMAGE_BOUND_FORWARDER_REF"
+size = 0x8
+
+[members.0x0]
+name = "TimeDateStamp"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "OffsetModuleName"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Reserved"
+offset = 0x6
+type = "WORD"
+size = 0x2

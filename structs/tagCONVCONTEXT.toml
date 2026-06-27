@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.859982Z
+name = "tagCONVCONTEXT"
+size = 0x24
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "wFlags"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "wCountryID"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "iCodePage"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "dwLangID"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwSecurity"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "qos"
+offset = 0x18
+type = "SECURITY_QUALITY_OF_SERVICE"
+size = 0xc

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.816476Z
+name = "_STREAMS_QUERY_ID_OUTPUT_BUFFER"
+size = 0x4
+
+[members.0x0]
+name = "StreamId"
+offset = 0x0
+type = "DWORD"
+size = 0x4

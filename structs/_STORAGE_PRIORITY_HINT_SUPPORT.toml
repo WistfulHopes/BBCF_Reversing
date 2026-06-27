@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.812312Z
+name = "_STORAGE_PRIORITY_HINT_SUPPORT"
+size = 0x4
+
+[members.0x0]
+name = "SupportFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4

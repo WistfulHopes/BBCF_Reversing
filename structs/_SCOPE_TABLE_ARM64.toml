@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.792620Z
+name = "_SCOPE_TABLE_ARM64"
+size = 0x14
+
+[members.0x0]
+name = "Count"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ScopeRecord"
+offset = 0x4
+type = "struct { DWORD BeginAddress; DWORD EndAddress; DWORD HandlerAddress; DWORD JumpTarget; }[0x1]"
+size = 0x10

@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.860276Z
+name = "tagCONVINFO"
+size = 0x60
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hUser"
+offset = 0x4
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x8]
+name = "hConvPartner"
+offset = 0x8
+type = "HCONV"
+size = 0x4
+
+[members.0xc]
+name = "hszSvcPartner"
+offset = 0xc
+type = "HSZ"
+size = 0x4
+
+[members.0x10]
+name = "hszServiceReq"
+offset = 0x10
+type = "HSZ"
+size = 0x4
+
+[members.0x14]
+name = "hszTopic"
+offset = 0x14
+type = "HSZ"
+size = 0x4
+
+[members.0x18]
+name = "hszItem"
+offset = 0x18
+type = "HSZ"
+size = 0x4
+
+[members.0x1c]
+name = "wFmt"
+offset = 0x1c
+type = "UINT"
+size = 0x4
+
+[members.0x20]
+name = "wType"
+offset = 0x20
+type = "UINT"
+size = 0x4
+
+[members.0x24]
+name = "wStatus"
+offset = 0x24
+type = "UINT"
+size = 0x4
+
+[members.0x28]
+name = "wConvst"
+offset = 0x28
+type = "UINT"
+size = 0x4
+
+[members.0x2c]
+name = "wLastError"
+offset = 0x2c
+type = "UINT"
+size = 0x4
+
+[members.0x30]
+name = "hConvList"
+offset = 0x30
+type = "HCONVLIST"
+size = 0x4
+
+[members.0x34]
+name = "ConvCtxt"
+offset = 0x34
+type = "CONVCONTEXT"
+size = 0x24
+
+[members.0x58]
+name = "hwnd"
+offset = 0x58
+type = "HWND"
+size = 0x4
+
+[members.0x5c]
+name = "hwndPartner"
+offset = 0x5c
+type = "HWND"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.606177Z
+name = "GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct GAME_CETCObjectBase::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_pParam"
+offset = 0x4
+type = "struct GAME_CETCObjParam*"
+size = 0x4

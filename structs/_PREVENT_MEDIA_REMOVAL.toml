@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.761226Z
+name = "_PREVENT_MEDIA_REMOVAL"
+size = 0x1
+
+[members.0x0]
+name = "PreventMediaRemoval"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

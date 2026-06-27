@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.891899Z
+name = "tagMIDIINCAPSA"
+size = 0x2c
+
+[members.0x0]
+name = "wMid"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPid"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "vDriverVersion"
+offset = 0x4
+type = "MMVERSION"
+size = 0x4
+
+[members.0x8]
+name = "szPname"
+offset = 0x8
+type = "CHAR[0x20]"
+size = 0x20
+
+[members.0x28]
+name = "dwSupport"
+offset = 0x28
+type = "DWORD"
+size = 0x4

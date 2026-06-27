@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.800152Z
+name = "_SE_TOKEN_USER"
+size = 0x4c
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x8
+
+[members.0x8]
+name = "_1"
+offset = 0x8
+type = "union"
+size = 0x44

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.679616Z
+name = "_DEVICE_MEDIA_INFO"
+size = 0x20
+
+[members.0x0]
+name = "DeviceSpecific"
+offset = 0x0
+type = "union"
+size = 0x20

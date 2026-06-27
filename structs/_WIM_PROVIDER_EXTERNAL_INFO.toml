@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.835777Z
+name = "_WIM_PROVIDER_EXTERNAL_INFO"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DataSourceId"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "ResourceHash"
+offset = 0x10
+type = "BYTE[0x14]"
+size = 0x14

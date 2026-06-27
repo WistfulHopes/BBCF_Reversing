@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.578262Z
+name = "AAWin_HQTimer"
+size = 0x20
+
+[members.0x18]
+name = "m_HQTimeMemory"
+offset = 0x18
+type = "ulong long"
+size = 0x8

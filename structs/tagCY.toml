@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.861816Z
+name = "tagCY"
+size = 0x8
+
+[members.0x0]
+name = "int64"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8

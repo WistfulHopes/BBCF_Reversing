@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.720707Z
+name = "_IMAGE_SYMBOL"
+size = 0x14
+
+[members.0x0]
+name = "N"
+offset = 0x0
+type = "union"
+size = 0x8
+
+[members.0x8]
+name = "Value"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "SectionNumber"
+offset = 0xc
+type = "SHORT"
+size = 0x2
+
+[members.0xe]
+name = "Type"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "StorageClass"
+offset = 0x10
+type = "BYTE"
+size = 0x1
+
+[members.0x11]
+name = "NumberOfAuxSymbols"
+offset = 0x11
+type = "BYTE"
+size = 0x1

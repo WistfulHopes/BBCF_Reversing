@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.802148Z
+name = "_SHNAMEMAPPINGW"
+size = 0x10
+
+[members.0x0]
+name = "pszOldPath"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pszNewPath"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "cchOldPath"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "cchNewPath"
+offset = 0xc
+type = "int"
+size = 0x4

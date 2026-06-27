@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.772949Z
+name = "_PSHNOTIFY"
+size = 0x10
+
+[members.0x0]
+name = "hdr"
+offset = 0x0
+type = "NMHDR"
+size = 0xc
+
+[members.0xc]
+name = "lParam"
+offset = 0xc
+type = "LPARAM"
+size = 0x4

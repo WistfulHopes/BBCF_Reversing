@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.863628Z
+name = "tagDVTARGETDEVICE"
+size = 0x10
+
+[members.0x0]
+name = "tdSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "tdDriverNameOffset"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "tdDeviceNameOffset"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "tdPortNameOffset"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "tdExtDevmodeOffset"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "tdData"
+offset = 0xc
+type = "BYTE[0x1]"
+size = 0x1

@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.678979Z
+name = "_DEVICE_INTERNAL_STATUS_DATA"
+size = 0xb0
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "T10VendorId"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "DataSet1Length"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "DataSet2Length"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "DataSet3Length"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "DataSet4Length"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "StatusDataVersion"
+offset = 0x20
+type = "BYTE"
+size = 0x1
+
+[members.0x21]
+name = "Reserved"
+offset = 0x21
+type = "BYTE[0x3]"
+size = 0x3
+
+[members.0x24]
+name = "ReasonIdentifier"
+offset = 0x24
+type = "BYTE[0x80]"
+size = 0x80
+
+[members.0xa4]
+name = "StatusDataLength"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "StatusData"
+offset = 0xa8
+type = "BYTE[0x1]"
+size = 0x1

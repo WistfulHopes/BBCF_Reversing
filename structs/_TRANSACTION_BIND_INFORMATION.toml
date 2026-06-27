@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.827419Z
+name = "_TRANSACTION_BIND_INFORMATION"
+size = 0x4
+
+[members.0x0]
+name = "TmHandle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4

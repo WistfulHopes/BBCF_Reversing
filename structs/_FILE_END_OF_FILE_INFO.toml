@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.697044Z
+name = "_FILE_END_OF_FILE_INFO"
+size = 0x8
+
+[members.0x0]
+name = "EndOfFile"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8

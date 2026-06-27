@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.906384Z
+name = "tagPOINTER_TOUCH_INFO"
+size = 0x88
+
+[members.0x0]
+name = "pointerInfo"
+offset = 0x0
+type = "POINTER_INFO"
+size = 0x58
+
+[members.0x58]
+name = "touchFlags"
+offset = 0x58
+type = "TOUCH_FLAGS"
+size = 0x4
+
+[members.0x5c]
+name = "touchMask"
+offset = 0x5c
+type = "TOUCH_MASK"
+size = 0x4
+
+[members.0x60]
+name = "rcContact"
+offset = 0x60
+type = "RECT"
+size = 0x10
+
+[members.0x70]
+name = "rcContactRaw"
+offset = 0x70
+type = "RECT"
+size = 0x10
+
+[members.0x80]
+name = "orientation"
+offset = 0x80
+type = "UINT32"
+size = 0x4
+
+[members.0x84]
+name = "pressure"
+offset = 0x84
+type = "UINT32"
+size = 0x4

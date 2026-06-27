@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.828690Z
+name = "_TRIVERTEX"
+size = 0x10
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "Red"
+offset = 0x8
+type = "COLOR16"
+size = 0x2
+
+[members.0xa]
+name = "Green"
+offset = 0xa
+type = "COLOR16"
+size = 0x2
+
+[members.0xc]
+name = "Blue"
+offset = 0xc
+type = "COLOR16"
+size = 0x2
+
+[members.0xe]
+name = "Alpha"
+offset = 0xe
+type = "COLOR16"
+size = 0x2

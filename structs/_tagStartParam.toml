@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.845080Z
+name = "_tagStartParam"
+size = 0x18
+
+[members.0x0]
+name = "iid"
+offset = 0x0
+type = "IID"
+size = 0x10
+
+[members.0x10]
+name = "pIBindCtx"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "pItf"
+offset = 0x14
+type = "void*"
+size = 0x4

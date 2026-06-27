@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.740287Z
+name = "_NDR_SCONTEXT"
+size = 0xc
+
+[members.0x0]
+name = "pad"
+offset = 0x0
+type = "void*[0x2]"
+size = 0x8
+
+[members.0x8]
+name = "userContext"
+offset = 0x8
+type = "void*"
+size = 0x4

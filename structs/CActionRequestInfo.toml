@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.589676Z
+name = "CActionRequestInfo"
+size = 0x30
+
+[members.0x0]
+name = "m_RequestName"
+offset = 0x0
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x20]
+name = "m_RequestFlag"
+offset = 0x20
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "m_RequestGotoLabel"
+offset = 0x24
+type = "ushort"
+size = 0x2
+
+[members.0x28]
+name = "m_SomeSkillIsRequested"
+offset = 0x28
+type = "bool"
+size = 0x1
+
+[members.0x2c]
+name = "m_RequestSkillID"
+offset = 0x2c
+type = "uint"
+size = 0x4

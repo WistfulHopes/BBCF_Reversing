@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.601554Z
+name = "DISK_SPACE_INFORMATION"
+size = 0x60
+
+[members.0x0]
+name = "ActualTotalAllocationUnits"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "ActualAvailableAllocationUnits"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "ActualPoolUnavailableAllocationUnits"
+offset = 0x10
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x18]
+name = "CallerTotalAllocationUnits"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x20]
+name = "CallerAvailableAllocationUnits"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x28]
+name = "CallerPoolUnavailableAllocationUnits"
+offset = 0x28
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x30]
+name = "UsedAllocationUnits"
+offset = 0x30
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x38]
+name = "TotalReservedAllocationUnits"
+offset = 0x38
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x40]
+name = "VolumeStorageReserveAllocationUnits"
+offset = 0x40
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x48]
+name = "AvailableCommittedAllocationUnits"
+offset = 0x48
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x50]
+name = "PoolAvailableAllocationUnits"
+offset = 0x50
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x58]
+name = "SectorsPerAllocationUnit"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "BytesPerSector"
+offset = 0x5c
+type = "DWORD"
+size = 0x4

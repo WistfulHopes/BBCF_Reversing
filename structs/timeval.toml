@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.924454Z
+name = "timeval"
+size = 0x8
+
+[members.0x0]
+name = "tv_sec"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "tv_usec"
+offset = 0x4
+type = "int"
+size = 0x4

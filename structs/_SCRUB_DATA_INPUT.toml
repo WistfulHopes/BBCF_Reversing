@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.792748Z
+name = "_SCRUB_DATA_INPUT"
+size = 0x4d0
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MaximumIos"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ObjectId"
+offset = 0xc
+type = "DWORD[0x4]"
+size = 0x10
+
+[members.0x1c]
+name = "Reserved"
+offset = 0x1c
+type = "DWORD[0x29]"
+size = 0xa4
+
+[members.0xc0]
+name = "ResumeContext"
+offset = 0xc0
+type = "BYTE[0x410]"
+size = 0x410

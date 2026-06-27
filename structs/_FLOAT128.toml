@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.703461Z
+name = "_FLOAT128"
+size = 0x10
+
+[members.0x0]
+name = "LowPart"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "HighPart"
+offset = 0x8
+type = "long long"
+size = 0x8

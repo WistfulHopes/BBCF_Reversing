@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.676991Z
+name = "_DEVICE_DATA_SET_SCRUB_OUTPUT"
+size = 0x18
+
+[members.0x0]
+name = "BytesProcessed"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "BytesRepaired"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "BytesFailed"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8

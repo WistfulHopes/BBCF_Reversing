@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.676594Z
+name = "_DEVICE_DATA_SET_LB_PROVISIONING_STATE_V2"
+size = 0x28
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SlabSizeInBytes"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "SlabOffsetDeltaInBytes"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "SlabAllocationBitMapBitCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "SlabAllocationBitMapLength"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "SlabAllocationBitMap"
+offset = 0x20
+type = "DWORD[0x1]"
+size = 0x4

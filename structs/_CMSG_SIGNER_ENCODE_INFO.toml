@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.656595Z
+name = "_CMSG_SIGNER_ENCODE_INFO"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pCertInfo"
+offset = 0x4
+type = "PCERT_INFO"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "dwKeySpec"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "HashAlgorithm"
+offset = 0x10
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x1c]
+name = "pvHashAuxInfo"
+offset = 0x1c
+type = "void*"
+size = 0x4
+
+[members.0x20]
+name = "cAuthAttr"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "rgAuthAttr"
+offset = 0x24
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4
+
+[members.0x28]
+name = "cUnauthAttr"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "rgUnauthAttr"
+offset = 0x2c
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4

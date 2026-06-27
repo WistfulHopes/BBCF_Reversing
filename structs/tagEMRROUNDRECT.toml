@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.870051Z
+name = "tagEMRROUNDRECT"
+size = 0x20
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBox"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "szlCorner"
+offset = 0x18
+type = "SIZEL"
+size = 0x8

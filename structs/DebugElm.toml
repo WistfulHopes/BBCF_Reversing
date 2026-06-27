@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.604140Z
+name = "DebugElm"
+size = 0x38
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "char*"
+size = 0x4
+
+[members.0x4]
+name = "cur"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "ini"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "min"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "max"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "flg"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "disp0"
+offset = 0x18
+type = "char*"
+size = 0x4
+
+[members.0x1c]
+name = "disp1"
+offset = 0x1c
+type = "char*"
+size = 0x4
+
+[members.0x20]
+name = "disp2"
+offset = 0x20
+type = "char*"
+size = 0x4
+
+[members.0x24]
+name = "disp3"
+offset = 0x24
+type = "char*"
+size = 0x4
+
+[members.0x28]
+name = "disp4"
+offset = 0x28
+type = "char*"
+size = 0x4
+
+[members.0x2c]
+name = "disp5"
+offset = 0x2c
+type = "char*"
+size = 0x4
+
+[members.0x30]
+name = "disp6"
+offset = 0x30
+type = "char*"
+size = 0x4
+
+[members.0x34]
+name = "disp7"
+offset = 0x34
+type = "char*"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.598181Z
+name = "D3DCOLORVALUE"
+size = 0x10
+
+[members.0x0]
+name = "r"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "g"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "b"
+offset = 0x8
+type = "float"
+size = 0x4
+
+[members.0xc]
+name = "a"
+offset = 0xc
+type = "float"
+size = 0x4

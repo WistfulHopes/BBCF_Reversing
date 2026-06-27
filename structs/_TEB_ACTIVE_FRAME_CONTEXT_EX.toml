@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.824265Z
+name = "_TEB_ACTIVE_FRAME_CONTEXT_EX"
+size = 0xc
+
+[members.0x0]
+name = "BasicContext"
+offset = 0x0
+type = "TEB_ACTIVE_FRAME_CONTEXT"
+size = 0x8
+
+[members.0x8]
+name = "SourceLocation"
+offset = 0x8
+type = "PCSTR"
+size = 0x4

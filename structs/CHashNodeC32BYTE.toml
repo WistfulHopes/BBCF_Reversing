@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.592433Z
+name = "CHashNodeC32BYTE"
+size = 0x8
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct CHashNode::CHashNodeC32BYTE::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_HashKey"
+offset = 0x4
+type = "struct CHashKey"
+size = 0x4

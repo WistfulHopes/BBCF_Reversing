@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.887124Z
+name = "tagMCI_OVLY_RECT_PARMS"
+size = 0x14
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "rc"
+offset = 0x4
+type = "RECT"
+size = 0x10

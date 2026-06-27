@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.636268Z
+name = "_BCryptBuffer"
+size = 0xc
+
+[members.0x0]
+name = "cbBuffer"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "BufferType"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pvBuffer"
+offset = 0x8
+type = "PVOID"
+size = 0x4

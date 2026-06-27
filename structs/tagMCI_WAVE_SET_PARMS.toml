@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.889377Z
+name = "tagMCI_WAVE_SET_PARMS"
+size = 0x2c
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "dwTimeFormat"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwAudio"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "wInput"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "wOutput"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "wFormatTag"
+offset = 0x14
+type = "WORD"
+size = 0x2
+
+[members.0x16]
+name = "wReserved2"
+offset = 0x16
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = "nChannels"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "wReserved3"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "nSamplesPerSec"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "nAvgBytesPerSec"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "nBlockAlign"
+offset = 0x24
+type = "WORD"
+size = 0x2
+
+[members.0x26]
+name = "wReserved4"
+offset = 0x26
+type = "WORD"
+size = 0x2
+
+[members.0x28]
+name = "wBitsPerSample"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "wReserved5"
+offset = 0x2a
+type = "WORD"
+size = 0x2

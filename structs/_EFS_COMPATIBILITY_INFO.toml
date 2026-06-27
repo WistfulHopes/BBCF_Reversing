@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.690112Z
+name = "_EFS_COMPATIBILITY_INFO"
+size = 0x4
+
+[members.0x0]
+name = "EfsVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4

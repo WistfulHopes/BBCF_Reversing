@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.682173Z
+name = "_DISK_PARTITION_INFO"
+size = 0x18
+
+[members.0x0]
+name = "SizeOfPartitionInfo"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "PartitionStyle"
+offset = 0x4
+type = "PARTITION_STYLE"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x10

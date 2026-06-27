@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.685916Z
+name = "_DRIVER_INFO_1W"
+size = 0x4
+
+[members.0x0]
+name = "pName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4

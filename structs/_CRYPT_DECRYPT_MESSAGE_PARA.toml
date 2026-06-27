@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.665012Z
+name = "_CRYPT_DECRYPT_MESSAGE_PARA"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgAndCertEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "cCertStore"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rghCertStore"
+offset = 0xc
+type = "HCERTSTORE*"
+size = 0x4

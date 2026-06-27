@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.764859Z
+name = "_PRINT_EXECUTION_DATA"
+size = 0x8
+
+[members.0x0]
+name = "context"
+offset = 0x0
+type = "PRINT_EXECUTION_CONTEXT"
+size = 0x4
+
+[members.0x4]
+name = "clientAppPID"
+offset = 0x4
+type = "DWORD"
+size = 0x4

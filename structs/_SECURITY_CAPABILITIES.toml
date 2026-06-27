@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.794694Z
+name = "_SECURITY_CAPABILITIES"
+size = 0x10
+
+[members.0x0]
+name = "AppContainerSid"
+offset = 0x0
+type = "PSID"
+size = 0x4
+
+[members.0x4]
+name = "Capabilities"
+offset = 0x4
+type = "PSID_AND_ATTRIBUTES"
+size = 0x4
+
+[members.0x8]
+name = "CapabilityCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Reserved"
+offset = 0xc
+type = "DWORD"
+size = 0x4

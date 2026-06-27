@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.723968Z
+name = "_JOBOBJECT_IO_ATTRIBUTION_STATS"
+size = 0x20
+
+[members.0x0]
+name = "IoCount"
+offset = 0x0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x8]
+name = "TotalNonOverlappedQueueTime"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "TotalNonOverlappedServiceTime"
+offset = 0x10
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x18]
+name = "TotalSize"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8

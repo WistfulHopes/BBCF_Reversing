@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.792240Z
+name = "_SCM_REGION"
+size = 0x60
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "NfitHandle"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "LogicalDeviceGuid"
+offset = 0x10
+type = "GUID"
+size = 0x10
+
+[members.0x20]
+name = "AddressRangeType"
+offset = 0x20
+type = "GUID"
+size = 0x10
+
+[members.0x30]
+name = "AssociatedId"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "Length"
+offset = 0x38
+type = "DWORD64"
+size = 0x8
+
+[members.0x40]
+name = "StartingDPA"
+offset = 0x40
+type = "DWORD64"
+size = 0x8
+
+[members.0x48]
+name = "BaseSPA"
+offset = 0x48
+type = "DWORD64"
+size = 0x8
+
+[members.0x50]
+name = "SPAOffset"
+offset = 0x50
+type = "DWORD64"
+size = 0x8
+
+[members.0x58]
+name = "RegionOffset"
+offset = 0x58
+type = "DWORD64"
+size = 0x8

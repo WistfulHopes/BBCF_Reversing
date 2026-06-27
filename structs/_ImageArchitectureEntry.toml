@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.722551Z
+name = "_ImageArchitectureEntry"
+size = 0x8
+
+[members.0x0]
+name = "FixupInstRVA"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "NewInst"
+offset = 0x4
+type = "DWORD"
+size = 0x4

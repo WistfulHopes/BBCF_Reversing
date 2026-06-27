@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.650755Z
+name = "_CLIENT_CALL_RETURN"
+size = 0x4
+
+[members.0x0]
+name = "Simple"
+offset = 0x0
+type = "LONG_PTR"
+size = 0x4

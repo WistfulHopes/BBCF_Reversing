@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.603197Z
+name = "DISPLAYCONFIG_TARGET_MODE"
+size = 0x30
+
+[members.0x0]
+name = "targetVideoSignalInfo"
+offset = 0x0
+type = "struct DISPLAYCONFIG_VIDEO_SIGNAL_INFO"
+size = 0x30

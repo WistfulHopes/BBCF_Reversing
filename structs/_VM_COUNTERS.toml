@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.835077Z
+name = "_VM_COUNTERS"
+size = 0x2c
+
+[members.0x0]
+name = "PeakVirtualSize"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "VirtualSize"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4
+
+[members.0x8]
+name = "PageFaultCount"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "PeakWorkingSetSize"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "WorkingSetSize"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4
+
+[members.0x14]
+name = "QuotaPeakPagedPoolUsage"
+offset = 0x14
+type = "SIZE_T"
+size = 0x4
+
+[members.0x18]
+name = "QuotaPagedPoolUsage"
+offset = 0x18
+type = "SIZE_T"
+size = 0x4
+
+[members.0x1c]
+name = "QuotaPeakNonPagedPoolUsage"
+offset = 0x1c
+type = "SIZE_T"
+size = 0x4
+
+[members.0x20]
+name = "QuotaNonPagedPoolUsage"
+offset = 0x20
+type = "SIZE_T"
+size = 0x4
+
+[members.0x24]
+name = "PagefileUsage"
+offset = 0x24
+type = "SIZE_T"
+size = 0x4
+
+[members.0x28]
+name = "PeakPagefileUsage"
+offset = 0x28
+type = "SIZE_T"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.730920Z
+name = "_LOAD_DLL_DEBUG_INFO"
+size = 0x18
+
+[members.0x0]
+name = "hFile"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "lpBaseOfDll"
+offset = 0x4
+type = "LPVOID"
+size = 0x4
+
+[members.0x8]
+name = "dwDebugInfoFileOffset"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "nDebugInfoSize"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "lpImageName"
+offset = 0x10
+type = "LPVOID"
+size = 0x4
+
+[members.0x14]
+name = "fUnicode"
+offset = 0x14
+type = "WORD"
+size = 0x2

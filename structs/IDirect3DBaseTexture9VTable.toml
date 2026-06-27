@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.610642Z
+name = "IDirect3DBaseTexture9VTable"
+size = 0x44
+
+[members.0x2c]
+name = "SetLOD"
+offset = 0x2c
+type = "uint (*)(struct IDirect3DBaseTexture9* this, uint LODNew)"
+size = 0x4
+
+[members.0x30]
+name = "GetLOD"
+offset = 0x30
+type = "uint (*)(struct IDirect3DBaseTexture9* this)"
+size = 0x4
+
+[members.0x34]
+name = "GetLevelCount"
+offset = 0x34
+type = "uint (*)(struct IDirect3DBaseTexture9* this)"
+size = 0x4
+
+[members.0x38]
+name = "SetAutoGenFilterType"
+offset = 0x38
+type = "HRESULT (*)(struct IDirect3DBaseTexture9* this, enum D3DTEXTUREFILTERTYPE FilterType)"
+size = 0x4
+
+[members.0x3c]
+name = "GetAutoGenFilterType"
+offset = 0x3c
+type = "enum D3DTEXTUREFILTERTYPE (*)(struct IDirect3DBaseTexture9* this)"
+size = 0x4
+
+[members.0x40]
+name = "GenerateMipSubLevels"
+offset = 0x40
+type = "void (*)(struct IDirect3DBaseTexture9* this)"
+size = 0x4

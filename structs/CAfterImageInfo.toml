@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.589841Z
+name = "CAfterImageInfo"
+size = 0x6c
+
+[members.0x0]
+name = "m_CollisionFileAddr"
+offset = 0x0
+type = "uchar*"
+size = 0x4
+
+[members.0x4]
+name = "m_PosX"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_PosY"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_PosZ"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_Direction"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_OffsetPosX"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_OffsetPosY"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "m_AfterImageColor"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "m_ObjTimer"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "m_Angle"
+offset = 0x28
+type = "int"
+size = 0x4

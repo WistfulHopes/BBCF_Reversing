@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.608522Z
+name = "HKEY__"
+size = 0x4
+
+[members.0x0]
+name = "unused"
+offset = 0x0
+type = "int"
+size = 0x4

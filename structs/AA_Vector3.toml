@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.586264Z
+name = "AA_Vector3"
+size = 0xc
+
+[members.0x0]
+name = "X"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "Y"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "Z"
+offset = 0x8
+type = "float"
+size = 0x4

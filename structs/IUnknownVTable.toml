@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.616868Z
+name = "IUnknownVTable"
+size = 0xc
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (*)(struct IUnknown* this, GUID* riid, void** ppvObject)"
+size = 0x4
+
+[members.0x4]
+name = "AddRef"
+offset = 0x4
+type = "uint (*)(struct IUnknown* this)"
+size = 0x4
+
+[members.0x8]
+name = "Release"
+offset = 0x8
+type = "uint (*)(struct IUnknown* this)"
+size = 0x4

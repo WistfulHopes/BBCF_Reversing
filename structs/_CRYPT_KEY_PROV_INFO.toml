@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.666441Z
+name = "_CRYPT_KEY_PROV_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "pwszContainerName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pwszProvName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "dwProvType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cProvParam"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgProvParam"
+offset = 0x14
+type = "PCRYPT_KEY_PROV_PARAM"
+size = 0x4
+
+[members.0x18]
+name = "dwKeySpec"
+offset = 0x18
+type = "DWORD"
+size = 0x4

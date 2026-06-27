@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.840089Z
+name = "__MIDL___MIDL_itf_wtypes_0000_0001_0001"
+size = 0x24
+
+[members.0x0]
+name = "tyspec"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "tagged_union"
+offset = 0x4
+type = "union"
+size = 0x20

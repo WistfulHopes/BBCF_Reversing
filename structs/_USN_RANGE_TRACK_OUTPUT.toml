@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.832360Z
+name = "_USN_RANGE_TRACK_OUTPUT"
+size = 0x8
+
+[members.0x0]
+name = "Usn"
+offset = 0x0
+type = "USN"
+size = 0x8

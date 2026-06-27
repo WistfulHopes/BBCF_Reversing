@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.692347Z
+name = "_ENLISTMENT_CRM_INFORMATION"
+size = 0x30
+
+[members.0x0]
+name = "CrmTransactionManagerId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "CrmResourceManagerId"
+offset = 0x10
+type = "GUID"
+size = 0x10
+
+[members.0x20]
+name = "CrmEnlistmentId"
+offset = 0x20
+type = "GUID"
+size = 0x10

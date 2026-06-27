@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.724522Z
+name = "_JOBOBJECT_SECURITY_LIMIT_INFORMATION"
+size = 0x14
+
+[members.0x0]
+name = "SecurityLimitFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "JobToken"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "SidsToDisable"
+offset = 0x8
+type = "PTOKEN_GROUPS"
+size = 0x4
+
+[members.0xc]
+name = "PrivilegesToDelete"
+offset = 0xc
+type = "PTOKEN_PRIVILEGES"
+size = 0x4
+
+[members.0x10]
+name = "RestrictedSids"
+offset = 0x10
+type = "PTOKEN_GROUPS"
+size = 0x4

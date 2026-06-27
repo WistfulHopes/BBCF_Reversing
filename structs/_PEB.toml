@@ -1,0 +1,531 @@
+last_change = 2026-06-27T20:49:16.754519Z
+name = "_PEB"
+size = 0x488
+
+[members.0x0]
+name = "InheritedAddressSpace"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "ReadImageFileExecOptions"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "BeingDebugged"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x3]
+name = "ImageUsesLargePages"
+offset = 0x3
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "Mutant"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "ImageBaseAddress"
+offset = 0x8
+type = "PVOID"
+size = 0x4
+
+[members.0xc]
+name = "Ldr"
+offset = 0xc
+type = "PPEB_LDR_DATA"
+size = 0x4
+
+[members.0x10]
+name = "ProcessParameters"
+offset = 0x10
+type = "struct _RTL_USER_PROCESS_PARAMETERS*"
+size = 0x4
+
+[members.0x14]
+name = "SubSystemData"
+offset = 0x14
+type = "PVOID"
+size = 0x4
+
+[members.0x18]
+name = "ProcessHeap"
+offset = 0x18
+type = "PVOID"
+size = 0x4
+
+[members.0x1c]
+name = "FastPebLock"
+offset = 0x1c
+type = "struct _RTL_CRITICAL_SECTION*"
+size = 0x4
+
+[members.0x20]
+name = "AtlThunkSListPtr"
+offset = 0x20
+type = "PVOID"
+size = 0x4
+
+[members.0x24]
+name = "SparePtr2"
+offset = 0x24
+type = "PVOID"
+size = 0x4
+
+[members.0x28]
+name = "EnvironmentUpdateCount"
+offset = 0x28
+type = "ULONG"
+size = 0x4
+
+[members.0x2c]
+name = "KernelCallbackTable"
+offset = 0x2c
+type = "PVOID"
+size = 0x4
+
+[members.0x30]
+name = "SystemReserved"
+offset = 0x30
+type = "ULONG[0x1]"
+size = 0x4
+
+[members.0x34]
+name = "SpareUlong"
+offset = 0x34
+type = "ULONG"
+size = 0x4
+
+[members.0x38]
+name = "FreeList"
+offset = 0x38
+type = "PPEB_FREE_BLOCK"
+size = 0x4
+
+[members.0x3c]
+name = "TlsExpansionCounter"
+offset = 0x3c
+type = "ULONG"
+size = 0x4
+
+[members.0x40]
+name = "TlsBitmap"
+offset = 0x40
+type = "PVOID"
+size = 0x4
+
+[members.0x44]
+name = "TlsBitmapBits"
+offset = 0x44
+type = "ULONG[0x2]"
+size = 0x8
+
+[members.0x4c]
+name = "ReadOnlySharedMemoryBase"
+offset = 0x4c
+type = "PVOID"
+size = 0x4
+
+[members.0x50]
+name = "ReadOnlySharedMemoryHeap"
+offset = 0x50
+type = "PVOID"
+size = 0x4
+
+[members.0x54]
+name = "ReadOnlyStaticServerData"
+offset = 0x54
+type = "PPVOID"
+size = 0x4
+
+[members.0x58]
+name = "AnsiCodePageData"
+offset = 0x58
+type = "PVOID"
+size = 0x4
+
+[members.0x5c]
+name = "OemCodePageData"
+offset = 0x5c
+type = "PVOID"
+size = 0x4
+
+[members.0x60]
+name = "UnicodeCaseTableData"
+offset = 0x60
+type = "PVOID"
+size = 0x4
+
+[members.0x64]
+name = "NumberOfProcessors"
+offset = 0x64
+type = "ULONG"
+size = 0x4
+
+[members.0x68]
+name = "NtGlobalFlag"
+offset = 0x68
+type = "ULONG"
+size = 0x4
+
+[members.0x70]
+name = "CriticalSectionTimeout"
+offset = 0x70
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x78]
+name = "HeapSegmentReserve"
+offset = 0x78
+type = "SIZE_T"
+size = 0x4
+
+[members.0x7c]
+name = "HeapSegmentCommit"
+offset = 0x7c
+type = "SIZE_T"
+size = 0x4
+
+[members.0x80]
+name = "HeapDeCommitTotalFreeThreshold"
+offset = 0x80
+type = "SIZE_T"
+size = 0x4
+
+[members.0x84]
+name = "HeapDeCommitFreeBlockThreshold"
+offset = 0x84
+type = "SIZE_T"
+size = 0x4
+
+[members.0x88]
+name = "NumberOfHeaps"
+offset = 0x88
+type = "ULONG"
+size = 0x4
+
+[members.0x8c]
+name = "MaximumNumberOfHeaps"
+offset = 0x8c
+type = "ULONG"
+size = 0x4
+
+[members.0x90]
+name = "ProcessHeaps"
+offset = 0x90
+type = "PPVOID"
+size = 0x4
+
+[members.0x94]
+name = "GdiSharedHandleTable"
+offset = 0x94
+type = "PVOID"
+size = 0x4
+
+[members.0x98]
+name = "ProcessStarterHelper"
+offset = 0x98
+type = "PVOID"
+size = 0x4
+
+[members.0x9c]
+name = "GdiDCAttributeList"
+offset = 0x9c
+type = "ULONG"
+size = 0x4
+
+[members.0xa0]
+name = "LoaderLock"
+offset = 0xa0
+type = "struct _RTL_CRITICAL_SECTION*"
+size = 0x4
+
+[members.0xa4]
+name = "OSMajorVersion"
+offset = 0xa4
+type = "ULONG"
+size = 0x4
+
+[members.0xa8]
+name = "OSMinorVersion"
+offset = 0xa8
+type = "ULONG"
+size = 0x4
+
+[members.0xac]
+name = "OSBuildNumber"
+offset = 0xac
+type = "USHORT"
+size = 0x2
+
+[members.0xae]
+name = "OSCSDVersion"
+offset = 0xae
+type = "USHORT"
+size = 0x2
+
+[members.0xb0]
+name = "OSPlatformId"
+offset = 0xb0
+type = "ULONG"
+size = 0x4
+
+[members.0xb4]
+name = "ImageSubsystem"
+offset = 0xb4
+type = "ULONG"
+size = 0x4
+
+[members.0xb8]
+name = "ImageSubsystemMajorVersion"
+offset = 0xb8
+type = "ULONG"
+size = 0x4
+
+[members.0xbc]
+name = "ImageSubsystemMinorVersion"
+offset = 0xbc
+type = "ULONG"
+size = 0x4
+
+[members.0xc0]
+name = "ImageProcessAffinityMask"
+offset = 0xc0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xc4]
+name = "GdiHandleBuffer"
+offset = 0xc4
+type = "GDI_HANDLE_BUFFER"
+size = 0x88
+
+[members.0x14c]
+name = "PostProcessInitRoutine"
+offset = 0x14c
+type = "PPS_POST_PROCESS_INIT_ROUTINE"
+size = 0x4
+
+[members.0x150]
+name = "TlsExpansionBitmap"
+offset = 0x150
+type = "PVOID"
+size = 0x4
+
+[members.0x154]
+name = "TlsExpansionBitmapBits"
+offset = 0x154
+type = "ULONG[0x20]"
+size = 0x80
+
+[members.0x1d4]
+name = "SessionId"
+offset = 0x1d4
+type = "ULONG"
+size = 0x4
+
+[members.0x1d8]
+name = "AppCompatFlags"
+offset = 0x1d8
+type = "ULARGE_INTEGER"
+size = 0x8
+
+[members.0x1e0]
+name = "AppCompatFlagsUser"
+offset = 0x1e0
+type = "ULARGE_INTEGER"
+size = 0x8
+
+[members.0x1e8]
+name = "pShimData"
+offset = 0x1e8
+type = "PVOID"
+size = 0x4
+
+[members.0x1ec]
+name = "AppCompatInfo"
+offset = 0x1ec
+type = "PVOID"
+size = 0x4
+
+[members.0x1f0]
+name = "CSDVersion"
+offset = 0x1f0
+type = "UNICODE_STRING"
+size = 0x8
+
+[members.0x1f8]
+name = "ActivationContextData"
+offset = 0x1f8
+type = "struct _ACTIVATION_CONTEXT_DATA const*"
+size = 0x4
+
+[members.0x1fc]
+name = "ProcessAssemblyStorageMap"
+offset = 0x1fc
+type = "struct _ASSEMBLY_STORAGE_MAP*"
+size = 0x4
+
+[members.0x200]
+name = "SystemDefaultActivationContextData"
+offset = 0x200
+type = "struct _ACTIVATION_CONTEXT_DATA const*"
+size = 0x4
+
+[members.0x204]
+name = "SystemAssemblyStorageMap"
+offset = 0x204
+type = "struct _ASSEMBLY_STORAGE_MAP*"
+size = 0x4
+
+[members.0x208]
+name = "MinimumStackCommit"
+offset = 0x208
+type = "SIZE_T"
+size = 0x4
+
+[members.0x20c]
+name = "FlsCallback"
+offset = 0x20c
+type = "PPVOID"
+size = 0x4
+
+[members.0x210]
+name = "FlsListHead"
+offset = 0x210
+type = "LIST_ENTRY"
+size = 0x8
+
+[members.0x218]
+name = "FlsBitmap"
+offset = 0x218
+type = "PVOID"
+size = 0x4
+
+[members.0x21c]
+name = "FlsBitmapBits"
+offset = 0x21c
+type = "ULONG[0x4]"
+size = 0x10
+
+[members.0x22c]
+name = "FlsHighIndex"
+offset = 0x22c
+type = "ULONG"
+size = 0x4
+
+[members.0x230]
+name = "WerRegistrationData"
+offset = 0x230
+type = "PPVOID"
+size = 0x4
+
+[members.0x234]
+name = "WerShipAssertPtr"
+offset = 0x234
+type = "PPVOID"
+size = 0x4
+
+[members.0x238]
+name = "pContextData"
+offset = 0x238
+type = "PPVOID"
+size = 0x4
+
+[members.0x23c]
+name = "pImageHeaderHash"
+offset = 0x23c
+type = "PPVOID"
+size = 0x4
+
+[members.0x240]
+name = "TracingFlags"
+offset = 0x240
+type = "ULONG"
+size = 0x4
+
+[members.0x248]
+name = "CsrServerReadOnlySharedMemoryBase"
+offset = 0x248
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x250]
+name = "TppWorkerpListLock"
+offset = 0x250
+type = "ULONG"
+size = 0x4
+
+[members.0x254]
+name = "TppWorkerpList"
+offset = 0x254
+type = "LIST_ENTRY"
+size = 0x8
+
+[members.0x25c]
+name = "WaitOnAddressHashTable"
+offset = 0x25c
+type = "PPVOID[0x80]"
+size = 0x200
+
+[members.0x45c]
+name = "TelemetryCoverageHeader"
+offset = 0x45c
+type = "PPVOID"
+size = 0x4
+
+[members.0x460]
+name = "CloudFileFlags"
+offset = 0x460
+type = "ULONG"
+size = 0x4
+
+[members.0x464]
+name = "CloudFileDiagFlags"
+offset = 0x464
+type = "ULONG"
+size = 0x4
+
+[members.0x468]
+name = "PlaceholderCompatibiltyMode"
+offset = 0x468
+type = "CHAR"
+size = 0x1
+
+[members.0x469]
+name = "PlaceholderCompatibilityModeReserved"
+offset = 0x469
+type = "CHAR[0x7]"
+size = 0x7
+
+[members.0x470]
+name = "LeapSecondData"
+offset = 0x470
+type = "struct _LEAP_SECOND_DATA*"
+size = 0x4
+
+[members.0x474]
+name = "LeapSecondFlags"
+offset = 0x474
+type = "ULONG"
+size = 0x4
+
+[members.0x478]
+name = "NtGlobalFlag2"
+offset = 0x478
+type = "ULONG"
+size = 0x4
+
+[members.0x480]
+name = "ExtendedFeatureDisableMask"
+offset = 0x480
+type = "ULONGLONG"
+size = 0x8

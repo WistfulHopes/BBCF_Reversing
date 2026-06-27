@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.600277Z
+name = "D3DVECTOR"
+size = 0xc
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "z"
+offset = 0x8
+type = "float"
+size = 0x4

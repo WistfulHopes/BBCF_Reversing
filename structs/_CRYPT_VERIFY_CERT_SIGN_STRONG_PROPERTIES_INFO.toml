@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.671219Z
+name = "_CRYPT_VERIFY_CERT_SIGN_STRONG_PROPERTIES_INFO"
+size = 0x10
+
+[members.0x0]
+name = "CertSignHashCNGAlgPropData"
+offset = 0x0
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "CertIssuerPubKeyBitLengthPropData"
+offset = 0x8
+type = "CRYPT_DATA_BLOB"
+size = 0x8

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.647906Z
+name = "_CERT_SUPPORTED_ALGORITHM_INFO"
+size = 0x20
+
+[members.0x0]
+name = "Algorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "IntendedKeyUsage"
+offset = 0xc
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x18]
+name = "IntendedCertPolicies"
+offset = 0x18
+type = "CERT_POLICIES_INFO"
+size = 0x8

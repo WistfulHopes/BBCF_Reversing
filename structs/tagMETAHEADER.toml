@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.891204Z
+name = "tagMETAHEADER"
+size = 0x18
+
+[members.0x0]
+name = "mtType"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "mtHeaderSize"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "mtVersion"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "mtSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "mtNoObjects"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "mtMaxRecord"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "mtNoParameters"
+offset = 0x14
+type = "WORD"
+size = 0x2

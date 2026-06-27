@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.708065Z
+name = "_GET_LENGTH_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.681537Z
+name = "_DISK_GEOMETRY"
+size = 0x18
+
+[members.0x0]
+name = "Cylinders"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "MediaType"
+offset = 0x8
+type = "MEDIA_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "TracksPerCylinder"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "SectorsPerTrack"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "BytesPerSector"
+offset = 0x14
+type = "DWORD"
+size = 0x4

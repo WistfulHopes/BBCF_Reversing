@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.602803Z
+name = "DISPLAYCONFIG_SOURCE_MODE"
+size = 0x14
+
+[members.0x0]
+name = "width"
+offset = 0x0
+type = "UINT32"
+size = 0x4
+
+[members.0x4]
+name = "height"
+offset = 0x4
+type = "UINT32"
+size = 0x4
+
+[members.0x8]
+name = "pixelFormat"
+offset = 0x8
+type = "DISPLAYCONFIG_PIXELFORMAT"
+size = 0x4
+
+[members.0xc]
+name = "position"
+offset = 0xc
+type = "POINTL"
+size = 0x8

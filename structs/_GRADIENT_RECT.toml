@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.708509Z
+name = "_GRADIENT_RECT"
+size = 0x8
+
+[members.0x0]
+name = "UpperLeft"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "LowerRight"
+offset = 0x4
+type = "ULONG"
+size = 0x4

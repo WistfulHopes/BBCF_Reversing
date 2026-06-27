@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.642561Z
+name = "_CERT_LDAP_STORE_OPENED_PARA"
+size = 0x8
+
+[members.0x0]
+name = "pvLdapSessionHandle"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "pwszLdapUrl"
+offset = 0x4
+type = "LPCWSTR"
+size = 0x4

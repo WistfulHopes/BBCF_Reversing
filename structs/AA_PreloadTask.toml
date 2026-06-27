@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.584908Z
+name = "AA_PreloadTask"
+size = 0x4c
+
+[members.0x18]
+name = "m_PreloadStatus"
+offset = 0x18
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x1c]
+name = "m_StaticObj"
+offset = 0x1c
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x20]
+name = "m_ParticleDatE0"
+offset = 0x20
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x24]
+name = "m_Font"
+offset = 0x24
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x28]
+name = "m_SE00"
+offset = 0x28
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x2c]
+name = "m_SoundSample"
+offset = 0x2c
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x30]
+name = "m_RannyuBGM"
+offset = 0x30
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x34]
+name = "m_CharaSelectBGM"
+offset = 0x34
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x38]
+name = "m_StaticSImg"
+offset = 0x38
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x3c]
+name = "m_ParticleImgE0"
+offset = 0x3c
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x40]
+name = "m_NS000"
+offset = 0x40
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x44]
+name = "m_AllianceTable"
+offset = 0x44
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x48]
+name = "m_SharedSetting"
+offset = 0x48
+type = "struct AA_Filepack_FPAC"
+size = 0x4

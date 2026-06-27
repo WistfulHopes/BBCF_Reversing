@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.861393Z
+name = "tagCURSORSHAPE"
+size = 0x18
+
+[members.0x0]
+name = "xHotSpot"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "yHotSpot"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "cx"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "cy"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "cbWidth"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "Planes"
+offset = 0x14
+type = "BYTE"
+size = 0x1
+
+[members.0x15]
+name = "BitsPixel"
+offset = 0x15
+type = "BYTE"
+size = 0x1

@@ -1,0 +1,141 @@
+last_change = 2026-06-27T20:49:16.900748Z
+name = "tagOFNA"
+size = 0x58
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hInstance"
+offset = 0x8
+type = "HINSTANCE"
+size = 0x4
+
+[members.0xc]
+name = "lpstrFilter"
+offset = 0xc
+type = "LPCSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpstrCustomFilter"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "nMaxCustFilter"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "nFilterIndex"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "lpstrFile"
+offset = 0x1c
+type = "LPSTR"
+size = 0x4
+
+[members.0x20]
+name = "nMaxFile"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "lpstrFileTitle"
+offset = 0x24
+type = "LPSTR"
+size = 0x4
+
+[members.0x28]
+name = "nMaxFileTitle"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "lpstrInitialDir"
+offset = 0x2c
+type = "LPCSTR"
+size = 0x4
+
+[members.0x30]
+name = "lpstrTitle"
+offset = 0x30
+type = "LPCSTR"
+size = 0x4
+
+[members.0x34]
+name = "Flags"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "nFileOffset"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "nFileExtension"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "lpstrDefExt"
+offset = 0x3c
+type = "LPCSTR"
+size = 0x4
+
+[members.0x40]
+name = "lCustData"
+offset = 0x40
+type = "LPARAM"
+size = 0x4
+
+[members.0x44]
+name = "lpfnHook"
+offset = 0x44
+type = "LPOFNHOOKPROC"
+size = 0x4
+
+[members.0x48]
+name = "lpTemplateName"
+offset = 0x48
+type = "LPCSTR"
+size = 0x4
+
+[members.0x4c]
+name = "pvReserved"
+offset = 0x4c
+type = "void*"
+size = 0x4
+
+[members.0x50]
+name = "dwReserved"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "FlagsEx"
+offset = 0x54
+type = "DWORD"
+size = 0x4

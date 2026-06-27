@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.779187Z
+name = "_RPC_ASYNC_NOTIFICATION_INFO"
+size = 0x10
+
+[members.0x0]
+name = "NotificationRoutine"
+offset = 0x0
+type = "PFN_RPCNOTIFICATION_ROUTINE"
+size = 0x4

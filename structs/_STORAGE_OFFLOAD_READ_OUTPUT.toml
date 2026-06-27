@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.811153Z
+name = "_STORAGE_OFFLOAD_READ_OUTPUT"
+size = 0x218
+
+[members.0x0]
+name = "OffloadReadFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "LengthProtected"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "TokenLength"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Token"
+offset = 0x14
+type = "STORAGE_OFFLOAD_TOKEN"
+size = 0x200

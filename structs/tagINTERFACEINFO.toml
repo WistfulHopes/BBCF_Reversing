@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.880216Z
+name = "tagINTERFACEINFO"
+size = 0x18
+
+[members.0x0]
+name = "pUnk"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "iid"
+offset = 0x4
+type = "IID"
+size = 0x10
+
+[members.0x14]
+name = "wMethod"
+offset = 0x14
+type = "WORD"
+size = 0x2

@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.812083Z
+name = "_STORAGE_PHYSICAL_NODE_DATA"
+size = 0x28
+
+[members.0x0]
+name = "NodeId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "AdapterCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "AdapterDataLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "AdapterDataOffset"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "DeviceCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "DeviceDataLength"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "DeviceDataOffset"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "Reserved"
+offset = 0x1c
+type = "DWORD[0x3]"
+size = 0xc

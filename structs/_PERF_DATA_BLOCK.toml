@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.755553Z
+name = "_PERF_DATA_BLOCK"
+size = 0x58
+
+[members.0x0]
+name = "Signature"
+offset = 0x0
+type = "WCHAR[0x4]"
+size = 0x8
+
+[members.0x8]
+name = "LittleEndian"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Version"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Revision"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "TotalByteLength"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "HeaderLength"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "NumObjectTypes"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "DefaultObject"
+offset = 0x20
+type = "LONG"
+size = 0x4
+
+[members.0x24]
+name = "SystemTime"
+offset = 0x24
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x38]
+name = "PerfTime"
+offset = 0x38
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x40]
+name = "PerfFreq"
+offset = 0x40
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x48]
+name = "PerfTime100nSec"
+offset = 0x48
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x50]
+name = "SystemNameLength"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "SystemNameOffset"
+offset = 0x54
+type = "DWORD"
+size = 0x4

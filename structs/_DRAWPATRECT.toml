@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.685722Z
+name = "_DRAWPATRECT"
+size = 0x14
+
+[members.0x0]
+name = "ptPosition"
+offset = 0x0
+type = "POINT"
+size = 0x8
+
+[members.0x8]
+name = "ptSize"
+offset = 0x8
+type = "POINT"
+size = 0x8
+
+[members.0x10]
+name = "wStyle"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "wPattern"
+offset = 0x12
+type = "WORD"
+size = 0x2

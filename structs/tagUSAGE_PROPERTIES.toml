@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.918883Z
+name = "tagUSAGE_PROPERTIES"
+size = 0x20
+
+[members.0x0]
+name = "level"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "page"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "usage"
+offset = 0x4
+type = "USHORT"
+size = 0x2
+
+[members.0x8]
+name = "logicalMinimum"
+offset = 0x8
+type = "INT32"
+size = 0x4
+
+[members.0xc]
+name = "logicalMaximum"
+offset = 0xc
+type = "INT32"
+size = 0x4
+
+[members.0x10]
+name = "unit"
+offset = 0x10
+type = "USHORT"
+size = 0x2
+
+[members.0x12]
+name = "exponent"
+offset = 0x12
+type = "USHORT"
+size = 0x2
+
+[members.0x14]
+name = "count"
+offset = 0x14
+type = "BYTE"
+size = 0x1
+
+[members.0x18]
+name = "physicalMinimum"
+offset = 0x18
+type = "INT32"
+size = 0x4
+
+[members.0x1c]
+name = "physicalMaximum"
+offset = 0x1c
+type = "INT32"
+size = 0x4

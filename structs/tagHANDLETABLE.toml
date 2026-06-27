@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.877595Z
+name = "tagHANDLETABLE"
+size = 0x4
+
+[members.0x0]
+name = "objectHandle"
+offset = 0x0
+type = "HGDIOBJ[0x1]"
+size = 0x4

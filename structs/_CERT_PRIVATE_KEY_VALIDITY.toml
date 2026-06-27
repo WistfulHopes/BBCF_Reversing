@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.645113Z
+name = "_CERT_PRIVATE_KEY_VALIDITY"
+size = 0x10
+
+[members.0x0]
+name = "NotBefore"
+offset = 0x0
+type = "FILETIME"
+size = 0x8
+
+[members.0x8]
+name = "NotAfter"
+offset = 0x8
+type = "FILETIME"
+size = 0x8

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.641125Z
+name = "_CERT_CREATE_CONTEXT_PARA"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pfnFree"
+offset = 0x4
+type = "PFN_CRYPT_FREE"
+size = 0x4
+
+[members.0x8]
+name = "pvFree"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "pfnSort"
+offset = 0xc
+type = "PFN_CERT_CREATE_CONTEXT_SORT_FUNC"
+size = 0x4
+
+[members.0x10]
+name = "pvSort"
+offset = 0x10
+type = "void*"
+size = 0x4

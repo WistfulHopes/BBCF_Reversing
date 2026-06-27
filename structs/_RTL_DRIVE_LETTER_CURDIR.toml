@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.786023Z
+name = "_RTL_DRIVE_LETTER_CURDIR"
+size = 0x10
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "Length"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "TimeStamp"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "DosPath"
+offset = 0x8
+type = "struct _STRING"
+size = 0x8

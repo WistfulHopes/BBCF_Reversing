@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.642626Z
+name = "_CERT_LOGOTYPE_AUDIO"
+size = 0x10
+
+[members.0x0]
+name = "LogotypeDetails"
+offset = 0x0
+type = "CERT_LOGOTYPE_DETAILS"
+size = 0xc
+
+[members.0xc]
+name = "pLogotypeAudioInfo"
+offset = 0xc
+type = "PCERT_LOGOTYPE_AUDIO_INFO"
+size = 0x4

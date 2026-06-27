@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.799319Z
+name = "_SET_PARTITION_INFORMATION"
+size = 0x1
+
+[members.0x0]
+name = "PartitionType"
+offset = 0x0
+type = "BYTE"
+size = 0x1

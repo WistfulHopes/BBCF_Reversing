@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.636865Z
+name = "_BINARY_CONTAINER"
+size = 0x8
+
+[members.0x0]
+name = "cbBuf"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pData"
+offset = 0x4
+type = "LPBYTE"
+size = 0x4

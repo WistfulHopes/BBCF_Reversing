@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.617031Z
+name = "Import_Directory_Table"
+size = 0x14
+
+[members.0x0]
+name = "importLookupTableRva"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "timeDateStamp"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "forwarderChain"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "nameRva"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "importAddressTableRva"
+offset = 0x10
+type = "uint"
+size = 0x4

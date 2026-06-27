@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.883617Z
+name = "tagLOGCOLORSPACEA"
+size = 0x148
+
+[members.0x0]
+name = "lcsSignature"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lcsVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lcsSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lcsCSType"
+offset = 0xc
+type = "LCSCSTYPE"
+size = 0x4
+
+[members.0x10]
+name = "lcsIntent"
+offset = 0x10
+type = "LCSGAMUTMATCH"
+size = 0x4
+
+[members.0x14]
+name = "lcsEndpoints"
+offset = 0x14
+type = "CIEXYZTRIPLE"
+size = 0x24
+
+[members.0x38]
+name = "lcsGammaRed"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "lcsGammaGreen"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "lcsGammaBlue"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "lcsFilename"
+offset = 0x44
+type = "CHAR[0x104]"
+size = 0x104

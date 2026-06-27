@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.708771Z
+name = "_GROUP_RELATIONSHIP"
+size = 0x44
+
+[members.0x0]
+name = "MaximumGroupCount"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "ActiveGroupCount"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "BYTE[0x14]"
+size = 0x14
+
+[members.0x18]
+name = "GroupInfo"
+offset = 0x18
+type = "PROCESSOR_GROUP_INFO[0x1]"
+size = 0x2c

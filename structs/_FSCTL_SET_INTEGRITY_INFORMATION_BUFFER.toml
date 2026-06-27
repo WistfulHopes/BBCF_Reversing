@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.705971Z
+name = "_FSCTL_SET_INTEGRITY_INFORMATION_BUFFER"
+size = 0x8
+
+[members.0x0]
+name = "ChecksumAlgorithm"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4

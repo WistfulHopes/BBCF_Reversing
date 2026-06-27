@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.598587Z
+name = "D3DDISPLAYMODEFILTER"
+size = 0xc
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Format"
+offset = 0x4
+type = "enum D3DFORMAT"
+size = 0x4
+
+[members.0x8]
+name = "ScanLineOrdering"
+offset = 0x8
+type = "enum D3DSCANLINEORDERING"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.847240Z
+name = "fd_set"
+size = 0x104
+
+[members.0x0]
+name = "fd_count"
+offset = 0x0
+type = "u_int"
+size = 0x4
+
+[members.0x4]
+name = "fd_array"
+offset = 0x4
+type = "SOCKET[0x40]"
+size = 0x100

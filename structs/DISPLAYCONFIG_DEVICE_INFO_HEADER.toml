@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.601876Z
+name = "DISPLAYCONFIG_DEVICE_INFO_HEADER"
+size = 0x14
+
+[members.0x0]
+name = "type"
+offset = 0x0
+type = "DISPLAYCONFIG_DEVICE_INFO_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "size"
+offset = 0x4
+type = "UINT32"
+size = 0x4
+
+[members.0x8]
+name = "adapterId"
+offset = 0x8
+type = "LUID"
+size = 0x8
+
+[members.0x10]
+name = "id"
+offset = 0x10
+type = "UINT32"
+size = 0x4

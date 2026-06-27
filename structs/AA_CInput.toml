@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.580108Z
+name = "AA_CInput"
+size = 0x8
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_CInput::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_DevID"
+offset = 0x4
+type = "uint"
+size = 0x4

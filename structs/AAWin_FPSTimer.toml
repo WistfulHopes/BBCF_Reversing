@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.578215Z
+name = "AAWin_FPSTimer"
+size = 0x300
+
+[members.0x0]
+name = "m_pTimer"
+offset = 0x0
+type = "struct AAWin_HQTimer*"
+size = 0x4
+
+[members.0x8]
+name = "m_UnitOneFrame"
+offset = 0x8
+type = "ulong long"
+size = 0x8
+
+[members.0x10]
+name = "m_Count"
+offset = 0x10
+type = "ulong long"
+size = 0x8
+
+[members.0x18]
+name = "m_FPSRate"
+offset = 0x18
+type = "ulong long"
+size = 0x8
+
+[members.0x20]
+name = "m_FPSState"
+offset = 0x20
+type = "ulong long"
+size = 0x8
+
+[members.0x28]
+name = "m_WaitOff"
+offset = 0x28
+type = "bool"
+size = 0x1

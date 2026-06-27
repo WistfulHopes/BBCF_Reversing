@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.846610Z
+name = "_wireSAFEARR_DISPATCH"
+size = 0x8
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "apDispatch"
+offset = 0x4
+type = "void**"
+size = 0x4

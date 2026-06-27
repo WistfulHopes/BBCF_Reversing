@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.642338Z
+name = "_CERT_KEY_ATTRIBUTES_INFO"
+size = 0x18
+
+[members.0x0]
+name = "KeyId"
+offset = 0x0
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "IntendedKeyUsage"
+offset = 0x8
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x14]
+name = "pPrivateKeyUsagePeriod"
+offset = 0x14
+type = "PCERT_PRIVATE_KEY_VALIDITY"
+size = 0x4

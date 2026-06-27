@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.761356Z
+name = "_PRINTER_CONNECTION_INFO_1W"
+size = 0x8
+
+[members.0x0]
+name = "dwFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pszDriverName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4

@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.610463Z
+name = "IDirect3D9VTable"
+size = 0x44
+
+[members.0xc]
+name = "RegisterSoftwareDevice"
+offset = 0xc
+type = "HRESULT (*)(struct IDirect3D9* this, void* pInitializeFunction)"
+size = 0x4
+
+[members.0x10]
+name = "GetAdapterCount"
+offset = 0x10
+type = "uint (*)(struct IDirect3D9* this)"
+size = 0x4
+
+[members.0x14]
+name = "GetAdapterIdentifier"
+offset = 0x14
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, uint Flags, struct D3DADAPTER_IDENTIFIER9* pIdentifier)"
+size = 0x4
+
+[members.0x18]
+name = "GetAdapterModeCount"
+offset = 0x18
+type = "uint (*)(struct IDirect3D9* this, uint Adapter, enum D3DFORMAT Format)"
+size = 0x4
+
+[members.0x1c]
+name = "EnumAdapterModes"
+offset = 0x1c
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DFORMAT Format, uint Mode, struct D3DDISPLAYMODE* pMode)"
+size = 0x4
+
+[members.0x20]
+name = "GetAdapterDisplayMode"
+offset = 0x20
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, struct D3DDISPLAYMODE* pMode)"
+size = 0x4
+
+[members.0x24]
+name = "CheckDeviceType"
+offset = 0x24
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DevType, enum D3DFORMAT AdapterFormat, enum D3DFORMAT BackBufferFormat, BOOL bWindowed)"
+size = 0x4
+
+[members.0x28]
+name = "CheckDeviceFormat"
+offset = 0x28
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, enum D3DFORMAT AdapterFormat, uint Usage, enum D3DRESOURCETYPE RType, enum D3DFORMAT CheckFormat)"
+size = 0x4
+
+[members.0x2c]
+name = "CheckDeviceMultiSampleType"
+offset = 0x2c
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, enum D3DFORMAT SurfaceFormat, BOOL Windowed, enum D3DMULTISAMPLE_TYPE MultiSampleType, uint* pQualityLevels)"
+size = 0x4
+
+[members.0x30]
+name = "CheckDepthStencilMatch"
+offset = 0x30
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, enum D3DFORMAT AdapterFormat, enum D3DFORMAT RenderTargetFormat, enum D3DFORMAT DepthStencilFormat)"
+size = 0x4
+
+[members.0x34]
+name = "CheckDeviceFormatConversion"
+offset = 0x34
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, enum D3DFORMAT SourceFormat, enum D3DFORMAT TargetFormat)"
+size = 0x4
+
+[members.0x38]
+name = "GetDeviceCaps"
+offset = 0x38
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, struct D3DCAPS9* pCaps)"
+size = 0x4
+
+[members.0x3c]
+name = "GetAdapterMonitor"
+offset = 0x3c
+type = "HMONITOR (*)(struct IDirect3D9* this, uint Adapter)"
+size = 0x4
+
+[members.0x40]
+name = "CreateDevice"
+offset = 0x40
+type = "HRESULT (*)(struct IDirect3D9* this, uint Adapter, enum D3DDEVTYPE DeviceType, HWND hFocusWindow, uint BehaviorFlags, struct D3DPRESENT_PARAMETERS* pPresentationParameters, struct IDirect3DDevice9* ppReturnedDeviceInterface)"
+size = 0x4

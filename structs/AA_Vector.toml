@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.586194Z
+name = "AA_Vector"
+size = 0xc
+
+[members.0x0]
+name = "m_pData"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "m_Capacity"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_Count"
+offset = 0x8
+type = "int"
+size = 0x4

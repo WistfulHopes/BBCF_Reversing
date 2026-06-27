@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.725007Z
+name = "_JOB_INFO_1W"
+size = 0x40
+
+[members.0x0]
+name = "JobId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pPrinterName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "pMachineName"
+offset = 0x8
+type = "LPWSTR"
+size = 0x4
+
+[members.0xc]
+name = "pUserName"
+offset = 0xc
+type = "LPWSTR"
+size = 0x4
+
+[members.0x10]
+name = "pDocument"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "pDatatype"
+offset = 0x14
+type = "LPWSTR"
+size = 0x4
+
+[members.0x18]
+name = "pStatus"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "Status"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "Priority"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "Position"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "TotalPages"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "PagesPrinted"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "Submitted"
+offset = 0x30
+type = "SYSTEMTIME"
+size = 0x10

@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.655464Z
+name = "_CMSG_MAIL_LIST_RECIPIENT_ENCODE_INFO"
+size = 0x34
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "KeyEncryptionAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "pvKeyEncryptionAuxInfo"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "hCryptProv"
+offset = 0x14
+type = "HCRYPTPROV"
+size = 0x4
+
+[members.0x18]
+name = "dwKeyChoice"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = ""
+offset = 0x1c
+type = "union"
+size = 0x4
+
+[members.0x20]
+name = "KeyId"
+offset = 0x20
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x28]
+name = "Date"
+offset = 0x28
+type = "FILETIME"
+size = 0x8
+
+[members.0x30]
+name = "pOtherAttr"
+offset = 0x30
+type = "PCRYPT_ATTRIBUTE_TYPE_VALUE"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.625723Z
+name = "Resource_Directory_Table_Entry"
+size = 0x8
+
+[members.0x0]
+name = "id"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "offset"
+offset = 0x4
+type = "uint"
+size = 0x4

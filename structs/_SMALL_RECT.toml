@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.803305Z
+name = "_SMALL_RECT"
+size = 0x8
+
+[members.0x0]
+name = "Left"
+offset = 0x0
+type = "SHORT"
+size = 0x2
+
+[members.0x2]
+name = "Top"
+offset = 0x2
+type = "SHORT"
+size = 0x2
+
+[members.0x4]
+name = "Right"
+offset = 0x4
+type = "SHORT"
+size = 0x2
+
+[members.0x6]
+name = "Bottom"
+offset = 0x6
+type = "SHORT"
+size = 0x2

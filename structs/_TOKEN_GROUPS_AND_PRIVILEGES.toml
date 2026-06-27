@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.825785Z
+name = "_TOKEN_GROUPS_AND_PRIVILEGES"
+size = 0x2c
+
+[members.0x0]
+name = "SidCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SidLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Sids"
+offset = 0x8
+type = "PSID_AND_ATTRIBUTES"
+size = 0x4
+
+[members.0xc]
+name = "RestrictedSidCount"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "RestrictedSidLength"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "RestrictedSids"
+offset = 0x14
+type = "PSID_AND_ATTRIBUTES"
+size = 0x4
+
+[members.0x18]
+name = "PrivilegeCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "PrivilegeLength"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "Privileges"
+offset = 0x20
+type = "PLUID_AND_ATTRIBUTES"
+size = 0x4
+
+[members.0x24]
+name = "AuthenticationId"
+offset = 0x24
+type = "LUID"
+size = 0x8

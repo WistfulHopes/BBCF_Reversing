@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.672984Z
+name = "_CTL_CONTEXT"
+size = 0x20
+
+[members.0x0]
+name = "dwMsgAndCertEncodingType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pbCtlEncoded"
+offset = 0x4
+type = "BYTE*"
+size = 0x4
+
+[members.0x8]
+name = "cbCtlEncoded"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pCtlInfo"
+offset = 0xc
+type = "PCTL_INFO"
+size = 0x4
+
+[members.0x10]
+name = "hCertStore"
+offset = 0x10
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0x14]
+name = "hCryptMsg"
+offset = 0x14
+type = "HCRYPTMSG"
+size = 0x4
+
+[members.0x18]
+name = "pbCtlContent"
+offset = 0x18
+type = "BYTE*"
+size = 0x4
+
+[members.0x1c]
+name = "cbCtlContent"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

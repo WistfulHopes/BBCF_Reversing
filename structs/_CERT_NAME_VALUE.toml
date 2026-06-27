@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.643635Z
+name = "_CERT_NAME_VALUE"
+size = 0xc
+
+[members.0x0]
+name = "dwValueType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Value"
+offset = 0x4
+type = "CERT_RDN_VALUE_BLOB"
+size = 0x8

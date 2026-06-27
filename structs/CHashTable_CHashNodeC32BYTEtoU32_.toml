@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.592692Z
+name = "CHashTable<CHashNodeC32BYTEtoU32>"
+size = 0xc
+
+[members.0x0]
+name = "m_Node"
+offset = 0x0
+type = "struct CHashNodeC32BYTEtoU32*"
+size = 0x4
+
+[members.0x4]
+name = "m_NodeCnt"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "m_NodeMax"
+offset = 0x8
+type = "uint"
+size = 0x4

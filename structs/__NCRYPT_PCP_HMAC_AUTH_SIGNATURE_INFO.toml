@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.840299Z
+name = "__NCRYPT_PCP_HMAC_AUTH_SIGNATURE_INFO"
+size = 0x68
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "iExpiration"
+offset = 0x4
+type = "INT32"
+size = 0x4
+
+[members.0x8]
+name = "pabNonce"
+offset = 0x8
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x28]
+name = "pabPolicyRef"
+offset = 0x28
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x48]
+name = "pabHMAC"
+offset = 0x48
+type = "BYTE[0x20]"
+size = 0x20

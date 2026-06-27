@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.723245Z
+name = "_JOBOBJECT_BASIC_LIMIT_INFORMATION"
+size = 0x30
+
+[members.0x0]
+name = "PerProcessUserTimeLimit"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "PerJobUserTimeLimit"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "LimitFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "MinimumWorkingSetSize"
+offset = 0x14
+type = "SIZE_T"
+size = 0x4
+
+[members.0x18]
+name = "MaximumWorkingSetSize"
+offset = 0x18
+type = "SIZE_T"
+size = 0x4
+
+[members.0x1c]
+name = "ActiveProcessLimit"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "Affinity"
+offset = 0x20
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x24]
+name = "PriorityClass"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "SchedulingClass"
+offset = 0x28
+type = "DWORD"
+size = 0x4

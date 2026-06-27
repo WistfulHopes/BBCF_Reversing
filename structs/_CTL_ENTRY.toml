@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.673067Z
+name = "_CTL_ENTRY"
+size = 0x10
+
+[members.0x0]
+name = "SubjectIdentifier"
+offset = 0x0
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "cAttribute"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rgAttribute"
+offset = 0xc
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4

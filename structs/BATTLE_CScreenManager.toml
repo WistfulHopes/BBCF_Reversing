@@ -1,0 +1,183 @@
+last_change = 2026-06-27T20:49:16.589028Z
+name = "BATTLE_CScreenManager"
+size = 0x154
+
+[members.0x0]
+name = "vftable_Serializable"
+offset = 0x0
+type = "struct ISerializable::BATTLE_CScreenManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "vftable_GameState"
+offset = 0x4
+type = "struct IGameState::BATTLE_CScreenManager::VTable*"
+size = 0x4
+
+[members.0x8]
+name = "m_ppObject"
+offset = 0x8
+type = "struct OBJ_CBase*[0x2]"
+size = 0x8
+
+[members.0x10]
+name = "m_ObjLeft"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_ObjRight"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_ObjTop"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "m_ObjBottom"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "m_ObjLenX"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "m_ObjLenY"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "m_PrevObjLeft"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "m_PrevObjRight"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_PrevObjTop"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "m_PrevObjBottom"
+offset = 0x34
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "m_PrevObjLenX"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "m_PrevObjLenY"
+offset = 0x3c
+type = "int"
+size = 0x4
+
+[members.0x60]
+name = "m_ScreenWorldLeft"
+offset = 0x60
+type = "int"
+size = 0x4
+
+[members.0x64]
+name = "m_ScreenWorldRight"
+offset = 0x64
+type = "int"
+size = 0x4
+
+[members.0x68]
+name = "m_ScreenWorldCenterX"
+offset = 0x68
+type = "int"
+size = 0x4
+
+[members.0x6c]
+name = "m_ScreenWorldCenterY"
+offset = 0x6c
+type = "int"
+size = 0x4
+
+[members.0x70]
+name = "m_ScreenWorldWidth"
+offset = 0x70
+type = "int"
+size = 0x4
+
+[members.0x74]
+name = "m_TargetCenterX"
+offset = 0x74
+type = "int"
+size = 0x4
+
+[members.0x78]
+name = "m_TargetCenterY"
+offset = 0x78
+type = "int"
+size = 0x4
+
+[members.0x7c]
+name = "m_TargetWidth"
+offset = 0x7c
+type = "int"
+size = 0x4
+
+[members.0x80]
+name = "m_VelCenterX"
+offset = 0x80
+type = "int"
+size = 0x4
+
+[members.0x84]
+name = "m_VelCenterY"
+offset = 0x84
+type = "int"
+size = 0x4
+
+[members.0x88]
+name = "m_VelWidth"
+offset = 0x88
+type = "int"
+size = 0x4
+
+[members.0xcc]
+name = "m_pCamera"
+offset = 0xcc
+type = "struct AA_CCamera*"
+size = 0x4
+
+[members.0xd4]
+name = "m_Flag"
+offset = 0xd4
+type = "uint"
+size = 0x4
+
+[members.0xf0]
+name = "m_ScreenCenterXNoShake"
+offset = 0xf0
+type = "int"
+size = 0x4
+
+[members.0xf4]
+name = "m_ScreenCenterYNoShake"
+offset = 0xf4
+type = "int"
+size = 0x4

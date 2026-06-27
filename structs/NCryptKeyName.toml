@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.619826Z
+name = "NCryptKeyName"
+size = 0x10
+
+[members.0x0]
+name = "pszName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pszAlgid"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "dwLegacyKeySpec"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.583144Z
+name = "AA_CTimeInfo"
+size = 0x20
+
+[members.0x0]
+name = "m_time"
+offset = 0x0
+type = "ulong long"
+size = 0x8
+
+[members.0x8]
+name = "m_year"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "m_mon"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "m_day"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "m_hour"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "m_min"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "m_sec"
+offset = 0x1c
+type = "uint"
+size = 0x4

@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.691382Z
+name = "_ENCRYPTED_DATA_INFO"
+size = 0x20
+
+[members.0x0]
+name = "StartingFileOffset"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "OutputBufferOffset"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "BytesWithinFileSize"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "BytesWithinValidDataLength"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "CompressionFormat"
+offset = 0x14
+type = "WORD"
+size = 0x2
+
+[members.0x16]
+name = "DataUnitShift"
+offset = 0x16
+type = "BYTE"
+size = 0x1
+
+[members.0x17]
+name = "ChunkShift"
+offset = 0x17
+type = "BYTE"
+size = 0x1
+
+[members.0x18]
+name = "ClusterShift"
+offset = 0x18
+type = "BYTE"
+size = 0x1
+
+[members.0x19]
+name = "EncryptionFormat"
+offset = 0x19
+type = "BYTE"
+size = 0x1
+
+[members.0x1a]
+name = "NumberOfDataBlocks"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "DataBlockSize"
+offset = 0x1c
+type = "DWORD[0x1]"
+size = 0x4

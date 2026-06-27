@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.616198Z
+name = "IMAGE_COR20_HEADER"
+size = 0x48
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MajorRuntimeVersion"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "MinorRuntimeVersion"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "MetaData"
+offset = 0x8
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = ""
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "Resources"
+offset = 0x18
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x20]
+name = "StrongNameSignature"
+offset = 0x20
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x28]
+name = "CodeManagerTable"
+offset = 0x28
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x30]
+name = "VTableFixups"
+offset = 0x30
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x38]
+name = "ExportAddressTableJumps"
+offset = 0x38
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8
+
+[members.0x40]
+name = "ManagedNativeHeader"
+offset = 0x40
+type = "IMAGE_DATA_DIRECTORY"
+size = 0x8

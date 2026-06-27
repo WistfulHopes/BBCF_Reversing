@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.914946Z
+name = "tagSTATPROPSETSTG"
+size = 0x40
+
+[members.0x0]
+name = "fmtid"
+offset = 0x0
+type = "FMTID"
+size = 0x10
+
+[members.0x10]
+name = "clsid"
+offset = 0x10
+type = "CLSID"
+size = 0x10
+
+[members.0x20]
+name = "grfFlags"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "mtime"
+offset = 0x24
+type = "FILETIME"
+size = 0x8
+
+[members.0x2c]
+name = "ctime"
+offset = 0x2c
+type = "FILETIME"
+size = 0x8
+
+[members.0x34]
+name = "atime"
+offset = 0x34
+type = "FILETIME"
+size = 0x8
+
+[members.0x3c]
+name = "dwOSVersion"
+offset = 0x3c
+type = "DWORD"
+size = 0x4

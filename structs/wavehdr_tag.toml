@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.925259Z
+name = "wavehdr_tag"
+size = 0x20
+
+[members.0x0]
+name = "lpData"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "dwBufferLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwBytesRecorded"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwUser"
+offset = 0xc
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x10]
+name = "dwFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwLoops"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "lpNext"
+offset = 0x18
+type = "struct wavehdr_tag*"
+size = 0x4
+
+[members.0x1c]
+name = "reserved"
+offset = 0x1c
+type = "DWORD_PTR"
+size = 0x4

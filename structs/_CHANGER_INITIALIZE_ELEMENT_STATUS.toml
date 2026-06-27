@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.649411Z
+name = "_CHANGER_INITIALIZE_ELEMENT_STATUS"
+size = 0x10
+
+[members.0x0]
+name = "ElementList"
+offset = 0x0
+type = "CHANGER_ELEMENT_LIST"
+size = 0xc
+
+[members.0xc]
+name = "BarCodeScan"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1

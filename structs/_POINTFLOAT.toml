@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.756930Z
+name = "_POINTFLOAT"
+size = 0x8
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "FLOAT"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "FLOAT"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.841339Z
+name = "_cpinfoexW"
+size = 0x220
+
+[members.0x0]
+name = "MaxCharSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "DefaultChar"
+offset = 0x4
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x6]
+name = "LeadByte"
+offset = 0x6
+type = "BYTE[0xc]"
+size = 0xc
+
+[members.0x12]
+name = "UnicodeDefaultChar"
+offset = 0x12
+type = "WCHAR"
+size = 0x2
+
+[members.0x14]
+name = "CodePage"
+offset = 0x14
+type = "UINT"
+size = 0x4
+
+[members.0x18]
+name = "CodePageName"
+offset = 0x18
+type = "WCHAR[0x104]"
+size = 0x208

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.600206Z
+name = "D3DTRIPATCH_INFO"
+size = 0x10
+
+[members.0x0]
+name = "StartVertexOffset"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "NumVertices"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Basis"
+offset = 0x8
+type = "enum D3DBASISTYPE"
+size = 0x4
+
+[members.0xc]
+name = "Degree"
+offset = 0xc
+type = "enum D3DDEGREETYPE"
+size = 0x4

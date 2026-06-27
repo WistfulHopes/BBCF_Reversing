@@ -1,0 +1,477 @@
+last_change = 2026-06-27T20:49:16.729601Z
+name = "_KUSER_SHARED_DATA"
+size = 0x730
+
+[members.0x0]
+name = "TickCountLowDeprecated"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "TickCountMultiplier"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "InterruptTime"
+offset = 0x8
+type = "KSYSTEM_TIME"
+size = 0xc
+
+[members.0x14]
+name = "SystemTime"
+offset = 0x14
+type = "KSYSTEM_TIME"
+size = 0xc
+
+[members.0x20]
+name = "TimeZoneBias"
+offset = 0x20
+type = "KSYSTEM_TIME"
+size = 0xc
+
+[members.0x2c]
+name = "ImageNumberLow"
+offset = 0x2c
+type = "USHORT"
+size = 0x2
+
+[members.0x2e]
+name = "ImageNumberHigh"
+offset = 0x2e
+type = "USHORT"
+size = 0x2
+
+[members.0x30]
+name = "NtSystemRoot"
+offset = 0x30
+type = "WCHAR[0x104]"
+size = 0x208
+
+[members.0x238]
+name = "MaxStackTraceDepth"
+offset = 0x238
+type = "ULONG"
+size = 0x4
+
+[members.0x23c]
+name = "CryptoExponent"
+offset = 0x23c
+type = "ULONG"
+size = 0x4
+
+[members.0x240]
+name = "TimeZoneId"
+offset = 0x240
+type = "ULONG"
+size = 0x4
+
+[members.0x244]
+name = "LargePageMinimum"
+offset = 0x244
+type = "ULONG"
+size = 0x4
+
+[members.0x248]
+name = "AitSamplingValue"
+offset = 0x248
+type = "ULONG"
+size = 0x4
+
+[members.0x24c]
+name = "AppCompatFlag"
+offset = 0x24c
+type = "ULONG"
+size = 0x4
+
+[members.0x250]
+name = "RNGSeedVersion"
+offset = 0x250
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x258]
+name = "GlobalValidationRunlevel"
+offset = 0x258
+type = "ULONG"
+size = 0x4
+
+[members.0x25c]
+name = "TimeZoneBiasStamp"
+offset = 0x25c
+type = "LONG"
+size = 0x4
+
+[members.0x260]
+name = "NtBuildNumber"
+offset = 0x260
+type = "ULONG"
+size = 0x4
+
+[members.0x264]
+name = "NtProductType"
+offset = 0x264
+type = "NT_PRODUCT_TYPE"
+size = 0x4
+
+[members.0x268]
+name = "ProductTypeIsValid"
+offset = 0x268
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x269]
+name = "Reserved0"
+offset = 0x269
+type = "BOOLEAN[0x1]"
+size = 0x1
+
+[members.0x26a]
+name = "NativeProcessorArchitecture"
+offset = 0x26a
+type = "USHORT"
+size = 0x2
+
+[members.0x26c]
+name = "NtMajorVersion"
+offset = 0x26c
+type = "ULONG"
+size = 0x4
+
+[members.0x270]
+name = "NtMinorVersion"
+offset = 0x270
+type = "ULONG"
+size = 0x4
+
+[members.0x274]
+name = "ProcessorFeatures"
+offset = 0x274
+type = "BOOLEAN[0x40]"
+size = 0x40
+
+[members.0x2b4]
+name = "Reserved1"
+offset = 0x2b4
+type = "ULONG"
+size = 0x4
+
+[members.0x2b8]
+name = "Reserved3"
+offset = 0x2b8
+type = "ULONG"
+size = 0x4
+
+[members.0x2bc]
+name = "TimeSlip"
+offset = 0x2bc
+type = "ULONG"
+size = 0x4
+
+[members.0x2c0]
+name = "AlternativeArchitecture"
+offset = 0x2c0
+type = "ALTERNATIVE_ARCHITECTURE_TYPE"
+size = 0x4
+
+[members.0x2c4]
+name = "BootId"
+offset = 0x2c4
+type = "ULONG"
+size = 0x4
+
+[members.0x2c8]
+name = "SystemExpirationDate"
+offset = 0x2c8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x2d0]
+name = "SuiteMask"
+offset = 0x2d0
+type = "ULONG"
+size = 0x4
+
+[members.0x2d4]
+name = "KdDebuggerEnabled"
+offset = 0x2d4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2d5]
+name = "MitigationPolicies"
+offset = 0x2d5
+type = "UCHAR"
+size = 0x1
+
+[members.0x2d6]
+name = "CyclesPerYield"
+offset = 0x2d6
+type = "USHORT"
+size = 0x2
+
+[members.0x2d8]
+name = "ActiveConsoleId"
+offset = 0x2d8
+type = "ULONG"
+size = 0x4
+
+[members.0x2dc]
+name = "DismountCount"
+offset = 0x2dc
+type = "ULONG"
+size = 0x4
+
+[members.0x2e0]
+name = "ComPlusPackage"
+offset = 0x2e0
+type = "ULONG"
+size = 0x4
+
+[members.0x2e4]
+name = "LastSystemRITEventTickCount"
+offset = 0x2e4
+type = "ULONG"
+size = 0x4
+
+[members.0x2e8]
+name = "NumberOfPhysicalPages"
+offset = 0x2e8
+type = "ULONG"
+size = 0x4
+
+[members.0x2ec]
+name = "SafeBootMode"
+offset = 0x2ec
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2ed]
+name = "VirtualizationFlags"
+offset = 0x2ed
+type = "UCHAR"
+size = 0x1
+
+[members.0x2ee]
+name = "Reserved12"
+offset = 0x2ee
+type = "UCHAR[0x2]"
+size = 0x2
+
+[members.0x2f0]
+name = "SharedDataFlags"
+offset = 0x2f0
+type = "ULONG"
+size = 0x4
+
+[members.0x2f4]
+name = "DataFlagsPad"
+offset = 0x2f4
+type = "ULONG[0x1]"
+size = 0x4
+
+[members.0x2f8]
+name = "TestRetInstruction"
+offset = 0x2f8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x300]
+name = "QpcFrequency"
+offset = 0x300
+type = "LONGLONG"
+size = 0x8
+
+[members.0x308]
+name = "SystemCall"
+offset = 0x308
+type = "ULONG"
+size = 0x4
+
+[members.0x30c]
+name = "Reserved2"
+offset = 0x30c
+type = "ULONG"
+size = 0x4
+
+[members.0x310]
+name = "SystemCallPad"
+offset = 0x310
+type = "ULONGLONG[0x2]"
+size = 0x10
+
+[members.0x320]
+name = "TickCount"
+offset = 0x320
+type = "KSYSTEM_TIME"
+size = 0xc
+
+[members.0x32c]
+name = "Cookie"
+offset = 0x32c
+type = "ULONG"
+size = 0x4
+
+[members.0x330]
+name = "CookiePad"
+offset = 0x330
+type = "ULONG[0x1]"
+size = 0x4
+
+[members.0x338]
+name = "ConsoleSessionForegroundProcessId"
+offset = 0x338
+type = "LONGLONG"
+size = 0x8
+
+[members.0x340]
+name = "TimeUpdateLock"
+offset = 0x340
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x348]
+name = "BaselineSystemTimeQpc"
+offset = 0x348
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x350]
+name = "BaselineInterruptTimeQpc"
+offset = 0x350
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x358]
+name = "QpcSystemTimeIncrement"
+offset = 0x358
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x360]
+name = "QpcInterruptTimeIncrement"
+offset = 0x360
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x368]
+name = "QpcSystemTimeIncrementShift"
+offset = 0x368
+type = "UCHAR"
+size = 0x1
+
+[members.0x369]
+name = "QpcInterruptTimeIncrementShift"
+offset = 0x369
+type = "UCHAR"
+size = 0x1
+
+[members.0x36a]
+name = "UnparkedProcessorCount"
+offset = 0x36a
+type = "USHORT"
+size = 0x2
+
+[members.0x36c]
+name = "EnclaveFeatureMask"
+offset = 0x36c
+type = "ULONG[0x4]"
+size = 0x10
+
+[members.0x37c]
+name = "TelemetryCoverageRound"
+offset = 0x37c
+type = "ULONG"
+size = 0x4
+
+[members.0x380]
+name = "UserModeGlobalLogger"
+offset = 0x380
+type = "USHORT[0x10]"
+size = 0x20
+
+[members.0x3a0]
+name = "ImageFileExecutionOptions"
+offset = 0x3a0
+type = "ULONG"
+size = 0x4
+
+[members.0x3a4]
+name = "LangGenerationCount"
+offset = 0x3a4
+type = "ULONG"
+size = 0x4
+
+[members.0x3a8]
+name = "Reserved4"
+offset = 0x3a8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x3b0]
+name = "InterruptTimeBias"
+offset = 0x3b0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x3b8]
+name = "QpcBias"
+offset = 0x3b8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x3c0]
+name = "ActiveProcessorCount"
+offset = 0x3c0
+type = "ULONG"
+size = 0x4
+
+[members.0x3c4]
+name = "ActiveGroupCount"
+offset = 0x3c4
+type = "UCHAR"
+size = 0x1
+
+[members.0x3c5]
+name = "Reserved9"
+offset = 0x3c5
+type = "UCHAR"
+size = 0x1
+
+[members.0x3c6]
+name = "QpcData"
+offset = 0x3c6
+type = "USHORT"
+size = 0x2
+
+[members.0x3c8]
+name = "TimeZoneBiasEffectiveStart"
+offset = 0x3c8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x3d0]
+name = "TimeZoneBiasEffectiveEnd"
+offset = 0x3d0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x3d8]
+name = "XState"
+offset = 0x3d8
+type = "XSTATE_CONFIGURATION"
+size = 0x348
+
+[members.0x720]
+name = "FeatureConfigurationChangeStamp"
+offset = 0x720
+type = "KSYSTEM_TIME"
+size = 0xc
+
+[members.0x72c]
+name = "Spare"
+offset = 0x72c
+type = "ULONG"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.914794Z
+name = "tagSTATDATA"
+size = 0x20
+
+[members.0x0]
+name = "formatetc"
+offset = 0x0
+type = "FORMATETC"
+size = 0x14
+
+[members.0x14]
+name = "advf"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "pAdvSink"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "dwConnection"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.814874Z
+name = "_STORAGE_RPMB_DATA_FRAME"
+size = 0x200
+
+[members.0x0]
+name = "Stuff"
+offset = 0x0
+type = "BYTE[0xc4]"
+size = 0xc4
+
+[members.0xc4]
+name = "KeyOrMAC"
+offset = 0xc4
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0xe4]
+name = "Data"
+offset = 0xe4
+type = "BYTE[0x100]"
+size = 0x100
+
+[members.0x1e4]
+name = "Nonce"
+offset = 0x1e4
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x1f4]
+name = "WriteCounter"
+offset = 0x1f4
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0x1f8]
+name = "Address"
+offset = 0x1f8
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x1fa]
+name = "BlockCount"
+offset = 0x1fa
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x1fc]
+name = "OperationResult"
+offset = 0x1fc
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x1fe]
+name = "RequestOrResponseType"
+offset = 0x1fe
+type = "BYTE[0x2]"
+size = 0x2

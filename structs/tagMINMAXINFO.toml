@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.893055Z
+name = "tagMINMAXINFO"
+size = 0x28
+
+[members.0x0]
+name = "ptReserved"
+offset = 0x0
+type = "POINT"
+size = 0x8
+
+[members.0x8]
+name = "ptMaxSize"
+offset = 0x8
+type = "POINT"
+size = 0x8
+
+[members.0x10]
+name = "ptMaxPosition"
+offset = 0x10
+type = "POINT"
+size = 0x8
+
+[members.0x18]
+name = "ptMinTrackSize"
+offset = 0x18
+type = "POINT"
+size = 0x8
+
+[members.0x20]
+name = "ptMaxTrackSize"
+offset = 0x20
+type = "POINT"
+size = 0x8

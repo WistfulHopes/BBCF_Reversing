@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.653946Z
+name = "_CMSG_ENCRYPTED_ENCODE_INFO"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ContentEncryptionAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "pvEncryptionAuxInfo"
+offset = 0x10
+type = "void*"
+size = 0x4

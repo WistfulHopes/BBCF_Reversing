@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.695333Z
+name = "_FILEMUIINFO"
+size = 0x50
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwFileType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pChecksum"
+offset = 0xc
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x1c]
+name = "pServiceChecksum"
+offset = 0x1c
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x2c]
+name = "dwLanguageNameOffset"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwTypeIDMainSize"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "dwTypeIDMainOffset"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "dwTypeNameMainOffset"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "dwTypeIDMUISize"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "dwTypeIDMUIOffset"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "dwTypeNameMUIOffset"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "abBuffer"
+offset = 0x48
+type = "BYTE[0x8]"
+size = 0x8

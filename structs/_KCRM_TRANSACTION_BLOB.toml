@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.727139Z
+name = "_KCRM_TRANSACTION_BLOB"
+size = 0xac
+
+[members.0x0]
+name = "UOW"
+offset = 0x0
+type = "UOW"
+size = 0x10
+
+[members.0x10]
+name = "TmIdentity"
+offset = 0x10
+type = "GUID"
+size = 0x10
+
+[members.0x20]
+name = "IsolationLevel"
+offset = 0x20
+type = "ULONG"
+size = 0x4
+
+[members.0x24]
+name = "IsolationFlags"
+offset = 0x24
+type = "ULONG"
+size = 0x4
+
+[members.0x28]
+name = "Timeout"
+offset = 0x28
+type = "ULONG"
+size = 0x4
+
+[members.0x2c]
+name = "Description"
+offset = 0x2c
+type = "WCHAR[0x40]"
+size = 0x80

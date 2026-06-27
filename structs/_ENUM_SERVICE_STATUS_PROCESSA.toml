@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.692596Z
+name = "_ENUM_SERVICE_STATUS_PROCESSA"
+size = 0x2c
+
+[members.0x0]
+name = "lpServiceName"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "lpDisplayName"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "ServiceStatusProcess"
+offset = 0x8
+type = "SERVICE_STATUS_PROCESS"
+size = 0x24

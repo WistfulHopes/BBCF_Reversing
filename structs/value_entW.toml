@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.924968Z
+name = "value_entW"
+size = 0x10
+
+[members.0x0]
+name = "ve_valuename"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "ve_valuelen"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ve_valueptr"
+offset = 0x8
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0xc]
+name = "ve_type"
+offset = 0xc
+type = "DWORD"
+size = 0x4

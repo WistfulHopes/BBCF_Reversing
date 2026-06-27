@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.614134Z
+name = "IDirect3DResource9VTable"
+size = 0x2c
+
+[members.0xc]
+name = "GetDevice"
+offset = 0xc
+type = "HRESULT (*)(struct IDirect3DResource9* this, struct IDirect3DDevice9* ppDevice)"
+size = 0x4
+
+[members.0x10]
+name = "SetPrivateData"
+offset = 0x10
+type = "HRESULT (*)(struct IDirect3DResource9* this, GUID* refguid, void* pData, uint SizeOfData, uint Flags)"
+size = 0x4
+
+[members.0x14]
+name = "GetPrivateData"
+offset = 0x14
+type = "HRESULT (*)(struct IDirect3DResource9* this, GUID* refguid, void* pData, uint* pSizeOfData)"
+size = 0x4
+
+[members.0x18]
+name = "FreePrivateData"
+offset = 0x18
+type = "HRESULT (*)(struct IDirect3DResource9* this, GUID* refguid)"
+size = 0x4
+
+[members.0x1c]
+name = "SetPriority"
+offset = 0x1c
+type = "uint (*)(struct IDirect3DResource9* this, uint PriorityNew)"
+size = 0x4
+
+[members.0x20]
+name = "GetPriority"
+offset = 0x20
+type = "uint (*)(struct IDirect3DResource9* this)"
+size = 0x4
+
+[members.0x24]
+name = "PreLoad"
+offset = 0x24
+type = "void (*)(struct IDirect3DResource9* this)"
+size = 0x4
+
+[members.0x28]
+name = "GetType"
+offset = 0x28
+type = "enum D3DRESOURCETYPE (*)(struct IDirect3DResource9* this)"
+size = 0x4

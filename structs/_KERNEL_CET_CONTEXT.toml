@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.727254Z
+name = "_KERNEL_CET_CONTEXT"
+size = 0x18
+
+[members.0x0]
+name = "Ssp"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "Rip"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "SegCs"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = ""
+offset = 0x12
+type = "union"
+size = 0x2
+
+[members.0x14]
+name = "Fill"
+offset = 0x14
+type = "WORD[0x2]"
+size = 0x4

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.657159Z
+name = "_CMS_DH_KEY_INFO"
+size = 0x18
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Algid"
+offset = 0x4
+type = "ALG_ID"
+size = 0x4
+
+[members.0x8]
+name = "pszContentEncObjId"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "PubInfo"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x14]
+name = "pReserved"
+offset = 0x14
+type = "void*"
+size = 0x4

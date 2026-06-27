@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.640896Z
+name = "_CERT_CHAIN_POLICY_STATUS"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwError"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lChainIndex"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "lElementIndex"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "pvExtraPolicyStatus"
+offset = 0x10
+type = "void*"
+size = 0x4

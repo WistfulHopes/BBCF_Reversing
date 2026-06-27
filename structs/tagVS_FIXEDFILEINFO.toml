@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.919550Z
+name = "tagVS_FIXEDFILEINFO"
+size = 0x34
+
+[members.0x0]
+name = "dwSignature"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwStrucVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwFileVersionMS"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwFileVersionLS"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwProductVersionMS"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwProductVersionLS"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwFileFlagsMask"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwFileFlags"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwFileOS"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwFileType"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwFileSubtype"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwFileDateMS"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwFileDateLS"
+offset = 0x30
+type = "DWORD"
+size = 0x4

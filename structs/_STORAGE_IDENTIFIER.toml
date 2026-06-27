@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.810372Z
+name = "_STORAGE_IDENTIFIER"
+size = 0x14
+
+[members.0x0]
+name = "CodeSet"
+offset = 0x0
+type = "STORAGE_IDENTIFIER_CODE_SET"
+size = 0x4
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "STORAGE_IDENTIFIER_TYPE"
+size = 0x4
+
+[members.0x8]
+name = "IdentifierSize"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "NextOffset"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "Association"
+offset = 0xc
+type = "STORAGE_ASSOCIATION_TYPE"
+size = 0x4
+
+[members.0x10]
+name = "Identifier"
+offset = 0x10
+type = "BYTE[0x1]"
+size = 0x1

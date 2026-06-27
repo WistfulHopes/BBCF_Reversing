@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.839231Z
+name = "_XSTATE_CONFIGURATION"
+size = 0x348
+
+[members.0x0]
+name = "EnabledFeatures"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "EnabledVolatileFeatures"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "Size"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = ""
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "Features"
+offset = 0x18
+type = "XSTATE_FEATURE[0x40]"
+size = 0x200
+
+[members.0x218]
+name = "EnabledSupervisorFeatures"
+offset = 0x218
+type = "DWORD64"
+size = 0x8
+
+[members.0x220]
+name = "AlignedFeatures"
+offset = 0x220
+type = "DWORD64"
+size = 0x8
+
+[members.0x228]
+name = "AllFeatureSize"
+offset = 0x228
+type = "DWORD"
+size = 0x4
+
+[members.0x22c]
+name = "AllFeatures"
+offset = 0x22c
+type = "DWORD[0x40]"
+size = 0x100
+
+[members.0x330]
+name = "EnabledUserVisibleSupervisorFeatures"
+offset = 0x330
+type = "DWORD64"
+size = 0x8
+
+[members.0x338]
+name = "ExtendedFeatureDisableFeatures"
+offset = 0x338
+type = "DWORD64"
+size = 0x8
+
+[members.0x340]
+name = "AllNonLargeFeatureSize"
+offset = 0x340
+type = "DWORD"
+size = 0x4
+
+[members.0x344]
+name = "Spare"
+offset = 0x344
+type = "DWORD"
+size = 0x4

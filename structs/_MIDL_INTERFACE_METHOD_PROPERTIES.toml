@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.734667Z
+name = "_MIDL_INTERFACE_METHOD_PROPERTIES"
+size = 0x8
+
+[members.0x0]
+name = "MethodCount"
+offset = 0x0
+type = "ushort"
+size = 0x2
+
+[members.0x4]
+name = "MethodProperties"
+offset = 0x4
+type = "MIDL_METHOD_PROPERTY_MAP* const*"
+size = 0x4

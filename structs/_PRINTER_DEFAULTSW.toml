@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.761520Z
+name = "_PRINTER_DEFAULTSW"
+size = 0xc
+
+[members.0x0]
+name = "pDatatype"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pDevMode"
+offset = 0x4
+type = "LPDEVMODEW"
+size = 0x4
+
+[members.0x8]
+name = "DesiredAccess"
+offset = 0x8
+type = "ACCESS_MASK"
+size = 0x4

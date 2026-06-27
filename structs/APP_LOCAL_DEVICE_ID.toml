@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.587381Z
+name = "APP_LOCAL_DEVICE_ID"
+size = 0x20
+
+[members.0x0]
+name = "value"
+offset = 0x0
+type = "BYTE[0x20]"
+size = 0x20

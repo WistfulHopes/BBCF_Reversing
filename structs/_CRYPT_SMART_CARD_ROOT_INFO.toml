@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.669935Z
+name = "_CRYPT_SMART_CARD_ROOT_INFO"
+size = 0x18
+
+[members.0x0]
+name = "rgbCardID"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x10]
+name = "luid"
+offset = 0x10
+type = "ROOT_INFO_LUID"
+size = 0x8

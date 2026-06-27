@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.714744Z
+name = "_IMAGE_HOT_PATCH_BASE"
+size = 0x20
+
+[members.0x0]
+name = "SequenceNumber"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "OriginalTimeDateStamp"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "OriginalCheckSum"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "CodeIntegrityInfo"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "CodeIntegritySize"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "PatchTable"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "BufferOffset"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.671637Z
+name = "_CSV_IS_OWNED_BY_CSVFS"
+size = 0x1
+
+[members.0x0]
+name = "OwnedByCSVFS"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

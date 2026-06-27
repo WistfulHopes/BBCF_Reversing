@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.580396Z
+name = "AA_CMemoryPool"
+size = 0x18
+
+[members.0x0]
+name = "m_pPool"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "m_Align"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_Size"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_Used"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_Used2nd"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_Count"
+offset = 0x14
+type = "int"
+size = 0x4

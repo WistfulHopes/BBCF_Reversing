@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.603101Z
+name = "DISPLAYCONFIG_TARGET_DEVICE_NAME"
+size = 0x1a4
+
+[members.0x0]
+name = "header"
+offset = 0x0
+type = "struct DISPLAYCONFIG_DEVICE_INFO_HEADER"
+size = 0x14
+
+[members.0x14]
+name = "flags"
+offset = 0x14
+type = "struct DISPLAYCONFIG_TARGET_DEVICE_NAME_FLAGS"
+size = 0x4
+
+[members.0x18]
+name = "outputTechnology"
+offset = 0x18
+type = "DISPLAYCONFIG_VIDEO_OUTPUT_TECHNOLOGY"
+size = 0x4
+
+[members.0x1c]
+name = "edidManufactureId"
+offset = 0x1c
+type = "UINT16"
+size = 0x2
+
+[members.0x1e]
+name = "edidProductCodeId"
+offset = 0x1e
+type = "UINT16"
+size = 0x2
+
+[members.0x20]
+name = "connectorInstance"
+offset = 0x20
+type = "UINT32"
+size = 0x4
+
+[members.0x24]
+name = "monitorFriendlyDeviceName"
+offset = 0x24
+type = "WCHAR[0x40]"
+size = 0x80
+
+[members.0xa4]
+name = "monitorDevicePath"
+offset = 0xa4
+type = "WCHAR[0x80]"
+size = 0x100

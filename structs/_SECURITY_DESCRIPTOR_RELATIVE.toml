@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.794995Z
+name = "_SECURITY_DESCRIPTOR_RELATIVE"
+size = 0x14
+
+[members.0x0]
+name = "Revision"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "Sbz1"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "Control"
+offset = 0x2
+type = "SECURITY_DESCRIPTOR_CONTROL"
+size = 0x2
+
+[members.0x4]
+name = "Owner"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Group"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Sacl"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Dacl"
+offset = 0x10
+type = "DWORD"
+size = 0x4

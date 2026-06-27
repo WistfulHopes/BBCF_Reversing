@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.616389Z
+name = "IMPORT_OBJECT_HEADER"
+size = 0x14
+
+[members.0x0]
+name = "Sig1"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Sig2"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Machine"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "TimeDateStamp"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "SizeOfData"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x2
+
+[members.0x12]
+name = "__bitfield12"
+offset = 0x12
+type = "union"
+size = 0x2

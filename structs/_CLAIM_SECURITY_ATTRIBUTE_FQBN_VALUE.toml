@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.650150Z
+name = "_CLAIM_SECURITY_ATTRIBUTE_FQBN_VALUE"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "Name"
+offset = 0x8
+type = "PWSTR"
+size = 0x4

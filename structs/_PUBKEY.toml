@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.773121Z
+name = "_PUBKEY"
+size = 0x8
+
+[members.0x0]
+name = "magic"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "bitlen"
+offset = 0x4
+type = "DWORD"
+size = 0x4

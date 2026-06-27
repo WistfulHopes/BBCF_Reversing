@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.633478Z
+name = "_AppBarData"
+size = 0x24
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hWnd"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "uCallbackMessage"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "uEdge"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "rc"
+offset = 0x10
+type = "RECT"
+size = 0x10
+
+[members.0x20]
+name = "lParam"
+offset = 0x20
+type = "LPARAM"
+size = 0x4

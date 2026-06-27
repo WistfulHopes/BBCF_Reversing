@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.689303Z
+name = "_DRIVE_LAYOUT_INFORMATION"
+size = 0x28
+
+[members.0x0]
+name = "PartitionCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Signature"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PartitionEntry"
+offset = 0x8
+type = "PARTITION_INFORMATION[0x1]"
+size = 0x20

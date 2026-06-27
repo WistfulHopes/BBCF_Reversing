@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.709531Z
+name = "_HMAC_Info"
+size = 0x14
+
+[members.0x0]
+name = "HashAlgid"
+offset = 0x0
+type = "ALG_ID"
+size = 0x4
+
+[members.0x4]
+name = "pbInnerString"
+offset = 0x4
+type = "BYTE*"
+size = 0x4
+
+[members.0x8]
+name = "cbInnerString"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pbOuterString"
+offset = 0xc
+type = "BYTE*"
+size = 0x4
+
+[members.0x10]
+name = "cbOuterString"
+offset = 0x10
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.902602Z
+name = "tagPAINTSTRUCT"
+size = 0x40
+
+[members.0x0]
+name = "hdc"
+offset = 0x0
+type = "HDC"
+size = 0x4
+
+[members.0x4]
+name = "fErase"
+offset = 0x4
+type = "BOOL"
+size = 0x4
+
+[members.0x8]
+name = "rcPaint"
+offset = 0x8
+type = "RECT"
+size = 0x10
+
+[members.0x18]
+name = "fRestore"
+offset = 0x18
+type = "BOOL"
+size = 0x4
+
+[members.0x1c]
+name = "fIncUpdate"
+offset = 0x1c
+type = "BOOL"
+size = 0x4
+
+[members.0x20]
+name = "rgbReserved"
+offset = 0x20
+type = "BYTE[0x20]"
+size = 0x20

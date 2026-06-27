@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.582036Z
+name = "AA_CRenderController"
+size = 0x1c
+
+[members.0x18]
+name = "m_pRenderer"
+offset = 0x18
+type = "struct AA_CRenderer*"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.811383Z
+name = "_STORAGE_OFFLOAD_WRITE_OUTPUT"
+size = 0x10
+
+[members.0x0]
+name = "OffloadWriteFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "LengthCopied"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

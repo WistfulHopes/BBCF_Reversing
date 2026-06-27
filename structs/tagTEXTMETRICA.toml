@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.916234Z
+name = "tagTEXTMETRICA"
+size = 0x38
+
+[members.0x0]
+name = "tmHeight"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "tmAscent"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "tmDescent"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "tmInternalLeading"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "tmExternalLeading"
+offset = 0x10
+type = "LONG"
+size = 0x4
+
+[members.0x14]
+name = "tmAveCharWidth"
+offset = 0x14
+type = "LONG"
+size = 0x4
+
+[members.0x18]
+name = "tmMaxCharWidth"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "tmWeight"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "tmOverhang"
+offset = 0x20
+type = "LONG"
+size = 0x4
+
+[members.0x24]
+name = "tmDigitizedAspectX"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "tmDigitizedAspectY"
+offset = 0x28
+type = "LONG"
+size = 0x4
+
+[members.0x2c]
+name = "tmFirstChar"
+offset = 0x2c
+type = "BYTE"
+size = 0x1
+
+[members.0x2d]
+name = "tmLastChar"
+offset = 0x2d
+type = "BYTE"
+size = 0x1
+
+[members.0x2e]
+name = "tmDefaultChar"
+offset = 0x2e
+type = "BYTE"
+size = 0x1
+
+[members.0x2f]
+name = "tmBreakChar"
+offset = 0x2f
+type = "BYTE"
+size = 0x1
+
+[members.0x30]
+name = "tmItalic"
+offset = 0x30
+type = "BYTE"
+size = 0x1
+
+[members.0x31]
+name = "tmUnderlined"
+offset = 0x31
+type = "BYTE"
+size = 0x1
+
+[members.0x32]
+name = "tmStruckOut"
+offset = 0x32
+type = "BYTE"
+size = 0x1
+
+[members.0x33]
+name = "tmPitchAndFamily"
+offset = 0x33
+type = "BYTE"
+size = 0x1
+
+[members.0x34]
+name = "tmCharSet"
+offset = 0x34
+type = "BYTE"
+size = 0x1

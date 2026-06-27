@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.663912Z
+name = "_CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x0]
+name = "cbData"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pbData"
+offset = 0x4
+type = "BYTE*"
+size = 0x4
+
+[members.0x8]
+name = "cUnusedBits"
+offset = 0x8
+type = "DWORD"
+size = 0x4

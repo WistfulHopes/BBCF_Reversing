@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.744483Z
+name = "_NTFS_VOLUME_DATA_BUFFER"
+size = 0x60
+
+[members.0x0]
+name = "VolumeSerialNumber"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "NumberSectors"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "TotalClusters"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "FreeClusters"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "TotalReserved"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "BytesPerSector"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "BytesPerCluster"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "BytesPerFileRecordSegment"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "ClustersPerFileRecordSegment"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "MftValidDataLength"
+offset = 0x38
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x40]
+name = "MftStartLcn"
+offset = 0x40
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x48]
+name = "Mft2StartLcn"
+offset = 0x48
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x50]
+name = "MftZoneStart"
+offset = 0x50
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x58]
+name = "MftZoneEnd"
+offset = 0x58
+type = "LARGE_INTEGER"
+size = 0x8

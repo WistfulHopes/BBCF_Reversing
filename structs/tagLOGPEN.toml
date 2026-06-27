@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.884833Z
+name = "tagLOGPEN"
+size = 0x10
+
+[members.0x0]
+name = "lopnStyle"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "lopnWidth"
+offset = 0x4
+type = "POINT"
+size = 0x8
+
+[members.0xc]
+name = "lopnColor"
+offset = 0xc
+type = "COLORREF"
+size = 0x4

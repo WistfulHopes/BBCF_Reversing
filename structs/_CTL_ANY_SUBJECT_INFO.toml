@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.672821Z
+name = "_CTL_ANY_SUBJECT_INFO"
+size = 0x14
+
+[members.0x0]
+name = "SubjectAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "SubjectIdentifier"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.699251Z
+name = "_FILE_MAKE_COMPATIBLE_BUFFER"
+size = 0x1
+
+[members.0x0]
+name = "CloseDisc"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

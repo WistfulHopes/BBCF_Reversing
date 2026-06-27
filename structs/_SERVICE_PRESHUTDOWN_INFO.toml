@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.797359Z
+name = "_SERVICE_PRESHUTDOWN_INFO"
+size = 0x4
+
+[members.0x0]
+name = "dwPreshutdownTimeout"
+offset = 0x0
+type = "DWORD"
+size = 0x4

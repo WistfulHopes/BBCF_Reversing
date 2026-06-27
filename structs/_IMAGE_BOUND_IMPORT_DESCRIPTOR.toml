@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.711246Z
+name = "_IMAGE_BOUND_IMPORT_DESCRIPTOR"
+size = 0x8
+
+[members.0x0]
+name = "TimeDateStamp"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "OffsetModuleName"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "NumberOfModuleForwarderRefs"
+offset = 0x6
+type = "WORD"
+size = 0x2

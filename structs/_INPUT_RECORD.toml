@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.722264Z
+name = "_INPUT_RECORD"
+size = 0x14
+
+[members.0x0]
+name = "EventType"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Event"
+offset = 0x4
+type = "union"
+size = 0x10

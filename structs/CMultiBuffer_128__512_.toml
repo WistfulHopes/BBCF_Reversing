@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.593772Z
+name = "CMultiBuffer<128, 512>"
+size = 0x10080
+
+[members.0x0]
+name = "m_pEmptyChain"
+offset = 0x0
+type = "struct CMultiBuffer::MEM<512>*"
+size = 0x4
+
+[members.0x4]
+name = "m_Memory"
+offset = 0x4
+type = "struct CMultiBuffer::MEM<512>[0x80]"
+size = 0x10000

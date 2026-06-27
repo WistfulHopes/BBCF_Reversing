@@ -1,0 +1,111 @@
+last_change = 2026-06-27T20:49:16.605975Z
+name = "GAME_CETCObjList"
+size = 0x5af84
+
+[members.0x0]
+name = "m_Cockpit"
+offset = 0x0
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0xc]
+name = "m_TitleLoop"
+offset = 0xc
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x14]
+name = "m_CharSelect"
+offset = 0x14
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x1c]
+name = "m_Profile"
+offset = 0x1c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x24]
+name = "m_VSInfo"
+offset = 0x24
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x2c]
+name = "m_Winner"
+offset = 0x2c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x34]
+name = "m_StageInfo"
+offset = 0x34
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x3c]
+name = "m_Ending"
+offset = 0x3c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x44]
+name = "m_Ranking"
+offset = 0x44
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x4c]
+name = "m_ModeSelect"
+offset = 0x4c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x54]
+name = "m_StaffRoll"
+offset = 0x54
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x5c]
+name = "m_Result"
+offset = 0x5c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x64]
+name = "m_MainMenu"
+offset = 0x64
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x6c]
+name = "m_StorySelect"
+offset = 0x6c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x74]
+name = "m_Lobby"
+offset = 0x74
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x7c]
+name = "m_MyRoomTest"
+offset = 0x7c
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x84]
+name = "m_DCC"
+offset = 0x84
+type = "struct GAME_CETCObjectBase"
+size = 0x8
+
+[members.0x8c]
+name = "m_ObjectStatic"
+offset = 0x8c
+type = "struct GAME_CETCObjectBase"
+size = 0x8

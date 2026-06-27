@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.690924Z
+name = "_ENCLAVE_INIT_INFO_SGX"
+size = 0x1000
+
+[members.0x0]
+name = "SigStruct"
+offset = 0x0
+type = "BYTE[0x710]"
+size = 0x710
+
+[members.0x710]
+name = "Reserved1"
+offset = 0x710
+type = "BYTE[0xf0]"
+size = 0xf0
+
+[members.0x800]
+name = "EInitToken"
+offset = 0x800
+type = "BYTE[0x130]"
+size = 0x130
+
+[members.0x930]
+name = "Reserved2"
+offset = 0x930
+type = "BYTE[0x6d0]"
+size = 0x6d0

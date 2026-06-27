@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.648013Z
+name = "_CERT_SYSTEM_STORE_RELOCATE_PARA"
+size = 0x8
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4
+
+[members.0x4]
+name = "_1"
+offset = 0x4
+type = "union"
+size = 0x4

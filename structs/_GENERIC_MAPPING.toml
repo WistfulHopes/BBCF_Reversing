@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.707086Z
+name = "_GENERIC_MAPPING"
+size = 0x10
+
+[members.0x0]
+name = "GenericRead"
+offset = 0x0
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x4]
+name = "GenericWrite"
+offset = 0x4
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x8]
+name = "GenericExecute"
+offset = 0x8
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0xc]
+name = "GenericAll"
+offset = 0xc
+type = "ACCESS_MASK"
+size = 0x4

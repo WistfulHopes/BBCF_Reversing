@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.594524Z
+name = "COPYFILE2_EXTENDED_PARAMETERS_V2"
+size = 0x40
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwCopyFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pfCancel"
+offset = 0x8
+type = "BOOL*"
+size = 0x4
+
+[members.0xc]
+name = "pProgressRoutine"
+offset = 0xc
+type = "PCOPYFILE2_PROGRESS_ROUTINE"
+size = 0x4
+
+[members.0x10]
+name = "pvCallbackContext"
+offset = 0x10
+type = "PVOID"
+size = 0x4
+
+[members.0x14]
+name = "dwCopyFlagsV2"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "ioDesiredSize"
+offset = 0x18
+type = "ULONG"
+size = 0x4
+
+[members.0x1c]
+name = "ioDesiredRate"
+offset = 0x1c
+type = "ULONG"
+size = 0x4
+
+[members.0x20]
+name = "reserved"
+offset = 0x20
+type = "PVOID[0x8]"
+size = 0x20

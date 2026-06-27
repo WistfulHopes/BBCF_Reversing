@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.673895Z
+name = "_CTL_VERIFY_USAGE_STATUS"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwError"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ppCtl"
+offset = 0xc
+type = "PCCTL_CONTEXT*"
+size = 0x4
+
+[members.0x10]
+name = "dwCtlEntryIndex"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ppSigner"
+offset = 0x14
+type = "PCCERT_CONTEXT*"
+size = 0x4
+
+[members.0x18]
+name = "dwSignerIndex"
+offset = 0x18
+type = "DWORD"
+size = 0x4

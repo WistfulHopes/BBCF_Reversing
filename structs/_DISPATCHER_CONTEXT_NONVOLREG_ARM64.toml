@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.683143Z
+name = "_DISPATCHER_CONTEXT_NONVOLREG_ARM64"
+size = 0x98
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "struct"
+size = 0x98

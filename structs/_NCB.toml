@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.738728Z
+name = "_NCB"
+size = 0x40
+
+[members.0x0]
+name = "ncb_command"
+offset = 0x0
+type = "UCHAR"
+size = 0x1
+
+[members.0x1]
+name = "ncb_retcode"
+offset = 0x1
+type = "UCHAR"
+size = 0x1
+
+[members.0x2]
+name = "ncb_lsn"
+offset = 0x2
+type = "UCHAR"
+size = 0x1
+
+[members.0x3]
+name = "ncb_num"
+offset = 0x3
+type = "UCHAR"
+size = 0x1
+
+[members.0x4]
+name = "ncb_buffer"
+offset = 0x4
+type = "PUCHAR"
+size = 0x4
+
+[members.0x8]
+name = "ncb_length"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "ncb_callname"
+offset = 0xa
+type = "UCHAR[0x10]"
+size = 0x10
+
+[members.0x1a]
+name = "ncb_name"
+offset = 0x1a
+type = "UCHAR[0x10]"
+size = 0x10
+
+[members.0x2a]
+name = "ncb_rto"
+offset = 0x2a
+type = "UCHAR"
+size = 0x1
+
+[members.0x2b]
+name = "ncb_sto"
+offset = 0x2b
+type = "UCHAR"
+size = 0x1
+
+[members.0x2c]
+name = "ncb_post"
+offset = 0x2c
+type = "void (*)(struct _NCB*)"
+size = 0x4
+
+[members.0x30]
+name = "ncb_lana_num"
+offset = 0x30
+type = "UCHAR"
+size = 0x1
+
+[members.0x31]
+name = "ncb_cmd_cplt"
+offset = 0x31
+type = "UCHAR"
+size = 0x1
+
+[members.0x32]
+name = "ncb_reserve"
+offset = 0x32
+type = "UCHAR[0xa]"
+size = 0xa
+
+[members.0x3c]
+name = "ncb_event"
+offset = 0x3c
+type = "HANDLE"
+size = 0x4

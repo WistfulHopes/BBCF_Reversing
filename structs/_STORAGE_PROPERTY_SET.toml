@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.812475Z
+name = "_STORAGE_PROPERTY_SET"
+size = 0xc
+
+[members.0x0]
+name = "PropertyId"
+offset = 0x0
+type = "STORAGE_PROPERTY_ID"
+size = 0x4
+
+[members.0x4]
+name = "SetType"
+offset = 0x4
+type = "STORAGE_SET_TYPE"
+size = 0x4
+
+[members.0x8]
+name = "AdditionalParameters"
+offset = 0x8
+type = "BYTE[0x1]"
+size = 0x1

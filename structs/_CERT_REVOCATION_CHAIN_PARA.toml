@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.645865Z
+name = "_CERT_REVOCATION_CHAIN_PARA"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hChainEngine"
+offset = 0x4
+type = "HCERTCHAINENGINE"
+size = 0x4
+
+[members.0x8]
+name = "hAdditionalStore"
+offset = 0x8
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0xc]
+name = "dwChainFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwUrlRetrievalTimeout"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pftCurrentTime"
+offset = 0x14
+type = "LPFILETIME"
+size = 0x4
+
+[members.0x18]
+name = "pftCacheResync"
+offset = 0x18
+type = "LPFILETIME"
+size = 0x4
+
+[members.0x1c]
+name = "cbMaxUrlRetrievalByteCount"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

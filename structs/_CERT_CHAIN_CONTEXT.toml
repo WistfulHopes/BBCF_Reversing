@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.640082Z
+name = "_CERT_CHAIN_CONTEXT"
+size = 0x38
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TrustStatus"
+offset = 0x4
+type = "CERT_TRUST_STATUS"
+size = 0x8
+
+[members.0xc]
+name = "cChain"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rgpChain"
+offset = 0x10
+type = "PCERT_SIMPLE_CHAIN*"
+size = 0x4
+
+[members.0x14]
+name = "cLowerQualityChainContext"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "rgpLowerQualityChainContext"
+offset = 0x18
+type = "PCCERT_CHAIN_CONTEXT*"
+size = 0x4
+
+[members.0x1c]
+name = "fHasRevocationFreshnessTime"
+offset = 0x1c
+type = "BOOL"
+size = 0x4
+
+[members.0x20]
+name = "dwRevocationFreshnessTime"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwCreateFlags"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "ChainId"
+offset = 0x28
+type = "GUID"
+size = 0x10

@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.919811Z
+name = "tagWAVEINCAPS2A"
+size = 0x60
+
+[members.0x0]
+name = "wMid"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPid"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "vDriverVersion"
+offset = 0x4
+type = "MMVERSION"
+size = 0x4
+
+[members.0x8]
+name = "szPname"
+offset = 0x8
+type = "CHAR[0x20]"
+size = 0x20
+
+[members.0x28]
+name = "dwFormats"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "wChannels"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "wReserved1"
+offset = 0x2e
+type = "WORD"
+size = 0x2
+
+[members.0x30]
+name = "ManufacturerGuid"
+offset = 0x30
+type = "GUID"
+size = 0x10
+
+[members.0x40]
+name = "ProductGuid"
+offset = 0x40
+type = "GUID"
+size = 0x10
+
+[members.0x50]
+name = "NameGuid"
+offset = 0x50
+type = "GUID"
+size = 0x10

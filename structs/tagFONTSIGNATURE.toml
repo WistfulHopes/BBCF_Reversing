@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.876139Z
+name = "tagFONTSIGNATURE"
+size = 0x18
+
+[members.0x0]
+name = "fsUsb"
+offset = 0x0
+type = "DWORD[0x4]"
+size = 0x10
+
+[members.0x10]
+name = "fsCsb"
+offset = 0x10
+type = "DWORD[0x2]"
+size = 0x8

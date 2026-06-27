@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.778414Z
+name = "_REQUEST_OPLOCK_OUTPUT_BUFFER"
+size = 0x18
+
+[members.0x0]
+name = "StructureVersion"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "StructureLength"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "OriginalOplockLevel"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NewOplockLevel"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Flags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "AccessMode"
+offset = 0x10
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x14]
+name = "ShareMode"
+offset = 0x14
+type = "WORD"
+size = 0x2

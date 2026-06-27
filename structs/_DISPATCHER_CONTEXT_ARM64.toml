@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.683080Z
+name = "_DISPATCHER_CONTEXT_ARM64"
+size = 0x30
+
+[members.0x0]
+name = "ControlPc"
+offset = 0x0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x4]
+name = "ImageBase"
+offset = 0x4
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x8]
+name = "FunctionEntry"
+offset = 0x8
+type = "PARM64_RUNTIME_FUNCTION"
+size = 0x4
+
+[members.0xc]
+name = "EstablisherFrame"
+offset = 0xc
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x10]
+name = "TargetPc"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x14]
+name = "ContextRecord"
+offset = 0x14
+type = "PARM64_NT_CONTEXT"
+size = 0x4
+
+[members.0x18]
+name = "LanguageHandler"
+offset = 0x18
+type = "PEXCEPTION_ROUTINE"
+size = 0x4
+
+[members.0x1c]
+name = "HandlerData"
+offset = 0x1c
+type = "PVOID"
+size = 0x4
+
+[members.0x20]
+name = "HistoryTable"
+offset = 0x20
+type = "struct _UNWIND_HISTORY_TABLE*"
+size = 0x4
+
+[members.0x24]
+name = "ScopeIndex"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "ControlPcIsUnwound"
+offset = 0x28
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2c]
+name = "NonVolatileRegisters"
+offset = 0x2c
+type = "PBYTE"
+size = 0x4

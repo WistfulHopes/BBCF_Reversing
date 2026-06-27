@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.878405Z
+name = "tagHSZPAIR"
+size = 0x8
+
+[members.0x0]
+name = "hszSvc"
+offset = 0x0
+type = "HSZ"
+size = 0x4
+
+[members.0x4]
+name = "hszTopic"
+offset = 0x4
+type = "HSZ"
+size = 0x4

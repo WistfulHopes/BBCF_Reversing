@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.798394Z
+name = "_SERVICE_TRIGGER"
+size = 0x14
+
+[members.0x0]
+name = "dwTriggerType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwAction"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pTriggerSubtype"
+offset = 0x8
+type = "GUID*"
+size = 0x4
+
+[members.0xc]
+name = "cDataItems"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "pDataItems"
+offset = 0x10
+type = "PSERVICE_TRIGGER_SPECIFIC_DATA_ITEM"
+size = 0x4

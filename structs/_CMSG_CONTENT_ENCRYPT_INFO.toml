@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.652997Z
+name = "_CMSG_CONTENT_ENCRYPT_INFO"
+size = 0x44
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hCryptProv"
+offset = 0x4
+type = "HCRYPTPROV_LEGACY"
+size = 0x4
+
+[members.0x8]
+name = "ContentEncryptionAlgorithm"
+offset = 0x8
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x14]
+name = "pvEncryptionAuxInfo"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "cRecipients"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "rgCmsRecipients"
+offset = 0x1c
+type = "PCMSG_RECIPIENT_ENCODE_INFO"
+size = 0x4
+
+[members.0x20]
+name = "pfnAlloc"
+offset = 0x20
+type = "PFN_CMSG_ALLOC"
+size = 0x4
+
+[members.0x24]
+name = "pfnFree"
+offset = 0x24
+type = "PFN_CMSG_FREE"
+size = 0x4
+
+[members.0x28]
+name = "dwEncryptFlags"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = ""
+offset = 0x2c
+type = "union"
+size = 0x4
+
+[members.0x30]
+name = "dwFlags"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "fCNG"
+offset = 0x34
+type = "BOOL"
+size = 0x4
+
+[members.0x38]
+name = "pbCNGContentEncryptKeyObject"
+offset = 0x38
+type = "BYTE*"
+size = 0x4
+
+[members.0x3c]
+name = "pbContentEncryptKey"
+offset = 0x3c
+type = "BYTE*"
+size = 0x4
+
+[members.0x40]
+name = "cbContentEncryptKey"
+offset = 0x40
+type = "DWORD"
+size = 0x4

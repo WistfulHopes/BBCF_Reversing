@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.843168Z
+name = "_numberfmtA"
+size = 0x18
+
+[members.0x0]
+name = "NumDigits"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "LeadingZero"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "Grouping"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "lpDecimalSep"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpThousandSep"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "NegativeOrder"
+offset = 0x14
+type = "UINT"
+size = 0x4

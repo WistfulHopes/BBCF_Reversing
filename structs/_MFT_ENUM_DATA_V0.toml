@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.734017Z
+name = "_MFT_ENUM_DATA_V0"
+size = 0x18
+
+[members.0x0]
+name = "StartFileReferenceNumber"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "LowUsn"
+offset = 0x8
+type = "USN"
+size = 0x8
+
+[members.0x10]
+name = "HighUsn"
+offset = 0x10
+type = "USN"
+size = 0x8

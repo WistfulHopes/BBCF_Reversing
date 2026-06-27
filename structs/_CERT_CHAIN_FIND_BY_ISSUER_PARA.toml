@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.640631Z
+name = "_CERT_CHAIN_FIND_BY_ISSUER_PARA"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pszUsageIdentifier"
+offset = 0x4
+type = "LPCSTR"
+size = 0x4
+
+[members.0x8]
+name = "dwKeySpec"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwAcquirePrivateKeyFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cIssuer"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgIssuer"
+offset = 0x14
+type = "CERT_NAME_BLOB*"
+size = 0x4
+
+[members.0x18]
+name = "pfnFindCallback"
+offset = 0x18
+type = "PFN_CERT_CHAIN_FIND_BY_ISSUER_CALLBACK"
+size = 0x4
+
+[members.0x1c]
+name = "pvFindArg"
+offset = 0x1c
+type = "void*"
+size = 0x4

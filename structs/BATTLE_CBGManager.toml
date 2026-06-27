@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.587674Z
+name = "BATTLE_CBGManager"
+size = 0x82c8
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_TaskList::BATTLE_CBGManager::VTable*"
+size = 0x4
+
+[members.0x10]
+name = "vftable_Serializable"
+offset = 0x10
+type = "struct ISerializable::BATTLE_CBGManager::VTable*"
+size = 0x4
+
+[members.0x14]
+name = "vftable_GameState"
+offset = 0x14
+type = "struct IGameState::BATTLE_CBGManager::VTable*"
+size = 0x4
+
+[members.0x24]
+name = "m_pBGInst"
+offset = 0x24
+type = "void*"
+size = 0x4
+
+[members.0x2c]
+name = "m_BGCtrl"
+offset = 0x2c
+type = "struct CBGCtrl[0x20]"
+size = 0x8280
+
+[members.0x82ac]
+name = "unk"
+offset = 0x82ac
+type = "void*"
+size = 0x4
+
+[members.0x82b0]
+name = "m_pBGList"
+offset = 0x82b0
+type = "struct BG_CList*[0x4]"
+size = 0x10
+
+[members.0x82c0]
+name = "unk2"
+offset = 0x82c0
+type = "int"
+size = 0x4
+
+[members.0x82c4]
+name = "m_pBGEffectManager"
+offset = 0x82c4
+type = "void*"
+size = 0x4

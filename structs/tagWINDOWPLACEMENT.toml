@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.921936Z
+name = "tagWINDOWPLACEMENT"
+size = 0x2c
+
+[members.0x0]
+name = "length"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "flags"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "showCmd"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "ptMinPosition"
+offset = 0xc
+type = "POINT"
+size = 0x8
+
+[members.0x14]
+name = "ptMaxPosition"
+offset = 0x14
+type = "POINT"
+size = 0x8
+
+[members.0x1c]
+name = "rcNormalPosition"
+offset = 0x1c
+type = "RECT"
+size = 0x10

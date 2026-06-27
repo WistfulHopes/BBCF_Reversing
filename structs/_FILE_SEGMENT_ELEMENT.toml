@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.701592Z
+name = "_FILE_SEGMENT_ELEMENT"
+size = 0x8
+
+[members.0x0]
+name = "Alignment"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8

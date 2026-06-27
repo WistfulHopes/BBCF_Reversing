@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.629370Z
+name = "_ACCESS_DENIED_CALLBACK_ACE"
+size = 0xc
+
+[members.0x0]
+name = "Header"
+offset = 0x0
+type = "ACE_HEADER"
+size = 0x4
+
+[members.0x4]
+name = "Mask"
+offset = 0x4
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x8]
+name = "SidStart"
+offset = 0x8
+type = "DWORD"
+size = 0x4

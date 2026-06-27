@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.595905Z
+name = "CXXBYTE<128>"
+size = 0x80
+
+[members.0x0]
+name = "m_Buf"
+offset = 0x0
+type = "char[0x80]"
+size = 0x80

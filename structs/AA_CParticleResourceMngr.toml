@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.581789Z
+name = "AA_CParticleResourceMngr"
+size = 0x1c
+
+[members.0x0]
+name = "m_Resource"
+offset = 0x0
+type = "void**"
+size = 0x4
+
+[members.0xc]
+name = "m_MaxNum"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_pRepulsionSphereVector"
+offset = 0x10
+type = "struct CRepulsionSphere*"
+size = 0x4
+
+[members.0x14]
+name = "m_RepulsionSphereCount"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_LinkMagn"
+offset = 0x18
+type = "int"
+size = 0x4

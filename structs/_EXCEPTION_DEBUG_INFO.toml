@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.693635Z
+name = "_EXCEPTION_DEBUG_INFO"
+size = 0x54
+
+[members.0x0]
+name = "ExceptionRecord"
+offset = 0x0
+type = "EXCEPTION_RECORD"
+size = 0x50
+
+[members.0x50]
+name = "dwFirstChance"
+offset = 0x50
+type = "DWORD"
+size = 0x4

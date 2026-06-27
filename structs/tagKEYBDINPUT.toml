@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.882667Z
+name = "tagKEYBDINPUT"
+size = 0x10
+
+[members.0x0]
+name = "wVk"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wScan"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "time"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwExtraInfo"
+offset = 0xc
+type = "ULONG_PTR"
+size = 0x4

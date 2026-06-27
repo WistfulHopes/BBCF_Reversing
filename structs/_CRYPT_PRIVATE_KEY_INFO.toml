@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.668387Z
+name = "_CRYPT_PRIVATE_KEY_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Algorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "PrivateKey"
+offset = 0x10
+type = "CRYPT_DER_BLOB"
+size = 0x8
+
+[members.0x18]
+name = "pAttributes"
+offset = 0x18
+type = "PCRYPT_ATTRIBUTES"
+size = 0x4

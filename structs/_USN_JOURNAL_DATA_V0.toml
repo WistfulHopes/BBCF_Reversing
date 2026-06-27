@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.831901Z
+name = "_USN_JOURNAL_DATA_V0"
+size = 0x38
+
+[members.0x0]
+name = "UsnJournalID"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "FirstUsn"
+offset = 0x8
+type = "USN"
+size = 0x8
+
+[members.0x10]
+name = "NextUsn"
+offset = 0x10
+type = "USN"
+size = 0x8
+
+[members.0x18]
+name = "LowestValidUsn"
+offset = 0x18
+type = "USN"
+size = 0x8
+
+[members.0x20]
+name = "MaxUsn"
+offset = 0x20
+type = "USN"
+size = 0x8
+
+[members.0x28]
+name = "MaximumSize"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "AllocationDelta"
+offset = 0x30
+type = "DWORDLONG"
+size = 0x8

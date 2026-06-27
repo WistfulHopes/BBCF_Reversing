@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.583442Z
+name = "AA_Color"
+size = 0x4
+
+[members.0x0]
+name = "A"
+offset = 0x0
+type = "uchar"
+size = 0x1
+
+[members.0x1]
+name = "R"
+offset = 0x1
+type = "uchar"
+size = 0x1
+
+[members.0x2]
+name = "G"
+offset = 0x2
+type = "uchar"
+size = 0x1
+
+[members.0x3]
+name = "B"
+offset = 0x3
+type = "uchar"
+size = 0x1

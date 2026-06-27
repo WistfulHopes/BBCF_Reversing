@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.799268Z
+name = "_SET_DISK_ATTRIBUTES"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Persist"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x5]
+name = "Reserved1"
+offset = 0x5
+type = "BYTE[0x3]"
+size = 0x3
+
+[members.0x8]
+name = "Attributes"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "AttributesMask"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "Reserved2"
+offset = 0x18
+type = "DWORD[0x4]"
+size = 0x10

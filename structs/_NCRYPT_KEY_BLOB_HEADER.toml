@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.739373Z
+name = "_NCRYPT_KEY_BLOB_HEADER"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwMagic"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "cbAlgName"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "cbKeyData"
+offset = 0xc
+type = "ULONG"
+size = 0x4

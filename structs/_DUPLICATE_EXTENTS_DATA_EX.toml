@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.689994Z
+name = "_DUPLICATE_EXTENTS_DATA_EX"
+size = 0x28
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "FileHandle"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "SourceFileOffset"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "TargetFileOffset"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "ByteCount"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "Flags"
+offset = 0x20
+type = "DWORD"
+size = 0x4

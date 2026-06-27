@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.827936Z
+name = "_TRANSACTION_NOTIFICATION_PROPAGATE_ARGUMENT"
+size = 0x28
+
+[members.0x0]
+name = "PropagationCookie"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "UOW"
+offset = 0x4
+type = "GUID"
+size = 0x10
+
+[members.0x14]
+name = "TmIdentity"
+offset = 0x14
+type = "GUID"
+size = 0x10
+
+[members.0x24]
+name = "BufferLength"
+offset = 0x24
+type = "ULONG"
+size = 0x4

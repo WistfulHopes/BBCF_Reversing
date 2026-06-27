@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.669516Z
+name = "_CRYPT_RSA_SSA_PSS_PARAMETERS"
+size = 0x24
+
+[members.0x0]
+name = "HashAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "MaskGenAlgorithm"
+offset = 0xc
+type = "CRYPT_MASK_GEN_ALGORITHM"
+size = 0x10
+
+[members.0x1c]
+name = "dwSaltLength"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwTrailerField"
+offset = 0x20
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.577524Z
+name = "AAJVS_SystemManager"
+size = 0x3d
+
+[members.0x30]
+name = "m_JVSInitialized"
+offset = 0x30
+type = "bool"
+size = 0x1

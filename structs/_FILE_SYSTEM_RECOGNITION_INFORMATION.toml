@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.702358Z
+name = "_FILE_SYSTEM_RECOGNITION_INFORMATION"
+size = 0x9
+
+[members.0x0]
+name = "FileSystem"
+offset = 0x0
+type = "CHAR[0x9]"
+size = 0x9

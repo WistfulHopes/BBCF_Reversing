@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.745701Z
+name = "_OCSP_BASIC_RESPONSE_INFO"
+size = 0x28
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwResponderIdChoice"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x8
+
+[members.0x10]
+name = "ProducedAt"
+offset = 0x10
+type = "FILETIME"
+size = 0x8
+
+[members.0x18]
+name = "cResponseEntry"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "rgResponseEntry"
+offset = 0x1c
+type = "POCSP_BASIC_RESPONSE_ENTRY"
+size = 0x4
+
+[members.0x20]
+name = "cExtension"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "rgExtension"
+offset = 0x24
+type = "PCERT_EXTENSION"
+size = 0x4

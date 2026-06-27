@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.830532Z
+name = "_TXFS_ROLLFORWARD_REDO_INFORMATION"
+size = 0x20
+
+[members.0x0]
+name = "LastVirtualClock"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "LastRedoLsn"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "HighestRecoveryLsn"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "Flags"
+offset = 0x18
+type = "DWORD"
+size = 0x4

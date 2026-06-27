@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.912487Z
+name = "tagSAFEARRAY"
+size = 0x18
+
+[members.0x0]
+name = "cDims"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "fFeatures"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "cbElements"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "cLocks"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "pvData"
+offset = 0xc
+type = "PVOID"
+size = 0x4
+
+[members.0x10]
+name = "rgsabound"
+offset = 0x10
+type = "SAFEARRAYBOUND[0x1]"
+size = 0x8

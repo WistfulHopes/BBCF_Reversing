@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.709197Z
+name = "_HIBERFILE_BUCKET"
+size = 0x18
+
+[members.0x0]
+name = "MaxPhysicalMemory"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "PhysicalMemoryPercent"
+offset = 0x8
+type = "DWORD[0x3]"
+size = 0xc

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.828046Z
+name = "_TRANSACTION_NOTIFICATION_SAVEPOINT_ARGUMENT"
+size = 0x4
+
+[members.0x0]
+name = "SavepointId"
+offset = 0x0
+type = "SAVEPOINT_ID"
+size = 0x4

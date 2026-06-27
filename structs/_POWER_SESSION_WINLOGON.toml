@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.758327Z
+name = "_POWER_SESSION_WINLOGON"
+size = 0x8
+
+[members.0x0]
+name = "SessionId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Console"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x5]
+name = "Locked"
+offset = 0x5
+type = "BOOLEAN"
+size = 0x1

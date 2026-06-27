@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.803400Z
+name = "_SMB_SHARE_FLUSH_AND_PURGE_OUTPUT"
+size = 0x4
+
+[members.0x0]
+name = "cEntriesPurged"
+offset = 0x0
+type = "DWORD"
+size = 0x4

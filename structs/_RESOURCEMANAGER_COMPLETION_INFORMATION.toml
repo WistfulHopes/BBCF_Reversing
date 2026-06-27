@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.778632Z
+name = "_RESOURCEMANAGER_COMPLETION_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "IoCompletionPortHandle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "CompletionKey"
+offset = 0x4
+type = "ULONG_PTR"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.912687Z
+name = "tagSCROLLBARINFO"
+size = 0x3c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcScrollBar"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "dxyLineButton"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "xyThumbTop"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "xyThumbBottom"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "reserved"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "rgstate"
+offset = 0x24
+type = "DWORD[0x6]"
+size = 0x18

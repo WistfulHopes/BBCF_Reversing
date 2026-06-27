@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.599566Z
+name = "D3DPRESENT_PARAMETERS"
+size = 0x38
+
+[members.0x0]
+name = "BackBufferWidth"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "BackBufferHeight"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "BackBufferFormat"
+offset = 0x8
+type = "enum D3DFORMAT"
+size = 0x4
+
+[members.0xc]
+name = "BackBufferCount"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "MultiSampleType"
+offset = 0x10
+type = "enum D3DMULTISAMPLE_TYPE"
+size = 0x4
+
+[members.0x14]
+name = "MultiSampleQuality"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "SwapEffect"
+offset = 0x18
+type = "enum D3DSWAPEFFECT"
+size = 0x4
+
+[members.0x1c]
+name = "hDeviceWindow"
+offset = 0x1c
+type = "HWND"
+size = 0x4
+
+[members.0x20]
+name = "Windowed"
+offset = 0x20
+type = "BOOL"
+size = 0x4
+
+[members.0x24]
+name = "EnableAutoDepthStencil"
+offset = 0x24
+type = "BOOL"
+size = 0x4
+
+[members.0x28]
+name = "AutoDepthStencilFormat"
+offset = 0x28
+type = "enum D3DFORMAT"
+size = 0x4
+
+[members.0x2c]
+name = "Flags"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "FullScreen_RefreshRateInHz"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "PresentationInterval"
+offset = 0x34
+type = "uint"
+size = 0x4

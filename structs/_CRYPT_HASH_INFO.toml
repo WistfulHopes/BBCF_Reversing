@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.665928Z
+name = "_CRYPT_HASH_INFO"
+size = 0x14
+
+[members.0x0]
+name = "HashAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "Hash"
+offset = 0xc
+type = "CRYPT_HASH_BLOB"
+size = 0x8

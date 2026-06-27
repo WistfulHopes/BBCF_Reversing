@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.905604Z
+name = "tagPOINTER_DEVICE_INFO"
+size = 0x428
+
+[members.0x0]
+name = "displayOrientation"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "device"
+offset = 0x4
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "pointerDeviceType"
+offset = 0x8
+type = "POINTER_DEVICE_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "monitor"
+offset = 0xc
+type = "HMONITOR"
+size = 0x4
+
+[members.0x10]
+name = "startingCursorId"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "maxActiveContacts"
+offset = 0x14
+type = "USHORT"
+size = 0x2
+
+[members.0x16]
+name = "productString"
+offset = 0x16
+type = "WCHAR[0x208]"
+size = 0x410

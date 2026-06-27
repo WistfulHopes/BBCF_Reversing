@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.864840Z
+name = "tagEMRCREATECOLORSPACE"
+size = 0x154
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihCS"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lcs"
+offset = 0xc
+type = "LOGCOLORSPACEA"
+size = 0x148

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.798443Z
+name = "_SERVICE_TRIGGER_CUSTOM_STATE_ID"
+size = 0x8
+
+[members.0x0]
+name = "Data"
+offset = 0x0
+type = "DWORD[0x2]"
+size = 0x8

@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.845307Z
+name = "_userBITMAP"
+size = 0x1c
+
+[members.0x0]
+name = "bmType"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "bmWidth"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "bmHeight"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "bmWidthBytes"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "bmPlanes"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "bmBitsPixel"
+offset = 0x12
+type = "WORD"
+size = 0x2
+
+[members.0x14]
+name = "cbSize"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "pBuffer"
+offset = 0x18
+type = "byte[0x1]"
+size = 0x1

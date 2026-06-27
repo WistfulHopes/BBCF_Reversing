@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.835928Z
+name = "_WIM_PROVIDER_OVERLAY_ENTRY"
+size = 0x30
+
+[members.0x0]
+name = "NextEntryOffset"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DataSourceId"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "WimGuid"
+offset = 0x10
+type = "GUID"
+size = 0x10
+
+[members.0x20]
+name = "WimFileNameOffset"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "WimType"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "WimIndex"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "Flags"
+offset = 0x2c
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.715023Z
+name = "_IMAGE_IMPORT_BY_NAME"
+size = 0x4
+
+[members.0x0]
+name = "Hint"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Name"
+offset = 0x2
+type = "CHAR[0x1]"
+size = 0x1

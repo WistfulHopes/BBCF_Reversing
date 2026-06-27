@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.635895Z
+name = "_BCRYPT_OID_LIST"
+size = 0x8
+
+[members.0x0]
+name = "dwOIDCount"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "pOIDs"
+offset = 0x4
+type = "BCRYPT_OID*"
+size = 0x4

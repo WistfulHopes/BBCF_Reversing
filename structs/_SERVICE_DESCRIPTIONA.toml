@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.796076Z
+name = "_SERVICE_DESCRIPTIONA"
+size = 0x4
+
+[members.0x0]
+name = "lpDescription"
+offset = 0x0
+type = "LPSTR"
+size = 0x4

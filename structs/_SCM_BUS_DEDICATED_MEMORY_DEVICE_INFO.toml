@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.788320Z
+name = "_SCM_BUS_DEDICATED_MEMORY_DEVICE_INFO"
+size = 0x20
+
+[members.0x0]
+name = "DeviceGuid"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "DeviceNumber"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "DeviceSize"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8

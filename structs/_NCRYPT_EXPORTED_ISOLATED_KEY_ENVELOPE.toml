@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.738911Z
+name = "_NCRYPT_EXPORTED_ISOLATED_KEY_ENVELOPE"
+size = 0x20
+
+[members.0x0]
+name = "Header"
+offset = 0x0
+type = "NCRYPT_EXPORTED_ISOLATED_KEY_HEADER"
+size = 0x20

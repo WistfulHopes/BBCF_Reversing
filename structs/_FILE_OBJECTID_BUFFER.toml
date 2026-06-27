@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.699914Z
+name = "_FILE_OBJECTID_BUFFER"
+size = 0x40
+
+[members.0x0]
+name = "ObjectId"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x30

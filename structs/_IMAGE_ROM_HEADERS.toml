@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.719656Z
+name = "_IMAGE_ROM_HEADERS"
+size = 0x4c
+
+[members.0x0]
+name = "FileHeader"
+offset = 0x0
+type = "IMAGE_FILE_HEADER"
+size = 0x14
+
+[members.0x14]
+name = "OptionalHeader"
+offset = 0x14
+type = "IMAGE_ROM_OPTIONAL_HEADER"
+size = 0x38

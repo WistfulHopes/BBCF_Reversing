@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.902308Z
+name = "tagOIFI"
+size = 0x14
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "fMDIApp"
+offset = 0x4
+type = "BOOL"
+size = 0x4
+
+[members.0x8]
+name = "hwndFrame"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "haccel"
+offset = 0xc
+type = "HACCEL"
+size = 0x4
+
+[members.0x10]
+name = "cAccelEntries"
+offset = 0x10
+type = "UINT"
+size = 0x4

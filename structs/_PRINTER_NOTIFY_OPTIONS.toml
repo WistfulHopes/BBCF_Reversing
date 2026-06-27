@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.764162Z
+name = "_PRINTER_NOTIFY_OPTIONS"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Count"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pTypes"
+offset = 0xc
+type = "PPRINTER_NOTIFY_OPTIONS_TYPE"
+size = 0x4

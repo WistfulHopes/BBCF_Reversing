@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.638163Z
+name = "_BULK_SECURITY_TEST_DATA"
+size = 0x8
+
+[members.0x0]
+name = "DesiredAccess"
+offset = 0x0
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x4]
+name = "SecurityIds"
+offset = 0x4
+type = "DWORD[0x1]"
+size = 0x4

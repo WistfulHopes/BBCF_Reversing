@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.740470Z
+name = "_NDR_USER_MARSHAL_INFO_LEVEL1"
+size = 0x28
+
+[members.0x0]
+name = "Buffer"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "BufferSize"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "pfnAllocate"
+offset = 0x8
+type = "void* (*)(uint cb)"
+size = 0x4
+
+[members.0xc]
+name = "pfnFree"
+offset = 0xc
+type = "void (*)(void*)"
+size = 0x4
+
+[members.0x10]
+name = "pRpcChannelBuffer"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "Reserved"
+offset = 0x14
+type = "ULONG_PTR[0x5]"
+size = 0x14

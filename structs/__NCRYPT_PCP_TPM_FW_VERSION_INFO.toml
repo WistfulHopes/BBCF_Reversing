@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.840466Z
+name = "__NCRYPT_PCP_TPM_FW_VERSION_INFO"
+size = 0x8
+
+[members.0x0]
+name = "major1"
+offset = 0x0
+type = "UINT16"
+size = 0x2
+
+[members.0x2]
+name = "major2"
+offset = 0x2
+type = "UINT16"
+size = 0x2
+
+[members.0x4]
+name = "minor1"
+offset = 0x4
+type = "UINT16"
+size = 0x2
+
+[members.0x6]
+name = "minor2"
+offset = 0x6
+type = "UINT16"
+size = 0x2

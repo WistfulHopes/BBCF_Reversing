@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.775025Z
+name = "_QUOTA_LIMITS_EX"
+size = 0x38
+
+[members.0x0]
+name = "PagedPoolLimit"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "NonPagedPoolLimit"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4
+
+[members.0x8]
+name = "MinimumWorkingSetSize"
+offset = 0x8
+type = "SIZE_T"
+size = 0x4
+
+[members.0xc]
+name = "MaximumWorkingSetSize"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "PagefileLimit"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4
+
+[members.0x18]
+name = "TimeLimit"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "WorkingSetLimit"
+offset = 0x20
+type = "SIZE_T"
+size = 0x4
+
+[members.0x24]
+name = "Reserved2"
+offset = 0x24
+type = "SIZE_T"
+size = 0x4
+
+[members.0x28]
+name = "Reserved3"
+offset = 0x28
+type = "SIZE_T"
+size = 0x4
+
+[members.0x2c]
+name = "Reserved4"
+offset = 0x2c
+type = "SIZE_T"
+size = 0x4
+
+[members.0x30]
+name = "Flags"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "CpuRateLimit"
+offset = 0x34
+type = "RATE_QUOTA_LIMIT"
+size = 0x4

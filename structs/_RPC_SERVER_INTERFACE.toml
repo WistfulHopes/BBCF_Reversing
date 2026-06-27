@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.784923Z
+name = "_RPC_SERVER_INTERFACE"
+size = 0x44
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "InterfaceId"
+offset = 0x4
+type = "RPC_SYNTAX_IDENTIFIER"
+size = 0x14
+
+[members.0x18]
+name = "TransferSyntax"
+offset = 0x18
+type = "RPC_SYNTAX_IDENTIFIER"
+size = 0x14
+
+[members.0x2c]
+name = "DispatchTable"
+offset = 0x2c
+type = "PRPC_DISPATCH_TABLE"
+size = 0x4
+
+[members.0x30]
+name = "RpcProtseqEndpointCount"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "RpcProtseqEndpoint"
+offset = 0x34
+type = "PRPC_PROTSEQ_ENDPOINT"
+size = 0x4
+
+[members.0x38]
+name = "DefaultManagerEpv"
+offset = 0x38
+type = "void*"
+size = 0x4
+
+[members.0x3c]
+name = "InterpreterInfo"
+offset = 0x3c
+type = "void const*"
+size = 0x4
+
+[members.0x40]
+name = "Flags"
+offset = 0x40
+type = "uint"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.816573Z
+name = "_STREAMS_QUERY_PARAMETERS_OUTPUT_BUFFER"
+size = 0x10
+
+[members.0x0]
+name = "OptimalWriteSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "StreamGranularitySize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "StreamIdMin"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "StreamIdMax"
+offset = 0xc
+type = "DWORD"
+size = 0x4

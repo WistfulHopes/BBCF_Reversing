@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.810472Z
+name = "_STORAGE_IDLE_POWER"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "__bitfield8"
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "D3IdleTimeout"
+offset = 0xc
+type = "DWORD"
+size = 0x4

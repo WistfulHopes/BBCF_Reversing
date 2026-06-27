@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.758714Z
+name = "_PPM_IDLE_ACCOUNTING_EX"
+size = 0x1b8
+
+[members.0x0]
+name = "StateCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TotalTransitions"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ResetCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "AbortCount"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "StartTime"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "State"
+offset = 0x18
+type = "PPM_IDLE_STATE_ACCOUNTING_EX[0x1]"
+size = 0x1a0

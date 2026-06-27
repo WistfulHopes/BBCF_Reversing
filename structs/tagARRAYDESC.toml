@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.853216Z
+name = "tagARRAYDESC"
+size = 0x14
+
+[members.0x0]
+name = "tdescElem"
+offset = 0x0
+type = "TYPEDESC"
+size = 0x8
+
+[members.0x8]
+name = "cDims"
+offset = 0x8
+type = "USHORT"
+size = 0x2
+
+[members.0xc]
+name = "rgbounds"
+offset = 0xc
+type = "SAFEARRAYBOUND[0x1]"
+size = 0x8

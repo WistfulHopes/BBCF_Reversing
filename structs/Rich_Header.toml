@@ -1,0 +1,315 @@
+last_change = 2026-06-27T20:49:16.626379Z
+name = "Rich_Header"
+size = 0xd8
+
+[members.0x0]
+name = "e_magic__DanS"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "e_align"
+offset = 0x4
+type = "uint[0x3]"
+size = 0xc
+
+[members.0x10]
+name = "e_entry_id0__00cec627"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "e_entry_count0__10"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "e_entry_id1__00cfee66"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "e_entry_count1__12"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "e_entry_id2__001c23da"
+offset = 0x20
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "e_entry_count2__1"
+offset = 0x24
+type = "uint"
+size = 0x4
+
+[members.0x28]
+name = "e_entry_id3__00d3c627"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "e_entry_count3__11"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "e_entry_id4__00ceee66"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "e_entry_count4__84"
+offset = 0x34
+type = "uint"
+size = 0x4
+
+[members.0x38]
+name = "e_entry_id5__009c766f"
+offset = 0x38
+type = "uint"
+size = 0x4
+
+[members.0x3c]
+name = "e_entry_count5__4"
+offset = 0x3c
+type = "uint"
+size = 0x4
+
+[members.0x40]
+name = "e_entry_id6__00ab766f"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "e_entry_count6__1"
+offset = 0x44
+type = "uint"
+size = 0x4
+
+[members.0x48]
+name = "e_entry_id7__00937809"
+offset = 0x48
+type = "uint"
+size = 0x4
+
+[members.0x4c]
+name = "e_entry_count7__4"
+offset = 0x4c
+type = "uint"
+size = 0x4
+
+[members.0x50]
+name = "e_entry_id8__00837809"
+offset = 0x50
+type = "uint"
+size = 0x4
+
+[members.0x54]
+name = "e_entry_count8__1"
+offset = 0x54
+type = "uint"
+size = 0x4
+
+[members.0x58]
+name = "e_entry_id9__009c52d2"
+offset = 0x58
+type = "uint"
+size = 0x4
+
+[members.0x5c]
+name = "e_entry_count9__2"
+offset = 0x5c
+type = "uint"
+size = 0x4
+
+[members.0x60]
+name = "e_entry_id10__007bc627"
+offset = 0x60
+type = "uint"
+size = 0x4
+
+[members.0x64]
+name = "e_entry_count10__2"
+offset = 0x64
+type = "uint"
+size = 0x4
+
+[members.0x68]
+name = "e_entry_id11__00c7a09e"
+offset = 0x68
+type = "uint"
+size = 0x4
+
+[members.0x6c]
+name = "e_entry_count11__7"
+offset = 0x6c
+type = "uint"
+size = 0x4
+
+[members.0x70]
+name = "e_entry_id12__00cdc5c4"
+offset = 0x70
+type = "uint"
+size = 0x4
+
+[members.0x74]
+name = "e_entry_count12__64"
+offset = 0x74
+type = "uint"
+size = 0x4
+
+[members.0x78]
+name = "e_entry_id13__00cfc5c4"
+offset = 0x78
+type = "uint"
+size = 0x4
+
+[members.0x7c]
+name = "e_entry_count13__141"
+offset = 0x7c
+type = "uint"
+size = 0x4
+
+[members.0x80]
+name = "e_entry_id14__00cec5c4"
+offset = 0x80
+type = "uint"
+size = 0x4
+
+[members.0x84]
+name = "e_entry_count14__273"
+offset = 0x84
+type = "uint"
+size = 0x4
+
+[members.0x88]
+name = "e_entry_id15__00bc77fc"
+offset = 0x88
+type = "uint"
+size = 0x4
+
+[members.0x8c]
+name = "e_entry_count15__5"
+offset = 0x8c
+type = "uint"
+size = 0x4
+
+[members.0x90]
+name = "e_entry_id16__00b977fc"
+offset = 0x90
+type = "uint"
+size = 0x4
+
+[members.0x94]
+name = "e_entry_count16__30"
+offset = 0x94
+type = "uint"
+size = 0x4
+
+[members.0x98]
+name = "e_entry_id17__00dd9eb5"
+offset = 0x98
+type = "uint"
+size = 0x4
+
+[members.0x9c]
+name = "e_entry_count17__3"
+offset = 0x9c
+type = "uint"
+size = 0x4
+
+[members.0xa0]
+name = "e_entry_id18__00010000"
+offset = 0xa0
+type = "uint"
+size = 0x4
+
+[members.0xa4]
+name = "e_entry_count18__487"
+offset = 0xa4
+type = "uint"
+size = 0x4
+
+[members.0xa8]
+name = "e_entry_id19__00cfc627"
+offset = 0xa8
+type = "uint"
+size = 0x4
+
+[members.0xac]
+name = "e_entry_count19__598"
+offset = 0xac
+type = "uint"
+size = 0x4
+
+[members.0xb0]
+name = "e_entry_id20__00cac627"
+offset = 0xb0
+type = "uint"
+size = 0x4
+
+[members.0xb4]
+name = "e_entry_count20__1"
+offset = 0xb4
+type = "uint"
+size = 0x4
+
+[members.0xb8]
+name = "e_entry_id21__00c9c627"
+offset = 0xb8
+type = "uint"
+size = 0x4
+
+[members.0xbc]
+name = "e_entry_count21__1"
+offset = 0xbc
+type = "uint"
+size = 0x4
+
+[members.0xc0]
+name = "e_entry_id22__00970000"
+offset = 0xc0
+type = "uint"
+size = 0x4
+
+[members.0xc4]
+name = "e_entry_count22__1"
+offset = 0xc4
+type = "uint"
+size = 0x4
+
+[members.0xc8]
+name = "e_entry_id23__00ccc627"
+offset = 0xc8
+type = "uint"
+size = 0x4
+
+[members.0xcc]
+name = "e_entry_count23__1"
+offset = 0xcc
+type = "uint"
+size = 0x4
+
+[members.0xd0]
+name = "e_magic"
+offset = 0xd0
+type = "char[0x4]"
+size = 0x4
+
+[members.0xd4]
+name = "e_checksum"
+offset = 0xd4
+type = "uint"
+size = 0x4

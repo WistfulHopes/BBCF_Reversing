@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.780308Z
+name = "_RPC_BINDING_HANDLE_TEMPLATE_V1_W"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "ProtocolSequence"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "NetworkAddress"
+offset = 0xc
+type = "ushort*"
+size = 0x4
+
+[members.0x10]
+name = "StringEndpoint"
+offset = 0x10
+type = "ushort*"
+size = 0x4
+
+[members.0x14]
+name = "u1"
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "ObjectUuid"
+offset = 0x18
+type = "UUID"
+size = 0x10

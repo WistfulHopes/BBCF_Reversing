@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.583556Z
+name = "AA_EasyMap<CXXBYTE<16>, CXXBYTE<128>, 80, true>"
+size = 0x2e48
+
+[members.0x0]
+name = "m_pKeyList"
+offset = 0x0
+type = "struct CXXBYTE<16>[0x50]"
+size = 0x500
+
+[members.0x500]
+name = "m_pItemList"
+offset = 0x500
+type = "struct CXXBYTE<128>[0x50]"
+size = 0x2800
+
+[members.0x2d00]
+name = "m_pSortList"
+offset = 0x2d00
+type = "int[0x50]"
+size = 0x140
+
+[members.0x2e40]
+name = "m_Cursor"
+offset = 0x2e40
+type = "int"
+size = 0x4
+
+[members.0x2e44]
+name = "m_IsOverWriteInsert"
+offset = 0x2e44
+type = "int"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.824466Z
+name = "_THREAD_BASIC_INFORMATION"
+size = 0x1c
+
+[members.0x0]
+name = "ExitStatus"
+offset = 0x0
+type = "NTSTATUS"
+size = 0x4
+
+[members.0x4]
+name = "TebBaseAddress"
+offset = 0x4
+type = "PTEB"
+size = 0x4
+
+[members.0x8]
+name = "ClientId"
+offset = 0x8
+type = "CLIENT_ID"
+size = 0x8
+
+[members.0x10]
+name = "AffinityMask"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x14]
+name = "Priority"
+offset = 0x14
+type = "KPRIORITY"
+size = 0x4
+
+[members.0x18]
+name = "BasePriority"
+offset = 0x18
+type = "LONG"
+size = 0x4

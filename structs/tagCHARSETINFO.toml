@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.857691Z
+name = "tagCHARSETINFO"
+size = 0x20
+
+[members.0x0]
+name = "ciCharset"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "ciACP"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "fs"
+offset = 0x8
+type = "FONTSIGNATURE"
+size = 0x18

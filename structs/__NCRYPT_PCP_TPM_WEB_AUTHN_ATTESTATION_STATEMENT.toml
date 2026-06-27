@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.840600Z
+name = "__NCRYPT_PCP_TPM_WEB_AUTHN_ATTESTATION_STATEMENT"
+size = 0x18
+
+[members.0x0]
+name = "Magic"
+offset = 0x0
+type = "UINT32"
+size = 0x4
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "UINT32"
+size = 0x4
+
+[members.0x8]
+name = "HeaderSize"
+offset = 0x8
+type = "UINT32"
+size = 0x4
+
+[members.0xc]
+name = "cbCertifyInfo"
+offset = 0xc
+type = "UINT32"
+size = 0x4
+
+[members.0x10]
+name = "cbSignature"
+offset = 0x10
+type = "UINT32"
+size = 0x4
+
+[members.0x14]
+name = "cbTpmPublic"
+offset = 0x14
+type = "UINT32"
+size = 0x4

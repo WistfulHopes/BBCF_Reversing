@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.836853Z
+name = "_WIN32_MEMORY_RANGE_ENTRY"
+size = 0x8
+
+[members.0x0]
+name = "VirtualAddress"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "NumberOfBytes"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4

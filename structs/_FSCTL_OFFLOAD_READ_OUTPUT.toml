@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.705195Z
+name = "_FSCTL_OFFLOAD_READ_OUTPUT"
+size = 0x210
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "TransferLength"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "Token"
+offset = 0x10
+type = "BYTE[0x200]"
+size = 0x200

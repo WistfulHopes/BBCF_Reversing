@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.757957Z
+name = "_POWER_MONITOR_INVOCATION"
+size = 0x8
+
+[members.0x0]
+name = "Console"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "RequestReason"
+offset = 0x4
+type = "POWER_MONITOR_REQUEST_REASON"
+size = 0x4

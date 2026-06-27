@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.591574Z
+name = "CBBSFileAnalyzeData"
+size = 0x18
+
+[members.0x0]
+name = "m_DataTopAddr"
+offset = 0x0
+type = "uchar*"
+size = 0x4
+
+[members.0x4]
+name = "m_ScriptTopAddr"
+offset = 0x4
+type = "uchar*"
+size = 0x4
+
+[members.0x8]
+name = "m_ActionBeginCount"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_ActionBeginListAddr"
+offset = 0xc
+type = "struct sActionBegin*"
+size = 0x4
+
+[members.0x10]
+name = "m_ActIndexTable"
+offset = 0x10
+type = "struct CHashTable<CHashNodeC32BYTEtoU32>*"
+size = 0x4
+
+[members.0x14]
+name = "m_FuncAddrTable"
+offset = 0x14
+type = "struct CHashTable<CHashNodeC32BYTEtoU32>*"
+size = 0x4

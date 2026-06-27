@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.828000Z
+name = "_TRANSACTION_NOTIFICATION_RECOVERY_ARGUMENT"
+size = 0x20
+
+[members.0x0]
+name = "EnlistmentId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "UOW"
+offset = 0x10
+type = "UOW"
+size = 0x10

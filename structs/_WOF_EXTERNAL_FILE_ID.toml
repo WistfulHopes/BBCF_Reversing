@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.837075Z
+name = "_WOF_EXTERNAL_FILE_ID"
+size = 0x10
+
+[members.0x0]
+name = "FileId"
+offset = 0x0
+type = "FILE_ID_128"
+size = 0x10

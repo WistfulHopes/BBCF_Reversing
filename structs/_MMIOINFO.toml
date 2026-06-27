@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.737012Z
+name = "_MMIOINFO"
+size = 0x48
+
+[members.0x0]
+name = "dwFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "fccIOProc"
+offset = 0x4
+type = "FOURCC"
+size = 0x4
+
+[members.0x8]
+name = "pIOProc"
+offset = 0x8
+type = "LPMMIOPROC"
+size = 0x4
+
+[members.0xc]
+name = "wErrorRet"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "htask"
+offset = 0x10
+type = "HTASK"
+size = 0x4
+
+[members.0x14]
+name = "cchBuffer"
+offset = 0x14
+type = "LONG"
+size = 0x4
+
+[members.0x18]
+name = "pchBuffer"
+offset = 0x18
+type = "HPSTR"
+size = 0x4
+
+[members.0x1c]
+name = "pchNext"
+offset = 0x1c
+type = "HPSTR"
+size = 0x4
+
+[members.0x20]
+name = "pchEndRead"
+offset = 0x20
+type = "HPSTR"
+size = 0x4
+
+[members.0x24]
+name = "pchEndWrite"
+offset = 0x24
+type = "HPSTR"
+size = 0x4
+
+[members.0x28]
+name = "lBufOffset"
+offset = 0x28
+type = "LONG"
+size = 0x4
+
+[members.0x2c]
+name = "lDiskOffset"
+offset = 0x2c
+type = "LONG"
+size = 0x4
+
+[members.0x30]
+name = "adwInfo"
+offset = 0x30
+type = "DWORD[0x3]"
+size = 0xc
+
+[members.0x3c]
+name = "dwReserved1"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "dwReserved2"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "hmmio"
+offset = 0x44
+type = "HMMIO"
+size = 0x4

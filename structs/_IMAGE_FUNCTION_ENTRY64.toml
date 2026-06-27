@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.714400Z
+name = "_IMAGE_FUNCTION_ENTRY64"
+size = 0x18
+
+[members.0x0]
+name = "StartingAddress"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "EndingAddress"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x8

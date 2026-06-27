@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.702105Z
+name = "_FILE_STORAGE_TIER"
+size = 0x428
+
+[members.0x0]
+name = "Id"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "Name"
+offset = 0x10
+type = "WCHAR[0x100]"
+size = 0x200
+
+[members.0x210]
+name = "Description"
+offset = 0x210
+type = "WCHAR[0x100]"
+size = 0x200
+
+[members.0x410]
+name = "Flags"
+offset = 0x410
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x418]
+name = "ProvisionedCapacity"
+offset = 0x418
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x420]
+name = "MediaType"
+offset = 0x420
+type = "FILE_STORAGE_TIER_MEDIA_TYPE"
+size = 0x4
+
+[members.0x424]
+name = "Class"
+offset = 0x424
+type = "FILE_STORAGE_TIER_CLASS"
+size = 0x4

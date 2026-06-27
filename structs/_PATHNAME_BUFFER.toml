@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.753103Z
+name = "_PATHNAME_BUFFER"
+size = 0x8
+
+[members.0x0]
+name = "PathNameLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Name"
+offset = 0x4
+type = "WCHAR[0x1]"
+size = 0x2

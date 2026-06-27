@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.651850Z
+name = "_CMC_RESPONSE_INFO"
+size = 0x18
+
+[members.0x0]
+name = "cTaggedAttribute"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgTaggedAttribute"
+offset = 0x4
+type = "PCMC_TAGGED_ATTRIBUTE"
+size = 0x4
+
+[members.0x8]
+name = "cTaggedContentInfo"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rgTaggedContentInfo"
+offset = 0xc
+type = "PCMC_TAGGED_CONTENT_INFO"
+size = 0x4
+
+[members.0x10]
+name = "cTaggedOtherMsg"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgTaggedOtherMsg"
+offset = 0x14
+type = "PCMC_TAGGED_OTHER_MSG"
+size = 0x4

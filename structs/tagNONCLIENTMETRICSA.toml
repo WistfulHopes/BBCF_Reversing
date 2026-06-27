@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.899898Z
+name = "tagNONCLIENTMETRICSA"
+size = 0x158
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "iBorderWidth"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "iScrollWidth"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "iScrollHeight"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "iCaptionWidth"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "iCaptionHeight"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "lfCaptionFont"
+offset = 0x18
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0x54]
+name = "iSmCaptionWidth"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "iSmCaptionHeight"
+offset = 0x58
+type = "int"
+size = 0x4
+
+[members.0x5c]
+name = "lfSmCaptionFont"
+offset = 0x5c
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0x98]
+name = "iMenuWidth"
+offset = 0x98
+type = "int"
+size = 0x4
+
+[members.0x9c]
+name = "iMenuHeight"
+offset = 0x9c
+type = "int"
+size = 0x4
+
+[members.0xa0]
+name = "lfMenuFont"
+offset = 0xa0
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0xdc]
+name = "lfStatusFont"
+offset = 0xdc
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0x118]
+name = "lfMessageFont"
+offset = 0x118
+type = "LOGFONTA"
+size = 0x3c
+
+[members.0x154]
+name = "iPaddedBorderWidth"
+offset = 0x154
+type = "int"
+size = 0x4

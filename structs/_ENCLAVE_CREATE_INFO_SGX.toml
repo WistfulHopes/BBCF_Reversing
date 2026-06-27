@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.690694Z
+name = "_ENCLAVE_CREATE_INFO_SGX"
+size = 0x1000
+
+[members.0x0]
+name = "Secs"
+offset = 0x0
+type = "BYTE[0x1000]"
+size = 0x1000

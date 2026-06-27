@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.713565Z
+name = "_IMAGE_ENCLAVE_CONFIG64"
+size = 0x50
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MinimumRequiredConfigSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PolicyFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "NumberOfImports"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ImportList"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ImportEntrySize"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "FamilyID"
+offset = 0x18
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x28]
+name = "ImageID"
+offset = 0x28
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x38]
+name = "ImageVersion"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "SecurityVersion"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "EnclaveSize"
+offset = 0x40
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x48]
+name = "NumberOfThreads"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "EnclaveFlags"
+offset = 0x4c
+type = "DWORD"
+size = 0x4

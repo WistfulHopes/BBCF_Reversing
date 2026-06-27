@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.648602Z
+name = "_CERT_X942_DH_VALIDATION_PARAMS"
+size = 0x10
+
+[members.0x0]
+name = "seed"
+offset = 0x0
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0xc]
+name = "pgenCounter"
+offset = 0xc
+type = "DWORD"
+size = 0x4

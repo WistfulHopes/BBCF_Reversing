@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.767329Z
+name = "_PROCESS_HANDLE_TRACING_ENTRY"
+size = 0x50
+
+[members.0x0]
+name = "Handle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "ClientId"
+offset = 0x4
+type = "CLIENT_ID"
+size = 0x8
+
+[members.0xc]
+name = "Type"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "Stacks"
+offset = 0x10
+type = "PVOID[0x10]"
+size = 0x40

@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.697494Z
+name = "_FILE_FULL_DIR_INFO"
+size = 0x48
+
+[members.0x0]
+name = "NextEntryOffset"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "FileIndex"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "CreationTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "LastAccessTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "LastWriteTime"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "ChangeTime"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "EndOfFile"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "AllocationSize"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "FileAttributes"
+offset = 0x38
+type = "ULONG"
+size = 0x4
+
+[members.0x3c]
+name = "FileNameLength"
+offset = 0x3c
+type = "ULONG"
+size = 0x4
+
+[members.0x40]
+name = "EaSize"
+offset = 0x40
+type = "ULONG"
+size = 0x4
+
+[members.0x44]
+name = "FileName"
+offset = 0x44
+type = "WCHAR[0x1]"
+size = 0x2

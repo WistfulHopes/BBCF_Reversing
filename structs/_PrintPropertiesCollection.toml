@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.773472Z
+name = "_PrintPropertiesCollection"
+size = 0x8
+
+[members.0x0]
+name = "numberOfProperties"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "propertiesCollection"
+offset = 0x4
+type = "PrintNamedProperty*"
+size = 0x4

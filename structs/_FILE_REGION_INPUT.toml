@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.701115Z
+name = "_FILE_REGION_INPUT"
+size = 0x18
+
+[members.0x0]
+name = "FileOffset"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "LONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "DesiredUsage"
+offset = 0x10
+type = "DWORD"
+size = 0x4

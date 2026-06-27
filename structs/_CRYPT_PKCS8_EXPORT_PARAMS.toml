@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.668168Z
+name = "_CRYPT_PKCS8_EXPORT_PARAMS"
+size = 0x14
+
+[members.0x0]
+name = "hCryptProv"
+offset = 0x0
+type = "HCRYPTPROV"
+size = 0x4
+
+[members.0x4]
+name = "dwKeySpec"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pszPrivateKeyObjId"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "pEncryptPrivateKeyFunc"
+offset = 0xc
+type = "PCRYPT_ENCRYPT_PRIVATE_KEY_FUNC"
+size = 0x4
+
+[members.0x10]
+name = "pVoidEncryptFunc"
+offset = 0x10
+type = "LPVOID"
+size = 0x4

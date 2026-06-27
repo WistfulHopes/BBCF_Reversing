@@ -1,0 +1,141 @@
+last_change = 2026-06-27T20:49:16.748354Z
+name = "_OPENCARDNAMEW"
+size = 0x5c
+
+[members.0x0]
+name = "dwStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hSCardContext"
+offset = 0x8
+type = "SCARDCONTEXT"
+size = 0x4
+
+[members.0xc]
+name = "lpstrGroupNames"
+offset = 0xc
+type = "LPWSTR"
+size = 0x4
+
+[members.0x10]
+name = "nMaxGroupNames"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "lpstrCardNames"
+offset = 0x14
+type = "LPWSTR"
+size = 0x4
+
+[members.0x18]
+name = "nMaxCardNames"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "rgguidInterfaces"
+offset = 0x1c
+type = "LPCGUID"
+size = 0x4
+
+[members.0x20]
+name = "cguidInterfaces"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "lpstrRdr"
+offset = 0x24
+type = "LPWSTR"
+size = 0x4
+
+[members.0x28]
+name = "nMaxRdr"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "lpstrCard"
+offset = 0x2c
+type = "LPWSTR"
+size = 0x4
+
+[members.0x30]
+name = "nMaxCard"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "lpstrTitle"
+offset = 0x34
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x38]
+name = "dwFlags"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "pvUserData"
+offset = 0x3c
+type = "LPVOID"
+size = 0x4
+
+[members.0x40]
+name = "dwShareMode"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "dwPreferredProtocols"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "dwActiveProtocol"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "lpfnConnect"
+offset = 0x4c
+type = "LPOCNCONNPROCW"
+size = 0x4
+
+[members.0x50]
+name = "lpfnCheck"
+offset = 0x50
+type = "LPOCNCHKPROC"
+size = 0x4
+
+[members.0x54]
+name = "lpfnDisconnect"
+offset = 0x54
+type = "LPOCNDSCPROC"
+size = 0x4
+
+[members.0x58]
+name = "hCardHandle"
+offset = 0x58
+type = "SCARDHANDLE"
+size = 0x4

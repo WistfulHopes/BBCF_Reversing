@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.906587Z
+name = "tagPOINTS"
+size = 0x4
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "SHORT"
+size = 0x2
+
+[members.0x2]
+name = "y"
+offset = 0x2
+type = "SHORT"
+size = 0x2

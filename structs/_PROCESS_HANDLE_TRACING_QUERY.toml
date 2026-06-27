@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.767413Z
+name = "_PROCESS_HANDLE_TRACING_QUERY"
+size = 0x58
+
+[members.0x0]
+name = "Handle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "TotalTraces"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "HandleTrace"
+offset = 0x8
+type = "PROCESS_HANDLE_TRACING_ENTRY[0x1]"
+size = 0x50

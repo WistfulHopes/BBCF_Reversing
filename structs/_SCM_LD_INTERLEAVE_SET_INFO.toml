@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.789007Z
+name = "_SCM_LD_INTERLEAVE_SET_INFO"
+size = 0x20
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "InterleaveSetSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "InterleaveSet"
+offset = 0xc
+type = "SCM_INTERLEAVED_PD_INFO[0x1]"
+size = 0x14

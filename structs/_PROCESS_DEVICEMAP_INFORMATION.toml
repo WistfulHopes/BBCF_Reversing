@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.766658Z
+name = "_PROCESS_DEVICEMAP_INFORMATION"
+size = 0x24
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x24

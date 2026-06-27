@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.785475Z
+name = "_RTL_BARRIER"
+size = 0x18
+
+[members.0x0]
+name = "Reserved1"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Reserved2"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Reserved3"
+offset = 0x8
+type = "ULONG_PTR[0x2]"
+size = 0x8
+
+[members.0x10]
+name = "Reserved4"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Reserved5"
+offset = 0x14
+type = "DWORD"
+size = 0x4

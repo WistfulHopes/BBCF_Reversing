@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.595827Z
+name = "CVoiceInfo"
+size = 0x20
+
+[members.0x0]
+name = "m_VoiceTimer"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "m_VoiceUnk"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_VoiceHistoryName"
+offset = 0x8
+type = "struct CXXBYTE<16>"
+size = 0x10
+
+[members.0x18]
+name = "m_DamageVoiceWait"
+offset = 0x18
+type = "char"
+size = 0x1
+
+[members.0x19]
+name = "m_ForceVoicePlay"
+offset = 0x19
+type = "bool"
+size = 0x1
+
+[members.0x1a]
+name = "m_IgnoreForceVoicePlay"
+offset = 0x1a
+type = "bool"
+size = 0x1
+
+[members.0x1c]
+name = "m_VoiceHistoryTimer"
+offset = 0x1c
+type = "int"
+size = 0x4

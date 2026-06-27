@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.632245Z
+name = "_APPLICATIONLAUNCH_SETTING_VALUE"
+size = 0x10
+
+[members.0x0]
+name = "ActivationTime"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ButtonInstanceID"
+offset = 0xc
+type = "DWORD"
+size = 0x4

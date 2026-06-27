@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.838371Z
+name = "_XSAVE_AREA"
+size = 0x240
+
+[members.0x0]
+name = "LegacyState"
+offset = 0x0
+type = "XSAVE_FORMAT"
+size = 0x200
+
+[members.0x200]
+name = "Header"
+offset = 0x200
+type = "XSAVE_AREA_HEADER"
+size = 0x40

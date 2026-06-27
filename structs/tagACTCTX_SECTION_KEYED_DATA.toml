@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.852602Z
+name = "tagACTCTX_SECTION_KEYED_DATA"
+size = 0x40
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "ulDataFormatVersion"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "lpData"
+offset = 0x8
+type = "PVOID"
+size = 0x4
+
+[members.0xc]
+name = "ulLength"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "lpSectionGlobalData"
+offset = 0x10
+type = "PVOID"
+size = 0x4
+
+[members.0x14]
+name = "ulSectionGlobalDataLength"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "lpSectionBase"
+offset = 0x18
+type = "PVOID"
+size = 0x4
+
+[members.0x1c]
+name = "ulSectionTotalLength"
+offset = 0x1c
+type = "ULONG"
+size = 0x4
+
+[members.0x20]
+name = "hActCtx"
+offset = 0x20
+type = "HANDLE"
+size = 0x4
+
+[members.0x24]
+name = "ulAssemblyRosterIndex"
+offset = 0x24
+type = "ULONG"
+size = 0x4
+
+[members.0x28]
+name = "ulFlags"
+offset = 0x28
+type = "ULONG"
+size = 0x4
+
+[members.0x2c]
+name = "AssemblyMetadata"
+offset = 0x2c
+type = "ACTCTX_SECTION_KEYED_DATA_ASSEMBLY_METADATA"
+size = 0x14

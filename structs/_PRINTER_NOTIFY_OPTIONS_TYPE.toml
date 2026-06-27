@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.764293Z
+name = "_PRINTER_NOTIFY_OPTIONS_TYPE"
+size = 0x14
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved0"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Reserved1"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Reserved2"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Count"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "pFields"
+offset = 0x10
+type = "PWORD"
+size = 0x4

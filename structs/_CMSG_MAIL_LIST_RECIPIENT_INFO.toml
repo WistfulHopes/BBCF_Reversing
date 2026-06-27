@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.655730Z
+name = "_CMSG_MAIL_LIST_RECIPIENT_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "KeyId"
+offset = 0x4
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "KeyEncryptionAlgorithm"
+offset = 0xc
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x18]
+name = "EncryptedKey"
+offset = 0x18
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x20]
+name = "Date"
+offset = 0x20
+type = "FILETIME"
+size = 0x8
+
+[members.0x28]
+name = "pOtherAttr"
+offset = 0x28
+type = "PCRYPT_ATTRIBUTE_TYPE_VALUE"
+size = 0x4

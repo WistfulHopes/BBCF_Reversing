@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.726890Z
+name = "_KCRM_MARSHAL_HEADER"
+size = 0x10
+
+[members.0x0]
+name = "VersionMajor"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "VersionMinor"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "NumProtocols"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "Unused"
+offset = 0xc
+type = "ULONG"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.845524Z
+name = "_userHBITMAP"
+size = 0x10
+
+[members.0x0]
+name = "fContext"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "u"
+offset = 0x8
+type = "union"
+size = 0x8

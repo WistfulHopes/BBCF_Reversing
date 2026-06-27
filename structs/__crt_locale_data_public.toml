@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.840917Z
+name = "__crt_locale_data_public"
+size = 0xc
+
+[members.0x0]
+name = "_locale_pctype"
+offset = 0x0
+type = "ushort const*"
+size = 0x4
+
+[members.0x4]
+name = "_locale_mb_cur_max"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "_locale_lc_codepage"
+offset = 0x8
+type = "uint"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.847466Z
+name = "ip_mreq"
+size = 0x8
+
+[members.0x0]
+name = "imr_multiaddr"
+offset = 0x0
+type = "struct in_addr"
+size = 0x4
+
+[members.0x4]
+name = "imr_interface"
+offset = 0x4
+type = "struct in_addr"
+size = 0x4

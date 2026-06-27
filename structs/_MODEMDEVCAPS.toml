@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.737365Z
+name = "_MODEMDEVCAPS"
+size = 0x50
+
+[members.0x0]
+name = "dwActualSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwRequiredSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwDevSpecificOffset"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwDevSpecificSize"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwModemProviderVersion"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwModemManufacturerOffset"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwModemManufacturerSize"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwModemModelOffset"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwModemModelSize"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwModemVersionOffset"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwModemVersionSize"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwDialOptions"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwCallSetupFailTimer"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "dwInactivityTimeout"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "dwSpeakerVolume"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "dwSpeakerMode"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "dwModemOptions"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "dwMaxDTERate"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "dwMaxDCERate"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "abVariablePortion"
+offset = 0x4c
+type = "BYTE[0x1]"
+size = 0x1

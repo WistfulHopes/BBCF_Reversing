@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.644817Z
+name = "_CERT_POLICY_MAPPINGS_INFO"
+size = 0x8
+
+[members.0x0]
+name = "cPolicyMapping"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgPolicyMapping"
+offset = 0x4
+type = "PCERT_POLICY_MAPPING"
+size = 0x4

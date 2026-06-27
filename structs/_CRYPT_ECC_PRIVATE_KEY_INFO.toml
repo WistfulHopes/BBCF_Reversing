@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.665339Z
+name = "_CRYPT_ECC_PRIVATE_KEY_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "PrivateKey"
+offset = 0x4
+type = "CRYPT_DER_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "szCurveOid"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "PublicKey"
+offset = 0x10
+type = "CRYPT_BIT_BLOB"
+size = 0xc

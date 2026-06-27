@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.693121Z
+name = "_EVENTLOGRECORD"
+size = 0x38
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "RecordNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "TimeGenerated"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "TimeWritten"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "EventID"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "EventType"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "NumStrings"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "EventCategory"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "ReservedFlags"
+offset = 0x1e
+type = "WORD"
+size = 0x2
+
+[members.0x20]
+name = "ClosingRecordNumber"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "StringOffset"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "UserSidLength"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "UserSidOffset"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "DataLength"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "DataOffset"
+offset = 0x34
+type = "DWORD"
+size = 0x4

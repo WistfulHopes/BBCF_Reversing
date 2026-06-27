@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.599815Z
+name = "D3DRECT"
+size = 0x10
+
+[members.0x0]
+name = "x1"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "y1"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "x2"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "y2"
+offset = 0xc
+type = "int"
+size = 0x4

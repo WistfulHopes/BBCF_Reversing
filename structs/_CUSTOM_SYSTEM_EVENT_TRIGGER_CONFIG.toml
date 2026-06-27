@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.674027Z
+name = "_CUSTOM_SYSTEM_EVENT_TRIGGER_CONFIG"
+size = 0x8
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TriggerId"
+offset = 0x4
+type = "PCWSTR"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.706982Z
+name = "_GENERIC_BINDING_ROUTINE_PAIR"
+size = 0x8
+
+[members.0x0]
+name = "pfnBind"
+offset = 0x0
+type = "GENERIC_BINDING_ROUTINE"
+size = 0x4
+
+[members.0x4]
+name = "pfnUnbind"
+offset = 0x4
+type = "GENERIC_UNBIND_ROUTINE"
+size = 0x4

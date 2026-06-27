@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.896955Z
+name = "tagMOUSEHOOKSTRUCT"
+size = 0x14
+
+[members.0x0]
+name = "pt"
+offset = 0x0
+type = "POINT"
+size = 0x8
+
+[members.0x8]
+name = "hwnd"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "wHitTestCode"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "dwExtraInfo"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4

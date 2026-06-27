@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.702592Z
+name = "_FILE_ZERO_DATA_INFORMATION_EX"
+size = 0x18
+
+[members.0x0]
+name = "FileOffset"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "BeyondFinalZero"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4

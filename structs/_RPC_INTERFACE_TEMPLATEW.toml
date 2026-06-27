@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.782778Z
+name = "_RPC_INTERFACE_TEMPLATEW"
+size = 0x2c
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "IfSpec"
+offset = 0x4
+type = "RPC_IF_HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "MgrTypeUuid"
+offset = 0x8
+type = "UUID*"
+size = 0x4
+
+[members.0xc]
+name = "MgrEpv"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "MaxCalls"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "MaxRpcSize"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "IfCallback"
+offset = 0x1c
+type = "RPC_IF_CALLBACK_FN*"
+size = 0x4
+
+[members.0x20]
+name = "UuidVector"
+offset = 0x20
+type = "UUID_VECTOR*"
+size = 0x4
+
+[members.0x24]
+name = "Annotation"
+offset = 0x24
+type = "RPC_WSTR"
+size = 0x4
+
+[members.0x28]
+name = "SecurityDescriptor"
+offset = 0x28
+type = "void*"
+size = 0x4

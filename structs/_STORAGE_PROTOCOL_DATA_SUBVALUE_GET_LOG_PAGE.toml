@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.813385Z
+name = "_STORAGE_PROTOCOL_DATA_SUBVALUE_GET_LOG_PAGE"
+size = 0x4
+
+[members.0x0]
+name = "AsUlong"
+offset = 0x0
+type = "DWORD"
+size = 0x4

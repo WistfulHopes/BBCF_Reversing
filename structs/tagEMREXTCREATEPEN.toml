@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.866061Z
+name = "tagEMREXTCREATEPEN"
+size = 0x38
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihPen"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "offBmi"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cbBmi"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "offBits"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "cbBits"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "elp"
+offset = 0x1c
+type = "EXTLOGPEN32"
+size = 0x1c

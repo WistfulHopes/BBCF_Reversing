@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.734135Z
+name = "_MFT_ENUM_DATA_V1"
+size = 0x20
+
+[members.0x0]
+name = "StartFileReferenceNumber"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "LowUsn"
+offset = 0x8
+type = "USN"
+size = 0x8
+
+[members.0x10]
+name = "HighUsn"
+offset = 0x10
+type = "USN"
+size = 0x8
+
+[members.0x18]
+name = "MinMajorVersion"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "MaxMajorVersion"
+offset = 0x1a
+type = "WORD"
+size = 0x2

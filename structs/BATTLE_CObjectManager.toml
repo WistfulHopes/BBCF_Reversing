@@ -1,0 +1,237 @@
+last_change = 2026-06-27T20:49:16.588382Z
+name = "BATTLE_CObjectManager"
+size = 0x83e60
+
+[members.0x0]
+name = "vftable_Serializable"
+offset = 0x0
+type = "struct ISerializable::BATTLE_CObjectManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "vftable_SerializableChunk"
+offset = 0x4
+type = "struct ISerializableChunk::BATTLE_CObjectManager::VTable*"
+size = 0x4
+
+[members.0x8]
+name = "vftable_GameState"
+offset = 0x8
+type = "struct IGameState::BATTLE_CObjectManager::VTable*"
+size = 0x4
+
+[members.0xc]
+name = "m_Events"
+offset = 0xc
+type = "int[0x8]"
+size = 0x20
+
+[members.0x2c]
+name = "m_EventCount"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_BOMFlag"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "m_FinishBG"
+offset = 0x34
+type = "enum FINISH_BG"
+size = 0x4
+
+[members.0x38]
+name = "m_FinishAtk"
+offset = 0x38
+type = "enum AT_TYPE"
+size = 0x4
+
+[members.0x3c]
+name = "m_ScriptID"
+offset = 0x3c
+type = "int[0x3]"
+size = 0xc
+
+[members.0x48]
+name = "m_BBSFileAnalyzeData"
+offset = 0x48
+type = "struct CBBSFileAnalyzeData[0x3][0x2]"
+size = 0x90
+
+[members.0x62774]
+name = "m_ActiveObjectCount"
+offset = 0x62774
+type = "int"
+size = 0x4
+
+[members.0x62778]
+name = "m_NoActiveObjectCount"
+offset = 0x62778
+type = "int"
+size = 0x4
+
+[members.0x6277c]
+name = "m_EtcActiveObjectCount"
+offset = 0x6277c
+type = "int"
+size = 0x4
+
+[members.0x62780]
+name = "m_ForceDeleteCount"
+offset = 0x62780
+type = "int"
+size = 0x4
+
+[members.0x62784]
+name = "m_ObjPtrVector"
+offset = 0x62784
+type = "struct OBJ_CBase**"
+size = 0x4
+
+[members.0x62788]
+name = "m_SortedObjPtrVector"
+offset = 0x62788
+type = "struct OBJ_CBase**"
+size = 0x4
+
+[members.0x6278c]
+name = "m_SortedObjPtrVectorEx"
+offset = 0x6278c
+type = "struct OBJ_CBase**"
+size = 0x4
+
+[members.0x62790]
+name = "m_ObjVector"
+offset = 0x62790
+type = "struct OBJ_CBase*[0xfa]"
+size = 0x3e8
+
+[members.0x62b78]
+name = "m_CharVector"
+offset = 0x62b78
+type = "struct OBJ_CCharBase**"
+size = 0x4
+
+[members.0x62b7c]
+name = "m_BattleReferee"
+offset = 0x62b7c
+type = "struct BATTLE_CReferee"
+size = 0x210
+
+[members.0x62d8c]
+name = "m_KeyRelated"
+offset = 0x62d8c
+type = "struct GAME_KeyRelated[0x2]"
+size = 0x38
+
+[members.0x62dc4]
+name = "m_AttackHitUniqIDGen"
+offset = 0x62dc4
+type = "int"
+size = 0x4
+
+[members.0x62dc8]
+name = "m_UniqIDGen"
+offset = 0x62dc8
+type = "uint"
+size = 0x4
+
+[members.0x62dcc]
+name = "m_AtkHitCount"
+offset = 0x62dcc
+type = "int"
+size = 0x4
+
+[members.0x62dd0]
+name = "m_ActionChangeCount"
+offset = 0x62dd0
+type = "uint"
+size = 0x4
+
+[members.0x62dd4]
+name = "m_WorldBlacker"
+offset = 0x62dd4
+type = "bool"
+size = 0x1
+
+[members.0x62dd5]
+name = "m_bBackGroundStop"
+offset = 0x62dd5
+type = "bool"
+size = 0x1
+
+[members.0x62dd8]
+name = "m_FinishStopCount"
+offset = 0x62dd8
+type = "int"
+size = 0x4
+
+[members.0x62ddc]
+name = "m_BGFadeUltimate"
+offset = 0x62ddc
+type = "uint"
+size = 0x4
+
+[members.0x62de0]
+name = "m_BGFadeAstral"
+offset = 0x62de0
+type = "uint[0x2]"
+size = 0x8
+
+[members.0x62de8]
+name = "m_BGFadeBlackOut"
+offset = 0x62de8
+type = "uint"
+size = 0x4
+
+[members.0x62dec]
+name = "m_ActiveBGType"
+offset = 0x62dec
+type = "uint"
+size = 0x4
+
+[members.0x62df4]
+name = "m_RepulsionSphereVector"
+offset = 0x62df4
+type = "struct CRepulsionSphere[0x64]"
+size = 0xfa0
+
+[members.0x63d94]
+name = "m_RepulsionSphereCount"
+offset = 0x63d94
+type = "int"
+size = 0x4
+
+[members.0x63d98]
+name = "m_TotalWorldPowerX"
+offset = 0x63d98
+type = "int"
+size = 0x4
+
+[members.0x63d9c]
+name = "m_TotalWorldPowerY"
+offset = 0x63d9c
+type = "int"
+size = 0x4
+
+[members.0x63da4]
+name = "m_RoundTimer"
+offset = 0x63da4
+type = "int"
+size = 0x4
+
+[members.0x63da8]
+name = "m_MultiBufferLarge"
+offset = 0x63da8
+type = "struct CMultiBuffer<32, 2048>"
+size = 0x10020
+
+[members.0x73dc8]
+name = "m_MultiBufferSmall"
+offset = 0x73dc8
+type = "struct CMultiBuffer<128, 512>"
+size = 0x10080

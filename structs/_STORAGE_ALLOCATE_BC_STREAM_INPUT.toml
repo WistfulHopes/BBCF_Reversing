@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.805608Z
+name = "_STORAGE_ALLOCATE_BC_STREAM_INPUT"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "RequestsPerPeriod"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Period"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "RetryFailures"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "Discardable"
+offset = 0xd
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xe]
+name = "Reserved1"
+offset = 0xe
+type = "BOOLEAN[0x2]"
+size = 0x2
+
+[members.0x10]
+name = "AccessType"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "AccessMode"
+offset = 0x14
+type = "DWORD"
+size = 0x4

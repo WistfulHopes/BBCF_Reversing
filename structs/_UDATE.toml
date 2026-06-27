@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.830998Z
+name = "_UDATE"
+size = 0x12
+
+[members.0x0]
+name = "st"
+offset = 0x0
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x10]
+name = "wDayOfYear"
+offset = 0x10
+type = "USHORT"
+size = 0x2

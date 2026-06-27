@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.733702Z
+name = "_MENU_EVENT_RECORD"
+size = 0x4
+
+[members.0x0]
+name = "dwCommandId"
+offset = 0x0
+type = "UINT"
+size = 0x4

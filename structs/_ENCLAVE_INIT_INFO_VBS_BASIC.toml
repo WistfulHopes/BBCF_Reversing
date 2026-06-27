@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.691121Z
+name = "_ENCLAVE_INIT_INFO_VBS_BASIC"
+size = 0x38
+
+[members.0x0]
+name = "FamilyId"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x10]
+name = "ImageId"
+offset = 0x10
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x20]
+name = "EnclaveSize"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x28]
+name = "EnclaveSvn"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "Reserved"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = ""
+offset = 0x30
+type = "union"
+size = 0x8

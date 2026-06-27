@@ -1,0 +1,111 @@
+last_change = 2026-06-27T20:49:16.918336Z
+name = "tagTYPEATTR"
+size = 0x4c
+
+[members.0x0]
+name = "guid"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "lcid"
+offset = 0x10
+type = "LCID"
+size = 0x4
+
+[members.0x14]
+name = "dwReserved"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "memidConstructor"
+offset = 0x18
+type = "MEMBERID"
+size = 0x4
+
+[members.0x1c]
+name = "memidDestructor"
+offset = 0x1c
+type = "MEMBERID"
+size = 0x4
+
+[members.0x20]
+name = "lpstrSchema"
+offset = 0x20
+type = "LPOLESTR"
+size = 0x4
+
+[members.0x24]
+name = "cbSizeInstance"
+offset = 0x24
+type = "ULONG"
+size = 0x4
+
+[members.0x28]
+name = "typekind"
+offset = 0x28
+type = "TYPEKIND"
+size = 0x4
+
+[members.0x2c]
+name = "cFuncs"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "cVars"
+offset = 0x2e
+type = "WORD"
+size = 0x2
+
+[members.0x30]
+name = "cImplTypes"
+offset = 0x30
+type = "WORD"
+size = 0x2
+
+[members.0x32]
+name = "cbSizeVft"
+offset = 0x32
+type = "WORD"
+size = 0x2
+
+[members.0x34]
+name = "cbAlignment"
+offset = 0x34
+type = "WORD"
+size = 0x2
+
+[members.0x36]
+name = "wTypeFlags"
+offset = 0x36
+type = "WORD"
+size = 0x2
+
+[members.0x38]
+name = "wMajorVerNum"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "wMinorVerNum"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "tdescAlias"
+offset = 0x3c
+type = "TYPEDESC"
+size = 0x8
+
+[members.0x44]
+name = "idldescType"
+offset = 0x44
+type = "IDLDESC"
+size = 0x8

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.694128Z
+name = "_EXCEPTION_RECORD64"
+size = 0x98
+
+[members.0x0]
+name = "ExceptionCode"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ExceptionFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ExceptionRecord"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "ExceptionAddress"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "NumberParameters"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "__unusedAlignment"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "ExceptionInformation"
+offset = 0x20
+type = "DWORD64[0xf]"
+size = 0x78

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.827241Z
+name = "_TRANSACTIONMANAGER_OLDEST_INFORMATION"
+size = 0x10
+
+[members.0x0]
+name = "OldestTransactionGuid"
+offset = 0x0
+type = "GUID"
+size = 0x10

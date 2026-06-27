@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.745940Z
+name = "_OCSP_CERT_ID"
+size = 0x24
+
+[members.0x0]
+name = "HashAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "IssuerNameHash"
+offset = 0xc
+type = "CRYPT_HASH_BLOB"
+size = 0x8
+
+[members.0x14]
+name = "IssuerKeyHash"
+offset = 0x14
+type = "CRYPT_HASH_BLOB"
+size = 0x8
+
+[members.0x1c]
+name = "SerialNumber"
+offset = 0x1c
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8

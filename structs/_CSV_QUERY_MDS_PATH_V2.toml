@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.672371Z
+name = "_CSV_QUERY_MDS_PATH_V2"
+size = 0x40
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "RequiredSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MdsNodeId"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "DsNodeId"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "DiskConnectivity"
+offset = 0x18
+type = "CSVFS_DISK_CONNECTIVITY"
+size = 0x4
+
+[members.0x1c]
+name = "VolumeId"
+offset = 0x1c
+type = "GUID"
+size = 0x10
+
+[members.0x2c]
+name = "IpAddressOffset"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "IpAddressLength"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "PathOffset"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "PathLength"
+offset = 0x38
+type = "DWORD"
+size = 0x4

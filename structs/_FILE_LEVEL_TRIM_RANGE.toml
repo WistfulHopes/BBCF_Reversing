@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.699202Z
+name = "_FILE_LEVEL_TRIM_RANGE"
+size = 0x10
+
+[members.0x0]
+name = "Offset"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.874829Z
+name = "tagEXTLOGFONTW"
+size = 0x140
+
+[members.0x0]
+name = "elfLogFont"
+offset = 0x0
+type = "LOGFONTW"
+size = 0x5c
+
+[members.0x5c]
+name = "elfFullName"
+offset = 0x5c
+type = "WCHAR[0x40]"
+size = 0x80
+
+[members.0xdc]
+name = "elfStyle"
+offset = 0xdc
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0x11c]
+name = "elfVersion"
+offset = 0x11c
+type = "DWORD"
+size = 0x4
+
+[members.0x120]
+name = "elfStyleSize"
+offset = 0x120
+type = "DWORD"
+size = 0x4
+
+[members.0x124]
+name = "elfMatch"
+offset = 0x124
+type = "DWORD"
+size = 0x4
+
+[members.0x128]
+name = "elfReserved"
+offset = 0x128
+type = "DWORD"
+size = 0x4
+
+[members.0x12c]
+name = "elfVendorId"
+offset = 0x12c
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0x130]
+name = "elfCulture"
+offset = 0x130
+type = "DWORD"
+size = 0x4
+
+[members.0x134]
+name = "elfPanose"
+offset = 0x134
+type = "PANOSE"
+size = 0xa

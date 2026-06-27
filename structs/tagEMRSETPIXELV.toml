@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.871473Z
+name = "tagEMRSETPIXELV"
+size = 0x14
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ptlPixel"
+offset = 0x8
+type = "POINTL"
+size = 0x8
+
+[members.0x10]
+name = "crColor"
+offset = 0x10
+type = "COLORREF"
+size = 0x4

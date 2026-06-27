@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.795627Z
+name = "_SENDCMDOUTPARAMS"
+size = 0x14
+
+[members.0x0]
+name = "cBufferSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DriverStatus"
+offset = 0x4
+type = "DRIVERSTATUS"
+size = 0xc
+
+[members.0x10]
+name = "bBuffer"
+offset = 0x10
+type = "BYTE[0x1]"
+size = 0x1

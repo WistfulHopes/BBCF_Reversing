@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.749245Z
+name = "_OPENCARD_SEARCH_CRITERIAA"
+size = 0x34
+
+[members.0x0]
+name = "dwStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpstrGroupNames"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "nMaxGroupNames"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rgguidInterfaces"
+offset = 0xc
+type = "LPCGUID"
+size = 0x4
+
+[members.0x10]
+name = "cguidInterfaces"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "lpstrCardNames"
+offset = 0x14
+type = "LPSTR"
+size = 0x4
+
+[members.0x18]
+name = "nMaxCardNames"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "lpfnCheck"
+offset = 0x1c
+type = "LPOCNCHKPROC"
+size = 0x4
+
+[members.0x20]
+name = "lpfnConnect"
+offset = 0x20
+type = "LPOCNCONNPROCA"
+size = 0x4
+
+[members.0x24]
+name = "lpfnDisconnect"
+offset = 0x24
+type = "LPOCNDSCPROC"
+size = 0x4
+
+[members.0x28]
+name = "pvUserData"
+offset = 0x28
+type = "LPVOID"
+size = 0x4
+
+[members.0x2c]
+name = "dwShareMode"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwPreferredProtocols"
+offset = 0x30
+type = "DWORD"
+size = 0x4

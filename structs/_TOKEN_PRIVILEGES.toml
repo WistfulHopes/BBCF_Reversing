@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.826131Z
+name = "_TOKEN_PRIVILEGES"
+size = 0x10
+
+[members.0x0]
+name = "PrivilegeCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Privileges"
+offset = 0x4
+type = "LUID_AND_ATTRIBUTES[0x1]"
+size = 0xc

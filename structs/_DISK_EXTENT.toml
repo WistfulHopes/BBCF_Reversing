@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.681260Z
+name = "_DISK_EXTENT"
+size = 0x18
+
+[members.0x0]
+name = "DiskNumber"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "StartingOffset"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "ExtentLength"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8

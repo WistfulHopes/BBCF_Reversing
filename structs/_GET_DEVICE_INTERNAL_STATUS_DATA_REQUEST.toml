@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.707803Z
+name = "_GET_DEVICE_INTERNAL_STATUS_DATA_REQUEST"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "RequestDataType"
+offset = 0x8
+type = "DEVICE_INTERNAL_STATUS_DATA_REQUEST_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "RequestDataSet"
+offset = 0xc
+type = "DEVICE_INTERNAL_STATUS_DATA_SET"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.826589Z
+name = "_TOKEN_USER_CLAIMS"
+size = 0x4
+
+[members.0x0]
+name = "UserClaims"
+offset = 0x0
+type = "PCLAIMS_BLOB"
+size = 0x4

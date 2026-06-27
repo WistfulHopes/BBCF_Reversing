@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.801791Z
+name = "_SHFILEOPSTRUCTA"
+size = 0x24
+
+[members.0x0]
+name = "hwnd"
+offset = 0x0
+type = "HWND"
+size = 0x4
+
+[members.0x4]
+name = "wFunc"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "pFrom"
+offset = 0x8
+type = "PCZZSTR"
+size = 0x4
+
+[members.0xc]
+name = "pTo"
+offset = 0xc
+type = "PCZZSTR"
+size = 0x4
+
+[members.0x10]
+name = "fFlags"
+offset = 0x10
+type = "FILEOP_FLAGS"
+size = 0x2
+
+[members.0x14]
+name = "fAnyOperationsAborted"
+offset = 0x14
+type = "BOOL"
+size = 0x4
+
+[members.0x18]
+name = "hNameMappings"
+offset = 0x18
+type = "LPVOID"
+size = 0x4
+
+[members.0x1c]
+name = "lpszProgressTitle"
+offset = 0x1c
+type = "PCSTR"
+size = 0x4

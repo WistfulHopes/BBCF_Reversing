@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.768533Z
+name = "_PROCESS_MITIGATION_DEP_POLICY"
+size = 0x8
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4
+
+[members.0x4]
+name = "Permanent"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1

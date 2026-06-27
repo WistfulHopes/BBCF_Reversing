@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.705413Z
+name = "_FSCTL_OFFLOAD_WRITE_OUTPUT"
+size = 0x10
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "LengthWritten"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

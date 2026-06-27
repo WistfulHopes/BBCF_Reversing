@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.776307Z
+name = "_REARRANGE_FILE_DATA"
+size = 0x20
+
+[members.0x0]
+name = "SourceStartingOffset"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "TargetOffset"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "SourceFileHandle"
+offset = 0x10
+type = "HANDLE"
+size = 0x4
+
+[members.0x14]
+name = "Length"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Flags"
+offset = 0x18
+type = "DWORD"
+size = 0x4

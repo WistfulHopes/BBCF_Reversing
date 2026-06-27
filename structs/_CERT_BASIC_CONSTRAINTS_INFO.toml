@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.639627Z
+name = "_CERT_BASIC_CONSTRAINTS_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "SubjectType"
+offset = 0x0
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0xc]
+name = "fPathLenConstraint"
+offset = 0xc
+type = "BOOL"
+size = 0x4
+
+[members.0x10]
+name = "dwPathLenConstraint"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "cSubtreesConstraint"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "rgSubtreesConstraint"
+offset = 0x18
+type = "CERT_NAME_BLOB*"
+size = 0x4

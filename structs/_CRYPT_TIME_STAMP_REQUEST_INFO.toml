@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.670988Z
+name = "_CRYPT_TIME_STAMP_REQUEST_INFO"
+size = 0x18
+
+[members.0x0]
+name = "pszTimeStampAlgorithm"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "pszContentType"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "Content"
+offset = 0x8
+type = "CRYPT_OBJID_BLOB"
+size = 0x8
+
+[members.0x10]
+name = "cAttribute"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgAttribute"
+offset = 0x14
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4

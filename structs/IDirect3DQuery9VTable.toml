@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.613922Z
+name = "IDirect3DQuery9VTable"
+size = 0x20
+
+[members.0xc]
+name = "GetDevice"
+offset = 0xc
+type = "HRESULT (*)(struct IDirect3DQuery9* this, struct IDirect3DDevice9* ppDevice)"
+size = 0x4
+
+[members.0x10]
+name = "GetType"
+offset = 0x10
+type = "enum D3DQUERYTYPE (*)(struct IDirect3DQuery9* this)"
+size = 0x4
+
+[members.0x14]
+name = "GetDataSize"
+offset = 0x14
+type = "uint (*)(struct IDirect3DQuery9* this)"
+size = 0x4
+
+[members.0x18]
+name = "Issue"
+offset = 0x18
+type = "HRESULT (*)(struct IDirect3DQuery9* this, uint dwIssueFlags)"
+size = 0x4
+
+[members.0x1c]
+name = "GetData"
+offset = 0x1c
+type = "HRESULT (*)(struct IDirect3DQuery9* this, void* pData, uint dwSize, uint dwGetDataFlags)"
+size = 0x4

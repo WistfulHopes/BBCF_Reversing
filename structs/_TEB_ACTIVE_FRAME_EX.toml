@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.824332Z
+name = "_TEB_ACTIVE_FRAME_EX"
+size = 0x10
+
+[members.0x0]
+name = "BasicFrame"
+offset = 0x0
+type = "TEB_ACTIVE_FRAME"
+size = 0xc
+
+[members.0xc]
+name = "ExtensionIdentifier"
+offset = 0xc
+type = "PVOID"
+size = 0x4

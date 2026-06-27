@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.733851Z
+name = "_MESSAGE_RESOURCE_DATA"
+size = 0x10
+
+[members.0x0]
+name = "NumberOfBlocks"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Blocks"
+offset = 0x4
+type = "MESSAGE_RESOURCE_BLOCK[0x1]"
+size = 0xc

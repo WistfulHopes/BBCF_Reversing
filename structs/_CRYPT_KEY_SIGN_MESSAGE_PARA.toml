@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.666859Z
+name = "_CRYPT_KEY_SIGN_MESSAGE_PARA"
+size = 0x2c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgAndCertEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "dwKeySpec"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "HashAlgorithm"
+offset = 0x10
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x1c]
+name = "pvHashAuxInfo"
+offset = 0x1c
+type = "void*"
+size = 0x4
+
+[members.0x20]
+name = "PubKeyAlgorithm"
+offset = 0x20
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc

@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.860955Z
+name = "tagCREATESTRUCTW"
+size = 0x30
+
+[members.0x0]
+name = "lpCreateParams"
+offset = 0x0
+type = "LPVOID"
+size = 0x4
+
+[members.0x4]
+name = "hInstance"
+offset = 0x4
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x8]
+name = "hMenu"
+offset = 0x8
+type = "HMENU"
+size = 0x4
+
+[members.0xc]
+name = "hwndParent"
+offset = 0xc
+type = "HWND"
+size = 0x4
+
+[members.0x10]
+name = "cy"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "cx"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "y"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "x"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "style"
+offset = 0x20
+type = "LONG"
+size = 0x4
+
+[members.0x24]
+name = "lpszName"
+offset = 0x24
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x28]
+name = "lpszClass"
+offset = 0x28
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x2c]
+name = "dwExStyle"
+offset = 0x2c
+type = "DWORD"
+size = 0x4

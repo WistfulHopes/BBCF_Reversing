@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.732120Z
+name = "_MEMORYSTATUSEX"
+size = 0x40
+
+[members.0x0]
+name = "dwLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMemoryLoad"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ullTotalPhys"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "ullAvailPhys"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "ullTotalPageFile"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "ullAvailPageFile"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "ullTotalVirtual"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "ullAvailVirtual"
+offset = 0x30
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x38]
+name = "ullAvailExtendedVirtual"
+offset = 0x38
+type = "DWORDLONG"
+size = 0x8

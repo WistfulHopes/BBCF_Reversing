@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.880016Z
+name = "tagINPUT_MESSAGE_SOURCE"
+size = 0x8
+
+[members.0x0]
+name = "deviceType"
+offset = 0x0
+type = "INPUT_MESSAGE_DEVICE_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "originId"
+offset = 0x4
+type = "INPUT_MESSAGE_ORIGIN_ID"
+size = 0x4

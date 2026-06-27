@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.745537Z
+name = "_OCSP_BASIC_RESPONSE_ENTRY"
+size = 0x44
+
+[members.0x0]
+name = "CertId"
+offset = 0x0
+type = "OCSP_CERT_ID"
+size = 0x24
+
+[members.0x24]
+name = "dwCertStatus"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = ""
+offset = 0x28
+type = "union"
+size = 0x4
+
+[members.0x2c]
+name = "ThisUpdate"
+offset = 0x2c
+type = "FILETIME"
+size = 0x8
+
+[members.0x34]
+name = "NextUpdate"
+offset = 0x34
+type = "FILETIME"
+size = 0x8
+
+[members.0x3c]
+name = "cExtension"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "rgExtension"
+offset = 0x40
+type = "PCERT_EXTENSION"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.647955Z
+name = "_CERT_SYSTEM_STORE_INFO"
+size = 0x4
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4

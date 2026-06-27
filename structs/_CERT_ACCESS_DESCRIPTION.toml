@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.638929Z
+name = "_CERT_ACCESS_DESCRIPTION"
+size = 0x10
+
+[members.0x0]
+name = "pszAccessMethod"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "AccessLocation"
+offset = 0x4
+type = "CERT_ALT_NAME_ENTRY"
+size = 0xc

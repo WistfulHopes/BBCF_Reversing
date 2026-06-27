@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.649985Z
+name = "_CHAR_INFO"
+size = 0x4
+
+[members.0x0]
+name = "Char"
+offset = 0x0
+type = "union"
+size = 0x2
+
+[members.0x2]
+name = "Attributes"
+offset = 0x2
+type = "WORD"
+size = 0x2

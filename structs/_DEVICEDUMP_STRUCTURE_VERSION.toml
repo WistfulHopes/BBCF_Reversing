@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.675901Z
+name = "_DEVICEDUMP_STRUCTURE_VERSION"
+size = 0xc
+
+[members.0x0]
+name = "dwSignature"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4

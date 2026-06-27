@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.651247Z
+name = "_CLUSTER_RANGE"
+size = 0x10
+
+[members.0x0]
+name = "StartingCluster"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "ClusterCount"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8

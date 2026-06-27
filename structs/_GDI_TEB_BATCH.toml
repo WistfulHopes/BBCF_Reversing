@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.706911Z
+name = "_GDI_TEB_BATCH"
+size = 0x4e0
+
+[members.0x0]
+name = "Offset"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "HDC"
+offset = 0x4
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x8]
+name = "Buffer"
+offset = 0x8
+type = "ULONG[0x136]"
+size = 0x4d8

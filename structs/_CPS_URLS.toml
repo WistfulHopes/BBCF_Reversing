@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.660544Z
+name = "_CPS_URLS"
+size = 0xc
+
+[members.0x0]
+name = "pszURL"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER*"
+size = 0x4
+
+[members.0x8]
+name = "pDigest"
+offset = 0x8
+type = "CRYPT_DATA_BLOB*"
+size = 0x4

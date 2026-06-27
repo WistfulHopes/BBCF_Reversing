@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.599015Z
+name = "D3DLIGHT9"
+size = 0x68
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "enum D3DLIGHTTYPE"
+size = 0x4
+
+[members.0x4]
+name = "Diffuse"
+offset = 0x4
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x14]
+name = "Specular"
+offset = 0x14
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x24]
+name = "Ambient"
+offset = 0x24
+type = "struct D3DCOLORVALUE"
+size = 0x10
+
+[members.0x34]
+name = "Position"
+offset = 0x34
+type = "struct D3DVECTOR"
+size = 0xc
+
+[members.0x40]
+name = "Direction"
+offset = 0x40
+type = "struct D3DVECTOR"
+size = 0xc
+
+[members.0x4c]
+name = "Range"
+offset = 0x4c
+type = "float"
+size = 0x4
+
+[members.0x50]
+name = "Falloff"
+offset = 0x50
+type = "float"
+size = 0x4
+
+[members.0x54]
+name = "Attenuation0"
+offset = 0x54
+type = "float"
+size = 0x4
+
+[members.0x58]
+name = "Attenuation1"
+offset = 0x58
+type = "float"
+size = 0x4
+
+[members.0x5c]
+name = "Attenuation2"
+offset = 0x5c
+type = "float"
+size = 0x4
+
+[members.0x60]
+name = "Theta"
+offset = 0x60
+type = "float"
+size = 0x4
+
+[members.0x64]
+name = "Phi"
+offset = 0x64
+type = "float"
+size = 0x4

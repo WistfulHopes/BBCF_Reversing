@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.636598Z
+name = "_BIDI_REQUEST_DATA"
+size = 0x14
+
+[members.0x0]
+name = "dwReqNumber"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pSchema"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "data"
+offset = 0x8
+type = "BIDI_DATA"
+size = 0xc

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.775747Z
+name = "_READ_FILE_USN_DATA"
+size = 0x4
+
+[members.0x0]
+name = "MinMajorVersion"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "MaxMajorVersion"
+offset = 0x2
+type = "WORD"
+size = 0x2

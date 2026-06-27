@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.740587Z
+name = "_NETCONNECTINFOSTRUCT"
+size = 0x14
+
+[members.0x0]
+name = "cbStructure"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwSpeed"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwDelay"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwOptDataSize"
+offset = 0x10
+type = "DWORD"
+size = 0x4

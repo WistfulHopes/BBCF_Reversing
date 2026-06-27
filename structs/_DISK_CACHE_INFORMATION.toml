@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.681023Z
+name = "_DISK_CACHE_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "ParametersSavable"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "ReadCacheEnabled"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "WriteCacheEnabled"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "ReadRetentionPriority"
+offset = 0x4
+type = "DISK_CACHE_RETENTION_PRIORITY"
+size = 0x4
+
+[members.0x8]
+name = "WriteRetentionPriority"
+offset = 0x8
+type = "DISK_CACHE_RETENTION_PRIORITY"
+size = 0x4
+
+[members.0xc]
+name = "DisablePrefetchTransferLength"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "PrefetchScalar"
+offset = 0xe
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x6

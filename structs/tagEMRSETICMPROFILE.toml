@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.871103Z
+name = "tagEMRSETICMPROFILE"
+size = 0x18
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "dwFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "cbName"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "cbData"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Data"
+offset = 0x14
+type = "BYTE[0x1]"
+size = 0x1

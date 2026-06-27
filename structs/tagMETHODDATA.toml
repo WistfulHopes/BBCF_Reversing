@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.891458Z
+name = "tagMETHODDATA"
+size = 0x1c
+
+[members.0x0]
+name = "szName"
+offset = 0x0
+type = "OLECHAR*"
+size = 0x4
+
+[members.0x4]
+name = "ppdata"
+offset = 0x4
+type = "PARAMDATA*"
+size = 0x4
+
+[members.0x8]
+name = "dispid"
+offset = 0x8
+type = "DISPID"
+size = 0x4
+
+[members.0xc]
+name = "iMeth"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "cc"
+offset = 0x10
+type = "CALLCONV"
+size = 0x4
+
+[members.0x14]
+name = "cArgs"
+offset = 0x14
+type = "UINT"
+size = 0x4
+
+[members.0x18]
+name = "wFlags"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "vtReturn"
+offset = 0x1a
+type = "VARTYPE"
+size = 0x2

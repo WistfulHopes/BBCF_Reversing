@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.747326Z
+name = "_OLESTREAM"
+size = 0x4
+
+[members.0x0]
+name = "lpstbl"
+offset = 0x0
+type = "LPOLESTREAMVTBL"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.615063Z
+name = "IDirect3DVertexDeclaration9VTable"
+size = 0x14
+
+[members.0xc]
+name = "GetDevice"
+offset = 0xc
+type = "HRESULT (*)(struct IDirect3DVertexDeclaration9* this, struct IDirect3DDevice9* ppDevice)"
+size = 0x4
+
+[members.0x10]
+name = "GetDeclaration"
+offset = 0x10
+type = "HRESULT (*)(struct IDirect3DVertexDeclaration9* this, struct D3DVERTEXELEMENT9* pElement, uint* pNumElements)"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.617320Z
+name = "JOBOBJECT_IO_RATE_CONTROL_INFORMATION_NATIVE"
+size = 0x28
+
+[members.0x0]
+name = "MaxIops"
+offset = 0x0
+type = "LONG64"
+size = 0x8
+
+[members.0x8]
+name = "MaxBandwidth"
+offset = 0x8
+type = "LONG64"
+size = 0x8
+
+[members.0x10]
+name = "ReservationIops"
+offset = 0x10
+type = "LONG64"
+size = 0x8
+
+[members.0x18]
+name = "VolumeName"
+offset = 0x18
+type = "PWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "BaseIoSize"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "ControlFlags"
+offset = 0x20
+type = "enum JOB_OBJECT_IO_RATE_CONTROL_FLAGS"
+size = 0x4
+
+[members.0x24]
+name = "VolumeNameLength"
+offset = 0x24
+type = "WORD"
+size = 0x2

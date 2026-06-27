@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.844442Z
+name = "_tagPROTOCOLFILTERDATA"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pProtocolSink"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "pProtocol"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "pUnk"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "dwFilterFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.825589Z
+name = "_TOKEN_GROUPS"
+size = 0xc
+
+[members.0x0]
+name = "GroupCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Groups"
+offset = 0x4
+type = "SID_AND_ATTRIBUTES[0x1]"
+size = 0x8

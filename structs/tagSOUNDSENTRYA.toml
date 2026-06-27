@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.914225Z
+name = "tagSOUNDSENTRYA"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "iFSTextEffect"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "iFSTextEffectMSec"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "iFSTextEffectColorBits"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "iFSGrafEffect"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "iFSGrafEffectMSec"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "iFSGrafEffectColor"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "iWindowsEffect"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "iWindowsEffectMSec"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "lpszWindowsEffectDLL"
+offset = 0x28
+type = "LPSTR"
+size = 0x4
+
+[members.0x2c]
+name = "iWindowsEffectOrdinal"
+offset = 0x2c
+type = "DWORD"
+size = 0x4

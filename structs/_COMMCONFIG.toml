@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.657716Z
+name = "_COMMCONFIG"
+size = 0x34
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "wVersion"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "wReserved"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "dcb"
+offset = 0x8
+type = "DCB"
+size = 0x1c
+
+[members.0x24]
+name = "dwProviderSubType"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwProviderOffset"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwProviderSize"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "wcProviderData"
+offset = 0x30
+type = "WCHAR[0x1]"
+size = 0x2

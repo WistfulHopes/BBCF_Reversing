@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.663978Z
+name = "_CRYPT_BLOB_ARRAY"
+size = 0x8
+
+[members.0x0]
+name = "cBlob"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgBlob"
+offset = 0x4
+type = "PCRYPT_DATA_BLOB"
+size = 0x4

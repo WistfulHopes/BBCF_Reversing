@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.655064Z
+name = "_CMSG_KEY_TRANS_RECIPIENT_ENCODE_INFO"
+size = 0x38
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "KeyEncryptionAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "pvKeyEncryptionAuxInfo"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "hCryptProv"
+offset = 0x14
+type = "HCRYPTPROV_LEGACY"
+size = 0x4
+
+[members.0x18]
+name = "RecipientPublicKey"
+offset = 0x18
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x24]
+name = "RecipientId"
+offset = 0x24
+type = "CERT_ID"
+size = 0x14

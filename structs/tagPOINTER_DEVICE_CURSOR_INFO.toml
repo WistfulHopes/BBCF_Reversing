@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.905448Z
+name = "tagPOINTER_DEVICE_CURSOR_INFO"
+size = 0x8
+
+[members.0x0]
+name = "cursorId"
+offset = 0x0
+type = "UINT32"
+size = 0x4
+
+[members.0x4]
+name = "cursor"
+offset = 0x4
+type = "POINTER_DEVICE_CURSOR_TYPE"
+size = 0x4

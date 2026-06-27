@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.578825Z
+name = "AA_CCameraManager"
+size = 0x10
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct ISerializable::AA_CCameraManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_Instance"
+offset = 0x4
+type = "struct AA_CCamera**"
+size = 0x4
+
+[members.0x8]
+name = "m_TotalInstanceNum"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_InstanceNum"
+offset = 0xc
+type = "int"
+size = 0x4

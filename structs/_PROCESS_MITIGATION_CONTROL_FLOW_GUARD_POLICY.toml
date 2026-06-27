@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.768468Z
+name = "_PROCESS_MITIGATION_CONTROL_FLOW_GUARD_POLICY"
+size = 0x4
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4

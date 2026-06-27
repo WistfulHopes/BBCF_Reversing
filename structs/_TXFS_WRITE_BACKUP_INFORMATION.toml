@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.830933Z
+name = "_TXFS_WRITE_BACKUP_INFORMATION"
+size = 0x1
+
+[members.0x0]
+name = "Buffer"
+offset = 0x0
+type = "BYTE[0x1]"
+size = 0x1

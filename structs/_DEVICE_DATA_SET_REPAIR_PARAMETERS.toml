@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.676794Z
+name = "_DEVICE_DATA_SET_REPAIR_PARAMETERS"
+size = 0xc
+
+[members.0x0]
+name = "NumberOfRepairCopies"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SourceCopy"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "RepairCopies"
+offset = 0x8
+type = "DWORD[0x1]"
+size = 0x4

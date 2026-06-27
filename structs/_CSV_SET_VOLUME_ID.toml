@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.672755Z
+name = "_CSV_SET_VOLUME_ID"
+size = 0x10
+
+[members.0x0]
+name = "VolumeId"
+offset = 0x0
+type = "GUID"
+size = 0x10

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.632162Z
+name = "_ADMINISTRATOR_POWER_POLICY"
+size = 0x18
+
+[members.0x0]
+name = "MinSleep"
+offset = 0x0
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x4]
+name = "MaxSleep"
+offset = 0x4
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x8]
+name = "MinVideoTimeout"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MaxVideoTimeout"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "MinSpindownTimeout"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "MaxSpindownTimeout"
+offset = 0x14
+type = "DWORD"
+size = 0x4

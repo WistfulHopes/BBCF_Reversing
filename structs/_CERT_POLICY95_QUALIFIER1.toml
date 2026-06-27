@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.644307Z
+name = "_CERT_POLICY95_QUALIFIER1"
+size = 0x14
+
+[members.0x0]
+name = "pszPracticesReference"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pszNoticeIdentifier"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "pszNSINoticeIdentifier"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "cCPSURLs"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rgCPSURLs"
+offset = 0x10
+type = "CPS_URLS*"
+size = 0x4

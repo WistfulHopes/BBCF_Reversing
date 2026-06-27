@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.873526Z
+name = "tagENUMLOGFONTEXDVW"
+size = 0x1a4
+
+[members.0x0]
+name = "elfEnumLogfontEx"
+offset = 0x0
+type = "ENUMLOGFONTEXW"
+size = 0x15c
+
+[members.0x15c]
+name = "elfDesignVector"
+offset = 0x15c
+type = "DESIGNVECTOR"
+size = 0x48

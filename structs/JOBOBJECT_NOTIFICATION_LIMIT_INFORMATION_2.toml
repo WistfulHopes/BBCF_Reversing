@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.618862Z
+name = "JOBOBJECT_NOTIFICATION_LIMIT_INFORMATION_2"
+size = 0x48
+
+[members.0x0]
+name = "IoReadBytesLimit"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "IoWriteBytesLimit"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "PerJobUserTimeLimit"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = ""
+offset = 0x18
+type = "union"
+size = 0x8
+
+[members.0x20]
+name = "_1"
+offset = 0x20
+type = "union"
+size = 0x4
+
+[members.0x24]
+name = "_2"
+offset = 0x24
+type = "union"
+size = 0x4
+
+[members.0x28]
+name = "LimitFlags"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "IoRateControlTolerance"
+offset = 0x2c
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x30]
+name = "JobLowMemoryLimit"
+offset = 0x30
+type = "DWORD64"
+size = 0x8
+
+[members.0x38]
+name = "IoRateControlToleranceInterval"
+offset = 0x38
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE_INTERVAL"
+size = 0x4
+
+[members.0x3c]
+name = "NetRateControlTolerance"
+offset = 0x3c
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x40]
+name = "NetRateControlToleranceInterval"
+offset = 0x40
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE_INTERVAL"
+size = 0x4

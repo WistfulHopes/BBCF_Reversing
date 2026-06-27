@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.877545Z
+name = "tagGUITHREADINFO"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hwndActive"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "hwndFocus"
+offset = 0xc
+type = "HWND"
+size = 0x4
+
+[members.0x10]
+name = "hwndCapture"
+offset = 0x10
+type = "HWND"
+size = 0x4
+
+[members.0x14]
+name = "hwndMenuOwner"
+offset = 0x14
+type = "HWND"
+size = 0x4
+
+[members.0x18]
+name = "hwndMoveSize"
+offset = 0x18
+type = "HWND"
+size = 0x4
+
+[members.0x1c]
+name = "hwndCaret"
+offset = 0x1c
+type = "HWND"
+size = 0x4
+
+[members.0x20]
+name = "rcCaret"
+offset = 0x20
+type = "RECT"
+size = 0x10

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.922113Z
+name = "tagWINDOWPOS"
+size = 0x1c
+
+[members.0x0]
+name = "hwnd"
+offset = 0x0
+type = "HWND"
+size = 0x4
+
+[members.0x4]
+name = "hwndInsertAfter"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "x"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "y"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "cx"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "cy"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "flags"
+offset = 0x18
+type = "UINT"
+size = 0x4

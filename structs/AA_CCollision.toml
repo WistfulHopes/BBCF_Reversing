@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.578905Z
+name = "AA_CCollision"
+size = 0xc
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_CCollision::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_CollisionFileAddr"
+offset = 0x4
+type = "void const*"
+size = 0x4
+
+[members.0x8]
+name = "m_ColFileName"
+offset = 0x8
+type = "char const*"
+size = 0x4

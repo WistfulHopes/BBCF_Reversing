@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.870498Z
+name = "tagEMRSETCOLORADJUSTMENT"
+size = 0x20
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ColorAdjustment"
+offset = 0x8
+type = "COLORADJUSTMENT"
+size = 0x18

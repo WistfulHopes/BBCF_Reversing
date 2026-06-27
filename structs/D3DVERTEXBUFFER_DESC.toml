@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.600406Z
+name = "D3DVERTEXBUFFER_DESC"
+size = 0x18
+
+[members.0x0]
+name = "Format"
+offset = 0x0
+type = "enum D3DFORMAT"
+size = 0x4
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "enum D3DRESOURCETYPE"
+size = 0x4
+
+[members.0x8]
+name = "Usage"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "Pool"
+offset = 0xc
+type = "enum D3DPOOL"
+size = 0x4
+
+[members.0x10]
+name = "Size"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "FVF"
+offset = 0x14
+type = "uint"
+size = 0x4

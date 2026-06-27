@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.684790Z
+name = "_DOCINFOW"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "lpszDocName"
+offset = 0x4
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpszOutput"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4
+
+[members.0xc]
+name = "lpszDatatype"
+offset = 0xc
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "fwType"
+offset = 0x10
+type = "DWORD"
+size = 0x4

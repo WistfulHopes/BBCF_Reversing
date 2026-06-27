@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.603451Z
+name = "DISPLAYCONFIG_VIDEO_SIGNAL_INFO"
+size = 0x30
+
+[members.0x0]
+name = "pixelRate"
+offset = 0x0
+type = "UINT64"
+size = 0x8
+
+[members.0x8]
+name = "hSyncFreq"
+offset = 0x8
+type = "struct DISPLAYCONFIG_RATIONAL"
+size = 0x8
+
+[members.0x10]
+name = "vSyncFreq"
+offset = 0x10
+type = "struct DISPLAYCONFIG_RATIONAL"
+size = 0x8
+
+[members.0x18]
+name = "activeSize"
+offset = 0x18
+type = "struct DISPLAYCONFIG_2DREGION"
+size = 0x8
+
+[members.0x20]
+name = "totalSize"
+offset = 0x20
+type = "struct DISPLAYCONFIG_2DREGION"
+size = 0x8
+
+[members.0x28]
+name = ""
+offset = 0x28
+type = "union"
+size = 0x4
+
+[members.0x2c]
+name = "scanLineOrdering"
+offset = 0x2c
+type = "DISPLAYCONFIG_SCANLINE_ORDERING"
+size = 0x4

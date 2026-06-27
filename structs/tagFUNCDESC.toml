@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.876493Z
+name = "tagFUNCDESC"
+size = 0x34
+
+[members.0x0]
+name = "memid"
+offset = 0x0
+type = "MEMBERID"
+size = 0x4
+
+[members.0x4]
+name = "lprgscode"
+offset = 0x4
+type = "SCODE*"
+size = 0x4
+
+[members.0x8]
+name = "lprgelemdescParam"
+offset = 0x8
+type = "ELEMDESC*"
+size = 0x4
+
+[members.0xc]
+name = "funckind"
+offset = 0xc
+type = "FUNCKIND"
+size = 0x4
+
+[members.0x10]
+name = "invkind"
+offset = 0x10
+type = "INVOKEKIND"
+size = 0x4
+
+[members.0x14]
+name = "callconv"
+offset = 0x14
+type = "CALLCONV"
+size = 0x4
+
+[members.0x18]
+name = "cParams"
+offset = 0x18
+type = "SHORT"
+size = 0x2
+
+[members.0x1a]
+name = "cParamsOpt"
+offset = 0x1a
+type = "SHORT"
+size = 0x2
+
+[members.0x1c]
+name = "oVft"
+offset = 0x1c
+type = "SHORT"
+size = 0x2
+
+[members.0x1e]
+name = "cScodes"
+offset = 0x1e
+type = "SHORT"
+size = 0x2
+
+[members.0x20]
+name = "elemdescFunc"
+offset = 0x20
+type = "ELEMDESC"
+size = 0x10
+
+[members.0x30]
+name = "wFuncFlags"
+offset = 0x30
+type = "WORD"
+size = 0x2

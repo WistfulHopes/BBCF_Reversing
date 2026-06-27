@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.862637Z
+name = "tagDISPPARAMS"
+size = 0x10
+
+[members.0x0]
+name = "rgvarg"
+offset = 0x0
+type = "VARIANTARG*"
+size = 0x4
+
+[members.0x4]
+name = "rgdispidNamedArgs"
+offset = 0x4
+type = "DISPID*"
+size = 0x4
+
+[members.0x8]
+name = "cArgs"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "cNamedArgs"
+offset = 0xc
+type = "UINT"
+size = 0x4

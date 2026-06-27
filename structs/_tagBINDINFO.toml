@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.843883Z
+name = "_tagBINDINFO"
+size = 0x54
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "szExtraInfo"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "stgmedData"
+offset = 0x8
+type = "STGMEDIUM"
+size = 0xc
+
+[members.0x14]
+name = "grfBindInfoF"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwBindVerb"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "szCustomVerb"
+offset = 0x1c
+type = "LPWSTR"
+size = 0x4
+
+[members.0x20]
+name = "cbstgmedData"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwOptions"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwOptionsFlags"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwCodePage"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "securityAttributes"
+offset = 0x30
+type = "SECURITY_ATTRIBUTES"
+size = 0xc
+
+[members.0x3c]
+name = "iid"
+offset = 0x3c
+type = "IID"
+size = 0x10
+
+[members.0x4c]
+name = "pUnk"
+offset = 0x4c
+type = "void*"
+size = 0x4
+
+[members.0x50]
+name = "dwReserved"
+offset = 0x50
+type = "DWORD"
+size = 0x4

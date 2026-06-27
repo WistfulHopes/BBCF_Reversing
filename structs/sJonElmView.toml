@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.849949Z
+name = "sJonElmView"
+size = 0x50
+
+[members.0x0]
+name = "m_TextureRect"
+offset = 0x0
+type = "class CCmnRect"
+size = 0x10
+
+[members.0x10]
+name = "m_WorldRect"
+offset = 0x10
+type = "class CCmnRect"
+size = 0x10
+
+[members.0x20]
+name = "m_ZType"
+offset = 0x20
+type = "ZTYPE"
+size = 0x4
+
+[members.0x24]
+name = "m_OfsZ"
+offset = 0x24
+type = "float"
+size = 0x4
+
+[members.0x28]
+name = "m_Alpha01"
+offset = 0x28
+type = "float"
+size = 0x4
+
+[members.0x2c]
+name = "m_TransType"
+offset = 0x2c
+type = "TRANSTYPE"
+size = 0x4
+
+[members.0x30]
+name = "m_RadZ"
+offset = 0x30
+type = "float"
+size = 0x4
+
+[members.0x34]
+name = "m_AngleCenterOfsX"
+offset = 0x34
+type = "float"
+size = 0x4
+
+[members.0x38]
+name = "m_AngleCenterOfsY"
+offset = 0x38
+type = "float"
+size = 0x4
+
+[members.0x3c]
+name = "m_ImageIndex"
+offset = 0x3c
+type = "uint"
+size = 0x4
+
+[members.0x40]
+name = "m_Usage"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "m_AfterImage"
+offset = 0x44
+type = "uint"
+size = 0x4
+
+[members.0x48]
+name = "m_Palette"
+offset = 0x48
+type = "uint"
+size = 0x4
+
+[members.0x4c]
+name = "m_Rsv"
+offset = 0x4c
+type = "uint"
+size = 0x4

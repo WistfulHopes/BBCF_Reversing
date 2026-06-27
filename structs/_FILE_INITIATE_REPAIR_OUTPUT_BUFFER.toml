@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.698252Z
+name = "_FILE_INITIATE_REPAIR_OUTPUT_BUFFER"
+size = 0x20
+
+[members.0x0]
+name = "Hint1"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "Hint2"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "Clsn"
+offset = 0x10
+type = "CLSN"
+size = 0x8
+
+[members.0x18]
+name = "Status"
+offset = 0x18
+type = "DWORD"
+size = 0x4

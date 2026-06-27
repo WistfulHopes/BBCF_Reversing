@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.656166Z
+name = "_CMSG_RECIPIENT_ENCRYPTED_KEY_INFO"
+size = 0x28
+
+[members.0x0]
+name = "RecipientId"
+offset = 0x0
+type = "CERT_ID"
+size = 0x14
+
+[members.0x14]
+name = "EncryptedKey"
+offset = 0x14
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x1c]
+name = "Date"
+offset = 0x1c
+type = "FILETIME"
+size = 0x8
+
+[members.0x24]
+name = "pOtherAttr"
+offset = 0x24
+type = "PCRYPT_ATTRIBUTE_TYPE_VALUE"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.632393Z
+name = "_ARM64EC_NT_CONTEXT"
+size = 0x4d0
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4d0

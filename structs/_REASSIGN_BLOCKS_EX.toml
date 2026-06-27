@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.776553Z
+name = "_REASSIGN_BLOCKS_EX"
+size = 0x18
+
+[members.0x0]
+name = "Reserved"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Count"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "BlockNumber"
+offset = 0x8
+type = "LARGE_INTEGER[0x1]"
+size = 0x8

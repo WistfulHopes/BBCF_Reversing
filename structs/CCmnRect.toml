@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.591939Z
+name = "CCmnRect"
+size = 0x10
+
+[members.0x0]
+name = "m_X"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "m_Y"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "m_W"
+offset = 0x8
+type = "float"
+size = 0x4
+
+[members.0xc]
+name = "m_H"
+offset = 0xc
+type = "float"
+size = 0x4

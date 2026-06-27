@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.709131Z
+name = "_HEAP_SUMMARY"
+size = 0x14
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cbAllocated"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4
+
+[members.0x8]
+name = "cbCommitted"
+offset = 0x8
+type = "SIZE_T"
+size = 0x4
+
+[members.0xc]
+name = "cbReserved"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "cbMaxReserve"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4

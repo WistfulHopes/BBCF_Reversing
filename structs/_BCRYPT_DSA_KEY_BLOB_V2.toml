@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.634720Z
+name = "_BCRYPT_DSA_KEY_BLOB_V2"
+size = 0x1c
+
+[members.0x0]
+name = "dwMagic"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "cbKey"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "hashAlgorithm"
+offset = 0x8
+type = "HASHALGORITHM_ENUM"
+size = 0x4
+
+[members.0xc]
+name = "standardVersion"
+offset = 0xc
+type = "DSAFIPSVERSION_ENUM"
+size = 0x4
+
+[members.0x10]
+name = "cbSeedLength"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "cbGroupSize"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "Count"
+offset = 0x18
+type = "UCHAR[0x4]"
+size = 0x4

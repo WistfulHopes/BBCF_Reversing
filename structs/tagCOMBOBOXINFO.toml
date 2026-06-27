@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.859586Z
+name = "tagCOMBOBOXINFO"
+size = 0x34
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcItem"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "rcButton"
+offset = 0x14
+type = "RECT"
+size = 0x10
+
+[members.0x24]
+name = "stateButton"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "hwndCombo"
+offset = 0x28
+type = "HWND"
+size = 0x4
+
+[members.0x2c]
+name = "hwndItem"
+offset = 0x2c
+type = "HWND"
+size = 0x4
+
+[members.0x30]
+name = "hwndList"
+offset = 0x30
+type = "HWND"
+size = 0x4

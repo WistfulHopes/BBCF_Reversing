@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.905771Z
+name = "tagPOINTER_DEVICE_PROPERTY"
+size = 0x1c
+
+[members.0x0]
+name = "logicalMin"
+offset = 0x0
+type = "INT32"
+size = 0x4
+
+[members.0x4]
+name = "logicalMax"
+offset = 0x4
+type = "INT32"
+size = 0x4
+
+[members.0x8]
+name = "physicalMin"
+offset = 0x8
+type = "INT32"
+size = 0x4
+
+[members.0xc]
+name = "physicalMax"
+offset = 0xc
+type = "INT32"
+size = 0x4
+
+[members.0x10]
+name = "unit"
+offset = 0x10
+type = "UINT32"
+size = 0x4
+
+[members.0x14]
+name = "unitExponent"
+offset = 0x14
+type = "UINT32"
+size = 0x4
+
+[members.0x18]
+name = "usagePageId"
+offset = 0x18
+type = "USHORT"
+size = 0x2
+
+[members.0x1a]
+name = "usageId"
+offset = 0x1a
+type = "USHORT"
+size = 0x2

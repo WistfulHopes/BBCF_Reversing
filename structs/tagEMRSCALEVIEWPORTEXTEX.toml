@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.870168Z
+name = "tagEMRSCALEVIEWPORTEXTEX"
+size = 0x18
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "xNum"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "xDenom"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "yNum"
+offset = 0x10
+type = "LONG"
+size = 0x4
+
+[members.0x14]
+name = "yDenom"
+offset = 0x14
+type = "LONG"
+size = 0x4

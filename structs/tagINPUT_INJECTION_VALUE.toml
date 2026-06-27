@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.879572Z
+name = "tagINPUT_INJECTION_VALUE"
+size = 0xc
+
+[members.0x0]
+name = "page"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "usage"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "value"
+offset = 0x4
+type = "INT32"
+size = 0x4
+
+[members.0x8]
+name = "index"
+offset = 0x8
+type = "USHORT"
+size = 0x2

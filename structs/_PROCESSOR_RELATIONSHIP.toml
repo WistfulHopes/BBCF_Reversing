@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.766201Z
+name = "_PROCESSOR_RELATIONSHIP"
+size = 0x24
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "EfficiencyClass"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "BYTE[0x14]"
+size = 0x14
+
+[members.0x16]
+name = "GroupCount"
+offset = 0x16
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = "GroupMask"
+offset = 0x18
+type = "GROUP_AFFINITY[0x1]"
+size = 0xc

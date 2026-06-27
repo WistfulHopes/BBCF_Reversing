@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.645455Z
+name = "_CERT_RDN_ATTR"
+size = 0x10
+
+[members.0x0]
+name = "pszObjId"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "dwValueType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Value"
+offset = 0x8
+type = "CERT_RDN_VALUE_BLOB"
+size = 0x8

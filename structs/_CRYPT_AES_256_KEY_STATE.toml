@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.663475Z
+name = "_CRYPT_AES_256_KEY_STATE"
+size = 0x220
+
+[members.0x0]
+name = "Key"
+offset = 0x0
+type = "uchar[0x20]"
+size = 0x20
+
+[members.0x20]
+name = "IV"
+offset = 0x20
+type = "uchar[0x10]"
+size = 0x10
+
+[members.0x30]
+name = "EncryptionState"
+offset = 0x30
+type = "uchar[0xf][0x10]"
+size = 0xf0
+
+[members.0x120]
+name = "DecryptionState"
+offset = 0x120
+type = "uchar[0xf][0x10]"
+size = 0xf0
+
+[members.0x210]
+name = "Feedback"
+offset = 0x210
+type = "uchar[0x10]"
+size = 0x10

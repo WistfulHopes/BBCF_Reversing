@@ -1,0 +1,279 @@
+last_change = 2026-06-27T20:49:16.625008Z
+name = "PE32_Optional_Header"
+size = 0xe0
+
+[members.0x0]
+name = "magic"
+offset = 0x0
+type = "enum pe_magic_1"
+size = 0x2
+
+[members.0x2]
+name = "majorLinkerVersion"
+offset = 0x2
+type = "uchar"
+size = 0x1
+
+[members.0x3]
+name = "minorLinkerVersion"
+offset = 0x3
+type = "uchar"
+size = 0x1
+
+[members.0x4]
+name = "sizeOfCode"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "sizeOfInitializedData"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "sizeOfUninitializedData"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "addressOfEntryPoint"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "baseOfCode"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "baseOfData"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "imageBase"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "sectionAlignment"
+offset = 0x20
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "fileAlignment"
+offset = 0x24
+type = "uint"
+size = 0x4
+
+[members.0x28]
+name = "majorOperatingSystemVersion"
+offset = 0x28
+type = "ushort"
+size = 0x2
+
+[members.0x2a]
+name = "minorOperatingSystemVersion"
+offset = 0x2a
+type = "ushort"
+size = 0x2
+
+[members.0x2c]
+name = "majorImageVersion"
+offset = 0x2c
+type = "ushort"
+size = 0x2
+
+[members.0x2e]
+name = "minorImageVersion"
+offset = 0x2e
+type = "ushort"
+size = 0x2
+
+[members.0x30]
+name = "majorSubsystemVersion"
+offset = 0x30
+type = "ushort"
+size = 0x2
+
+[members.0x32]
+name = "minorSubsystemVersion"
+offset = 0x32
+type = "ushort"
+size = 0x2
+
+[members.0x34]
+name = "win32VersionValue"
+offset = 0x34
+type = "uint"
+size = 0x4
+
+[members.0x38]
+name = "sizeOfImage"
+offset = 0x38
+type = "uint"
+size = 0x4
+
+[members.0x3c]
+name = "sizeOfHeaders"
+offset = 0x3c
+type = "uint"
+size = 0x4
+
+[members.0x40]
+name = "checkSum"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "subsystem"
+offset = 0x44
+type = "enum pe_subsystem_1"
+size = 0x2
+
+[members.0x46]
+name = "dllCharacteristics"
+offset = 0x46
+type = "enum pe_dll_characteristics_1"
+size = 0x2
+
+[members.0x48]
+name = "sizeOfStackReserve"
+offset = 0x48
+type = "uint"
+size = 0x4
+
+[members.0x4c]
+name = "sizeOfStackCommit"
+offset = 0x4c
+type = "uint"
+size = 0x4
+
+[members.0x50]
+name = "sizeOfHeapReserve"
+offset = 0x50
+type = "uint"
+size = 0x4
+
+[members.0x54]
+name = "sizeOfHeapCommit"
+offset = 0x54
+type = "uint"
+size = 0x4
+
+[members.0x58]
+name = "loaderFlags"
+offset = 0x58
+type = "uint"
+size = 0x4
+
+[members.0x5c]
+name = "numberOfRvaAndSizes"
+offset = 0x5c
+type = "uint"
+size = 0x4
+
+[members.0x60]
+name = "exportTableEntry"
+offset = 0x60
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x68]
+name = "importTableEntry"
+offset = 0x68
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x70]
+name = "resourceTableEntry"
+offset = 0x70
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x78]
+name = "exceptionTableEntry"
+offset = 0x78
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x80]
+name = "certificateTableEntry"
+offset = 0x80
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x88]
+name = "baseRelocationTableEntry"
+offset = 0x88
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x90]
+name = "debugEntry"
+offset = 0x90
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0x98]
+name = "architectureEntry"
+offset = 0x98
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xa0]
+name = "globalPtrEntry"
+offset = 0xa0
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xa8]
+name = "tlsTableEntry"
+offset = 0xa8
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xb0]
+name = "loadConfigTableEntry"
+offset = 0xb0
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xb8]
+name = "boundImportEntry"
+offset = 0xb8
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xc0]
+name = "iatEntry"
+offset = 0xc0
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xc8]
+name = "delayImportDescriptorEntry"
+offset = 0xc8
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xd0]
+name = "clrRuntimeHeaderEntry"
+offset = 0xd0
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8
+
+[members.0xd8]
+name = "reservedEntry"
+offset = 0xd8
+type = "struct PE_Data_Directory_Entry_1"
+size = 0x8

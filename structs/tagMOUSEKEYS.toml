@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.897299Z
+name = "tagMOUSEKEYS"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "iMaxSpeed"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "iTimeToMaxSpeed"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "iCtrlSpeed"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwReserved1"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwReserved2"
+offset = 0x18
+type = "DWORD"
+size = 0x4

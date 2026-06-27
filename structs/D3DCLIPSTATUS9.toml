@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.598095Z
+name = "D3DCLIPSTATUS9"
+size = 0x8
+
+[members.0x0]
+name = "ClipUnion"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "ClipIntersection"
+offset = 0x4
+type = "uint"
+size = 0x4

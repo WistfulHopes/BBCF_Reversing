@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.786884Z
+name = "_RTTIBaseClassDescriptor"
+size = 0x1c
+
+[members.0x0]
+name = "pTypeDescriptor"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "numContainedBases"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "where"
+offset = 0x8
+type = "struct _PMD"
+size = 0xc
+
+[members.0x14]
+name = "attributes"
+offset = 0x14
+type = "enum"
+size = 0x4
+
+[members.0x18]
+name = "pClassDescriptor"
+offset = 0x18
+type = "struct _RTTIClassHierarchyDescriptor*"
+size = 0x4

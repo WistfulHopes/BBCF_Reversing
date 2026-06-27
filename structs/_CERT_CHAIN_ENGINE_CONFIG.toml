@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.640475Z
+name = "_CERT_CHAIN_ENGINE_CONFIG"
+size = 0x34
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hRestrictedRoot"
+offset = 0x4
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0x8]
+name = "hRestrictedTrust"
+offset = 0x8
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0xc]
+name = "hRestrictedOther"
+offset = 0xc
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0x10]
+name = "cAdditionalStore"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rghAdditionalStore"
+offset = 0x14
+type = "HCERTSTORE*"
+size = 0x4
+
+[members.0x18]
+name = "dwFlags"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwUrlRetrievalTimeout"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "MaximumCachedCertificates"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "CycleDetectionModulus"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "hExclusiveRoot"
+offset = 0x28
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0x2c]
+name = "hExclusiveTrustedPeople"
+offset = 0x2c
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0x30]
+name = "dwExclusiveFlags"
+offset = 0x30
+type = "DWORD"
+size = 0x4

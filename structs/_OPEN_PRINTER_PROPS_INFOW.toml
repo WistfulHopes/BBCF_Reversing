@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.749721Z
+name = "_OPEN_PRINTER_PROPS_INFOW"
+size = 0x14
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pszSheetName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "uSheetIndex"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "dwFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "bModal"
+offset = 0x10
+type = "BOOL"
+size = 0x4

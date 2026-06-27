@@ -1,0 +1,117 @@
+last_change = 2026-06-27T20:49:16.630780Z
+name = "_ACTIVATION_CONTEXT_ASSEMBLY_DETAILED_INFORMATION"
+size = 0x58
+
+[members.0x0]
+name = "ulFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ulEncodedAssemblyIdentityLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ulManifestPathType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ulManifestPathLength"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "liManifestLastWriteTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "ulPolicyPathType"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "ulPolicyPathLength"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "liPolicyLastWriteTime"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "ulMetadataSatelliteRosterIndex"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "ulManifestVersionMajor"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "ulManifestVersionMinor"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "ulPolicyVersionMajor"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "ulPolicyVersionMinor"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "ulAssemblyDirectoryNameLength"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "lpAssemblyEncodedAssemblyIdentity"
+offset = 0x40
+type = "PCWSTR"
+size = 0x4
+
+[members.0x44]
+name = "lpAssemblyManifestPath"
+offset = 0x44
+type = "PCWSTR"
+size = 0x4
+
+[members.0x48]
+name = "lpAssemblyPolicyPath"
+offset = 0x48
+type = "PCWSTR"
+size = 0x4
+
+[members.0x4c]
+name = "lpAssemblyDirectoryName"
+offset = 0x4c
+type = "PCWSTR"
+size = 0x4
+
+[members.0x50]
+name = "ulFileCount"
+offset = 0x50
+type = "DWORD"
+size = 0x4

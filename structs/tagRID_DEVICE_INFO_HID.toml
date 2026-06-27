@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.909294Z
+name = "tagRID_DEVICE_INFO_HID"
+size = 0x10
+
+[members.0x0]
+name = "dwVendorId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwProductId"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwVersionNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "usUsagePage"
+offset = 0xc
+type = "USHORT"
+size = 0x2
+
+[members.0xe]
+name = "usUsage"
+offset = 0xe
+type = "USHORT"
+size = 0x2

@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.578091Z
+name = "AAWin_CFileReader_Thread"
+size = 0x58
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "AAWin_CFileReader_Thread::VTable*"
+size = 0x4
+
+[members.0xc]
+name = "m_ThreadHandle"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "m_CriticalSection"
+offset = 0x10
+type = "struct _RTL_CRITICAL_SECTION"
+size = 0x18
+
+[members.0x28]
+name = "m_Indices"
+offset = 0x28
+type = "uint*"
+size = 0x4
+
+[members.0x2c]
+name = "m_CurIndex"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "m_QueueIndex"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "m_Events"
+offset = 0x34
+type = "void*[0x2]"
+size = 0x8
+
+[members.0x44]
+name = "m_SectorsPerCluster"
+offset = 0x44
+type = "uint*"
+size = 0x4
+
+[members.0x48]
+name = "m_BytesPerCluster"
+offset = 0x48
+type = "uint*"
+size = 0x4
+
+[members.0x4c]
+name = "m_NumFreeClusters"
+offset = 0x4c
+type = "uint*"
+size = 0x4
+
+[members.0x50]
+name = "m_TotalClusters"
+offset = 0x50
+type = "uint*"
+size = 0x4
+
+[members.0x54]
+name = "m_NextIndex"
+offset = 0x54
+type = "uint"
+size = 0x4

@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.695884Z
+name = "_FILESYSTEM_STATISTICS_EX"
+size = 0x68
+
+[members.0x0]
+name = "FileSystemType"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Version"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "SizeOfCompleteStructure"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "UserFileReads"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "UserFileReadBytes"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "UserDiskReads"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "UserFileWrites"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "UserFileWriteBytes"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "UserDiskWrites"
+offset = 0x30
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x38]
+name = "MetaDataReads"
+offset = 0x38
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x40]
+name = "MetaDataReadBytes"
+offset = 0x40
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x48]
+name = "MetaDataDiskReads"
+offset = 0x48
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x50]
+name = "MetaDataWrites"
+offset = 0x50
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x58]
+name = "MetaDataWriteBytes"
+offset = 0x58
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x60]
+name = "MetaDataDiskWrites"
+offset = 0x60
+type = "DWORDLONG"
+size = 0x8

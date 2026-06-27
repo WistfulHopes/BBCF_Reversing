@@ -1,0 +1,201 @@
+last_change = 2026-06-27T20:49:16.624331Z
+name = "OBJ_CCharBase"
+size = 0x24978
+
+[members.0x2248]
+name = "m_CharName"
+offset = 0x2248
+type = "struct CXXBYTE<16>"
+size = 0x10
+
+[members.0x225c]
+name = "m_PlayerFlag"
+offset = 0x225c
+type = "uint"
+size = 0x4
+
+[members.0x2260]
+name = "m_CtrlDir"
+offset = 0x2260
+type = "uint"
+size = 0x4
+
+[members.0x2324]
+name = "m_MouthTable"
+offset = 0x2324
+type = "struct AA_EasyMap<CXXBYTE<16>, CXXBYTE<128>, 80, true>"
+size = 0x2e48
+
+[members.0x5190]
+name = "ply_FWalkSpeed"
+offset = 0x5190
+type = "int"
+size = 0x4
+
+[members.0x5194]
+name = "ply_BWalkSpeed"
+offset = 0x5194
+type = "int"
+size = 0x4
+
+[members.0x5198]
+name = "ply_FDashStartSpeed"
+offset = 0x5198
+type = "int"
+size = 0x4
+
+[members.0x519c]
+name = "ply_FDashAccelSpeed"
+offset = 0x519c
+type = "int"
+size = 0x4
+
+[members.0x51a0]
+name = "ply_FDashMaxSpeed"
+offset = 0x51a0
+type = "int"
+size = 0x4
+
+[members.0x51a4]
+name = "ply_JumpSpeed"
+offset = 0x51a4
+type = "int"
+size = 0x4
+
+[members.0x51a8]
+name = "ply_FJumpXSpeed"
+offset = 0x51a8
+type = "int"
+size = 0x4
+
+[members.0x51ac]
+name = "ply_BJumpXSpeed"
+offset = 0x51ac
+type = "int"
+size = 0x4
+
+[members.0x51f4]
+name = "ply_DefaultAttackRate"
+offset = 0x51f4
+type = "int"
+size = 0x4
+
+[members.0x5278]
+name = "m_PlayerFlagX"
+offset = 0x5278
+type = "int"
+size = 0x4
+
+[members.0x52ac]
+name = "ply_DamageCell"
+offset = 0x52ac
+type = "struct CXXBYTE<32>[0x26]"
+size = 0x4c0
+
+[members.0x5770]
+name = "m_ComboFlag"
+offset = 0x5770
+type = "int"
+size = 0x4
+
+[members.0x5774]
+name = "m_ComboCount"
+offset = 0x5774
+type = "int"
+size = 0x4
+
+[members.0x5ad4]
+name = "m_TensionVal"
+offset = 0x5ad4
+type = "int"
+size = 0x4
+
+[members.0x5aec]
+name = "m_bActiveFlow"
+offset = 0x5aec
+type = "bool"
+size = 0x1
+
+[members.0x5b04]
+name = "m_BarrierVal"
+offset = 0x5b04
+type = "int"
+size = 0x4
+
+[members.0x5b0c]
+name = "m_BarrierDangerTime"
+offset = 0x5b0c
+type = "int"
+size = 0x4
+
+[members.0x1e9c0]
+name = "m_PrivateVal"
+offset = 0x1e9c0
+type = "int[0x8]"
+size = 0x20
+
+[members.0x1e9e4]
+name = "m_bVoicePlaying"
+offset = 0x1e9e4
+type = "bool"
+size = 0x1
+
+[members.0x1e9e8]
+name = "m_VoiceInfo"
+offset = 0x1e9e8
+type = "struct CVoiceInfo[0x3]"
+size = 0x60
+
+[members.0x20058]
+name = "m_NgtOldPositionX"
+offset = 0x20058
+type = "int"
+size = 0x4
+
+[members.0x200fc]
+name = "m_ExGage"
+offset = 0x200fc
+type = "struct GAME_CCockpitExGage[0x5]"
+size = 0xb4
+
+[members.0x201b0]
+name = "m_DashInputKeepTime"
+offset = 0x201b0
+type = "int"
+size = 0x4
+
+[members.0x201b4]
+name = "m_PlayerAttackRate"
+offset = 0x201b4
+type = "int"
+size = 0x4
+
+[members.0x201b8]
+name = "m_PlayerDefenceRate"
+offset = 0x201b8
+type = "int"
+size = 0x4
+
+[members.0x201bc]
+name = "m_PlayerCrushRate"
+offset = 0x201bc
+type = "int"
+size = 0x4
+
+[members.0x201c0]
+name = "m_HakumenTamaFeverTime"
+offset = 0x201c0
+type = "int"
+size = 0x4
+
+[members.0x201cc]
+name = "m_SousaiCancelTime"
+offset = 0x201cc
+type = "int"
+size = 0x4
+
+[members.0x201d0]
+name = "m_ReactionWait"
+offset = 0x201d0
+type = "int"
+size = 0x4

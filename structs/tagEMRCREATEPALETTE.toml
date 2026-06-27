@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.865355Z
+name = "tagEMRCREATEPALETTE"
+size = 0x14
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihPal"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lgpl"
+offset = 0xc
+type = "LOGPALETTE"
+size = 0x8

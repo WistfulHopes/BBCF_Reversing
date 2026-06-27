@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.876846Z
+name = "tagGCP_RESULTSW"
+size = 0x24
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpOutString"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpOrder"
+offset = 0x8
+type = "UINT*"
+size = 0x4
+
+[members.0xc]
+name = "lpDx"
+offset = 0xc
+type = "int*"
+size = 0x4
+
+[members.0x10]
+name = "lpCaretPos"
+offset = 0x10
+type = "int*"
+size = 0x4
+
+[members.0x14]
+name = "lpClass"
+offset = 0x14
+type = "LPSTR"
+size = 0x4
+
+[members.0x18]
+name = "lpGlyphs"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "nGlyphs"
+offset = 0x1c
+type = "UINT"
+size = 0x4
+
+[members.0x20]
+name = "nMaxFit"
+offset = 0x20
+type = "int"
+size = 0x4

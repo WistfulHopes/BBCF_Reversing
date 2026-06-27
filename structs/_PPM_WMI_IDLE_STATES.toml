@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.759833Z
+name = "_PPM_WMI_IDLE_STATES"
+size = 0x38
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Count"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "TargetState"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "OldState"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "TargetProcessors"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "State"
+offset = 0x18
+type = "PPM_WMI_IDLE_STATE[0x1]"
+size = 0x20

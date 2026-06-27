@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.739571Z
+name = "_NCRYPT_TPM_PLATFORM_ATTESTATION_STATEMENT"
+size = 0x18
+
+[members.0x0]
+name = "Magic"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Version"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pcrAlg"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "cbSignature"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "cbQuote"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "cbPcrs"
+offset = 0x14
+type = "ULONG"
+size = 0x4

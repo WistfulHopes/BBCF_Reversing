@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.797504Z
+name = "_SERVICE_SID_INFO"
+size = 0x4
+
+[members.0x0]
+name = "dwServiceSidType"
+offset = 0x0
+type = "DWORD"
+size = 0x4

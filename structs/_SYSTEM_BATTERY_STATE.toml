@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.818766Z
+name = "_SYSTEM_BATTERY_STATE"
+size = 0x20
+
+[members.0x0]
+name = "AcOnLine"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "BatteryPresent"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "Charging"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x3]
+name = "Discharging"
+offset = 0x3
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "Spare1"
+offset = 0x4
+type = "BOOLEAN[0x3]"
+size = 0x3
+
+[members.0x7]
+name = "Tag"
+offset = 0x7
+type = "BYTE"
+size = 0x1
+
+[members.0x8]
+name = "MaxCapacity"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "RemainingCapacity"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Rate"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "EstimatedTime"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "DefaultAlert1"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "DefaultAlert2"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

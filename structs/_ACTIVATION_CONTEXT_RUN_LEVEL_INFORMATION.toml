@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.631315Z
+name = "_ACTIVATION_CONTEXT_RUN_LEVEL_INFORMATION"
+size = 0xc
+
+[members.0x0]
+name = "ulFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "RunLevel"
+offset = 0x4
+type = "ACTCTX_REQUESTED_RUN_LEVEL"
+size = 0x4
+
+[members.0x8]
+name = "UiAccess"
+offset = 0x8
+type = "DWORD"
+size = 0x4

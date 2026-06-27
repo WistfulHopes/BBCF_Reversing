@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.844510Z
+name = "_tagPROTOCOL_ARGUMENT"
+size = 0x8
+
+[members.0x0]
+name = "szMethod"
+offset = 0x0
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x4]
+name = "szTargetUrl"
+offset = 0x4
+type = "LPCWSTR"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.675560Z
+name = "_DEVICEDUMP_STORAGEDEVICE_DATA"
+size = 0x12c
+
+[members.0x0]
+name = "Descriptor"
+offset = 0x0
+type = "DEVICEDUMP_STRUCTURE_VERSION"
+size = 0xc
+
+[members.0xc]
+name = "SectionHeader"
+offset = 0xc
+type = "DEVICEDUMP_SECTION_HEADER"
+size = 0xf4
+
+[members.0x100]
+name = "dwBufferSize"
+offset = 0x100
+type = "DWORD"
+size = 0x4
+
+[members.0x104]
+name = "dwReasonForCollection"
+offset = 0x104
+type = "DWORD"
+size = 0x4
+
+[members.0x108]
+name = "PublicData"
+offset = 0x108
+type = "DEVICEDUMP_SUBSECTION_POINTER"
+size = 0xc
+
+[members.0x114]
+name = "RestrictedData"
+offset = 0x114
+type = "DEVICEDUMP_SUBSECTION_POINTER"
+size = 0xc
+
+[members.0x120]
+name = "PrivateData"
+offset = 0x120
+type = "DEVICEDUMP_SUBSECTION_POINTER"
+size = 0xc

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.706103Z
+name = "_FSCTL_SET_INTEGRITY_INFORMATION_BUFFER_EX"
+size = 0x10
+
+[members.0x0]
+name = "EnableIntegrity"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "KeepIntegrityStateUnchanged"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Version"
+offset = 0x8
+type = "BYTE"
+size = 0x1
+
+[members.0x9]
+name = "Reserved2"
+offset = 0x9
+type = "BYTE[0x7]"
+size = 0x7

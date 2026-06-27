@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.868363Z
+name = "tagEMRMODIFYWORLDTRANSFORM"
+size = 0x24
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "xform"
+offset = 0x8
+type = "XFORM"
+size = 0x18
+
+[members.0x20]
+name = "iMode"
+offset = 0x20
+type = "DWORD"
+size = 0x4

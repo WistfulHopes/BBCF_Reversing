@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.671522Z
+name = "_CRYPT_X942_OTHER_INFO"
+size = 0x14
+
+[members.0x0]
+name = "pszContentEncryptionObjId"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "rgbCounter"
+offset = 0x4
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0x8]
+name = "rgbKeyLength"
+offset = 0x8
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0xc]
+name = "PubInfo"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8

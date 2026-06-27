@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.665235Z
+name = "_CRYPT_ECC_CMS_SHARED_INFO"
+size = 0x18
+
+[members.0x0]
+name = "Algorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "EntityUInfo"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x14]
+name = "rgbSuppPubInfo"
+offset = 0x14
+type = "BYTE[0x4]"
+size = 0x4

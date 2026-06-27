@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.675402Z
+name = "_DEVICEDUMP_SECTION_HEADER"
+size = 0xf4
+
+[members.0x0]
+name = "guidDeviceDataId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "sOrganizationID"
+offset = 0x10
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x20]
+name = "dwFirmwareRevision"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "sModelNumber"
+offset = 0x24
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x44]
+name = "szDeviceManufacturingID"
+offset = 0x44
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x64]
+name = "dwFlags"
+offset = 0x64
+type = "DWORD"
+size = 0x4
+
+[members.0x68]
+name = "bRestrictedPrivateDataVersion"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "dwFirmwareIssueId"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "szIssueDescriptionString"
+offset = 0x70
+type = "BYTE[0x84]"
+size = 0x84

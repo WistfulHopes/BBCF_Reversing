@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.862033Z
+name = "tagDEBUGHOOKINFO"
+size = 0x14
+
+[members.0x0]
+name = "idThread"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "idThreadInstaller"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lParam"
+offset = 0x8
+type = "LPARAM"
+size = 0x4
+
+[members.0xc]
+name = "wParam"
+offset = 0xc
+type = "WPARAM"
+size = 0x4
+
+[members.0x10]
+name = "code"
+offset = 0x10
+type = "int"
+size = 0x4

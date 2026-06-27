@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.696828Z
+name = "_FILE_COMPRESSION_INFO"
+size = 0x10
+
+[members.0x0]
+name = "CompressedFileSize"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "CompressionFormat"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "CompressionUnitShift"
+offset = 0xa
+type = "UCHAR"
+size = 0x1
+
+[members.0xb]
+name = "ChunkShift"
+offset = 0xb
+type = "UCHAR"
+size = 0x1
+
+[members.0xc]
+name = "ClusterShift"
+offset = 0xc
+type = "UCHAR"
+size = 0x1
+
+[members.0xd]
+name = "Reserved"
+offset = 0xd
+type = "UCHAR[0x3]"
+size = 0x3

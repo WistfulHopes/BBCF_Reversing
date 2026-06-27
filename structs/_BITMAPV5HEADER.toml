@@ -1,0 +1,147 @@
+last_change = 2026-06-27T20:49:16.637831Z
+name = "_BITMAPV5HEADER"
+size = 0x7c
+
+[members.0x0]
+name = "bV5Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "bV5Width"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "bV5Height"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "bV5Planes"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "bV5BitCount"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "bV5Compression"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "bV5SizeImage"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "bV5XPelsPerMeter"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "bV5YPelsPerMeter"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "bV5ClrUsed"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "bV5ClrImportant"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "bV5RedMask"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "bV5GreenMask"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "bV5BlueMask"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "bV5AlphaMask"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "bV5CSType"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "bV5Endpoints"
+offset = 0x3c
+type = "CIEXYZTRIPLE"
+size = 0x24
+
+[members.0x60]
+name = "bV5GammaRed"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "bV5GammaGreen"
+offset = 0x64
+type = "DWORD"
+size = 0x4
+
+[members.0x68]
+name = "bV5GammaBlue"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "bV5Intent"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "bV5ProfileData"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x74]
+name = "bV5ProfileSize"
+offset = 0x74
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "bV5Reserved"
+offset = 0x78
+type = "DWORD"
+size = 0x4

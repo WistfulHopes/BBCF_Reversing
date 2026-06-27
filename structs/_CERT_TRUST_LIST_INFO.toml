@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.648278Z
+name = "_CERT_TRUST_LIST_INFO"
+size = 0xc
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pCtlEntry"
+offset = 0x4
+type = "PCTL_ENTRY"
+size = 0x4
+
+[members.0x8]
+name = "pCtlContext"
+offset = 0x8
+type = "PCCTL_CONTEXT"
+size = 0x4

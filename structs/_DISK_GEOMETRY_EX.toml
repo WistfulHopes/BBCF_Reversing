@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.681618Z
+name = "_DISK_GEOMETRY_EX"
+size = 0x28
+
+[members.0x0]
+name = "Geometry"
+offset = 0x0
+type = "DISK_GEOMETRY"
+size = 0x18
+
+[members.0x18]
+name = "DiskSize"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "Data"
+offset = 0x20
+type = "BYTE[0x1]"
+size = 0x1

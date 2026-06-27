@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.709811Z
+name = "_ICONINFO"
+size = 0x14
+
+[members.0x0]
+name = "fIcon"
+offset = 0x0
+type = "BOOL"
+size = 0x4
+
+[members.0x4]
+name = "xHotspot"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "yHotspot"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "hbmMask"
+offset = 0xc
+type = "HBITMAP"
+size = 0x4
+
+[members.0x10]
+name = "hbmColor"
+offset = 0x10
+type = "HBITMAP"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.723063Z
+name = "_JOBOBJECT_BASIC_AND_IO_ACCOUNTING_INFORMATION"
+size = 0x60
+
+[members.0x0]
+name = "BasicInfo"
+offset = 0x0
+type = "JOBOBJECT_BASIC_ACCOUNTING_INFORMATION"
+size = 0x30
+
+[members.0x30]
+name = "IoInfo"
+offset = 0x30
+type = "IO_COUNTERS"
+size = 0x30

@@ -1,0 +1,117 @@
+last_change = 2026-06-27T20:49:16.603779Z
+name = "DOS_Header"
+size = 0x40
+
+[members.0x0]
+name = "e_magic"
+offset = 0x0
+type = "char[0x2]"
+size = 0x2
+
+[members.0x2]
+name = "e_cblp"
+offset = 0x2
+type = "ushort"
+size = 0x2
+
+[members.0x4]
+name = "e_cp"
+offset = 0x4
+type = "ushort"
+size = 0x2
+
+[members.0x6]
+name = "e_crlc"
+offset = 0x6
+type = "ushort"
+size = 0x2
+
+[members.0x8]
+name = "e_cparhdr"
+offset = 0x8
+type = "ushort"
+size = 0x2
+
+[members.0xa]
+name = "e_minalloc"
+offset = 0xa
+type = "ushort"
+size = 0x2
+
+[members.0xc]
+name = "e_maxalloc"
+offset = 0xc
+type = "ushort"
+size = 0x2
+
+[members.0xe]
+name = "e_ss"
+offset = 0xe
+type = "ushort"
+size = 0x2
+
+[members.0x10]
+name = "e_sp"
+offset = 0x10
+type = "ushort"
+size = 0x2
+
+[members.0x12]
+name = "e_csum"
+offset = 0x12
+type = "ushort"
+size = 0x2
+
+[members.0x14]
+name = "e_ip"
+offset = 0x14
+type = "ushort"
+size = 0x2
+
+[members.0x16]
+name = "e_cs"
+offset = 0x16
+type = "ushort"
+size = 0x2
+
+[members.0x18]
+name = "e_lfarlc"
+offset = 0x18
+type = "ushort"
+size = 0x2
+
+[members.0x1a]
+name = "e_ovno"
+offset = 0x1a
+type = "ushort"
+size = 0x2
+
+[members.0x1c]
+name = "e_res1"
+offset = 0x1c
+type = "char[0x8]"
+size = 0x8
+
+[members.0x24]
+name = "e_oemid"
+offset = 0x24
+type = "ushort"
+size = 0x2
+
+[members.0x26]
+name = "e_oeminfo"
+offset = 0x26
+type = "ushort"
+size = 0x2
+
+[members.0x28]
+name = "e_res2"
+offset = 0x28
+type = "char[0x14]"
+size = 0x14
+
+[members.0x3c]
+name = "e_lfanew"
+offset = 0x3c
+type = "uint"
+size = 0x4

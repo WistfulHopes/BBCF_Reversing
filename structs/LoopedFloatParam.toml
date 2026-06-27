@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.619408Z
+name = "LoopedFloatParam"
+size = 0x1c
+
+[members.0x0]
+name = "Value"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "Speed"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "BeginValue"
+offset = 0x8
+type = "float"
+size = 0x4
+
+[members.0xc]
+name = "EndValue"
+offset = 0xc
+type = "float"
+size = 0x4
+
+[members.0x10]
+name = "LoopCount"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "FrameCounter"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "FrameCountMax"
+offset = 0x18
+type = "int"
+size = 0x4

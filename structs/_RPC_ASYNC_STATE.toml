@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.779386Z
+name = "_RPC_ASYNC_STATE"
+size = 0x44
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Signature"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Lock"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "Flags"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "StubInfo"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "UserInfo"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "RuntimeInfo"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "Event"
+offset = 0x1c
+type = "RPC_ASYNC_EVENT"
+size = 0x4
+
+[members.0x20]
+name = "NotificationType"
+offset = 0x20
+type = "RPC_NOTIFICATION_TYPES"
+size = 0x4
+
+[members.0x24]
+name = "u"
+offset = 0x24
+type = "RPC_ASYNC_NOTIFICATION_INFO"
+size = 0x10
+
+[members.0x34]
+name = "Reserved"
+offset = 0x34
+type = "LONG_PTR[0x4]"
+size = 0x10

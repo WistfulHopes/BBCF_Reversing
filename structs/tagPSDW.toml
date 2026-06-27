@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.907562Z
+name = "tagPSDW"
+size = 0x54
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hDevMode"
+offset = 0x8
+type = "HGLOBAL"
+size = 0x4
+
+[members.0xc]
+name = "hDevNames"
+offset = 0xc
+type = "HGLOBAL"
+size = 0x4
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ptPaperSize"
+offset = 0x14
+type = "POINT"
+size = 0x8
+
+[members.0x1c]
+name = "rtMinMargin"
+offset = 0x1c
+type = "RECT"
+size = 0x10
+
+[members.0x2c]
+name = "rtMargin"
+offset = 0x2c
+type = "RECT"
+size = 0x10
+
+[members.0x3c]
+name = "hInstance"
+offset = 0x3c
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x40]
+name = "lCustData"
+offset = 0x40
+type = "LPARAM"
+size = 0x4
+
+[members.0x44]
+name = "lpfnPageSetupHook"
+offset = 0x44
+type = "LPPAGESETUPHOOK"
+size = 0x4
+
+[members.0x48]
+name = "lpfnPagePaintHook"
+offset = 0x48
+type = "LPPAGEPAINTHOOK"
+size = 0x4
+
+[members.0x4c]
+name = "lpPageSetupTemplateName"
+offset = 0x4c
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x50]
+name = "hPageSetupTemplate"
+offset = 0x50
+type = "HGLOBAL"
+size = 0x4

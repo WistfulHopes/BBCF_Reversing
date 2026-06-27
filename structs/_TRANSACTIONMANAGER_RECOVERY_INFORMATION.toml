@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.827287Z
+name = "_TRANSACTIONMANAGER_RECOVERY_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "LastRecoveredLsn"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8

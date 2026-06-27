@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.589094Z
+name = "BATTLE_CSpeedStarModeTimeCtrl"
+size = 0x154
+
+[members.0x4]
+name = "m_bInitialized"
+offset = 0x4
+type = "bool"
+size = 0x1
+
+[members.0x8]
+name = "m_Unk"
+offset = 0x8
+type = "uint[0x4f]"
+size = 0x13c

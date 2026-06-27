@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.898351Z
+name = "tagNCCALCSIZE_PARAMS"
+size = 0x34
+
+[members.0x0]
+name = "rgrc"
+offset = 0x0
+type = "RECT[0x3]"
+size = 0x30
+
+[members.0x30]
+name = "lppos"
+offset = 0x30
+type = "PWINDOWPOS"
+size = 0x4

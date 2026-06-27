@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.785133Z
+name = "_RPC_TRANSFER_SYNTAX"
+size = 0x14
+
+[members.0x0]
+name = "Uuid"
+offset = 0x0
+type = "UUID"
+size = 0x10
+
+[members.0x10]
+name = "VersMajor"
+offset = 0x10
+type = "ushort"
+size = 0x2
+
+[members.0x12]
+name = "VersMinor"
+offset = 0x12
+type = "ushort"
+size = 0x2

@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.890727Z
+name = "tagMENUITEMINFOA"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "fMask"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "fType"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "fState"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "wID"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "hSubMenu"
+offset = 0x14
+type = "HMENU"
+size = 0x4
+
+[members.0x18]
+name = "hbmpChecked"
+offset = 0x18
+type = "HBITMAP"
+size = 0x4
+
+[members.0x1c]
+name = "hbmpUnchecked"
+offset = 0x1c
+type = "HBITMAP"
+size = 0x4
+
+[members.0x20]
+name = "dwItemData"
+offset = 0x20
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x24]
+name = "dwTypeData"
+offset = 0x24
+type = "LPSTR"
+size = 0x4
+
+[members.0x28]
+name = "cch"
+offset = 0x28
+type = "UINT"
+size = 0x4
+
+[members.0x2c]
+name = "hbmpItem"
+offset = 0x2c
+type = "HBITMAP"
+size = 0x4

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.806241Z
+name = "_STORAGE_CRYPTO_DESCRIPTOR"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NumKeysSupported"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "NumCryptoCapabilities"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "CryptoCapabilities"
+offset = 0x10
+type = "STORAGE_CRYPTO_CAPABILITY[0x1]"
+size = 0x18

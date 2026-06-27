@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.665860Z
+name = "_CRYPT_GET_TIME_VALID_OBJECT_EXTRA_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "iDeltaCrlIndicator"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "pftCacheResync"
+offset = 0x8
+type = "LPFILETIME"
+size = 0x4
+
+[members.0xc]
+name = "pLastSyncTime"
+offset = 0xc
+type = "LPFILETIME"
+size = 0x4
+
+[members.0x10]
+name = "pMaxAgeTime"
+offset = 0x10
+type = "LPFILETIME"
+size = 0x4
+
+[members.0x14]
+name = "pChainPara"
+offset = 0x14
+type = "PCERT_REVOCATION_CHAIN_PARA"
+size = 0x4
+
+[members.0x18]
+name = "pDeltaCrlIndicator"
+offset = 0x18
+type = "PCRYPT_INTEGER_BLOB"
+size = 0x4

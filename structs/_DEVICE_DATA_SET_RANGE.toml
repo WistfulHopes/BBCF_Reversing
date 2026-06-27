@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.676661Z
+name = "_DEVICE_DATA_SET_RANGE"
+size = 0x10
+
+[members.0x0]
+name = "StartingOffset"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "LengthInBytes"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

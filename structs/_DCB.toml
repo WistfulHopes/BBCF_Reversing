@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.674379Z
+name = "_DCB"
+size = 0x1c
+
+[members.0x0]
+name = "DCBlength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "BaudRate"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "__bitfield8"
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "wReserved"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "XonLim"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "XoffLim"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "ByteSize"
+offset = 0x12
+type = "BYTE"
+size = 0x1
+
+[members.0x13]
+name = "Parity"
+offset = 0x13
+type = "BYTE"
+size = 0x1
+
+[members.0x14]
+name = "StopBits"
+offset = 0x14
+type = "BYTE"
+size = 0x1
+
+[members.0x15]
+name = "XonChar"
+offset = 0x15
+type = "char"
+size = 0x1
+
+[members.0x16]
+name = "XoffChar"
+offset = 0x16
+type = "char"
+size = 0x1
+
+[members.0x17]
+name = "ErrorChar"
+offset = 0x17
+type = "char"
+size = 0x1
+
+[members.0x18]
+name = "EofChar"
+offset = 0x18
+type = "char"
+size = 0x1
+
+[members.0x19]
+name = "EvtChar"
+offset = 0x19
+type = "char"
+size = 0x1
+
+[members.0x1a]
+name = "wReserved1"
+offset = 0x1a
+type = "WORD"
+size = 0x2

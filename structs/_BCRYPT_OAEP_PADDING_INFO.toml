@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.635762Z
+name = "_BCRYPT_OAEP_PADDING_INFO"
+size = 0xc
+
+[members.0x0]
+name = "pszAlgId"
+offset = 0x0
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x4]
+name = "pbLabel"
+offset = 0x4
+type = "PUCHAR"
+size = 0x4
+
+[members.0x8]
+name = "cbLabel"
+offset = 0x8
+type = "ULONG"
+size = 0x4

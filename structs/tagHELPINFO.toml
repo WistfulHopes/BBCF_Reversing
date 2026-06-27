@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.877909Z
+name = "tagHELPINFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "iContextType"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "iCtrlId"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "hItemHandle"
+offset = 0xc
+type = "HANDLE"
+size = 0x4
+
+[members.0x10]
+name = "dwContextId"
+offset = 0x10
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x14]
+name = "MousePos"
+offset = 0x14
+type = "POINT"
+size = 0x8

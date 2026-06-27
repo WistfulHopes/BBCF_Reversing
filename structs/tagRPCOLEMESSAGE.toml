@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.909678Z
+name = "tagRPCOLEMESSAGE"
+size = 0x2c
+
+[members.0x0]
+name = "reserved1"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "dataRepresentation"
+offset = 0x4
+type = "RPCOLEDATAREP"
+size = 0x4
+
+[members.0x8]
+name = "Buffer"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "cbBuffer"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "iMethod"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "reserved2"
+offset = 0x14
+type = "void*[0x5]"
+size = 0x14
+
+[members.0x28]
+name = "rpcFlags"
+offset = 0x28
+type = "ULONG"
+size = 0x4

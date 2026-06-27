@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.802749Z
+name = "_SID_AND_ATTRIBUTES"
+size = 0x8
+
+[members.0x0]
+name = "Sid"
+offset = 0x0
+type = "PSID"
+size = 0x4
+
+[members.0x4]
+name = "Attributes"
+offset = 0x4
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.658225Z
+name = "_COMM_FAULT_OFFSETS"
+size = 0x4
+
+[members.0x0]
+name = "CommOffset"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "FaultOffset"
+offset = 0x2
+type = "short"
+size = 0x2

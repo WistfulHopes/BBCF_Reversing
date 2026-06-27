@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.890071Z
+name = "tagMENUBARINFO"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcBar"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "hMenu"
+offset = 0x14
+type = "HMENU"
+size = 0x4
+
+[members.0x18]
+name = "hwndMenu"
+offset = 0x18
+type = "HWND"
+size = 0x4
+
+[members.0x1c]
+name = "__bitfield1c"
+offset = 0x1c
+type = "union"
+size = 0x4

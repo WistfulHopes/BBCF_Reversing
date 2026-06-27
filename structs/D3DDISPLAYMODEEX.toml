@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.598501Z
+name = "D3DDISPLAYMODEEX"
+size = 0x18
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Width"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Height"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "RefreshRate"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "Format"
+offset = 0x10
+type = "enum D3DFORMAT"
+size = 0x4
+
+[members.0x14]
+name = "ScanLineOrdering"
+offset = 0x14
+type = "enum D3DSCANLINEORDERING"
+size = 0x4

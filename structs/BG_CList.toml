@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.589555Z
+name = "BG_CList"
+size = 0x14
+
+[members.0x0]
+name = "m_List"
+offset = 0x0
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0xc]
+name = "m_pListArray"
+offset = 0xc
+type = "struct AA_LooseList*"
+size = 0x4
+
+[members.0x10]
+name = "m_ListNum"
+offset = 0x10
+type = "int"
+size = 0x4

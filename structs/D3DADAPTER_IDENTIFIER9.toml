@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.596842Z
+name = "D3DADAPTER_IDENTIFIER9"
+size = 0x44c
+
+[members.0x0]
+name = "Driver"
+offset = 0x0
+type = "CHAR[0x200]"
+size = 0x200
+
+[members.0x200]
+name = "Description"
+offset = 0x200
+type = "CHAR[0x200]"
+size = 0x200
+
+[members.0x400]
+name = "DeviceName"
+offset = 0x400
+type = "CHAR[0x20]"
+size = 0x20
+
+[members.0x420]
+name = "DriverVersion"
+offset = 0x420
+type = "long long"
+size = 0x8
+
+[members.0x428]
+name = "VendorId"
+offset = 0x428
+type = "uint"
+size = 0x4
+
+[members.0x42c]
+name = "DeviceId"
+offset = 0x42c
+type = "uint"
+size = 0x4
+
+[members.0x430]
+name = "SubSysId"
+offset = 0x430
+type = "uint"
+size = 0x4
+
+[members.0x434]
+name = "Revision"
+offset = 0x434
+type = "uint"
+size = 0x4
+
+[members.0x438]
+name = "DeviceIdentifier"
+offset = 0x438
+type = "GUID"
+size = 0x10
+
+[members.0x448]
+name = "WHQLLevel"
+offset = 0x448
+type = "uint"
+size = 0x4

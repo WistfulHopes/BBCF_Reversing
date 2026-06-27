@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.827372Z
+name = "_TRANSACTION_BASIC_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "TransactionId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "State"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "Outcome"
+offset = 0x14
+type = "DWORD"
+size = 0x4

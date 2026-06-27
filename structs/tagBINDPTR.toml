@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.854404Z
+name = "tagBINDPTR"
+size = 0x4
+
+[members.0x0]
+name = "lptcomp"
+offset = 0x0
+type = "void*"
+size = 0x4

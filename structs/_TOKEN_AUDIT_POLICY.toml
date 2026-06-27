@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.825214Z
+name = "_TOKEN_AUDIT_POLICY"
+size = 0x1e
+
+[members.0x0]
+name = "PerUserPolicy"
+offset = 0x0
+type = "BYTE[0x1e]"
+size = 0x1e

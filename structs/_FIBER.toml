@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.694963Z
+name = "_FIBER"
+size = 0x2f0
+
+[members.0x0]
+name = "FiberData"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "ExceptionList"
+offset = 0x4
+type = "struct _EXCEPTION_REGISTRATION_RECORD*"
+size = 0x4
+
+[members.0x8]
+name = "StackBase"
+offset = 0x8
+type = "PVOID"
+size = 0x4
+
+[members.0xc]
+name = "StackLimit"
+offset = 0xc
+type = "PVOID"
+size = 0x4
+
+[members.0x10]
+name = "DeallocationStack"
+offset = 0x10
+type = "PVOID"
+size = 0x4
+
+[members.0x14]
+name = "FiberContext"
+offset = 0x14
+type = "CONTEXT"
+size = 0x2cc
+
+[members.0x2e0]
+name = "Wx86Tib"
+offset = 0x2e0
+type = "void*"
+size = 0x4
+
+[members.0x2e4]
+name = "ActivationContextStackPointer"
+offset = 0x2e4
+type = "struct _ACTIVATION_CONTEXT_STACK*"
+size = 0x4
+
+[members.0x2e8]
+name = "FlsData"
+offset = 0x2e8
+type = "PVOID"
+size = 0x4
+
+[members.0x2ec]
+name = "GuaranteedStackBytes"
+offset = 0x2ec
+type = "ULONG"
+size = 0x4

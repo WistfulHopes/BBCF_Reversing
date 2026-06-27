@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.637418Z
+name = "_BITMAPV4HEADER"
+size = 0x6c
+
+[members.0x0]
+name = "bV4Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "bV4Width"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "bV4Height"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "bV4Planes"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "bV4BitCount"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "bV4V4Compression"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "bV4SizeImage"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "bV4XPelsPerMeter"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "bV4YPelsPerMeter"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "bV4ClrUsed"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "bV4ClrImportant"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "bV4RedMask"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "bV4GreenMask"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "bV4BlueMask"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "bV4AlphaMask"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "bV4CSType"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "bV4Endpoints"
+offset = 0x3c
+type = "CIEXYZTRIPLE"
+size = 0x24
+
+[members.0x60]
+name = "bV4GammaRed"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "bV4GammaGreen"
+offset = 0x64
+type = "DWORD"
+size = 0x4
+
+[members.0x68]
+name = "bV4GammaBlue"
+offset = 0x68
+type = "DWORD"
+size = 0x4

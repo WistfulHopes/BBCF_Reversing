@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.879040Z
+name = "tagIMECHARPOSITION"
+size = 0x24
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwCharPos"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pt"
+offset = 0x8
+type = "POINT"
+size = 0x8
+
+[members.0x10]
+name = "cLineHeight"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "rcDocument"
+offset = 0x14
+type = "RECT"
+size = 0x10

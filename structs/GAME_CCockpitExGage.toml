@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.605158Z
+name = "GAME_CCockpitExGage"
+size = 0x24
+
+[members.0x0]
+name = "m_Active"
+offset = 0x0
+type = "bool"
+size = 0x1
+
+[members.0x4]
+name = "m_IconID"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "m_SplitID"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "m_MaxVal"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_Val"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_DotWidth"
+offset = 0x14
+type = "float"
+size = 0x4
+
+[members.0x18]
+name = "m_Color"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "m_MaxColor"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "m_EXGFlag"
+offset = 0x20
+type = "uint"
+size = 0x4

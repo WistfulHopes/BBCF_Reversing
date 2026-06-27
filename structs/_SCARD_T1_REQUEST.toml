@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.787991Z
+name = "_SCARD_T1_REQUEST"
+size = 0x8
+
+[members.0x0]
+name = "ioRequest"
+offset = 0x0
+type = "SCARD_IO_REQUEST"
+size = 0x8

@@ -1,0 +1,111 @@
+last_change = 2026-06-27T20:49:16.658040Z
+name = "_COMMPROP"
+size = 0x40
+
+[members.0x0]
+name = "wPacketLength"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPacketVersion"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "dwServiceMask"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwReserved1"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwMaxTxQueue"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwMaxRxQueue"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwMaxBaud"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwProvSubType"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwProvCapabilities"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwSettableParams"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwSettableBaud"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "wSettableData"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "wSettableStopParity"
+offset = 0x2a
+type = "WORD"
+size = 0x2
+
+[members.0x2c]
+name = "dwCurrentTxQueue"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwCurrentRxQueue"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "dwProvSpec1"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "dwProvSpec2"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "wcProvChar"
+offset = 0x3c
+type = "WCHAR[0x1]"
+size = 0x2

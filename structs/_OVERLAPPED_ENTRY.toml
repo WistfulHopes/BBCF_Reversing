@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.752421Z
+name = "_OVERLAPPED_ENTRY"
+size = 0x10
+
+[members.0x0]
+name = "lpCompletionKey"
+offset = 0x0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x4]
+name = "lpOverlapped"
+offset = 0x4
+type = "LPOVERLAPPED"
+size = 0x4
+
+[members.0x8]
+name = "Internal"
+offset = 0x8
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xc]
+name = "dwNumberOfBytesTransferred"
+offset = 0xc
+type = "DWORD"
+size = 0x4

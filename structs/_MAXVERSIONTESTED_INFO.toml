@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.731779Z
+name = "_MAXVERSIONTESTED_INFO"
+size = 0x8
+
+[members.0x0]
+name = "MaxVersionTested"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8

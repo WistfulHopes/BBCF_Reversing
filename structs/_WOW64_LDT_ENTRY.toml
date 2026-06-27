@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.838036Z
+name = "_WOW64_LDT_ENTRY"
+size = 0x8
+
+[members.0x0]
+name = "LimitLow"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "BaseLow"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "HighWord"
+offset = 0x4
+type = "union"
+size = 0x4

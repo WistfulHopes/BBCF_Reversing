@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.701235Z
+name = "_FILE_REGION_OUTPUT"
+size = 0x28
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TotalRegionEntryCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "RegionEntryCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Reserved"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Region"
+offset = 0x10
+type = "FILE_REGION_INFO[0x1]"
+size = 0x18

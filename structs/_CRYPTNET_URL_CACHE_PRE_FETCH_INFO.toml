@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.662553Z
+name = "_CRYPTNET_URL_CACHE_PRE_FETCH_INFO"
+size = 0x28
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwObjectType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwError"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwReserved"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ThisUpdateTime"
+offset = 0x10
+type = "FILETIME"
+size = 0x8
+
+[members.0x18]
+name = "NextUpdateTime"
+offset = 0x18
+type = "FILETIME"
+size = 0x8
+
+[members.0x20]
+name = "PublishTime"
+offset = 0x20
+type = "FILETIME"
+size = 0x8

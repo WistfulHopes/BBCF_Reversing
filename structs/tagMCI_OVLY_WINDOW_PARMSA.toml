@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.887393Z
+name = "tagMCI_OVLY_WINDOW_PARMSA"
+size = 0x10
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "hWnd"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "nCmdShow"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "lpstrText"
+offset = 0xc
+type = "LPCSTR"
+size = 0x4

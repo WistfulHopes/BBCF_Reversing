@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.785841Z
+name = "_RTL_CRITICAL_SECTION_DEBUG"
+size = 0x20
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "CreatorBackTraceIndex"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "CriticalSection"
+offset = 0x4
+type = "struct _RTL_CRITICAL_SECTION*"
+size = 0x4
+
+[members.0x8]
+name = "ProcessLocksList"
+offset = 0x8
+type = "LIST_ENTRY"
+size = 0x8
+
+[members.0x10]
+name = "EntryCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ContentionCount"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Flags"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "CreatorBackTraceIndexHigh"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "SpareWORD"
+offset = 0x1e
+type = "WORD"
+size = 0x2

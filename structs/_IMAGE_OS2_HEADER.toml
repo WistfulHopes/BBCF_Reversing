@@ -1,0 +1,183 @@
+last_change = 2026-06-27T20:49:16.718829Z
+name = "_IMAGE_OS2_HEADER"
+size = 0x40
+
+[members.0x0]
+name = "ne_magic"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "ne_ver"
+offset = 0x2
+type = "CHAR"
+size = 0x1
+
+[members.0x3]
+name = "ne_rev"
+offset = 0x3
+type = "CHAR"
+size = 0x1
+
+[members.0x4]
+name = "ne_enttab"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "ne_cbenttab"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "ne_crc"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "ne_flags"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "ne_autodata"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "ne_heap"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "ne_stack"
+offset = 0x12
+type = "WORD"
+size = 0x2
+
+[members.0x14]
+name = "ne_csip"
+offset = 0x14
+type = "LONG"
+size = 0x4
+
+[members.0x18]
+name = "ne_sssp"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "ne_cseg"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "ne_cmod"
+offset = 0x1e
+type = "WORD"
+size = 0x2
+
+[members.0x20]
+name = "ne_cbnrestab"
+offset = 0x20
+type = "WORD"
+size = 0x2
+
+[members.0x22]
+name = "ne_segtab"
+offset = 0x22
+type = "WORD"
+size = 0x2
+
+[members.0x24]
+name = "ne_rsrctab"
+offset = 0x24
+type = "WORD"
+size = 0x2
+
+[members.0x26]
+name = "ne_restab"
+offset = 0x26
+type = "WORD"
+size = 0x2
+
+[members.0x28]
+name = "ne_modtab"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "ne_imptab"
+offset = 0x2a
+type = "WORD"
+size = 0x2
+
+[members.0x2c]
+name = "ne_nrestab"
+offset = 0x2c
+type = "LONG"
+size = 0x4
+
+[members.0x30]
+name = "ne_cmovent"
+offset = 0x30
+type = "WORD"
+size = 0x2
+
+[members.0x32]
+name = "ne_align"
+offset = 0x32
+type = "WORD"
+size = 0x2
+
+[members.0x34]
+name = "ne_cres"
+offset = 0x34
+type = "WORD"
+size = 0x2
+
+[members.0x36]
+name = "ne_exetyp"
+offset = 0x36
+type = "BYTE"
+size = 0x1
+
+[members.0x37]
+name = "ne_flagsothers"
+offset = 0x37
+type = "BYTE"
+size = 0x1
+
+[members.0x38]
+name = "ne_pretthunks"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "ne_psegrefbytes"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "ne_swaparea"
+offset = 0x3c
+type = "WORD"
+size = 0x2
+
+[members.0x3e]
+name = "ne_expver"
+offset = 0x3e
+type = "WORD"
+size = 0x2

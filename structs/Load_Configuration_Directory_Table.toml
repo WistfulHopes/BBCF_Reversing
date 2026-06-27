@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.619282Z
+name = "Load_Configuration_Directory_Table"
+size = 0x48
+
+[members.0x0]
+name = "characteristics"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "timeDateStamp"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "majorVersion"
+offset = 0x8
+type = "ushort"
+size = 0x2
+
+[members.0xa]
+name = "minorVersion"
+offset = 0xa
+type = "ushort"
+size = 0x2
+
+[members.0xc]
+name = "globalFlagsClear"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "globalFlagsSet"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "criticalSectionDefaultTimeout"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "deCommitFreeBlockThreshold"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "deCommitTotalFreeThreshold"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "lockPrefixTable"
+offset = 0x20
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "maximumAllocationSize"
+offset = 0x24
+type = "uint"
+size = 0x4
+
+[members.0x28]
+name = "virtualMemoryThreshold"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "processAffinityMask"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "processHeapFlags"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "csdVersion"
+offset = 0x34
+type = "ushort"
+size = 0x2
+
+[members.0x36]
+name = "reserved"
+offset = 0x36
+type = "ushort"
+size = 0x2
+
+[members.0x38]
+name = "editList"
+offset = 0x38
+type = "uint"
+size = 0x4
+
+[members.0x3c]
+name = "securityCookie"
+offset = 0x3c
+type = "uint"
+size = 0x4
+
+[members.0x40]
+name = "seHandlerTable"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "seHandlerCount"
+offset = 0x44
+type = "uint"
+size = 0x4

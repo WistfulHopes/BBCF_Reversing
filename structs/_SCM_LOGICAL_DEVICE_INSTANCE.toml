@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.789210Z
+name = "_SCM_LOGICAL_DEVICE_INSTANCE"
+size = 0x218
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DeviceGuid"
+offset = 0x8
+type = "GUID"
+size = 0x10
+
+[members.0x18]
+name = "SymbolicLink"
+offset = 0x18
+type = "WCHAR[0x100]"
+size = 0x200

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.919099Z
+name = "tagVARDESC"
+size = 0x24
+
+[members.0x0]
+name = "memid"
+offset = 0x0
+type = "MEMBERID"
+size = 0x4
+
+[members.0x4]
+name = "lpstrSchema"
+offset = 0x4
+type = "LPOLESTR"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "elemdescVar"
+offset = 0xc
+type = "ELEMDESC"
+size = 0x10
+
+[members.0x1c]
+name = "wVarFlags"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x20]
+name = "varkind"
+offset = 0x20
+type = "VARKIND"
+size = 0x4

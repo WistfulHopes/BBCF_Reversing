@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.738069Z
+name = "_MOVE_FILE_DATA"
+size = 0x20
+
+[members.0x0]
+name = "FileHandle"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x8]
+name = "StartingVcn"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "StartingLcn"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "ClusterCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4

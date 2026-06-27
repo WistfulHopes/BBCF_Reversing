@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.907830Z
+name = "tagRAWINPUT"
+size = 0x28
+
+[members.0x0]
+name = "header"
+offset = 0x0
+type = "RAWINPUTHEADER"
+size = 0x10
+
+[members.0x10]
+name = "data"
+offset = 0x10
+type = "union"
+size = 0x18

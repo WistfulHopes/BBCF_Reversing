@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.741327Z
+name = "_NON_PAGED_DEBUG_INFO"
+size = 0x20
+
+[members.0x0]
+name = "Signature"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Machine"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "Characteristics"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "TimeDateStamp"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "CheckSum"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "SizeOfImage"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "ImageBase"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8

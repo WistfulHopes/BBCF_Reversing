@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.592542Z
+name = "CHashNodeC32BYTEtoU32"
+size = 0xc
+
+[members.0x8]
+name = "m_Data"
+offset = 0x8
+type = "uint"
+size = 0x4

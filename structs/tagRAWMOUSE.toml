@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.908362Z
+name = "tagRAWMOUSE"
+size = 0x18
+
+[members.0x0]
+name = "usFlags"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = ""
+offset = 0x4
+type = "union"
+size = 0x4
+
+[members.0x8]
+name = "ulRawButtons"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "lLastX"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "lLastY"
+offset = 0x10
+type = "LONG"
+size = 0x4
+
+[members.0x14]
+name = "ulExtraInformation"
+offset = 0x14
+type = "ULONG"
+size = 0x4

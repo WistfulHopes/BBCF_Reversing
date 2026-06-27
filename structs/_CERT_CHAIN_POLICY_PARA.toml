@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.640779Z
+name = "_CERT_CHAIN_POLICY_PARA"
+size = 0xc
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pvExtraPolicyPara"
+offset = 0x8
+type = "void*"
+size = 0x4

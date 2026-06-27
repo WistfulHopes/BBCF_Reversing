@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.849252Z
+name = "pvalueA"
+size = 0x10
+
+[members.0x0]
+name = "pv_valuename"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "pv_valuelen"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "pv_value_context"
+offset = 0x8
+type = "LPVOID"
+size = 0x4
+
+[members.0xc]
+name = "pv_type"
+offset = 0xc
+type = "DWORD"
+size = 0x4

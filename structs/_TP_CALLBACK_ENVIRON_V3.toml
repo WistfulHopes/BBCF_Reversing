@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.826794Z
+name = "_TP_CALLBACK_ENVIRON_V3"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "TP_VERSION"
+size = 0x4
+
+[members.0x4]
+name = "Pool"
+offset = 0x4
+type = "PTP_POOL"
+size = 0x4
+
+[members.0x8]
+name = "CleanupGroup"
+offset = 0x8
+type = "PTP_CLEANUP_GROUP"
+size = 0x4
+
+[members.0xc]
+name = "CleanupGroupCancelCallback"
+offset = 0xc
+type = "PTP_CLEANUP_GROUP_CANCEL_CALLBACK"
+size = 0x4
+
+[members.0x10]
+name = "RaceDll"
+offset = 0x10
+type = "PVOID"
+size = 0x4
+
+[members.0x14]
+name = "ActivationContext"
+offset = 0x14
+type = "struct _ACTIVATION_CONTEXT*"
+size = 0x4
+
+[members.0x18]
+name = "FinalizationCallback"
+offset = 0x18
+type = "PTP_SIMPLE_CALLBACK"
+size = 0x4
+
+[members.0x1c]
+name = "u"
+offset = 0x1c
+type = "union"
+size = 0x4
+
+[members.0x20]
+name = "CallbackPriority"
+offset = 0x20
+type = "TP_CALLBACK_PRIORITY"
+size = 0x4
+
+[members.0x24]
+name = "Size"
+offset = 0x24
+type = "DWORD"
+size = 0x4

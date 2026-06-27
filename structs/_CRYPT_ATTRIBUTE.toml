@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.663697Z
+name = "_CRYPT_ATTRIBUTE"
+size = 0xc
+
+[members.0x0]
+name = "pszObjId"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "cValue"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgValue"
+offset = 0x8
+type = "PCRYPT_ATTR_BLOB"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.797309Z
+name = "_SERVICE_PREFERRED_NODE_INFO"
+size = 0x4
+
+[members.0x0]
+name = "usPreferredNode"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "fDelete"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1

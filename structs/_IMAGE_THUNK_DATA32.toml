@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.720885Z
+name = "_IMAGE_THUNK_DATA32"
+size = 0x4
+
+[members.0x0]
+name = "u1"
+offset = 0x0
+type = "union"
+size = 0x4

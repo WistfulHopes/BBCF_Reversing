@@ -1,0 +1,189 @@
+last_change = 2026-06-27T20:49:16.591452Z
+name = "CAtkParamEx"
+size = 0x6c
+
+[members.0x0]
+name = "m_AtkEffectStrike"
+offset = 0x0
+type = "uchar"
+size = 0x1
+
+[members.0x1]
+name = "m_AtkEffectSlash"
+offset = 0x1
+type = "uchar"
+size = 0x1
+
+[members.0x2]
+name = "m_AtkEffectFire"
+offset = 0x2
+type = "uchar"
+size = 0x1
+
+[members.0x3]
+name = "m_AtkEffectElectric"
+offset = 0x3
+type = "uchar"
+size = 0x1
+
+[members.0x4]
+name = "m_AtkEffectIce"
+offset = 0x4
+type = "uchar"
+size = 0x1
+
+[members.0x5]
+name = "m_AtkEffectSpecial"
+offset = 0x5
+type = "uchar"
+size = 0x1
+
+[members.0x8]
+name = "m_AtkVectorX"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_AtkVectorY"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "m_AtkGravity"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "m_AtkWallBoundRate"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "m_AtkLandBoundRate"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "m_AtkStaggerMaxTime"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "m_AtkStaggerMinTime"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "m_AtkLandStunTime"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "m_AtkAirStunTime"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "m_AtkWallBoundCount"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_AtkLandBoundCount"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "m_AtkSlideTime"
+offset = 0x34
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "m_AtkHitBackX"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "m_AtkComboHoseiPoint"
+offset = 0x3c
+type = "int"
+size = 0x4
+
+[members.0x40]
+name = "m_AtkFreezeLimit"
+offset = 0x40
+type = "int"
+size = 0x4
+
+[members.0x44]
+name = "m_AtkFreezeTime"
+offset = 0x44
+type = "int"
+size = 0x4
+
+[members.0x48]
+name = "m_AtkComboRateFirst"
+offset = 0x48
+type = "int"
+size = 0x4
+
+[members.0x4c]
+name = "m_AtkComboRateMult"
+offset = 0x4c
+type = "int"
+size = 0x4
+
+[members.0x50]
+name = "m_AtkSleepStunTime"
+offset = 0x50
+type = "int"
+size = 0x4
+
+[members.0x54]
+name = "m_AtkLandHitAction"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "m_AtkAirHitAction"
+offset = 0x58
+type = "int"
+size = 0x4
+
+[members.0x5c]
+name = "m_AtkWallBoundWorldOnly"
+offset = 0x5c
+type = "int"
+size = 0x4
+
+[members.0x60]
+name = "m_AtkWallBoundStunTime"
+offset = 0x60
+type = "int"
+size = 0x4
+
+[members.0x64]
+name = "m_AtkWallHaritsuki"
+offset = 0x64
+type = "int"
+size = 0x4
+
+[members.0x68]
+name = "m_AtkWallHaritsukiTime"
+offset = 0x68
+type = "int"
+size = 0x4

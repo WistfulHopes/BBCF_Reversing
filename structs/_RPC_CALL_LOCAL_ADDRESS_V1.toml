@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.780462Z
+name = "_RPC_CALL_LOCAL_ADDRESS_V1"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Buffer"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "BufferSize"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "AddressFormat"
+offset = 0xc
+type = "RpcLocalAddressFormat"
+size = 0x4

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.704957Z
+name = "_FSCTL_GET_INTEGRITY_INFORMATION_BUFFER"
+size = 0x10
+
+[members.0x0]
+name = "ChecksumAlgorithm"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ChecksumChunkSizeInBytes"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ClusterSizeInBytes"
+offset = 0xc
+type = "DWORD"
+size = 0x4

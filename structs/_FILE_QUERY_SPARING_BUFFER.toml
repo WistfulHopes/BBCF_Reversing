@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.700567Z
+name = "_FILE_QUERY_SPARING_BUFFER"
+size = 0x10
+
+[members.0x0]
+name = "SparingUnitBytes"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SoftwareSparing"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x8]
+name = "TotalSpareBlocks"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "FreeSpareBlocks"
+offset = 0xc
+type = "DWORD"
+size = 0x4

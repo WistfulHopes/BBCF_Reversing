@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.900345Z
+name = "tagOBJECTDESCRIPTOR"
+size = 0x34
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "clsid"
+offset = 0x4
+type = "CLSID"
+size = 0x10
+
+[members.0x14]
+name = "dwDrawAspect"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "sizel"
+offset = 0x18
+type = "SIZEL"
+size = 0x8
+
+[members.0x20]
+name = "pointl"
+offset = 0x20
+type = "POINTL"
+size = 0x8
+
+[members.0x28]
+name = "dwStatus"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "dwFullUserTypeName"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "dwSrcOfCopy"
+offset = 0x30
+type = "DWORD"
+size = 0x4

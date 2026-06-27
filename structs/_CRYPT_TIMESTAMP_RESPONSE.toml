@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.670872Z
+name = "_CRYPT_TIMESTAMP_RESPONSE"
+size = 0x20
+
+[members.0x0]
+name = "dwStatus"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cFreeText"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgFreeText"
+offset = 0x8
+type = "LPWSTR*"
+size = 0x4
+
+[members.0xc]
+name = "FailureInfo"
+offset = 0xc
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x18]
+name = "ContentInfo"
+offset = 0x18
+type = "CRYPT_DER_BLOB"
+size = 0x8

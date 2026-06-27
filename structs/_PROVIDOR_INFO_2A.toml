@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.772368Z
+name = "_PROVIDOR_INFO_2A"
+size = 0x4
+
+[members.0x0]
+name = "pOrder"
+offset = 0x0
+type = "LPSTR"
+size = 0x4

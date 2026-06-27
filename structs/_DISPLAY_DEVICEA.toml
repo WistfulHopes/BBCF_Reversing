@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.683687Z
+name = "_DISPLAY_DEVICEA"
+size = 0x1a8
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DeviceName"
+offset = 0x4
+type = "CHAR[0x20]"
+size = 0x20
+
+[members.0x24]
+name = "DeviceString"
+offset = 0x24
+type = "CHAR[0x80]"
+size = 0x80
+
+[members.0xa4]
+name = "StateFlags"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "DeviceID"
+offset = 0xa8
+type = "CHAR[0x80]"
+size = 0x80
+
+[members.0x128]
+name = "DeviceKey"
+offset = 0x128
+type = "CHAR[0x80]"
+size = 0x80

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.710452Z
+name = "_IMAGE_ALPHA64_RUNTIME_FUNCTION_ENTRY"
+size = 0x28
+
+[members.0x0]
+name = "BeginAddress"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "EndAddress"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "ExceptionHandler"
+offset = 0x10
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x18]
+name = "HandlerData"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x20]
+name = "PrologEndAddress"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8

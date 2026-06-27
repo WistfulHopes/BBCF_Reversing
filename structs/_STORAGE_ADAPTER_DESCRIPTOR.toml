@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.805360Z
+name = "_STORAGE_ADAPTER_DESCRIPTOR"
+size = 0x20
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MaximumTransferLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MaximumPhysicalPages"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "AlignmentMask"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "AdapterUsesPio"
+offset = 0x14
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x15]
+name = "AdapterScansDown"
+offset = 0x15
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x16]
+name = "CommandQueueing"
+offset = 0x16
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x17]
+name = "AcceleratedTransfer"
+offset = 0x17
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x18]
+name = "BusType"
+offset = 0x18
+type = "BYTE"
+size = 0x1
+
+[members.0x1a]
+name = "BusMajorVersion"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "BusMinorVersion"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "SrbType"
+offset = 0x1e
+type = "BYTE"
+size = 0x1
+
+[members.0x1f]
+name = "AddressType"
+offset = 0x1f
+type = "BYTE"
+size = 0x1

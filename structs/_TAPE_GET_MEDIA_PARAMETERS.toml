@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.821730Z
+name = "_TAPE_GET_MEDIA_PARAMETERS"
+size = 0x20
+
+[members.0x0]
+name = "Capacity"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "Remaining"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "BlockSize"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "PartitionCount"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "WriteProtected"
+offset = 0x18
+type = "BOOLEAN"
+size = 0x1

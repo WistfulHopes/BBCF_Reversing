@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.803206Z
+name = "_SLIST_HEADER"
+size = 0x8
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "struct"
+size = 0x8

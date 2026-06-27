@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.680160Z
+name = "_DEVICE_POWER_DESCRIPTOR"
+size = 0x14
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DeviceAttentionSupported"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x9]
+name = "AsynchronousNotificationSupported"
+offset = 0x9
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xa]
+name = "IdlePowerManagementEnabled"
+offset = 0xa
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xb]
+name = "D3ColdEnabled"
+offset = 0xb
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xc]
+name = "D3ColdSupported"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "NoVerifyDuringIdlePower"
+offset = 0xd
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xe]
+name = "Reserved"
+offset = 0xe
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x10]
+name = "IdleTimeoutInMS"
+offset = 0x10
+type = "DWORD"
+size = 0x4

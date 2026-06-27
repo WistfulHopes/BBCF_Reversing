@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.760296Z
+name = "_PPM_WMI_PERF_STATE"
+size = 0x40
+
+[members.0x0]
+name = "Frequency"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Power"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "PercentFrequency"
+offset = 0x8
+type = "BYTE"
+size = 0x1
+
+[members.0x9]
+name = "IncreaseLevel"
+offset = 0x9
+type = "BYTE"
+size = 0x1
+
+[members.0xa]
+name = "DecreaseLevel"
+offset = 0xa
+type = "BYTE"
+size = 0x1
+
+[members.0xb]
+name = "Type"
+offset = 0xb
+type = "BYTE"
+size = 0x1
+
+[members.0xc]
+name = "IncreaseTime"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "DecreaseTime"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Control"
+offset = 0x18
+type = "DWORD64"
+size = 0x8
+
+[members.0x20]
+name = "Status"
+offset = 0x20
+type = "DWORD64"
+size = 0x8
+
+[members.0x28]
+name = "HitCount"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "Reserved1"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "Reserved2"
+offset = 0x30
+type = "DWORD64"
+size = 0x8
+
+[members.0x38]
+name = "Reserved3"
+offset = 0x38
+type = "DWORD64"
+size = 0x8

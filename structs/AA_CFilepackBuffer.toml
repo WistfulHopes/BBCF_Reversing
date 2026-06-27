@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.579230Z
+name = "AA_CFilepackBuffer"
+size = 0x8
+
+[members.0x0]
+name = "m_FilePack"
+offset = 0x0
+type = "struct AA_Filepack_FPAC"
+size = 0x4
+
+[members.0x4]
+name = "m_Size"
+offset = 0x4
+type = "int"
+size = 0x4

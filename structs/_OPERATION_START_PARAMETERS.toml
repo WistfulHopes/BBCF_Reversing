@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.749889Z
+name = "_OPERATION_START_PARAMETERS"
+size = 0xc
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "OperationId"
+offset = 0x4
+type = "OPERATION_ID"
+size = 0x4
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "ULONG"
+size = 0x4

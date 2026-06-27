@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.811036Z
+name = "_STORAGE_MINIPORT_DESCRIPTOR"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Portdriver"
+offset = 0x8
+type = "STORAGE_PORT_CODE_SET"
+size = 0x4
+
+[members.0xc]
+name = "LUNResetSupported"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "TargetResetSupported"
+offset = 0xd
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xe]
+name = "IoTimeoutValue"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "ExtraIoInfoSupported"
+offset = 0x10
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x11]
+name = "Flags"
+offset = 0x11
+type = "union"
+size = 0x1
+
+[members.0x12]
+name = "Reserved0"
+offset = 0x12
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x14]
+name = "Reserved1"
+offset = 0x14
+type = "DWORD"
+size = 0x4

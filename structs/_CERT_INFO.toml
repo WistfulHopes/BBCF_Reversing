@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.642105Z
+name = "_CERT_INFO"
+size = 0x70
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SerialNumber"
+offset = 0x4
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "SignatureAlgorithm"
+offset = 0xc
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x18]
+name = "Issuer"
+offset = 0x18
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0x20]
+name = "NotBefore"
+offset = 0x20
+type = "FILETIME"
+size = 0x8
+
+[members.0x28]
+name = "NotAfter"
+offset = 0x28
+type = "FILETIME"
+size = 0x8
+
+[members.0x30]
+name = "Subject"
+offset = 0x30
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0x38]
+name = "SubjectPublicKeyInfo"
+offset = 0x38
+type = "CERT_PUBLIC_KEY_INFO"
+size = 0x18
+
+[members.0x50]
+name = "IssuerUniqueId"
+offset = 0x50
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x5c]
+name = "SubjectUniqueId"
+offset = 0x5c
+type = "CRYPT_BIT_BLOB"
+size = 0xc
+
+[members.0x68]
+name = "cExtension"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "rgExtension"
+offset = 0x6c
+type = "PCERT_EXTENSION"
+size = 0x4

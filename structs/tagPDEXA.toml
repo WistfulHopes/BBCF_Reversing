@@ -1,0 +1,129 @@
+last_change = 2026-06-27T20:49:16.903889Z
+name = "tagPDEXA"
+size = 0x54
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hDevMode"
+offset = 0x8
+type = "HGLOBAL"
+size = 0x4
+
+[members.0xc]
+name = "hDevNames"
+offset = 0xc
+type = "HGLOBAL"
+size = 0x4
+
+[members.0x10]
+name = "hDC"
+offset = 0x10
+type = "HDC"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "Flags2"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "ExclusionFlags"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "nPageRanges"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "nMaxPageRanges"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "lpPageRanges"
+offset = 0x28
+type = "LPPRINTPAGERANGE"
+size = 0x4
+
+[members.0x2c]
+name = "nMinPage"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "nMaxPage"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "nCopies"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "hInstance"
+offset = 0x38
+type = "HINSTANCE"
+size = 0x4
+
+[members.0x3c]
+name = "lpPrintTemplateName"
+offset = 0x3c
+type = "LPCSTR"
+size = 0x4
+
+[members.0x40]
+name = "lpCallback"
+offset = 0x40
+type = "LPUNKNOWN"
+size = 0x4
+
+[members.0x44]
+name = "nPropertyPages"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "lphPropertyPages"
+offset = 0x48
+type = "HPROPSHEETPAGE*"
+size = 0x4
+
+[members.0x4c]
+name = "nStartPage"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "dwResultAction"
+offset = 0x50
+type = "DWORD"
+size = 0x4

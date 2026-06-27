@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.826540Z
+name = "_TOKEN_USER"
+size = 0x8
+
+[members.0x0]
+name = "User"
+offset = 0x0
+type = "SID_AND_ATTRIBUTES"
+size = 0x8

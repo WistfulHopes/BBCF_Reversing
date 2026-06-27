@@ -1,0 +1,141 @@
+last_change = 2026-06-27T20:49:16.868278Z
+name = "tagEMRMASKBLT"
+size = 0x80
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBounds"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "xDest"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "yDest"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "cxDest"
+offset = 0x20
+type = "LONG"
+size = 0x4
+
+[members.0x24]
+name = "cyDest"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "dwRop"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "xSrc"
+offset = 0x2c
+type = "LONG"
+size = 0x4
+
+[members.0x30]
+name = "ySrc"
+offset = 0x30
+type = "LONG"
+size = 0x4
+
+[members.0x34]
+name = "xformSrc"
+offset = 0x34
+type = "XFORM"
+size = 0x18
+
+[members.0x4c]
+name = "crBkColorSrc"
+offset = 0x4c
+type = "COLORREF"
+size = 0x4
+
+[members.0x50]
+name = "iUsageSrc"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "offBmiSrc"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "cbBmiSrc"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "offBitsSrc"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "cbBitsSrc"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "xMask"
+offset = 0x64
+type = "LONG"
+size = 0x4
+
+[members.0x68]
+name = "yMask"
+offset = 0x68
+type = "LONG"
+size = 0x4
+
+[members.0x6c]
+name = "iUsageMask"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "offBmiMask"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x74]
+name = "cbBmiMask"
+offset = 0x74
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "offBitsMask"
+offset = 0x78
+type = "DWORD"
+size = 0x4
+
+[members.0x7c]
+name = "cbBitsMask"
+offset = 0x7c
+type = "DWORD"
+size = 0x4

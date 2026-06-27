@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.915623Z
+name = "tagSTYLEBUFW"
+size = 0x44
+
+[members.0x0]
+name = "dwStyle"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "szDescription"
+offset = 0x4
+type = "WCHAR[0x20]"
+size = 0x40

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.696897Z
+name = "_FILE_DESIRED_STORAGE_CLASS_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "Class"
+offset = 0x0
+type = "FILE_STORAGE_TIER_CLASS"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4

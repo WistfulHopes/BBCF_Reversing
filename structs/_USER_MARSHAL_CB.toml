@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.831650Z
+name = "_USER_MARSHAL_CB"
+size = 0x1c
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "pStubMsg"
+offset = 0x4
+type = "PMIDL_STUB_MESSAGE"
+size = 0x4
+
+[members.0x8]
+name = "pReserve"
+offset = 0x8
+type = "PFORMAT_STRING"
+size = 0x4
+
+[members.0xc]
+name = "Signature"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "CBType"
+offset = 0x10
+type = "USER_MARSHAL_CB_TYPE"
+size = 0x4
+
+[members.0x14]
+name = "pFormat"
+offset = 0x14
+type = "PFORMAT_STRING"
+size = 0x4
+
+[members.0x18]
+name = "pTypeFormat"
+offset = 0x18
+type = "PFORMAT_STRING"
+size = 0x4

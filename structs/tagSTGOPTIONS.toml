@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.915423Z
+name = "tagSTGOPTIONS"
+size = 0xc
+
+[members.0x0]
+name = "usVersion"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "reserved"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "ulSectorSize"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pwcsTemplateFile"
+offset = 0x8
+type = "WCHAR*"
+size = 0x4

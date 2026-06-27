@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.678380Z
+name = "_DEVICE_DSM_REPORT_ZONES_DATA"
+size = 0x30
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ZoneCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Attributes"
+offset = 0x8
+type = "STORAGE_ZONES_ATTRIBUTES"
+size = 0x4
+
+[members.0xc]
+name = "Reserved0"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ZoneDescriptors"
+offset = 0x10
+type = "STORAGE_ZONE_DESCRIPTOR[0x1]"
+size = 0x20

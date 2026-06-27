@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.741609Z
+name = "_NOTIFYICONDATAA"
+size = 0x1fc
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hWnd"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "uID"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "uFlags"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "uCallbackMessage"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "hIcon"
+offset = 0x14
+type = "HICON"
+size = 0x4
+
+[members.0x18]
+name = "szTip"
+offset = 0x18
+type = "CHAR[0x80]"
+size = 0x80
+
+[members.0x98]
+name = "dwState"
+offset = 0x98
+type = "DWORD"
+size = 0x4
+
+[members.0x9c]
+name = "dwStateMask"
+offset = 0x9c
+type = "DWORD"
+size = 0x4
+
+[members.0xa0]
+name = "szInfo"
+offset = 0xa0
+type = "CHAR[0x100]"
+size = 0x100
+
+[members.0x1a0]
+name = ""
+offset = 0x1a0
+type = "union"
+size = 0x4
+
+[members.0x1a4]
+name = "szInfoTitle"
+offset = 0x1a4
+type = "CHAR[0x40]"
+size = 0x40
+
+[members.0x1e4]
+name = "dwInfoFlags"
+offset = 0x1e4
+type = "DWORD"
+size = 0x4
+
+[members.0x1e8]
+name = "guidItem"
+offset = 0x1e8
+type = "GUID"
+size = 0x10
+
+[members.0x1f8]
+name = "hBalloonIcon"
+offset = 0x1f8
+type = "HICON"
+size = 0x4

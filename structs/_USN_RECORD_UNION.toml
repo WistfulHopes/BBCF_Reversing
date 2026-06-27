@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.832602Z
+name = "_USN_RECORD_UNION"
+size = 0x50
+
+[members.0x0]
+name = "V4"
+offset = 0x0
+type = "USN_RECORD_V4"
+size = 0x50

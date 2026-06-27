@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.768185Z
+name = "_PROCESS_MACHINE_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "ProcessMachine"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "Res0"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "MachineAttributes"
+offset = 0x4
+type = "MACHINE_ATTRIBUTES"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.667683Z
+name = "_CRYPT_OID_FUNC_ENTRY"
+size = 0x8
+
+[members.0x0]
+name = "pszOID"
+offset = 0x0
+type = "LPCSTR"
+size = 0x4
+
+[members.0x4]
+name = "pvFuncAddr"
+offset = 0x4
+type = "void*"
+size = 0x4

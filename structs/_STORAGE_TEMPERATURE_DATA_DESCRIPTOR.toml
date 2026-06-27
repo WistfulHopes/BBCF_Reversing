@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.815216Z
+name = "_STORAGE_TEMPERATURE_DATA_DESCRIPTOR"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "CriticalTemperature"
+offset = 0x8
+type = "SHORT"
+size = 0x2
+
+[members.0xa]
+name = "WarningTemperature"
+offset = 0xa
+type = "SHORT"
+size = 0x2
+
+[members.0xc]
+name = "InfoCount"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "Reserved0"
+offset = 0xe
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x10]
+name = "Reserved1"
+offset = 0x10
+type = "DWORD[0x2]"
+size = 0x8
+
+[members.0x18]
+name = "TemperatureInfo"
+offset = 0x18
+type = "STORAGE_TEMPERATURE_INFO[0x1]"
+size = 0x10

@@ -1,0 +1,117 @@
+last_change = 2026-06-27T20:49:16.812805Z
+name = "_STORAGE_PROTOCOL_COMMAND"
+size = 0x54
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Length"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ProtocolType"
+offset = 0x8
+type = "STORAGE_PROTOCOL_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "Flags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ReturnStatus"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "ErrorCode"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "CommandLength"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "ErrorInfoLength"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "DataToDeviceTransferLength"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "DataFromDeviceTransferLength"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "TimeOutValue"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "ErrorInfoOffset"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "DataToDeviceBufferOffset"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "DataFromDeviceBufferOffset"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "CommandSpecific"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "Reserved0"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "FixedProtocolReturnData"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "Reserved1"
+offset = 0x44
+type = "DWORD[0x3]"
+size = 0xc
+
+[members.0x50]
+name = "Command"
+offset = 0x50
+type = "BYTE[0x1]"
+size = 0x1

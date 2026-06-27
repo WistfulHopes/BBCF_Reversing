@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.822041Z
+name = "_TAPE_SET_DRIVE_PARAMETERS"
+size = 0x8
+
+[members.0x0]
+name = "ECC"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "Compression"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "DataPadding"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x3]
+name = "ReportSetmarks"
+offset = 0x3
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "EOTWarningZoneSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4

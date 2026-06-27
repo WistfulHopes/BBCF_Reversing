@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.701802Z
+name = "_FILE_STANDARD_INFO"
+size = 0x18
+
+[members.0x0]
+name = "AllocationSize"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "EndOfFile"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "NumberOfLinks"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "DeletePending"
+offset = 0x14
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x15]
+name = "Directory"
+offset = 0x15
+type = "BOOLEAN"
+size = 0x1

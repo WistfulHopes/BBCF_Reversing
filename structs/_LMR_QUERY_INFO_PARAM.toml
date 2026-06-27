@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.730738Z
+name = "_LMR_QUERY_INFO_PARAM"
+size = 0x4
+
+[members.0x0]
+name = "Operation"
+offset = 0x0
+type = "LMR_QUERY_INFO_CLASS"
+size = 0x4

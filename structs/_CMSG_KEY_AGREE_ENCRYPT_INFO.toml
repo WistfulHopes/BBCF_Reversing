@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.654367Z
+name = "_CMSG_KEY_AGREE_ENCRYPT_INFO"
+size = 0x44
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwRecipientIndex"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "KeyEncryptionAlgorithm"
+offset = 0x8
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x14]
+name = "UserKeyingMaterial"
+offset = 0x14
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x1c]
+name = "dwOriginatorChoice"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = ""
+offset = 0x20
+type = "union"
+size = 0x18
+
+[members.0x38]
+name = "cKeyAgreeKeyEncryptInfo"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "rgpKeyAgreeKeyEncryptInfo"
+offset = 0x3c
+type = "PCMSG_KEY_AGREE_KEY_ENCRYPT_INFO*"
+size = 0x4
+
+[members.0x40]
+name = "dwFlags"
+offset = 0x40
+type = "DWORD"
+size = 0x4

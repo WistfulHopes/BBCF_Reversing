@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.736484Z
+name = "_MIDL_SYNTAX_INFO"
+size = 0x30
+
+[members.0x0]
+name = "TransferSyntax"
+offset = 0x0
+type = "RPC_SYNTAX_IDENTIFIER"
+size = 0x14
+
+[members.0x14]
+name = "DispatchTable"
+offset = 0x14
+type = "RPC_DISPATCH_TABLE*"
+size = 0x4
+
+[members.0x18]
+name = "ProcString"
+offset = 0x18
+type = "PFORMAT_STRING"
+size = 0x4
+
+[members.0x1c]
+name = "FmtStringOffset"
+offset = 0x1c
+type = "ushort const*"
+size = 0x4
+
+[members.0x20]
+name = "TypeString"
+offset = 0x20
+type = "PFORMAT_STRING"
+size = 0x4
+
+[members.0x24]
+name = "aUserMarshalQuadruple"
+offset = 0x24
+type = "void const*"
+size = 0x4
+
+[members.0x28]
+name = "pMethodProperties"
+offset = 0x28
+type = "MIDL_INTERFACE_METHOD_PROPERTIES*"
+size = 0x4
+
+[members.0x2c]
+name = "pReserved2"
+offset = 0x2c
+type = "ULONG_PTR"
+size = 0x4

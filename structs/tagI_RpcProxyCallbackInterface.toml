@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.880404Z
+name = "tagI_RpcProxyCallbackInterface"
+size = 0x24
+
+[members.0x0]
+name = "IsValidMachineFn"
+offset = 0x0
+type = "I_RpcProxyIsValidMachineFn"
+size = 0x4
+
+[members.0x4]
+name = "GetClientAddressFn"
+offset = 0x4
+type = "I_RpcProxyGetClientAddressFn"
+size = 0x4
+
+[members.0x8]
+name = "GetConnectionTimeoutFn"
+offset = 0x8
+type = "I_RpcProxyGetConnectionTimeoutFn"
+size = 0x4
+
+[members.0xc]
+name = "PerformCalloutFn"
+offset = 0xc
+type = "I_RpcPerformCalloutFn"
+size = 0x4
+
+[members.0x10]
+name = "FreeCalloutStateFn"
+offset = 0x10
+type = "I_RpcFreeCalloutStateFn"
+size = 0x4
+
+[members.0x14]
+name = "GetClientSessionAndResourceUUIDFn"
+offset = 0x14
+type = "I_RpcProxyGetClientSessionAndResourceUUID"
+size = 0x4
+
+[members.0x18]
+name = "ProxyFilterIfFn"
+offset = 0x18
+type = "I_RpcProxyFilterIfFn"
+size = 0x4
+
+[members.0x1c]
+name = "RpcProxyUpdatePerfCounterFn"
+offset = 0x1c
+type = "I_RpcProxyUpdatePerfCounterFn"
+size = 0x4
+
+[members.0x20]
+name = "RpcProxyUpdatePerfCounterBackendServerFn"
+offset = 0x20
+type = "I_RpcProxyUpdatePerfCounterBackendServerFn"
+size = 0x4

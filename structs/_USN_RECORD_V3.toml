@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.833261Z
+name = "_USN_RECORD_V3"
+size = 0x50
+
+[members.0x0]
+name = "RecordLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MajorVersion"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "MinorVersion"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "FileReferenceNumber"
+offset = 0x8
+type = "FILE_ID_128"
+size = 0x10
+
+[members.0x18]
+name = "ParentFileReferenceNumber"
+offset = 0x18
+type = "FILE_ID_128"
+size = 0x10
+
+[members.0x28]
+name = "Usn"
+offset = 0x28
+type = "USN"
+size = 0x8
+
+[members.0x30]
+name = "TimeStamp"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "Reason"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "SourceInfo"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "SecurityId"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "FileAttributes"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "FileNameLength"
+offset = 0x48
+type = "WORD"
+size = 0x2
+
+[members.0x4a]
+name = "FileNameOffset"
+offset = 0x4a
+type = "WORD"
+size = 0x2
+
+[members.0x4c]
+name = "FileName"
+offset = 0x4c
+type = "WCHAR[0x1]"
+size = 0x2

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.585277Z
+name = "AA_TaskNode"
+size = 0x18
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "AA_TaskNode::VTable*"
+size = 0x4
+
+[members.0xc]
+name = "m_TaskID"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "m_Priority"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "m_TaskStatus"
+offset = 0x14
+type = "uint"
+size = 0x4

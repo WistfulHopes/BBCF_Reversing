@@ -1,0 +1,525 @@
+last_change = 2026-06-27T20:49:16.824040Z
+name = "_TEB"
+size = 0x1018
+
+[members.0x0]
+name = "NtTib"
+offset = 0x0
+type = "NT_TIB"
+size = 0x1c
+
+[members.0x1c]
+name = "EnvironmentPointer"
+offset = 0x1c
+type = "PVOID"
+size = 0x4
+
+[members.0x20]
+name = "ClientId"
+offset = 0x20
+type = "CLIENT_ID"
+size = 0x8
+
+[members.0x28]
+name = "ActiveRpcHandle"
+offset = 0x28
+type = "PVOID"
+size = 0x4
+
+[members.0x2c]
+name = "ThreadLocalStoragePointer"
+offset = 0x2c
+type = "PVOID"
+size = 0x4
+
+[members.0x30]
+name = "ProcessEnvironmentBlock"
+offset = 0x30
+type = "PPEB"
+size = 0x4
+
+[members.0x34]
+name = "LastErrorValue"
+offset = 0x34
+type = "NTSTATUS"
+size = 0x4
+
+[members.0x38]
+name = "CountOfOwnedCriticalSections"
+offset = 0x38
+type = "ULONG"
+size = 0x4
+
+[members.0x3c]
+name = "CsrClientThread"
+offset = 0x3c
+type = "PVOID"
+size = 0x4
+
+[members.0x40]
+name = "Win32ThreadInfo"
+offset = 0x40
+type = "PVOID"
+size = 0x4
+
+[members.0x44]
+name = "User32Reserved"
+offset = 0x44
+type = "ULONG[0x1a]"
+size = 0x68
+
+[members.0xac]
+name = "UserReserved"
+offset = 0xac
+type = "ULONG[0x5]"
+size = 0x14
+
+[members.0xc0]
+name = "WOW32Reserved"
+offset = 0xc0
+type = "PVOID"
+size = 0x4
+
+[members.0xc4]
+name = "CurrentLocale"
+offset = 0xc4
+type = "LCID"
+size = 0x4
+
+[members.0xc8]
+name = "FpSoftwareStatusRegister"
+offset = 0xc8
+type = "ULONG"
+size = 0x4
+
+[members.0xcc]
+name = "SystemReserved1"
+offset = 0xcc
+type = "PVOID[0x36]"
+size = 0xd8
+
+[members.0x1a4]
+name = "ExceptionCode"
+offset = 0x1a4
+type = "NTSTATUS"
+size = 0x4
+
+[members.0x1a8]
+name = "ActivationContextStackPointer"
+offset = 0x1a8
+type = "PACTIVATION_CONTEXT_STACK"
+size = 0x4
+
+[members.0x1ac]
+name = "SpareBytes1"
+offset = 0x1ac
+type = "UCHAR[0x28]"
+size = 0x28
+
+[members.0x1d4]
+name = "GdiTebBatch"
+offset = 0x1d4
+type = "GDI_TEB_BATCH"
+size = 0x4e0
+
+[members.0x6b4]
+name = "RealClientId"
+offset = 0x6b4
+type = "CLIENT_ID"
+size = 0x8
+
+[members.0x6bc]
+name = "GdiCachedProcessHandle"
+offset = 0x6bc
+type = "HANDLE"
+size = 0x4
+
+[members.0x6c0]
+name = "GdiClientPID"
+offset = 0x6c0
+type = "ULONG"
+size = 0x4
+
+[members.0x6c4]
+name = "GdiClientTID"
+offset = 0x6c4
+type = "ULONG"
+size = 0x4
+
+[members.0x6c8]
+name = "GdiThreadLocalInfo"
+offset = 0x6c8
+type = "PVOID"
+size = 0x4
+
+[members.0x6cc]
+name = "Win32ClientInfo"
+offset = 0x6cc
+type = "ULONG_PTR[0x3e]"
+size = 0xf8
+
+[members.0x7c4]
+name = "glDispatchTable"
+offset = 0x7c4
+type = "PVOID[0xe9]"
+size = 0x3a4
+
+[members.0xb68]
+name = "glReserved1"
+offset = 0xb68
+type = "ULONG_PTR[0x1d]"
+size = 0x74
+
+[members.0xbdc]
+name = "glReserved2"
+offset = 0xbdc
+type = "PVOID"
+size = 0x4
+
+[members.0xbe0]
+name = "glSectionInfo"
+offset = 0xbe0
+type = "PVOID"
+size = 0x4
+
+[members.0xbe4]
+name = "glSection"
+offset = 0xbe4
+type = "PVOID"
+size = 0x4
+
+[members.0xbe8]
+name = "glTable"
+offset = 0xbe8
+type = "PVOID"
+size = 0x4
+
+[members.0xbec]
+name = "glCurrentRC"
+offset = 0xbec
+type = "PVOID"
+size = 0x4
+
+[members.0xbf0]
+name = "glContext"
+offset = 0xbf0
+type = "PVOID"
+size = 0x4
+
+[members.0xbf4]
+name = "LastStatusValue"
+offset = 0xbf4
+type = "NTSTATUS"
+size = 0x4
+
+[members.0xbf8]
+name = "StaticUnicodeString"
+offset = 0xbf8
+type = "UNICODE_STRING"
+size = 0x8
+
+[members.0xc00]
+name = "StaticUnicodeBuffer"
+offset = 0xc00
+type = "WCHAR[0x105]"
+size = 0x20a
+
+[members.0xe0c]
+name = "DeallocationStack"
+offset = 0xe0c
+type = "PVOID"
+size = 0x4
+
+[members.0xe10]
+name = "TlsSlots"
+offset = 0xe10
+type = "PVOID[0x40]"
+size = 0x100
+
+[members.0xf10]
+name = "TlsLinks"
+offset = 0xf10
+type = "LIST_ENTRY"
+size = 0x8
+
+[members.0xf18]
+name = "Vdm"
+offset = 0xf18
+type = "PVOID"
+size = 0x4
+
+[members.0xf1c]
+name = "ReservedForNtRpc"
+offset = 0xf1c
+type = "PVOID"
+size = 0x4
+
+[members.0xf20]
+name = "DbgSsReserved"
+offset = 0xf20
+type = "PVOID[0x2]"
+size = 0x8
+
+[members.0xf28]
+name = "HardErrorMode"
+offset = 0xf28
+type = "ULONG"
+size = 0x4
+
+[members.0xf2c]
+name = "Instrumentation"
+offset = 0xf2c
+type = "PVOID[0xe]"
+size = 0x38
+
+[members.0xf64]
+name = "SubProcessTag"
+offset = 0xf64
+type = "PVOID"
+size = 0x4
+
+[members.0xf68]
+name = "EtwTraceData"
+offset = 0xf68
+type = "PVOID"
+size = 0x4
+
+[members.0xf6c]
+name = "WinSockData"
+offset = 0xf6c
+type = "PVOID"
+size = 0x4
+
+[members.0xf70]
+name = "GdiBatchCount"
+offset = 0xf70
+type = "ULONG"
+size = 0x4
+
+[members.0xf74]
+name = "InDbgPrint"
+offset = 0xf74
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xf75]
+name = "FreeStackOnTermination"
+offset = 0xf75
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xf76]
+name = "HasFiberData"
+offset = 0xf76
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xf77]
+name = "IdealProcessor"
+offset = 0xf77
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xf78]
+name = "GuaranteedStackBytes"
+offset = 0xf78
+type = "ULONG"
+size = 0x4
+
+[members.0xf7c]
+name = "ReservedForPerf"
+offset = 0xf7c
+type = "PVOID"
+size = 0x4
+
+[members.0xf80]
+name = "ReservedForOle"
+offset = 0xf80
+type = "PVOID"
+size = 0x4
+
+[members.0xf84]
+name = "WaitingOnLoaderLock"
+offset = 0xf84
+type = "ULONG"
+size = 0x4
+
+[members.0xf88]
+name = "SparePointer1"
+offset = 0xf88
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xf8c]
+name = "SoftPatchPtr1"
+offset = 0xf8c
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xf90]
+name = "SoftPatchPtr2"
+offset = 0xf90
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xf94]
+name = "TlsExpansionSlots"
+offset = 0xf94
+type = "PPVOID"
+size = 0x4
+
+[members.0xf98]
+name = "ImpersonationLocale"
+offset = 0xf98
+type = "LCID"
+size = 0x4
+
+[members.0xf9c]
+name = "IsImpersonating"
+offset = 0xf9c
+type = "ULONG"
+size = 0x4
+
+[members.0xfa0]
+name = "NlsCache"
+offset = 0xfa0
+type = "PVOID"
+size = 0x4
+
+[members.0xfa4]
+name = "pShimData"
+offset = 0xfa4
+type = "PVOID"
+size = 0x4
+
+[members.0xfa8]
+name = "HeapVirtualAffinity"
+offset = 0xfa8
+type = "ULONG"
+size = 0x4
+
+[members.0xfac]
+name = "CurrentTransactionHandle"
+offset = 0xfac
+type = "HANDLE"
+size = 0x4
+
+[members.0xfb0]
+name = "ActiveFrame"
+offset = 0xfb0
+type = "PTEB_ACTIVE_FRAME"
+size = 0x4
+
+[members.0xfb4]
+name = "FlsData"
+offset = 0xfb4
+type = "PVOID"
+size = 0x4
+
+[members.0xfb8]
+name = "PreferredLanguages"
+offset = 0xfb8
+type = "PVOID"
+size = 0x4
+
+[members.0xfbc]
+name = "UserPrefLanguages"
+offset = 0xfbc
+type = "PVOID"
+size = 0x4
+
+[members.0xfc0]
+name = "MergedPrefLanguages"
+offset = 0xfc0
+type = "PVOID"
+size = 0x4
+
+[members.0xfc4]
+name = "MuiImpersonation"
+offset = 0xfc4
+type = "ULONG"
+size = 0x4
+
+[members.0xfc8]
+name = "CrossTebFlags"
+offset = 0xfc8
+type = "USHORT"
+size = 0x2
+
+[members.0xfca]
+name = "SameTebFlags"
+offset = 0xfca
+type = "USHORT"
+size = 0x2
+
+[members.0xfcc]
+name = "TxnScopeEnterCallback"
+offset = 0xfcc
+type = "PVOID"
+size = 0x4
+
+[members.0xfd0]
+name = "TxnScopeExitCallback"
+offset = 0xfd0
+type = "PVOID"
+size = 0x4
+
+[members.0xfd4]
+name = "TxnScopeContext"
+offset = 0xfd4
+type = "PVOID"
+size = 0x4
+
+[members.0xfd8]
+name = "LockCount"
+offset = 0xfd8
+type = "ULONG"
+size = 0x4
+
+[members.0xfdc]
+name = "WowTebOffset"
+offset = 0xfdc
+type = "LONG"
+size = 0x4
+
+[members.0xfe0]
+name = "ResourceRetValue"
+offset = 0xfe0
+type = "PVOID"
+size = 0x4
+
+[members.0xfe4]
+name = "ReservedForWdf"
+offset = 0xfe4
+type = "PVOID"
+size = 0x4
+
+[members.0xfe8]
+name = "ReservedForCrt"
+offset = 0xfe8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xff0]
+name = "EffectiveContainerId"
+offset = 0xff0
+type = "GUID"
+size = 0x10
+
+[members.0x1000]
+name = "LastSleepCounter"
+offset = 0x1000
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x1008]
+name = "SpinCallCount"
+offset = 0x1008
+type = "ULONG"
+size = 0x4
+
+[members.0x1010]
+name = "ExtendedFeatureDisableMask"
+offset = 0x1010
+type = "ULONGLONG"
+size = 0x8

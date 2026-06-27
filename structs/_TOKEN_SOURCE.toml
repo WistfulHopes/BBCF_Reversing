@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.826291Z
+name = "_TOKEN_SOURCE"
+size = 0x10
+
+[members.0x0]
+name = "SourceName"
+offset = 0x0
+type = "CHAR[0x8]"
+size = 0x8
+
+[members.0x8]
+name = "SourceIdentifier"
+offset = 0x8
+type = "LUID"
+size = 0x8

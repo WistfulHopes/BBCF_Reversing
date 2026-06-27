@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.877126Z
+name = "tagGESTUREINFO"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwID"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "hwndTarget"
+offset = 0xc
+type = "HWND"
+size = 0x4
+
+[members.0x10]
+name = "ptsLocation"
+offset = 0x10
+type = "POINTS"
+size = 0x4
+
+[members.0x14]
+name = "dwInstanceID"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwSequenceID"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "ullArguments"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x28]
+name = "cbExtraArgs"
+offset = 0x28
+type = "UINT"
+size = 0x4

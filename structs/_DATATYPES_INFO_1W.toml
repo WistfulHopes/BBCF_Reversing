@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.674122Z
+name = "_DATATYPES_INFO_1W"
+size = 0x4
+
+[members.0x0]
+name = "pName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.655165Z
+name = "_CMSG_KEY_TRANS_RECIPIENT_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "RecipientId"
+offset = 0x4
+type = "CERT_ID"
+size = 0x14
+
+[members.0x18]
+name = "KeyEncryptionAlgorithm"
+offset = 0x18
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x24]
+name = "EncryptedKey"
+offset = 0x24
+type = "CRYPT_DATA_BLOB"
+size = 0x8

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.826946Z
+name = "_TP_POOL_STACK_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "StackReserve"
+offset = 0x0
+type = "SIZE_T"
+size = 0x4
+
+[members.0x4]
+name = "StackCommit"
+offset = 0x4
+type = "SIZE_T"
+size = 0x4

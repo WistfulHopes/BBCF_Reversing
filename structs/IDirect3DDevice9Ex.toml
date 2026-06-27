@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.610910Z
+name = "IDirect3DDevice9Ex"
+size = 0x4
+
+[members.0x0]
+name = "vtable"
+offset = 0x0
+type = "struct IDirect3DDevice9ExVTable*"
+size = 0x4

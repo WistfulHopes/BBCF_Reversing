@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.858065Z
+name = "tagCHOOSECOLORW"
+size = 0x24
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hInstance"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "rgbResult"
+offset = 0xc
+type = "COLORREF"
+size = 0x4
+
+[members.0x10]
+name = "lpCustColors"
+offset = 0x10
+type = "COLORREF*"
+size = 0x4
+
+[members.0x14]
+name = "Flags"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "lCustData"
+offset = 0x18
+type = "LPARAM"
+size = 0x4
+
+[members.0x1c]
+name = "lpfnHook"
+offset = 0x1c
+type = "LPCCHOOKPROC"
+size = 0x4
+
+[members.0x20]
+name = "lpTemplateName"
+offset = 0x20
+type = "LPCWSTR"
+size = 0x4

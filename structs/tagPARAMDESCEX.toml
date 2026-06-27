@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.903183Z
+name = "tagPARAMDESCEX"
+size = 0x18
+
+[members.0x0]
+name = "cBytes"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "varDefaultValue"
+offset = 0x8
+type = "VARIANTARG"
+size = 0x10

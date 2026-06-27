@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.853133Z
+name = "tagANIMATIONINFO"
+size = 0x8
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "iMinAnimate"
+offset = 0x4
+type = "int"
+size = 0x4

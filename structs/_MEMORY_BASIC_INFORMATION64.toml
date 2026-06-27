@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.733031Z
+name = "_MEMORY_BASIC_INFORMATION64"
+size = 0x30
+
+[members.0x0]
+name = "BaseAddress"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "AllocationBase"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "AllocationProtect"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "__alignment1"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "RegionSize"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x20]
+name = "State"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "Protect"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "Type"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "__alignment2"
+offset = 0x2c
+type = "DWORD"
+size = 0x4

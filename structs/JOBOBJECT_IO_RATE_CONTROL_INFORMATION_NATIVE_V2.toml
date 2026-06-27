@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.617874Z
+name = "JOBOBJECT_IO_RATE_CONTROL_INFORMATION_NATIVE_V2"
+size = 0x58
+
+[members.0x0]
+name = "MaxIops"
+offset = 0x0
+type = "LONG64"
+size = 0x8
+
+[members.0x8]
+name = "MaxBandwidth"
+offset = 0x8
+type = "LONG64"
+size = 0x8
+
+[members.0x10]
+name = "ReservationIops"
+offset = 0x10
+type = "LONG64"
+size = 0x8
+
+[members.0x18]
+name = "VolumeName"
+offset = 0x18
+type = "PWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "BaseIoSize"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "ControlFlags"
+offset = 0x20
+type = "enum JOB_OBJECT_IO_RATE_CONTROL_FLAGS"
+size = 0x4
+
+[members.0x24]
+name = "VolumeNameLength"
+offset = 0x24
+type = "WORD"
+size = 0x2
+
+[members.0x28]
+name = "CriticalReservationIops"
+offset = 0x28
+type = "LONG64"
+size = 0x8
+
+[members.0x30]
+name = "ReservationBandwidth"
+offset = 0x30
+type = "LONG64"
+size = 0x8
+
+[members.0x38]
+name = "CriticalReservationBandwidth"
+offset = 0x38
+type = "LONG64"
+size = 0x8
+
+[members.0x40]
+name = "MaxTimePercent"
+offset = 0x40
+type = "LONG64"
+size = 0x8
+
+[members.0x48]
+name = "ReservationTimePercent"
+offset = 0x48
+type = "LONG64"
+size = 0x8
+
+[members.0x50]
+name = "CriticalReservationTimePercent"
+offset = 0x50
+type = "LONG64"
+size = 0x8

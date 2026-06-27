@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.878167Z
+name = "tagHELPWININFOW"
+size = 0x1c
+
+[members.0x0]
+name = "wStructSize"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "x"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "y"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "dx"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "dy"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "wMax"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "rgchMember"
+offset = 0x18
+type = "WCHAR[0x2]"
+size = 0x4

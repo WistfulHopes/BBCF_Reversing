@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.828460Z
+name = "_TRANSACTION_SUPERIOR_ENLISTMENT_INFORMATION"
+size = 0x20
+
+[members.0x0]
+name = "SuperiorEnlistmentPair"
+offset = 0x0
+type = "TRANSACTION_ENLISTMENT_PAIR"
+size = 0x20

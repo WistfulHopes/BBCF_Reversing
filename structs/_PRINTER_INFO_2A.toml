@@ -1,0 +1,129 @@
+last_change = 2026-06-27T20:49:16.762326Z
+name = "_PRINTER_INFO_2A"
+size = 0x54
+
+[members.0x0]
+name = "pServerName"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "pPrinterName"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "pShareName"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "pPortName"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "pDriverName"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "pComment"
+offset = 0x14
+type = "LPSTR"
+size = 0x4
+
+[members.0x18]
+name = "pLocation"
+offset = 0x18
+type = "LPSTR"
+size = 0x4
+
+[members.0x1c]
+name = "pDevMode"
+offset = 0x1c
+type = "LPDEVMODEA"
+size = 0x4
+
+[members.0x20]
+name = "pSepFile"
+offset = 0x20
+type = "LPSTR"
+size = 0x4
+
+[members.0x24]
+name = "pPrintProcessor"
+offset = 0x24
+type = "LPSTR"
+size = 0x4
+
+[members.0x28]
+name = "pDatatype"
+offset = 0x28
+type = "LPSTR"
+size = 0x4
+
+[members.0x2c]
+name = "pParameters"
+offset = 0x2c
+type = "LPSTR"
+size = 0x4
+
+[members.0x30]
+name = "pSecurityDescriptor"
+offset = 0x30
+type = "PSECURITY_DESCRIPTOR"
+size = 0x4
+
+[members.0x34]
+name = "Attributes"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "Priority"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "DefaultPriority"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "StartTime"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "UntilTime"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "Status"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "cJobs"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "AveragePPM"
+offset = 0x50
+type = "DWORD"
+size = 0x4

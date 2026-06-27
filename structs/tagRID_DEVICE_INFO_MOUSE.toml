@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.909528Z
+name = "tagRID_DEVICE_INFO_MOUSE"
+size = 0x10
+
+[members.0x0]
+name = "dwId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwNumberOfButtons"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwSampleRate"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "fHasHorizontalWheel"
+offset = 0xc
+type = "BOOL"
+size = 0x4

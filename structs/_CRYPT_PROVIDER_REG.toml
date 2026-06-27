@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.668843Z
+name = "_CRYPT_PROVIDER_REG"
+size = 0x10
+
+[members.0x0]
+name = "cAliases"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "rgpszAliases"
+offset = 0x4
+type = "PWSTR*"
+size = 0x4
+
+[members.0x8]
+name = "pUM"
+offset = 0x8
+type = "PCRYPT_IMAGE_REG"
+size = 0x4
+
+[members.0xc]
+name = "pKM"
+offset = 0xc
+type = "PCRYPT_IMAGE_REG"
+size = 0x4

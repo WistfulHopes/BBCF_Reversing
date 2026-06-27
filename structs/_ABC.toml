@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.628519Z
+name = "_ABC"
+size = 0xc
+
+[members.0x0]
+name = "abcA"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "abcB"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "abcC"
+offset = 0x8
+type = "int"
+size = 0x4

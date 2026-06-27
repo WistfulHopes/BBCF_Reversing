@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.852374Z
+name = "tagACTCTXW"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lpSource"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4
+
+[members.0xc]
+name = "wProcessorArchitecture"
+offset = 0xc
+type = "USHORT"
+size = 0x2
+
+[members.0xe]
+name = "wLangId"
+offset = 0xe
+type = "LANGID"
+size = 0x2
+
+[members.0x10]
+name = "lpAssemblyDirectory"
+offset = 0x10
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x14]
+name = "lpResourceName"
+offset = 0x14
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x18]
+name = "lpApplicationName"
+offset = 0x18
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "hModule"
+offset = 0x1c
+type = "HMODULE"
+size = 0x4

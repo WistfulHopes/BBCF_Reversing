@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.671425Z
+name = "_CRYPT_VERIFY_MESSAGE_PARA"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgAndCertEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hCryptProv"
+offset = 0x8
+type = "HCRYPTPROV_LEGACY"
+size = 0x4
+
+[members.0xc]
+name = "pfnGetSignerCertificate"
+offset = 0xc
+type = "PFN_CRYPT_GET_SIGNER_CERTIFICATE"
+size = 0x4
+
+[members.0x10]
+name = "pvGetArg"
+offset = 0x10
+type = "void*"
+size = 0x4

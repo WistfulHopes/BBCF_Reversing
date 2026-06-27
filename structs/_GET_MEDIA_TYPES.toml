@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.708146Z
+name = "_GET_MEDIA_TYPES"
+size = 0x28
+
+[members.0x0]
+name = "DeviceType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MediaInfoCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MediaInfo"
+offset = 0x8
+type = "DEVICE_MEDIA_INFO[0x1]"
+size = 0x20

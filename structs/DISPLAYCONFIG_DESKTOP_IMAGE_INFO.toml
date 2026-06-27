@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.601776Z
+name = "DISPLAYCONFIG_DESKTOP_IMAGE_INFO"
+size = 0x28
+
+[members.0x0]
+name = "PathSourceSize"
+offset = 0x0
+type = "POINTL"
+size = 0x8
+
+[members.0x8]
+name = "DesktopImageRegion"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "DesktopImageClip"
+offset = 0x18
+type = "RECTL"
+size = 0x10

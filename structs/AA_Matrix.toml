@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.584649Z
+name = "AA_Matrix"
+size = 0x40
+
+[members.0x0]
+name = "_11"
+offset = 0x0
+type = "float"
+size = 0x4
+
+[members.0x4]
+name = "_12"
+offset = 0x4
+type = "float"
+size = 0x4
+
+[members.0x8]
+name = "_13"
+offset = 0x8
+type = "float"
+size = 0x4
+
+[members.0xc]
+name = "_14"
+offset = 0xc
+type = "float"
+size = 0x4
+
+[members.0x10]
+name = "_21"
+offset = 0x10
+type = "float"
+size = 0x4
+
+[members.0x14]
+name = "_22"
+offset = 0x14
+type = "float"
+size = 0x4
+
+[members.0x18]
+name = "_23"
+offset = 0x18
+type = "float"
+size = 0x4
+
+[members.0x1c]
+name = "_24"
+offset = 0x1c
+type = "float"
+size = 0x4
+
+[members.0x20]
+name = "_31"
+offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "_32"
+offset = 0x24
+type = "float"
+size = 0x4
+
+[members.0x28]
+name = "_33"
+offset = 0x28
+type = "float"
+size = 0x4
+
+[members.0x2c]
+name = "_34"
+offset = 0x2c
+type = "float"
+size = 0x4
+
+[members.0x30]
+name = "_41"
+offset = 0x30
+type = "float"
+size = 0x4
+
+[members.0x34]
+name = "_42"
+offset = 0x34
+type = "float"
+size = 0x4
+
+[members.0x38]
+name = "_43"
+offset = 0x38
+type = "float"
+size = 0x4
+
+[members.0x3c]
+name = "_44"
+offset = 0x3c
+type = "float"
+size = 0x4

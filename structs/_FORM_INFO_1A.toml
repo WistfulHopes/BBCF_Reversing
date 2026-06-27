@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.704071Z
+name = "_FORM_INFO_1A"
+size = 0x20
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pName"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "Size"
+offset = 0x8
+type = "SIZEL"
+size = 0x8
+
+[members.0x10]
+name = "ImageableArea"
+offset = 0x10
+type = "RECTL"
+size = 0x10

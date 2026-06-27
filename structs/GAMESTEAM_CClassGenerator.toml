@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.604802Z
+name = "GAMESTEAM_CClassGenerator"
+size = 0x34
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct GAME_CClassGenerator::GAMESTEAM_CClassGenerator::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_pDynamicTextureListFactory"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "m_pStaticTextureListFactory"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "m_pJointDynamicTextureListFactory"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "m_pMovieTextureFactory"
+offset = 0x10
+type = "void*"
+size = 0x4
+
+[members.0x14]
+name = "m_pTextureFactoryHIP"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "m_pPaletteFactoryHIP"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "m_pTextureFactoryDDS"
+offset = 0x1c
+type = "void*"
+size = 0x4
+
+[members.0x20]
+name = "m_pTextureFactoryCmpHIP"
+offset = 0x20
+type = "void*"
+size = 0x4
+
+[members.0x24]
+name = "m_pScriptFactory"
+offset = 0x24
+type = "void*"
+size = 0x4
+
+[members.0x28]
+name = "m_pScriptInstanceFactory"
+offset = 0x28
+type = "void*"
+size = 0x4
+
+[members.0x2c]
+name = "m_pCollisionFactoryJON"
+offset = 0x2c
+type = "void*"
+size = 0x4
+
+[members.0x30]
+name = "m_pModelFactoryMUA"
+offset = 0x30
+type = "void*"
+size = 0x4

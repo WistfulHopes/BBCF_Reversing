@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.673747Z
+name = "_CTL_VERIFY_USAGE_PARA"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ListIdentifier"
+offset = 0x4
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "cCtlStore"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rghCtlStore"
+offset = 0x10
+type = "HCERTSTORE*"
+size = 0x4
+
+[members.0x14]
+name = "cSignerStore"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "rghSignerStore"
+offset = 0x18
+type = "HCERTSTORE*"
+size = 0x4

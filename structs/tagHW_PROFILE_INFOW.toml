@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.878565Z
+name = "tagHW_PROFILE_INFOW"
+size = 0xf4
+
+[members.0x0]
+name = "dwDockInfo"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "szHwProfileGuid"
+offset = 0x4
+type = "WCHAR[0x27]"
+size = 0x4e
+
+[members.0x52]
+name = "szHwProfileName"
+offset = 0x52
+type = "WCHAR[0x50]"
+size = 0xa0

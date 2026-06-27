@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.643052Z
+name = "_CERT_LOGOTYPE_EXT_INFO"
+size = 0x18
+
+[members.0x0]
+name = "cCommunityLogo"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgCommunityLogo"
+offset = 0x4
+type = "PCERT_LOGOTYPE_INFO"
+size = 0x4
+
+[members.0x8]
+name = "pIssuerLogo"
+offset = 0x8
+type = "PCERT_LOGOTYPE_INFO"
+size = 0x4
+
+[members.0xc]
+name = "pSubjectLogo"
+offset = 0xc
+type = "PCERT_LOGOTYPE_INFO"
+size = 0x4
+
+[members.0x10]
+name = "cOtherLogo"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rgOtherLogo"
+offset = 0x14
+type = "PCERT_OTHER_LOGOTYPE_INFO"
+size = 0x4

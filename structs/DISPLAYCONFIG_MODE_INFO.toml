@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.602124Z
+name = "DISPLAYCONFIG_MODE_INFO"
+size = 0x40
+
+[members.0x0]
+name = "infoType"
+offset = 0x0
+type = "DISPLAYCONFIG_MODE_INFO_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "id"
+offset = 0x4
+type = "UINT32"
+size = 0x4
+
+[members.0x8]
+name = "adapterId"
+offset = 0x8
+type = "LUID"
+size = 0x8
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x30

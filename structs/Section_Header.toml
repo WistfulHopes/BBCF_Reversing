@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.627650Z
+name = "Section_Header"
+size = 0x28
+
+[members.0x0]
+name = "name"
+offset = 0x0
+type = "char[0x8]"
+size = 0x8
+
+[members.0x8]
+name = "virtualSize"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "virtualAddress"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "sizeOfRawData"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "pointerToRawData"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "pointerToRelocations"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "pointerToLineNumbers"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "numberOfRelocations"
+offset = 0x20
+type = "ushort"
+size = 0x2
+
+[members.0x22]
+name = "numberOfLineNumbers"
+offset = 0x22
+type = "ushort"
+size = 0x2
+
+[members.0x24]
+name = "characteristics"
+offset = 0x24
+type = "enum pe_section_flags"
+size = 0x4

@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.754955Z
+name = "_PERFORMANCE_DATA"
+size = 0x120
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Version"
+offset = 0x2
+type = "BYTE"
+size = 0x1
+
+[members.0x3]
+name = "HwCountersCount"
+offset = 0x3
+type = "BYTE"
+size = 0x1
+
+[members.0x4]
+name = "ContextSwitchCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "WaitReasonBitMap"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "CycleTime"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "RetryCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "Reserved"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "HwCounters"
+offset = 0x20
+type = "HARDWARE_COUNTER_DATA[0x10]"
+size = 0x100

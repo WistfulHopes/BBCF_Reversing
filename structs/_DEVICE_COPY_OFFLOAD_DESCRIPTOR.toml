@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.676196Z
+name = "_DEVICE_COPY_OFFLOAD_DESCRIPTOR"
+size = 0x30
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MaximumTokenLifetime"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "DefaultTokenLifetime"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "MaximumTransferSize"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "OptimalTransferCount"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "MaximumDataDescriptors"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "MaximumTransferLengthPerDescriptor"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "OptimalTransferLengthPerDescriptor"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "OptimalTransferLengthGranularity"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "Reserved"
+offset = 0x2e
+type = "BYTE[0x2]"
+size = 0x2

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.672541Z
+name = "_CSV_QUERY_VETO_FILE_DIRECT_IO_OUTPUT"
+size = 0x210
+
+[members.0x0]
+name = "VetoedFromAltitudeIntegral"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x8]
+name = "VetoedFromAltitudeDecimal"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "Reason"
+offset = 0x10
+type = "WCHAR[0x100]"
+size = 0x200

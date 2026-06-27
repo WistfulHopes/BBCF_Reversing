@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.775878Z
+name = "_READ_USN_JOURNAL_DATA_V0"
+size = 0x28
+
+[members.0x0]
+name = "StartUsn"
+offset = 0x0
+type = "USN"
+size = 0x8
+
+[members.0x8]
+name = "ReasonMask"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ReturnOnlyOnClose"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Timeout"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "BytesToWaitFor"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "UsnJournalID"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8

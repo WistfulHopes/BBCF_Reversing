@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.664825Z
+name = "_CRYPT_CSP_PROVIDER"
+size = 0x14
+
+[members.0x0]
+name = "dwKeySpec"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pwszProviderName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "Signature"
+offset = 0x8
+type = "CRYPT_BIT_BLOB"
+size = 0xc

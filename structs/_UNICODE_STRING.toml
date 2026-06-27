@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.831327Z
+name = "_UNICODE_STRING"
+size = 0x8
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "MaximumLength"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "Buffer"
+offset = 0x4
+type = "PWCH"
+size = 0x4

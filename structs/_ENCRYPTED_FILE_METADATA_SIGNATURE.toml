@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.691485Z
+name = "_ENCRYPTED_FILE_METADATA_SIGNATURE"
+size = 0x10
+
+[members.0x0]
+name = "dwEfsAccessType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pCertificatesAdded"
+offset = 0x4
+type = "PENCRYPTION_CERTIFICATE_HASH_LIST"
+size = 0x4
+
+[members.0x8]
+name = "pEncryptionCertificate"
+offset = 0x8
+type = "PENCRYPTION_CERTIFICATE"
+size = 0x4
+
+[members.0xc]
+name = "pEfsStreamSignature"
+offset = 0xc
+type = "PEFS_RPC_BLOB"
+size = 0x4

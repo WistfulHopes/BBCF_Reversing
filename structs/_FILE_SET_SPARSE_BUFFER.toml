@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.701687Z
+name = "_FILE_SET_SPARSE_BUFFER"
+size = 0x1
+
+[members.0x0]
+name = "SetSparse"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

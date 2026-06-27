@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.602307Z
+name = "DISPLAYCONFIG_PATH_SOURCE_INFO"
+size = 0x14
+
+[members.0x0]
+name = "adapterId"
+offset = 0x0
+type = "LUID"
+size = 0x8
+
+[members.0x8]
+name = "id"
+offset = 0x8
+type = "UINT32"
+size = 0x4
+
+[members.0xc]
+name = ""
+offset = 0xc
+type = "union"
+size = 0x4
+
+[members.0x10]
+name = "statusFlags"
+offset = 0x10
+type = "UINT32"
+size = 0x4

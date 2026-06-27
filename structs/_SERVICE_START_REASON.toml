@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.797552Z
+name = "_SERVICE_START_REASON"
+size = 0x4
+
+[members.0x0]
+name = "dwReason"
+offset = 0x0
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.628602Z
+name = "_ABCFLOAT"
+size = 0xc
+
+[members.0x0]
+name = "abcfA"
+offset = 0x0
+type = "FLOAT"
+size = 0x4
+
+[members.0x4]
+name = "abcfB"
+offset = 0x4
+type = "FLOAT"
+size = 0x4
+
+[members.0x8]
+name = "abcfC"
+offset = 0x8
+type = "FLOAT"
+size = 0x4

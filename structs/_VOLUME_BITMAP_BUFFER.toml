@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.835393Z
+name = "_VOLUME_BITMAP_BUFFER"
+size = 0x18
+
+[members.0x0]
+name = "StartingLcn"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "BitmapSize"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "Buffer"
+offset = 0x10
+type = "BYTE[0x1]"
+size = 0x1

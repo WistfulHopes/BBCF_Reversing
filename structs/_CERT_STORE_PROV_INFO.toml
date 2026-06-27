@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.647655Z
+name = "_CERT_STORE_PROV_INFO"
+size = 0x18
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cStoreProvFunc"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgpvStoreProvFunc"
+offset = 0x8
+type = "void**"
+size = 0x4
+
+[members.0xc]
+name = "hStoreProv"
+offset = 0xc
+type = "HCERTSTOREPROV"
+size = 0x4
+
+[members.0x10]
+name = "dwStoreProvFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "hStoreProvFuncAddr2"
+offset = 0x14
+type = "HCRYPTOIDFUNCADDR"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.719525Z
+name = "_IMAGE_RESOURCE_DIRECTORY_STRING"
+size = 0x4
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "NameString"
+offset = 0x2
+type = "CHAR[0x1]"
+size = 0x1

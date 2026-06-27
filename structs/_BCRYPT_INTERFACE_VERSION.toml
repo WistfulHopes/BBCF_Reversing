@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.635382Z
+name = "_BCRYPT_INTERFACE_VERSION"
+size = 0x4
+
+[members.0x0]
+name = "MajorVersion"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "MinorVersion"
+offset = 0x2
+type = "USHORT"
+size = 0x2

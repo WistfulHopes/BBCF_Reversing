@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.586418Z
+name = "AA_VertexBufferAllocation"
+size = 0xc
+
+[members.0x0]
+name = "buffer_index"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "start_index"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "element_count"
+offset = 0x8
+type = "uint"
+size = 0x4

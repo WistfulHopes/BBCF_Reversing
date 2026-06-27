@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.722398Z
+name = "_IO_COUNTERS"
+size = 0x30
+
+[members.0x0]
+name = "ReadOperationCount"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "WriteOperationCount"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "OtherOperationCount"
+offset = 0x10
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x18]
+name = "ReadTransferCount"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x20]
+name = "WriteTransferCount"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x28]
+name = "OtherTransferCount"
+offset = 0x28
+type = "ULONGLONG"
+size = 0x8

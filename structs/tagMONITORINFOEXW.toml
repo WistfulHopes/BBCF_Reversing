@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.896095Z
+name = "tagMONITORINFOEXW"
+size = 0x68
+
+[members.0x28]
+name = "szDevice"
+offset = 0x28
+type = "WCHAR[0x20]"
+size = 0x40

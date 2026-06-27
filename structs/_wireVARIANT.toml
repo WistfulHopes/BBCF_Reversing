@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.846971Z
+name = "_wireVARIANT"
+size = 0x20
+
+[members.0x0]
+name = "clSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rpcReserved"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "vt"
+offset = 0x8
+type = "USHORT"
+size = 0x2
+
+[members.0xa]
+name = "wReserved1"
+offset = 0xa
+type = "USHORT"
+size = 0x2
+
+[members.0xc]
+name = "wReserved2"
+offset = 0xc
+type = "USHORT"
+size = 0x2
+
+[members.0xe]
+name = "wReserved3"
+offset = 0xe
+type = "USHORT"
+size = 0x2
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x10

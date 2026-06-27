@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.658931Z
+name = "_CONSOLE_FONT_INFOEX"
+size = 0x54
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "nFont"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwFontSize"
+offset = 0x8
+type = "COORD"
+size = 0x4
+
+[members.0xc]
+name = "FontFamily"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "FontWeight"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "FaceName"
+offset = 0x14
+type = "WCHAR[0x20]"
+size = 0x40

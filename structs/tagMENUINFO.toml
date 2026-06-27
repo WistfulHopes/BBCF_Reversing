@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.890345Z
+name = "tagMENUINFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "fMask"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwStyle"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "cyMax"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "hbrBack"
+offset = 0x10
+type = "HBRUSH"
+size = 0x4
+
+[members.0x14]
+name = "dwContextHelpID"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwMenuData"
+offset = 0x18
+type = "ULONG_PTR"
+size = 0x4

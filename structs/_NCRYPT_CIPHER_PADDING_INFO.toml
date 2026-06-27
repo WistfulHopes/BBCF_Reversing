@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.738860Z
+name = "_NCRYPT_CIPHER_PADDING_INFO"
+size = 0x18
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pbIV"
+offset = 0x8
+type = "PUCHAR"
+size = 0x4
+
+[members.0xc]
+name = "cbIV"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "pbOtherInfo"
+offset = 0x10
+type = "PUCHAR"
+size = 0x4
+
+[members.0x14]
+name = "cbOtherInfo"
+offset = 0x14
+type = "ULONG"
+size = 0x4

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.647170Z
+name = "_CERT_SERVER_OCSP_RESPONSE_OPEN_PARA"
+size = 0x18
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pcbUsedSize"
+offset = 0x8
+type = "DWORD*"
+size = 0x4
+
+[members.0xc]
+name = "pwszOcspDirectory"
+offset = 0xc
+type = "PWSTR"
+size = 0x4
+
+[members.0x10]
+name = "pfnUpdateCallback"
+offset = 0x10
+type = "PFN_CERT_SERVER_OCSP_RESPONSE_UPDATE_CALLBACK"
+size = 0x4
+
+[members.0x14]
+name = "pvUpdateCallbackArg"
+offset = 0x14
+type = "PVOID"
+size = 0x4

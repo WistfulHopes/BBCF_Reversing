@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.916672Z
+name = "tagTITLEBARINFO"
+size = 0x2c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcTitleBar"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "rgstate"
+offset = 0x14
+type = "DWORD[0x6]"
+size = 0x18

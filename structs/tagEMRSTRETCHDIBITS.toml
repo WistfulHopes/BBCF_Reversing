@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.872346Z
+name = "tagEMRSTRETCHDIBITS"
+size = 0x50
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "rclBounds"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "xDest"
+offset = 0x18
+type = "LONG"
+size = 0x4
+
+[members.0x1c]
+name = "yDest"
+offset = 0x1c
+type = "LONG"
+size = 0x4
+
+[members.0x20]
+name = "xSrc"
+offset = 0x20
+type = "LONG"
+size = 0x4
+
+[members.0x24]
+name = "ySrc"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "cxSrc"
+offset = 0x28
+type = "LONG"
+size = 0x4
+
+[members.0x2c]
+name = "cySrc"
+offset = 0x2c
+type = "LONG"
+size = 0x4
+
+[members.0x30]
+name = "offBmiSrc"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "cbBmiSrc"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "offBitsSrc"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "cbBitsSrc"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "iUsageSrc"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "dwRop"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "cxDest"
+offset = 0x48
+type = "LONG"
+size = 0x4
+
+[members.0x4c]
+name = "cyDest"
+offset = 0x4c
+type = "LONG"
+size = 0x4

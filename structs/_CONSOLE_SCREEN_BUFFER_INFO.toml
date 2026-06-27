@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.659242Z
+name = "_CONSOLE_SCREEN_BUFFER_INFO"
+size = 0x16
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "COORD"
+size = 0x4
+
+[members.0x4]
+name = "dwCursorPosition"
+offset = 0x4
+type = "COORD"
+size = 0x4
+
+[members.0x8]
+name = "wAttributes"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "srWindow"
+offset = 0xa
+type = "SMALL_RECT"
+size = 0x8
+
+[members.0x12]
+name = "dwMaximumWindowSize"
+offset = 0x12
+type = "COORD"
+size = 0x4

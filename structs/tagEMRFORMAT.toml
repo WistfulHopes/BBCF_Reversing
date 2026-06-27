@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.866775Z
+name = "tagEMRFORMAT"
+size = 0x10
+
+[members.0x0]
+name = "dSignature"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "nVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "cbData"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "offData"
+offset = 0xc
+type = "DWORD"
+size = 0x4

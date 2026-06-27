@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.839887Z
+name = "__GENERIC_BINDING_INFO"
+size = 0x10
+
+[members.0x0]
+name = "pObj"
+offset = 0x0
+type = "void*"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "pfnBind"
+offset = 0x8
+type = "GENERIC_BINDING_ROUTINE"
+size = 0x4
+
+[members.0xc]
+name = "pfnUnbind"
+offset = 0xc
+type = "GENERIC_UNBIND_ROUTINE"
+size = 0x4

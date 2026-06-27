@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.739707Z
+name = "_NCRYPT_VSM_KEY_ATTESTATION_CLAIM_RESTRICTIONS"
+size = 0x20
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "TrustletId"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "MinSvn"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "FlagsMask"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "FlagsExpected"
+offset = 0x18
+type = "ULONG"
+size = 0x4
+
+[members.0x1c]
+name = "__bitfield1c"
+offset = 0x1c
+type = "union"
+size = 0x4

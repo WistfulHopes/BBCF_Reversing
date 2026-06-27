@@ -1,0 +1,99 @@
+last_change = 2026-06-27T20:49:16.581501Z
+name = "AA_CParticleArg"
+size = 0x64
+
+[members.0x0]
+name = "index"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "pResource"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "flag"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "flag2"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "unk"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "pParticle"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "pos"
+offset = 0x18
+type = "struct AA_Vector3"
+size = 0xc
+
+[members.0x24]
+name = "rotate"
+offset = 0x24
+type = "struct AA_Vector3"
+size = 0xc
+
+[members.0x30]
+name = "scale"
+offset = 0x30
+type = "struct AA_Vector3"
+size = 0xc
+
+[members.0x3c]
+name = "color1"
+offset = 0x3c
+type = "struct AA_Color"
+size = 0x4
+
+[members.0x40]
+name = "color2"
+offset = 0x40
+type = "struct AA_Color"
+size = 0x4
+
+[members.0x44]
+name = "color3"
+offset = 0x44
+type = "struct AA_Color"
+size = 0x4
+
+[members.0x54]
+name = "renderStage"
+offset = 0x54
+type = "uint"
+size = 0x4
+
+[members.0x58]
+name = "renderStage2"
+offset = 0x58
+type = "uint"
+size = 0x4
+
+[members.0x5c]
+name = "linkObjPtr"
+offset = 0x5c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x60]
+name = "transPriority"
+offset = 0x60
+type = "int"
+size = 0x4

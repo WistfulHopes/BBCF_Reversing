@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.724251Z
+name = "_JOBOBJECT_LIMIT_VIOLATION_INFORMATION"
+size = 0x50
+
+[members.0x0]
+name = "LimitFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ViolationLimitFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "IoReadBytes"
+offset = 0x8
+type = "DWORD64"
+size = 0x8
+
+[members.0x10]
+name = "IoReadBytesLimit"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "IoWriteBytes"
+offset = 0x18
+type = "DWORD64"
+size = 0x8
+
+[members.0x20]
+name = "IoWriteBytesLimit"
+offset = 0x20
+type = "DWORD64"
+size = 0x8
+
+[members.0x28]
+name = "PerJobUserTime"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "PerJobUserTimeLimit"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "JobMemory"
+offset = 0x38
+type = "DWORD64"
+size = 0x8
+
+[members.0x40]
+name = "JobMemoryLimit"
+offset = 0x40
+type = "DWORD64"
+size = 0x8
+
+[members.0x48]
+name = "RateControlTolerance"
+offset = 0x48
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4
+
+[members.0x4c]
+name = "RateControlToleranceLimit"
+offset = 0x4c
+type = "JOBOBJECT_RATE_CONTROL_TOLERANCE"
+size = 0x4

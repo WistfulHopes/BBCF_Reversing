@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.866357Z
+name = "tagEMREXTSELECTCLIPRGN"
+size = 0x14
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "cbRgnData"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "iMode"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "RgnData"
+offset = 0x10
+type = "BYTE[0x1]"
+size = 0x1

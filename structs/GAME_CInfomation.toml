@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.606798Z
+name = "GAME_CInfomation"
+size = 0x2610
+
+[members.0x0]
+name = "m_SceneChangeCounter"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x104]
+name = "m_Flags"
+offset = 0x104
+type = "int"
+size = 0x4
+
+[members.0x108]
+name = "m_GameMode"
+offset = 0x108
+type = "enum GAME_MODE"
+size = 0x4
+
+[members.0x10c]
+name = "m_GameScene"
+offset = 0x10c
+type = "enum SCENE_ID"
+size = 0x4
+
+[members.0x110]
+name = "m_NextGameScene"
+offset = 0x110
+type = "enum SCENE_ID"
+size = 0x4
+
+[members.0x114]
+name = "unk114"
+offset = 0x114
+type = "int"
+size = 0x4
+
+[members.0x1648]
+name = "m_PlayerInfo"
+offset = 0x1648
+type = "struct CPlayerInfo[0x2]"
+size = 0x40
+
+[members.0x169c]
+name = "m_bTutorial"
+offset = 0x169c
+type = "bool"
+size = 0x1
+
+[members.0x16a0]
+name = "m_bChallenge"
+offset = 0x16a0
+type = "bool"
+size = 0x1
+
+[members.0x2548]
+name = "m_Time"
+offset = 0x2548
+type = "ulong long"
+size = 0x8
+
+[members.0x25e8]
+name = "m_pCharArr"
+offset = 0x25e8
+type = "struct OBJ_CCharBase*[0x2]"
+size = 0x8
+
+[members.0x25f0]
+name = "m_ControllerIdx"
+offset = 0x25f0
+type = "int"
+size = 0x4
+
+[members.0x25f4]
+name = "m_SynthControllerIdx"
+offset = 0x25f4
+type = "int[0x2]"
+size = 0x8
+
+[members.0x2600]
+name = "m_GameSceneStatus"
+offset = 0x2600
+type = "enum SCENE_STATUS"
+size = 0x4
+
+[members.0x2604]
+name = "m_CurScene"
+offset = 0x2604
+type = "struct SCENE_CBase*"
+size = 0x4

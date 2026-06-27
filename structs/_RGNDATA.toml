@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.778835Z
+name = "_RGNDATA"
+size = 0x24
+
+[members.0x0]
+name = "rdh"
+offset = 0x0
+type = "RGNDATAHEADER"
+size = 0x20
+
+[members.0x20]
+name = "Buffer"
+offset = 0x20
+type = "char[0x1]"
+size = 0x1

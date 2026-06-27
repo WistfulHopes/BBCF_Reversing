@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.780549Z
+name = "_RPC_CLIENT_INFORMATION1"
+size = 0x10
+
+[members.0x0]
+name = "UserName"
+offset = 0x0
+type = "uchar*"
+size = 0x4
+
+[members.0x4]
+name = "ComputerName"
+offset = 0x4
+type = "uchar*"
+size = 0x4
+
+[members.0x8]
+name = "Privilege"
+offset = 0x8
+type = "ushort"
+size = 0x2
+
+[members.0xc]
+name = "AuthFlags"
+offset = 0xc
+type = "uint"
+size = 0x4

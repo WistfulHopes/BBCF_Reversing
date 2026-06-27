@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.827771Z
+name = "_TRANSACTION_NOTIFICATION"
+size = 0x18
+
+[members.0x0]
+name = "TransactionKey"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "TransactionNotification"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "TmVirtualClock"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "ArgumentLength"
+offset = 0x10
+type = "ULONG"
+size = 0x4

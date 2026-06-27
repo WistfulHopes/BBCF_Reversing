@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.603298Z
+name = "DISPLAYCONFIG_TARGET_PREFERRED_MODE"
+size = 0x50
+
+[members.0x0]
+name = "header"
+offset = 0x0
+type = "struct DISPLAYCONFIG_DEVICE_INFO_HEADER"
+size = 0x14
+
+[members.0x14]
+name = "width"
+offset = 0x14
+type = "UINT32"
+size = 0x4
+
+[members.0x18]
+name = "height"
+offset = 0x18
+type = "UINT32"
+size = 0x4
+
+[members.0x20]
+name = "targetMode"
+offset = 0x20
+type = "struct DISPLAYCONFIG_TARGET_MODE"
+size = 0x30

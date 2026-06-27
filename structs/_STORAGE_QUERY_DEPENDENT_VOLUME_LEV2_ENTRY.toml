@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.814347Z
+name = "_STORAGE_QUERY_DEPENDENT_VOLUME_LEV2_ENTRY"
+size = 0x44
+
+[members.0x0]
+name = "EntryLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DependencyTypeFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ProviderSpecificFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "VirtualStorageType"
+offset = 0xc
+type = "VIRTUAL_STORAGE_TYPE"
+size = 0x14
+
+[members.0x20]
+name = "AncestorLevel"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "HostVolumeNameOffset"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "HostVolumeNameSize"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "DependentVolumeNameOffset"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "DependentVolumeNameSize"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "RelativePathOffset"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "RelativePathSize"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "DependentDeviceNameOffset"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "DependentDeviceNameSize"
+offset = 0x40
+type = "DWORD"
+size = 0x4

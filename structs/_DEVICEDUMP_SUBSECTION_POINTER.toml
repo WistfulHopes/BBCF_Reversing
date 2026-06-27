@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.675983Z
+name = "_DEVICEDUMP_SUBSECTION_POINTER"
+size = 0xc
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwOffset"
+offset = 0x8
+type = "DWORD"
+size = 0x4

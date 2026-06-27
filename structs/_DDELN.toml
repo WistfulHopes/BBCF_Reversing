@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.674641Z
+name = "_DDELN"
+size = 0x4
+
+[members.0x0]
+name = "__bitfield0"
+offset = 0x0
+type = "enum anonymous_80"
+size = 0x4

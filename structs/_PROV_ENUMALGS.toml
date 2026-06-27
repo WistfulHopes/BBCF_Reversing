@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.772517Z
+name = "_PROV_ENUMALGS"
+size = 0x20
+
+[members.0x0]
+name = "aiAlgid"
+offset = 0x0
+type = "ALG_ID"
+size = 0x4
+
+[members.0x4]
+name = "dwBitLen"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwNameLen"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "szName"
+offset = 0xc
+type = "CHAR[0x14]"
+size = 0x14

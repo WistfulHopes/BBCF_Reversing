@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.669416Z
+name = "_CRYPT_RSAES_OAEP_PARAMETERS"
+size = 0x28
+
+[members.0x0]
+name = "HashAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "MaskGenAlgorithm"
+offset = 0xc
+type = "CRYPT_MASK_GEN_ALGORITHM"
+size = 0x10
+
+[members.0x1c]
+name = "PSourceAlgorithm"
+offset = 0x1c
+type = "CRYPT_PSOURCE_ALGORITHM"
+size = 0xc

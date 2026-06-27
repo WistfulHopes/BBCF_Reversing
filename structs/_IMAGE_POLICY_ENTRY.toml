@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.718933Z
+name = "_IMAGE_POLICY_ENTRY"
+size = 0x10
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "IMAGE_POLICY_ENTRY_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "PolicyId"
+offset = 0x4
+type = "IMAGE_POLICY_ID"
+size = 0x4
+
+[members.0x8]
+name = "u"
+offset = 0x8
+type = "union"
+size = 0x8

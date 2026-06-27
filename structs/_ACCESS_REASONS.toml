@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.630002Z
+name = "_ACCESS_REASONS"
+size = 0x80
+
+[members.0x0]
+name = "Data"
+offset = 0x0
+type = "ACCESS_REASON[0x20]"
+size = 0x80

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.643978Z
+name = "_CERT_PAIR"
+size = 0x10
+
+[members.0x0]
+name = "Forward"
+offset = 0x0
+type = "CERT_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "Reverse"
+offset = 0x8
+type = "CERT_BLOB"
+size = 0x8

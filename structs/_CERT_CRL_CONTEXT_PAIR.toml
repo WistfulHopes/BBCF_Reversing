@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.641191Z
+name = "_CERT_CRL_CONTEXT_PAIR"
+size = 0x8
+
+[members.0x0]
+name = "pCertContext"
+offset = 0x0
+type = "PCCERT_CONTEXT"
+size = 0x4
+
+[members.0x4]
+name = "pCrlContext"
+offset = 0x4
+type = "PCCRL_CONTEXT"
+size = 0x4

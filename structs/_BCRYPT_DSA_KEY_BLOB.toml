@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.634130Z
+name = "_BCRYPT_DSA_KEY_BLOB"
+size = 0x34
+
+[members.0x0]
+name = "dwMagic"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "cbKey"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "Count"
+offset = 0x8
+type = "UCHAR[0x4]"
+size = 0x4
+
+[members.0xc]
+name = "Seed"
+offset = 0xc
+type = "UCHAR[0x14]"
+size = 0x14
+
+[members.0x20]
+name = "q"
+offset = 0x20
+type = "UCHAR[0x14]"
+size = 0x14

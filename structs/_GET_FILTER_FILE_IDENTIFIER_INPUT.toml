@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.707953Z
+name = "_GET_FILTER_FILE_IDENTIFIER_INPUT"
+size = 0x4
+
+[members.0x0]
+name = "AltitudeLength"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Altitude"
+offset = 0x2
+type = "WCHAR[0x1]"
+size = 0x2

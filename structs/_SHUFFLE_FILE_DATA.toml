@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.802581Z
+name = "_SHUFFLE_FILE_DATA"
+size = 0x18
+
+[members.0x0]
+name = "StartingOffset"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "LONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "DWORD"
+size = 0x4

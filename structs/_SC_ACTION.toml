@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.793575Z
+name = "_SC_ACTION"
+size = 0x8
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "SC_ACTION_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "Delay"
+offset = 0x4
+type = "DWORD"
+size = 0x4

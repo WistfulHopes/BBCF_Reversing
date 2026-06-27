@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.602572Z
+name = "DISPLAYCONFIG_RATIONAL"
+size = 0x8
+
+[members.0x0]
+name = "Numerator"
+offset = 0x0
+type = "UINT32"
+size = 0x4
+
+[members.0x4]
+name = "Denominator"
+offset = 0x4
+type = "UINT32"
+size = 0x4

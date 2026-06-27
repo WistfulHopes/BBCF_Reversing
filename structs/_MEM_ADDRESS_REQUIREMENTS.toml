@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.733450Z
+name = "_MEM_ADDRESS_REQUIREMENTS"
+size = 0xc
+
+[members.0x0]
+name = "LowestStartingAddress"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "HighestEndingAddress"
+offset = 0x4
+type = "PVOID"
+size = 0x4
+
+[members.0x8]
+name = "Alignment"
+offset = 0x8
+type = "SIZE_T"
+size = 0x4

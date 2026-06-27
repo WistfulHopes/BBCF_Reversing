@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.587795Z
+name = "BATTLE_CLoadTask"
+size = 0x83dc
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_TaskNode::BATTLE_CLoadTask::VTable*"
+size = 0x4
+
+[members.0x18]
+name = "m_LoadTargets"
+offset = 0x18
+type = "struct GAME_LoadTarget[0x75]"
+size = 0x83a0
+
+[members.0x83b8]
+name = "m_List1"
+offset = 0x83b8
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0x83c4]
+name = "m_List2"
+offset = 0x83c4
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0x83d4]
+name = "m_LoadStatus"
+offset = 0x83d4
+type = "int"
+size = 0x4

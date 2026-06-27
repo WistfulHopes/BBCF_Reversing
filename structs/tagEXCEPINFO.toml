@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.874424Z
+name = "tagEXCEPINFO"
+size = 0x20
+
+[members.0x0]
+name = "wCode"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wReserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "bstrSource"
+offset = 0x4
+type = "BSTR"
+size = 0x4
+
+[members.0x8]
+name = "bstrDescription"
+offset = 0x8
+type = "BSTR"
+size = 0x4
+
+[members.0xc]
+name = "bstrHelpFile"
+offset = 0xc
+type = "BSTR"
+size = 0x4
+
+[members.0x10]
+name = "dwHelpContext"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "pvReserved"
+offset = 0x14
+type = "PVOID"
+size = 0x4
+
+[members.0x18]
+name = "pfnDeferredFillIn"
+offset = 0x18
+type = "void* (*)(struct tagEXCEPINFO*)"
+size = 0x4
+
+[members.0x1c]
+name = "scode"
+offset = 0x1c
+type = "SCODE"
+size = 0x4

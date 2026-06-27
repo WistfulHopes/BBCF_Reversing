@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.627791Z
+name = "TLS_Directory"
+size = 0x18
+
+[members.0x0]
+name = "rawDataStartVirtualAddress"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "rawDataEndVirtualAddress"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "addressOfIndex"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "addressOfCallbacks"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "sizeOfZeroFill"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "characteristics"
+offset = 0x14
+type = "uint"
+size = 0x4

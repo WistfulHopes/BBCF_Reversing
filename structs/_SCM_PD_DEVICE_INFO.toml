@@ -1,0 +1,135 @@
+last_change = 2026-06-27T20:49:16.789773Z
+name = "_SCM_PD_DEVICE_INFO"
+size = 0x78
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DeviceGuid"
+offset = 0x8
+type = "GUID"
+size = 0x10
+
+[members.0x18]
+name = "UnsafeShutdownCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "PersistentMemorySizeInBytes"
+offset = 0x20
+type = "DWORD64"
+size = 0x8
+
+[members.0x28]
+name = "VolatileMemorySizeInBytes"
+offset = 0x28
+type = "DWORD64"
+size = 0x8
+
+[members.0x30]
+name = "TotalMemorySizeInBytes"
+offset = 0x30
+type = "DWORD64"
+size = 0x8
+
+[members.0x38]
+name = "SlotNumber"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "DeviceHandle"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "PhysicalId"
+offset = 0x40
+type = "WORD"
+size = 0x2
+
+[members.0x42]
+name = "NumberOfFormatInterfaceCodes"
+offset = 0x42
+type = "BYTE"
+size = 0x1
+
+[members.0x44]
+name = "FormatInterfaceCodes"
+offset = 0x44
+type = "WORD[0x8]"
+size = 0x10
+
+[members.0x54]
+name = "VendorId"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "ProductId"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "SubsystemDeviceId"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "SubsystemVendorId"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "ManufacturingLocation"
+offset = 0x64
+type = "BYTE"
+size = 0x1
+
+[members.0x65]
+name = "ManufacturingWeek"
+offset = 0x65
+type = "BYTE"
+size = 0x1
+
+[members.0x66]
+name = "ManufacturingYear"
+offset = 0x66
+type = "BYTE"
+size = 0x1
+
+[members.0x68]
+name = "SerialNumber4Byte"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "SerialNumberLengthInChars"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "SerialNumber"
+offset = 0x70
+type = "CHAR[0x1]"
+size = 0x1

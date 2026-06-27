@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.795979Z
+name = "_SERVICE_CUSTOM_SYSTEM_STATE_CHANGE_DATA_ITEM"
+size = 0x8
+
+[members.0x0]
+name = "u"
+offset = 0x0
+type = "union"
+size = 0x8

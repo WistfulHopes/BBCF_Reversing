@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.677403Z
+name = "_DEVICE_DSM_DEFINITION"
+size = 0x1c
+
+[members.0x0]
+name = "Action"
+offset = 0x0
+type = "DEVICE_DSM_ACTION"
+size = 0x4
+
+[members.0x4]
+name = "SingleRange"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x8]
+name = "ParameterBlockAlignment"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ParameterBlockLength"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "HasOutput"
+offset = 0x10
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x14]
+name = "OutputBlockAlignment"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "OutputBlockLength"
+offset = 0x18
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.765376Z
+name = "_PROCESSOR_IDLESTATE_POLICY"
+size = 0x20
+
+[members.0x0]
+name = "Revision"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "union"
+size = 0x2
+
+[members.0x4]
+name = "PolicyCount"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Policy"
+offset = 0x8
+type = "PROCESSOR_IDLESTATE_INFO[0x3]"
+size = 0x18

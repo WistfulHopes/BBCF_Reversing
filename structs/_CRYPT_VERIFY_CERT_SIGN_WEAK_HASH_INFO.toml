@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.671305Z
+name = "_CRYPT_VERIFY_CERT_SIGN_WEAK_HASH_INFO"
+size = 0xc
+
+[members.0x0]
+name = "cCNGHashAlgid"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgpwszCNGHashAlgid"
+offset = 0x4
+type = "PCWSTR*"
+size = 0x4
+
+[members.0x8]
+name = "dwWeakIndex"
+offset = 0x8
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,1695 @@
+last_change = 2026-06-27T20:49:16.623805Z
+name = "OBJ_CBase"
+size = 0x2248
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct OBJ_CBase::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_ObjTimer"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "m_BuruBuruPartsTime"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "m_UniqID"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "m_ActiveState"
+offset = 0x10
+type = "enum ACTV_STATE"
+size = 0x4
+
+[members.0x14]
+name = "m_WatchedCount"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "m_ActionChangeID"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "m_TmpWork"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "m_ObjectPriority"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "m_ObjectRenderStage"
+offset = 0x24
+type = "enum RS_RENDER_STAGE"
+size = 0x4
+
+[members.0x28]
+name = "m_ObjectGeneration"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "m_IsPlayerObj"
+offset = 0x2c
+type = "bool"
+size = 0x1
+
+[members.0x30]
+name = "m_SideID"
+offset = 0x30
+type = "enum SIDE_ID"
+size = 0x4
+
+[members.0x34]
+name = "m_CharID"
+offset = 0x34
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "m_FriendID"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "m_ClsnAnalyzer"
+offset = 0x3c
+type = "struct AA_CCollision_JON"
+size = 0xc8
+
+[members.0x14c]
+name = "m_ColPac"
+offset = 0x14c
+type = "struct AA_Filepack_FPAC*"
+size = 0x4
+
+[members.0x150]
+name = "m_ObjFlag"
+offset = 0x150
+type = "uint"
+size = 0x4
+
+[members.0x154]
+name = "m_ObjFlag2"
+offset = 0x154
+type = "uint"
+size = 0x4
+
+[members.0x158]
+name = "m_ActionKeepFlag"
+offset = 0x158
+type = "uint"
+size = 0x4
+
+[members.0x15c]
+name = "m_ObjSignal"
+offset = 0x15c
+type = "uint"
+size = 0x4
+
+[members.0x160]
+name = "m_ActionTime"
+offset = 0x160
+type = "uint"
+size = 0x4
+
+[members.0x164]
+name = "m_LinkModelTime"
+offset = 0x164
+type = "uint"
+size = 0x4
+
+[members.0x168]
+name = "m_ActionTimeNoStop"
+offset = 0x168
+type = "uint"
+size = 0x4
+
+[members.0x16c]
+name = "m_ActionTimeMax"
+offset = 0x16c
+type = "uint"
+size = 0x4
+
+[members.0x170]
+name = "m_OnIdlingTime"
+offset = 0x170
+type = "uint"
+size = 0x4
+
+[members.0x174]
+name = "m_ActionMark"
+offset = 0x174
+type = "uint"
+size = 0x4
+
+[members.0x178]
+name = "m_CommonActionMark"
+offset = 0x178
+type = "uint"
+size = 0x4
+
+[members.0x17c]
+name = "m_TmpReg"
+offset = 0x17c
+type = "uint"
+size = 0x4
+
+[members.0x180]
+name = "m_ActReg0"
+offset = 0x180
+type = "uint"
+size = 0x4
+
+[members.0x184]
+name = "m_ActReg1"
+offset = 0x184
+type = "uint"
+size = 0x4
+
+[members.0x188]
+name = "m_ActReg2"
+offset = 0x188
+type = "uint"
+size = 0x4
+
+[members.0x18c]
+name = "m_ActReg3"
+offset = 0x18c
+type = "uint"
+size = 0x4
+
+[members.0x190]
+name = "m_ActReg4"
+offset = 0x190
+type = "uint"
+size = 0x4
+
+[members.0x194]
+name = "m_ActReg5"
+offset = 0x194
+type = "uint"
+size = 0x4
+
+[members.0x198]
+name = "m_ActReg6"
+offset = 0x198
+type = "uint"
+size = 0x4
+
+[members.0x19c]
+name = "m_ActReg7"
+offset = 0x19c
+type = "uint"
+size = 0x4
+
+[members.0x1a0]
+name = "m_ObjReg0"
+offset = 0x1a0
+type = "uint"
+size = 0x4
+
+[members.0x1a4]
+name = "m_ObjReg1"
+offset = 0x1a4
+type = "uint"
+size = 0x4
+
+[members.0x1a8]
+name = "m_ObjReg2"
+offset = 0x1a8
+type = "uint"
+size = 0x4
+
+[members.0x1ac]
+name = "m_ObjReg3"
+offset = 0x1ac
+type = "uint"
+size = 0x4
+
+[members.0x1b0]
+name = "m_ObjReg4"
+offset = 0x1b0
+type = "uint"
+size = 0x4
+
+[members.0x1b4]
+name = "m_ObjReg5"
+offset = 0x1b4
+type = "uint"
+size = 0x4
+
+[members.0x1b8]
+name = "m_ObjReg6"
+offset = 0x1b8
+type = "uint"
+size = 0x4
+
+[members.0x1bc]
+name = "m_ObjReg7"
+offset = 0x1bc
+type = "uint"
+size = 0x4
+
+[members.0x1c0]
+name = "m_OverDriveTime"
+offset = 0x1c0
+type = "uint"
+size = 0x4
+
+[members.0x1c4]
+name = "m_OverDriveFlag"
+offset = 0x1c4
+type = "uint"
+size = 0x4
+
+[members.0x1c8]
+name = "m_HitstopTime"
+offset = 0x1c8
+type = "uint"
+size = 0x4
+
+[members.0x1cc]
+name = "m_HitStopTimeReq"
+offset = 0x1cc
+type = "uint"
+size = 0x4
+
+[members.0x1d0]
+name = "m_HitStopTimeReqLevel"
+offset = 0x1d0
+type = "uint"
+size = 0x4
+
+[members.0x1d4]
+name = "m_UltimateReq_StopTime"
+offset = 0x1d4
+type = "uint"
+size = 0x4
+
+[members.0x1d8]
+name = "m_UltimateReq_Flag"
+offset = 0x1d8
+type = "uint"
+size = 0x4
+
+[members.0x1dc]
+name = "m_UltimateReq_StopTimeSelf"
+offset = 0x1dc
+type = "uint"
+size = 0x4
+
+[members.0x1e0]
+name = "m_BGType"
+offset = 0x1e0
+type = "enum BG_TYPE"
+size = 0x4
+
+[members.0x1e4]
+name = "m_LandingHeight"
+offset = 0x1e4
+type = "int"
+size = 0x4
+
+[members.0x1e8]
+name = "m_pParentPly"
+offset = 0x1e8
+type = "struct OBJ_CCharBase*"
+size = 0x4
+
+[members.0x1ec]
+name = "m_pParentObj"
+offset = 0x1ec
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x1f0]
+name = "m_pTargetObj"
+offset = 0x1f0
+type = "struct OBJ_CCharBase*"
+size = 0x4
+
+[members.0x1f4]
+name = "m_pLinkObject_Angle"
+offset = 0x1f4
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x1f8]
+name = "m_pLinkObject_Position"
+offset = 0x1f8
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x1fc]
+name = "m_pLinkObject_PositionX"
+offset = 0x1fc
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x200]
+name = "m_pLinkObject_PositionY"
+offset = 0x200
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x204]
+name = "m_pLinkObject_Direction"
+offset = 0x204
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x208]
+name = "m_pLinkObject_DamageToEliminate"
+offset = 0x208
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x20c]
+name = "m_pLinkObject_ChangeToEliminate"
+offset = 0x20c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x210]
+name = "m_pLinkObject_PushCollision"
+offset = 0x210
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x214]
+name = "m_pLinkObject_Stop"
+offset = 0x214
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x218]
+name = "m_pLinkObject_PositionCenter"
+offset = 0x218
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x21c]
+name = "m_pLinkObject_Scale"
+offset = 0x21c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x220]
+name = "m_pLinkObject_Z"
+offset = 0x220
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x224]
+name = "m_pLinkObject_Collision"
+offset = 0x224
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x228]
+name = "m_pLinkObject_Color"
+offset = 0x228
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x22c]
+name = "m_pPrevChild"
+offset = 0x22c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x230]
+name = "m_pChildStack"
+offset = 0x230
+type = "struct OBJ_CBase*[0x9]"
+size = 0x24
+
+[members.0x254]
+name = "m_ActionFlag"
+offset = 0x254
+type = "int"
+size = 0x4
+
+[members.0x258]
+name = "m_ActionFlag2"
+offset = 0x258
+type = "int"
+size = 0x4
+
+[members.0x25c]
+name = "m_CollisionFlag"
+offset = 0x25c
+type = "int"
+size = 0x4
+
+[members.0x260]
+name = "m_CollisionFlag2"
+offset = 0x260
+type = "int"
+size = 0x4
+
+[members.0x264]
+name = "m_Direction"
+offset = 0x264
+type = "enum DIR_FLAG"
+size = 0x4
+
+[members.0x268]
+name = "m_PosX"
+offset = 0x268
+type = "int"
+size = 0x4
+
+[members.0x26c]
+name = "m_PosY"
+offset = 0x26c
+type = "int"
+size = 0x4
+
+[members.0x270]
+name = "m_PosZ"
+offset = 0x270
+type = "int"
+size = 0x4
+
+[members.0x274]
+name = "m_OffsetPosX"
+offset = 0x274
+type = "int"
+size = 0x4
+
+[members.0x278]
+name = "m_OffsetPosY"
+offset = 0x278
+type = "int"
+size = 0x4
+
+[members.0x27c]
+name = "m_AngleDeg_x1000"
+offset = 0x27c
+type = "int"
+size = 0x4
+
+[members.0x280]
+name = "m_AngleSpeed"
+offset = 0x280
+type = "int"
+size = 0x4
+
+[members.0x284]
+name = "m_ScaleX"
+offset = 0x284
+type = "int"
+size = 0x4
+
+[members.0x288]
+name = "m_ScaleY"
+offset = 0x288
+type = "int"
+size = 0x4
+
+[members.0x28c]
+name = "m_ScaleZ"
+offset = 0x28c
+type = "int"
+size = 0x4
+
+[members.0x290]
+name = "m_ScaleXSpeed"
+offset = 0x290
+type = "int"
+size = 0x4
+
+[members.0x294]
+name = "m_ScaleYSpeed"
+offset = 0x294
+type = "int"
+size = 0x4
+
+[members.0x298]
+name = "m_ScaleZSpeed"
+offset = 0x298
+type = "int"
+size = 0x4
+
+[members.0x29c]
+name = "m_TransformCenterX"
+offset = 0x29c
+type = "int"
+size = 0x4
+
+[members.0x2a0]
+name = "m_TransformCenterY"
+offset = 0x2a0
+type = "int"
+size = 0x4
+
+[members.0x2a4]
+name = "m_BoundRate"
+offset = 0x2a4
+type = "int"
+size = 0x4
+
+[members.0x2a8]
+name = "m_PushPosX"
+offset = 0x2a8
+type = "int"
+size = 0x4
+
+[members.0x2ac]
+name = "m_PushPosY"
+offset = 0x2ac
+type = "int"
+size = 0x4
+
+[members.0x2b0]
+name = "m_PushPosZ"
+offset = 0x2b0
+type = "int"
+size = 0x4
+
+[members.0x2b4]
+name = "m_PushSpeedX"
+offset = 0x2b4
+type = "int"
+size = 0x4
+
+[members.0x2b8]
+name = "m_PushSpeedY"
+offset = 0x2b8
+type = "int"
+size = 0x4
+
+[members.0x2bc]
+name = "m_PushSpeedZ"
+offset = 0x2bc
+type = "int"
+size = 0x4
+
+[members.0x2c0]
+name = "m_PushGravity"
+offset = 0x2c0
+type = "int"
+size = 0x4
+
+[members.0x2c4]
+name = "m_PushAcceleration"
+offset = 0x2c4
+type = "int"
+size = 0x4
+
+[members.0x2c8]
+name = "m_PushAccelerationZ"
+offset = 0x2c8
+type = "int"
+size = 0x4
+
+[members.0x2cc]
+name = "m_PushInertia"
+offset = 0x2cc
+type = "int"
+size = 0x4
+
+[members.0x2d0]
+name = "m_ZLine"
+offset = 0x2d0
+type = "enum ZLINE"
+size = 0x4
+
+[members.0x2d4]
+name = "m_ZLevel"
+offset = 0x2d4
+type = "enum ZLINE_LEVEL"
+size = 0x4
+
+[members.0x2d8]
+name = "m_ZVal"
+offset = 0x2d8
+type = "float"
+size = 0x4
+
+[members.0x2dc]
+name = "m_OldPosX"
+offset = 0x2dc
+type = "int"
+size = 0x4
+
+[members.0x2e0]
+name = "m_OldPosY"
+offset = 0x2e0
+type = "int"
+size = 0x4
+
+[members.0x2e4]
+name = "m_CalcTmpPosX"
+offset = 0x2e4
+type = "int"
+size = 0x4
+
+[members.0x2e8]
+name = "m_CalcTmpHitBackX"
+offset = 0x2e8
+type = "int"
+size = 0x4
+
+[members.0x2ec]
+name = "m_ObjShakeXTime"
+offset = 0x2ec
+type = "int"
+size = 0x4
+
+[members.0x2f0]
+name = "m_ObjShakeXDot"
+offset = 0x2f0
+type = "int"
+size = 0x4
+
+[members.0x2f4]
+name = "m_SpeedX"
+offset = 0x2f4
+type = "int"
+size = 0x4
+
+[members.0x2f8]
+name = "m_Inertia"
+offset = 0x2f8
+type = "int"
+size = 0x4
+
+[members.0x2fc]
+name = "m_SpeedY"
+offset = 0x2fc
+type = "int"
+size = 0x4
+
+[members.0x300]
+name = "m_Gravity"
+offset = 0x300
+type = "int"
+size = 0x4
+
+[members.0x304]
+name = "m_Acceleration"
+offset = 0x304
+type = "int"
+size = 0x4
+
+[members.0x308]
+name = "m_SpeedZ"
+offset = 0x308
+type = "int"
+size = 0x4
+
+[members.0x30c]
+name = "m_AccelerationZ"
+offset = 0x30c
+type = "int"
+size = 0x4
+
+[members.0x310]
+name = "m_SpeedTimeLimit"
+offset = 0x310
+type = "int"
+size = 0x4
+
+[members.0x314]
+name = "m_HitBackX"
+offset = 0x314
+type = "int"
+size = 0x4
+
+[members.0x318]
+name = "m_HitBackXModoshi"
+offset = 0x318
+type = "int"
+size = 0x4
+
+[members.0x31c]
+name = "m_PushColWidth"
+offset = 0x31c
+type = "int"
+size = 0x4
+
+[members.0x320]
+name = "m_PushColHeight"
+offset = 0x320
+type = "int"
+size = 0x4
+
+[members.0x324]
+name = "m_PushColWidthFix"
+offset = 0x324
+type = "int"
+size = 0x4
+
+[members.0x328]
+name = "m_PushColHeightFix"
+offset = 0x328
+type = "int"
+size = 0x4
+
+[members.0x32c]
+name = "m_PushColHeightLow"
+offset = 0x32c
+type = "int"
+size = 0x4
+
+[members.0x330]
+name = "m_PushColWidthFront"
+offset = 0x330
+type = "int"
+size = 0x4
+
+[members.0x334]
+name = "m_WallTouchTime"
+offset = 0x334
+type = "uint"
+size = 0x4
+
+[members.0x338]
+name = "m_FrameMoveX"
+offset = 0x338
+type = "int"
+size = 0x4
+
+[members.0x33c]
+name = "m_FrameMoveY"
+offset = 0x33c
+type = "int"
+size = 0x4
+
+[members.0x340]
+name = "m_FrameMoveYCalc"
+offset = 0x340
+type = "int"
+size = 0x4
+
+[members.0x344]
+name = "m_NamerakaMoveX"
+offset = 0x344
+type = "int"
+size = 0x4
+
+[members.0x348]
+name = "m_PassiveMoveX"
+offset = 0x348
+type = "int"
+size = 0x4
+
+[members.0x34c]
+name = "m_PassiveMoveY"
+offset = 0x34c
+type = "int"
+size = 0x4
+
+[members.0x350]
+name = "m_PaletteID"
+offset = 0x350
+type = "int"
+size = 0x4
+
+[members.0x354]
+name = "m_PaletteSubID"
+offset = 0x354
+type = "int"
+size = 0x4
+
+[members.0x358]
+name = "m_CustomPalette"
+offset = 0x358
+type = "int"
+size = 0x4
+
+[members.0x388]
+name = "m_AfterImageColor"
+offset = 0x388
+type = "uint"
+size = 0x4
+
+[members.0x38c]
+name = "m_FloorReflectColor"
+offset = 0x38c
+type = "uint"
+size = 0x4
+
+[members.0x390]
+name = "m_MltColor"
+offset = 0x390
+type = "struct CColorWithSpeed"
+size = 0x2c
+
+[members.0x3bc]
+name = "m_HkrColor"
+offset = 0x3bc
+type = "struct CColorWithSpeed"
+size = 0x2c
+
+[members.0x3e8]
+name = "m_DestColor"
+offset = 0x3e8
+type = "uint"
+size = 0x4
+
+[members.0x3ec]
+name = "m_DestColorFirst"
+offset = 0x3ec
+type = "uint"
+size = 0x4
+
+[members.0x3f0]
+name = "m_DestColorTimerMax"
+offset = 0x3f0
+type = "uint"
+size = 0x4
+
+[members.0x3f4]
+name = "m_DestColorTimerCur"
+offset = 0x3f4
+type = "uint"
+size = 0x4
+
+[members.0x3f8]
+name = "m_DestColorFlag"
+offset = 0x3f8
+type = "uint"
+size = 0x4
+
+[members.0x404]
+name = "m_AfterImageBlendMode"
+offset = 0x404
+type = "uchar"
+size = 0x1
+
+[members.0x405]
+name = "m_AfterImageMaxNum"
+offset = 0x405
+type = "uchar"
+size = 0x1
+
+[members.0x406]
+name = "m_AfterImageSpan"
+offset = 0x406
+type = "uchar"
+size = 0x1
+
+[members.0x407]
+name = "m_AfterImagePulse"
+offset = 0x407
+type = "uchar"
+size = 0x1
+
+[members.0x408]
+name = "m_AfterImageFirstColor"
+offset = 0x408
+type = "uint"
+size = 0x4
+
+[members.0x40c]
+name = "m_AfterImageLastColor"
+offset = 0x40c
+type = "uint"
+size = 0x4
+
+[members.0x410]
+name = "m_AfterImageFirstAddColor"
+offset = 0x410
+type = "uint"
+size = 0x4
+
+[members.0x414]
+name = "m_AfterImageLastAddColor"
+offset = 0x414
+type = "uint"
+size = 0x4
+
+[members.0x418]
+name = "m_AfterImageFirstScale"
+offset = 0x418
+type = "int"
+size = 0x4
+
+[members.0x41c]
+name = "m_AfterImageLastScale"
+offset = 0x41c
+type = "int"
+size = 0x4
+
+[members.0x438]
+name = "m_WhiteFlashCount"
+offset = 0x438
+type = "uchar"
+size = 0x1
+
+[members.0x439]
+name = "m_WhiteCount"
+offset = 0x439
+type = "uchar"
+size = 0x1
+
+[members.0x43a]
+name = "m_RedFlashCount"
+offset = 0x43a
+type = "uchar"
+size = 0x1
+
+[members.0x43b]
+name = "m_RedCount"
+offset = 0x43b
+type = "uchar"
+size = 0x1
+
+[members.0x43c]
+name = "m_BlueFlashCount"
+offset = 0x43c
+type = "uchar"
+size = 0x1
+
+[members.0x43d]
+name = "m_BlueCount"
+offset = 0x43d
+type = "uchar"
+size = 0x1
+
+[members.0x43e]
+name = "m_WhiteAuraCount"
+offset = 0x43e
+type = "uchar"
+size = 0x1
+
+[members.0x43f]
+name = "m_RedAuraCount"
+offset = 0x43f
+type = "uchar"
+size = 0x1
+
+[members.0x440]
+name = "m_GreenAuraCount"
+offset = 0x440
+type = "uchar"
+size = 0x1
+
+[members.0x441]
+name = "m_GreenFlashCount"
+offset = 0x441
+type = "uchar"
+size = 0x1
+
+[members.0x442]
+name = "m_YellowAuraCount"
+offset = 0x442
+type = "uchar"
+size = 0x1
+
+[members.0x443]
+name = "m_YellowFlashCount"
+offset = 0x443
+type = "uchar"
+size = 0x1
+
+[members.0x444]
+name = "m_EtcAuraCount"
+offset = 0x444
+type = "uchar"
+size = 0x1
+
+[members.0x448]
+name = "m_EtcAuraColor"
+offset = 0x448
+type = "uint"
+size = 0x4
+
+[members.0x450]
+name = "m_pAttackSlave"
+offset = 0x450
+type = "struct OBJ_CBase*[0xa]"
+size = 0x28
+
+[members.0x478]
+name = "m_pLockLinkObj"
+offset = 0x478
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x47c]
+name = "m_pAttackSlaveNewest"
+offset = 0x47c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x480]
+name = "m_AttackSlaveCount"
+offset = 0x480
+type = "uint"
+size = 0x4
+
+[members.0x484]
+name = "m_AttackObjectMax"
+offset = 0x484
+type = "uint"
+size = 0x4
+
+[members.0x488]
+name = "m_AtkParam"
+offset = 0x488
+type = "struct CAtkParam"
+size = 0x1d4
+
+[members.0x65c]
+name = "m_AtkParamNH"
+offset = 0x65c
+type = "struct CAtkParamEx"
+size = 0x6c
+
+[members.0x6c8]
+name = "m_AtkParamCH"
+offset = 0x6c8
+type = "struct CAtkParamEx"
+size = 0x6c
+
+[members.0x734]
+name = "m_pAttackMaster"
+offset = 0x734
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x738]
+name = "m_pHitBackMaster"
+offset = 0x738
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x73c]
+name = "m_pAttackMasterPlayer"
+offset = 0x73c
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x740]
+name = "m_DmgParam"
+offset = 0x740
+type = "struct CAtkParam"
+size = 0x1d4
+
+[members.0x914]
+name = "m_DmgParamEx"
+offset = 0x914
+type = "struct CAtkParamEx"
+size = 0x6c
+
+[members.0x980]
+name = "m_DmgHitType"
+offset = 0x980
+type = "enum HIT_TYPE"
+size = 0x4
+
+[members.0x984]
+name = "m_DmgHitTypeFlag"
+offset = 0x984
+type = "uint"
+size = 0x4
+
+[members.0x988]
+name = "m_DmgBaseDirection"
+offset = 0x988
+type = "int"
+size = 0x4
+
+[members.0x98c]
+name = "m_MutekiTime"
+offset = 0x98c
+type = "int"
+size = 0x4
+
+[members.0x990]
+name = "m_MutekiNageTime"
+offset = 0x990
+type = "int"
+size = 0x4
+
+[members.0x994]
+name = "m_MutekiDagekiTime"
+offset = 0x994
+type = "int"
+size = 0x4
+
+[members.0x998]
+name = "m_MutekiFlag"
+offset = 0x998
+type = "uint"
+size = 0x4
+
+[members.0x9c4]
+name = "m_HitPosX"
+offset = 0x9c4
+type = "int"
+size = 0x4
+
+[members.0x9c8]
+name = "m_HitPosY"
+offset = 0x9c8
+type = "int"
+size = 0x4
+
+[members.0x9cc]
+name = "m_AtkPriority"
+offset = 0x9cc
+type = "int"
+size = 0x4
+
+[members.0x9d4]
+name = "m_HitPoint"
+offset = 0x9d4
+type = "int"
+size = 0x4
+
+[members.0x9d8]
+name = "m_HitPointMax"
+offset = 0x9d8
+type = "int"
+size = 0x4
+
+[members.0x9e0]
+name = "m_AfterImageInfos"
+offset = 0x9e0
+type = "struct CAfterImageInfo[0x14]"
+size = 0x870
+
+[members.0x1250]
+name = "m_CurAfterImageIdx"
+offset = 0x1250
+type = "int"
+size = 0x4
+
+[members.0x1254]
+name = "m_AfterImageType"
+offset = 0x1254
+type = "int"
+size = 0x4
+
+[members.0x1258]
+name = "m_PalEFfType"
+offset = 0x1258
+type = "int"
+size = 0x4
+
+[members.0x125c]
+name = "m_PalEffParam0"
+offset = 0x125c
+type = "int"
+size = 0x4
+
+[members.0x1260]
+name = "m_PalEffParam1"
+offset = 0x1260
+type = "int"
+size = 0x4
+
+[members.0x1264]
+name = "m_PalEffParam2"
+offset = 0x1264
+type = "int"
+size = 0x4
+
+[members.0x1268]
+name = "m_PalEffParam3"
+offset = 0x1268
+type = "int"
+size = 0x4
+
+[members.0x126c]
+name = "m_EffFadeParam0"
+offset = 0x126c
+type = "int"
+size = 0x4
+
+[members.0x1270]
+name = "m_EffFadeParam1"
+offset = 0x1270
+type = "int"
+size = 0x4
+
+[members.0x1274]
+name = "m_EffFadeParam2"
+offset = 0x1274
+type = "int"
+size = 0x4
+
+[members.0x1278]
+name = "m_EffFadeParam3"
+offset = 0x1278
+type = "int"
+size = 0x4
+
+[members.0x127c]
+name = "m_ParticleArg"
+offset = 0x127c
+type = "struct AA_CParticleArg"
+size = 0x64
+
+[members.0x12e0]
+name = "m_LinkParticleDir"
+offset = 0x12e0
+type = "int"
+size = 0x4
+
+[members.0x12e4]
+name = "m_LinkParticleID"
+offset = 0x12e4
+type = "uint"
+size = 0x4
+
+[members.0x12e8]
+name = "m_LinkModelHandle"
+offset = 0x12e8
+type = "struct AA_Handle"
+size = 0x4
+
+[members.0x12ec]
+name = "m_LinkModelHandleInst"
+offset = 0x12ec
+type = "struct AA_Handle"
+size = 0x4
+
+[members.0x12f0]
+name = "m_LinkModelID"
+offset = 0x12f0
+type = "uint"
+size = 0x4
+
+[members.0x12f4]
+name = "m_LinkDecalTexHandle"
+offset = 0x12f4
+type = "struct AA_Handle"
+size = 0x4
+
+[members.0x12f8]
+name = "m_PolyLineWidth"
+offset = 0x12f8
+type = "int"
+size = 0x4
+
+[members.0x12fc]
+name = "m_PolyLineTexHandle"
+offset = 0x12fc
+type = "struct AA_Handle"
+size = 0x4
+
+[members.0x1300]
+name = "m_DistortionLevel"
+offset = 0x1300
+type = "int"
+size = 0x4
+
+[members.0x1304]
+name = "m_DistortionLevelSpeed"
+offset = 0x1304
+type = "int"
+size = 0x4
+
+[members.0x1308]
+name = "m_pMultiBufferLarge"
+offset = 0x1308
+type = "uchar*"
+size = 0x4
+
+[members.0x130c]
+name = "m_pMultiBufferSmall"
+offset = 0x130c
+type = "uchar*"
+size = 0x4
+
+[members.0x1310]
+name = "m_ScriptFlag"
+offset = 0x1310
+type = "uint"
+size = 0x4
+
+[members.0x1314]
+name = "m_ScriptGotoAddr"
+offset = 0x1314
+type = "uchar*"
+size = 0x4
+
+[members.0x1318]
+name = "m_pBBSFile"
+offset = 0x1318
+type = "struct CBBSFileAnalyzeData*"
+size = 0x4
+
+[members.0x131c]
+name = "m_TopAddr"
+offset = 0x131c
+type = "uchar*"
+size = 0x4
+
+[members.0x1320]
+name = "m_CurAddr"
+offset = 0x1320
+type = "uchar*"
+size = 0x4
+
+[members.0x1324]
+name = "m_CurActionTopAddr"
+offset = 0x1324
+type = "uchar*"
+size = 0x4
+
+[members.0x1328]
+name = "m_CellTime"
+offset = 0x1328
+type = "int"
+size = 0x4
+
+[members.0x132c]
+name = "m_CellTimeReserve"
+offset = 0x132c
+type = "int"
+size = 0x4
+
+[members.0x1330]
+name = "m_CellTimeMax"
+offset = 0x1330
+type = "int"
+size = 0x4
+
+[members.0x1334]
+name = "m_CellBeginCount"
+offset = 0x1334
+type = "int"
+size = 0x4
+
+[members.0x1338]
+name = "m_CellName"
+offset = 0x1338
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x1358]
+name = "m_InterruptInfo"
+offset = 0x1358
+type = "struct CInterruptInfo[0x3e]"
+size = 0xc98
+
+[members.0x1ff0]
+name = "m_TmpArgAddr"
+offset = 0x1ff0
+type = "uchar*"
+size = 0x4
+
+[members.0x1ff4]
+name = "m_PreActionName"
+offset = 0x1ff4
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x2014]
+name = "m_CurActionName"
+offset = 0x2014
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x2034]
+name = "m_pControlObject"
+offset = 0x2034
+type = "struct OBJ_CBase*"
+size = 0x4
+
+[members.0x2038]
+name = "m_IfReturnVal"
+offset = 0x2038
+type = "int"
+size = 0x4
+
+[members.0x203c]
+name = "m_CellTimeStopOnece"
+offset = 0x203c
+type = "bool"
+size = 0x1
+
+[members.0x2040]
+name = "m_ActionRequestInfo"
+offset = 0x2040
+type = "struct CActionRequestInfo"
+size = 0x30
+
+[members.0x2070]
+name = "m_ActionRequestInfoReg"
+offset = 0x2070
+type = "struct CActionRequestInfo"
+size = 0x30
+
+[members.0x20a0]
+name = "m_CompositeImageInfo"
+offset = 0x20a0
+type = "struct CCompositeImageInfo[0x3]"
+size = 0xc0
+
+[members.0x2160]
+name = "m_PrivateInterrupt"
+offset = 0x2160
+type = "struct CXXBYTE<16>"
+size = 0x10
+
+[members.0x2170]
+name = "m_MagnetX"
+offset = 0x2170
+type = "int"
+size = 0x4
+
+[members.0x2174]
+name = "m_MagnetY"
+offset = 0x2174
+type = "int"
+size = 0x4
+
+[members.0x2178]
+name = "m_MagnetTime"
+offset = 0x2178
+type = "int"
+size = 0x4
+
+[members.0x217c]
+name = "m_DamageEffectCount"
+offset = 0x217c
+type = "int"
+size = 0x4
+
+[members.0x2180]
+name = "m_PoisonTime"
+offset = 0x2180
+type = "int"
+size = 0x4
+
+[members.0x2184]
+name = "m_PoisonTimeLoop"
+offset = 0x2184
+type = "int"
+size = 0x4
+
+[members.0x2188]
+name = "m_OutSpeedX"
+offset = 0x2188
+type = "int"
+size = 0x4
+
+[members.0x218c]
+name = "m_OutSpeedXSelf"
+offset = 0x218c
+type = "int"
+size = 0x4
+
+[members.0x2190]
+name = "m_OutSpeedTimer"
+offset = 0x2190
+type = "int"
+size = 0x4
+
+[members.0x21c0]
+name = "m_PlayerActionChangeIdOnCreate"
+offset = 0x21c0
+type = "uint"
+size = 0x4
+
+[members.0x21c4]
+name = "m_AstralCameraTimer"
+offset = 0x21c4
+type = "uchar"
+size = 0x1
+
+[members.0x21c5]
+name = "m_AstralCameraRate"
+offset = 0x21c5
+type = "uchar"
+size = 0x1
+
+[members.0x21c8]
+name = "m_ShotDamageRate"
+offset = 0x21c8
+type = "int"
+size = 0x4
+
+[members.0x21cc]
+name = "m_DodgeEffectTimer"
+offset = 0x21cc
+type = "int"
+size = 0x4
+
+[members.0x21d0]
+name = "m_KowareDone"
+offset = 0x21d0
+type = "bool"
+size = 0x1
+
+[members.0x21d4]
+name = "m_KowareCur"
+offset = 0x21d4
+type = "int"
+size = 0x4
+
+[members.0x21d8]
+name = "m_KowareMax"
+offset = 0x21d8
+type = "int"
+size = 0x4
+
+[members.0x21dc]
+name = "m_KowareOnEnemyDamage"
+offset = 0x21dc
+type = "int"
+size = 0x4
+
+[members.0x21e0]
+name = "m_KowareOnEnemyGuard"
+offset = 0x21e0
+type = "int"
+size = 0x4
+
+[members.0x21e4]
+name = "m_KowareOnObjectHit"
+offset = 0x21e4
+type = "int"
+size = 0x4
+
+[members.0x21e8]
+name = "m_KowareOnSousai"
+offset = 0x21e8
+type = "int"
+size = 0x4
+
+[members.0x21ec]
+name = "m_KowareOnDamageCollision"
+offset = 0x21ec
+type = "int"
+size = 0x4
+
+[members.0x21f0]
+name = "m_KowareTenmetsuTime"
+offset = 0x21f0
+type = "int"
+size = 0x4
+
+[members.0x21f4]
+name = "m_KowareOnDamageOnly"
+offset = 0x21f4
+type = "int"
+size = 0x4
+
+[members.0x21f8]
+name = "m_YukkuriSpeedPer"
+offset = 0x21f8
+type = "int"
+size = 0x4
+
+[members.0x21fc]
+name = "m_YukkuriSpeedX"
+offset = 0x21fc
+type = "int"
+size = 0x4
+
+[members.0x2200]
+name = "m_YukkuriSpeedY"
+offset = 0x2200
+type = "int"
+size = 0x4
+
+[members.0x2204]
+name = "m_HomingObj"
+offset = 0x2204
+type = "enum CO_TYPE"
+size = 0x4
+
+[members.0x2208]
+name = "m_HomingPos"
+offset = 0x2208
+type = "enum POS_TYPE"
+size = 0x4
+
+[members.0x220c]
+name = "m_HomingOfsX"
+offset = 0x220c
+type = "int"
+size = 0x4
+
+[members.0x2210]
+name = "m_HomingOfsY"
+offset = 0x2210
+type = "int"
+size = 0x4
+
+[members.0x2214]
+name = "m_HomingParamA"
+offset = 0x2214
+type = "int"
+size = 0x4
+
+[members.0x2218]
+name = "m_HomingParamB"
+offset = 0x2218
+type = "int"
+size = 0x4
+
+[members.0x221c]
+name = "m_SignalName"
+offset = 0x221c
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x223c]
+name = "m_SignalName_Param"
+offset = 0x223c
+type = "int"
+size = 0x4
+
+[members.0x2240]
+name = "m_CameraScale"
+offset = 0x2240
+type = "int"
+size = 0x4
+
+[members.0x2244]
+name = "m_UnkObj"
+offset = 0x2244
+type = "enum CO_TYPE"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.791143Z
+name = "_SCM_PD_PASSTHROUGH_INVDIMM_OUTPUT"
+size = 0xc
+
+[members.0x0]
+name = "GeneralStatus"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "ExtendedStatus"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "OutputDataLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "OutputData"
+offset = 0x8
+type = "BYTE[0x1]"
+size = 0x1

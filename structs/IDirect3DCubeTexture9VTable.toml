@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.610817Z
+name = "IDirect3DCubeTexture9VTable"
+size = 0x58
+
+[members.0x44]
+name = "GetLevelDesc"
+offset = 0x44
+type = "HRESULT (*)(struct IDirect3DCubeTexture9* this, uint Level, struct D3DSURFACE_DESC* pDesc)"
+size = 0x4
+
+[members.0x48]
+name = "GetCubeMapSurface"
+offset = 0x48
+type = "HRESULT (*)(struct IDirect3DCubeTexture9* this, enum D3DCUBEMAP_FACES FaceType, uint Level, struct IDirect3DSurface9* ppCubeMapSurface)"
+size = 0x4
+
+[members.0x4c]
+name = "LockRect"
+offset = 0x4c
+type = "HRESULT (*)(struct IDirect3DCubeTexture9* this, enum D3DCUBEMAP_FACES FaceType, uint Level, struct D3DLOCKED_RECT* pLockedRect, RECT* pRect, uint Flags)"
+size = 0x4
+
+[members.0x50]
+name = "UnlockRect"
+offset = 0x50
+type = "HRESULT (*)(struct IDirect3DCubeTexture9* this, enum D3DCUBEMAP_FACES FaceType, uint Level)"
+size = 0x4
+
+[members.0x54]
+name = "AddDirtyRect"
+offset = 0x54
+type = "HRESULT (*)(struct IDirect3DCubeTexture9* this, enum D3DCUBEMAP_FACES FaceType, RECT* pDirtyRect)"
+size = 0x4

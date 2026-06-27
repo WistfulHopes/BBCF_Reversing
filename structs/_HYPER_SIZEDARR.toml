@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.709695Z
+name = "_HYPER_SIZEDARR"
+size = 0x8
+
+[members.0x0]
+name = "clSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "pData"
+offset = 0x4
+type = "long long*"
+size = 0x4

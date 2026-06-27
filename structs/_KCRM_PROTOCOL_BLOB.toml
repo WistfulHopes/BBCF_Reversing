@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.727004Z
+name = "_KCRM_PROTOCOL_BLOB"
+size = 0x20
+
+[members.0x0]
+name = "ProtocolId"
+offset = 0x0
+type = "CRM_PROTOCOL_ID"
+size = 0x10
+
+[members.0x10]
+name = "StaticInfoLength"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "TransactionIdInfoLength"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "Unused1"
+offset = 0x18
+type = "ULONG"
+size = 0x4
+
+[members.0x1c]
+name = "Unused2"
+offset = 0x1c
+type = "ULONG"
+size = 0x4

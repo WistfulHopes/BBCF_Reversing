@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.775406Z
+name = "_RDR_CALLOUT_STATE"
+size = 0x58
+
+[members.0x0]
+name = "LastError"
+offset = 0x0
+type = "RPC_STATUS"
+size = 0x4
+
+[members.0x4]
+name = "LastEEInfo"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x8]
+name = "LastCalledStage"
+offset = 0x8
+type = "RPC_HTTP_REDIRECTOR_STAGE"
+size = 0x4
+
+[members.0xc]
+name = "ServerName"
+offset = 0xc
+type = "ushort*"
+size = 0x4
+
+[members.0x10]
+name = "ServerPort"
+offset = 0x10
+type = "ushort*"
+size = 0x4
+
+[members.0x14]
+name = "RemoteUser"
+offset = 0x14
+type = "ushort*"
+size = 0x4
+
+[members.0x18]
+name = "AuthType"
+offset = 0x18
+type = "ushort*"
+size = 0x4
+
+[members.0x1c]
+name = "ResourceTypePresent"
+offset = 0x1c
+type = "uchar"
+size = 0x1
+
+[members.0x1d]
+name = "SessionIdPresent"
+offset = 0x1d
+type = "uchar"
+size = 0x1
+
+[members.0x1e]
+name = "InterfacePresent"
+offset = 0x1e
+type = "uchar"
+size = 0x1
+
+[members.0x20]
+name = "ResourceType"
+offset = 0x20
+type = "UUID"
+size = 0x10
+
+[members.0x30]
+name = "SessionId"
+offset = 0x30
+type = "UUID"
+size = 0x10
+
+[members.0x40]
+name = "Interface"
+offset = 0x40
+type = "RPC_SYNTAX_IDENTIFIER"
+size = 0x14
+
+[members.0x54]
+name = "CertContext"
+offset = 0x54
+type = "void*"
+size = 0x4

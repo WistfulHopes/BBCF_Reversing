@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.636996Z
+name = "_BIN_RANGE"
+size = 0x10
+
+[members.0x0]
+name = "StartValue"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8

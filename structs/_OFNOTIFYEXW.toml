@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.747054Z
+name = "_OFNOTIFYEXW"
+size = 0x18
+
+[members.0x0]
+name = "hdr"
+offset = 0x0
+type = "NMHDR"
+size = 0xc
+
+[members.0xc]
+name = "lpOFN"
+offset = 0xc
+type = "LPOPENFILENAMEW"
+size = 0x4
+
+[members.0x10]
+name = "psf"
+offset = 0x10
+type = "LPVOID"
+size = 0x4
+
+[members.0x14]
+name = "pidl"
+offset = 0x14
+type = "LPVOID"
+size = 0x4

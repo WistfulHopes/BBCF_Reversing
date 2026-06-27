@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.643846Z
+name = "_CERT_OTHER_LOGOTYPE_INFO"
+size = 0xc
+
+[members.0x0]
+name = "pszObjId"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "LogotypeInfo"
+offset = 0x4
+type = "CERT_LOGOTYPE_INFO"
+size = 0x8

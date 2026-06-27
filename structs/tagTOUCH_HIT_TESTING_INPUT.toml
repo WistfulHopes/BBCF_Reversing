@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.917286Z
+name = "tagTOUCH_HIT_TESTING_INPUT"
+size = 0x30
+
+[members.0x0]
+name = "pointerId"
+offset = 0x0
+type = "UINT32"
+size = 0x4
+
+[members.0x4]
+name = "point"
+offset = 0x4
+type = "POINT"
+size = 0x8
+
+[members.0xc]
+name = "boundingBox"
+offset = 0xc
+type = "RECT"
+size = 0x10
+
+[members.0x1c]
+name = "nonOccludedBoundingBox"
+offset = 0x1c
+type = "RECT"
+size = 0x10
+
+[members.0x2c]
+name = "orientation"
+offset = 0x2c
+type = "UINT32"
+size = 0x4

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.708257Z
+name = "_GLYPHMETRICS"
+size = 0x14
+
+[members.0x0]
+name = "gmBlackBoxX"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "gmBlackBoxY"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "gmptGlyphOrigin"
+offset = 0x8
+type = "POINT"
+size = 0x8
+
+[members.0x10]
+name = "gmCellIncX"
+offset = 0x10
+type = "short"
+size = 0x2
+
+[members.0x12]
+name = "gmCellIncY"
+offset = 0x12
+type = "short"
+size = 0x2

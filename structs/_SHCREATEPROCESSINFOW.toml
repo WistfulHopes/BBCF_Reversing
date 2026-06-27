@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.800473Z
+name = "_SHCREATEPROCESSINFOW"
+size = 0x34
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "fMask"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "hwnd"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "pszFile"
+offset = 0xc
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "pszParameters"
+offset = 0x10
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x14]
+name = "pszCurrentDirectory"
+offset = 0x14
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x18]
+name = "hUserToken"
+offset = 0x18
+type = "HANDLE"
+size = 0x4
+
+[members.0x1c]
+name = "lpProcessAttributes"
+offset = 0x1c
+type = "LPSECURITY_ATTRIBUTES"
+size = 0x4
+
+[members.0x20]
+name = "lpThreadAttributes"
+offset = 0x20
+type = "LPSECURITY_ATTRIBUTES"
+size = 0x4
+
+[members.0x24]
+name = "bInheritHandles"
+offset = 0x24
+type = "BOOL"
+size = 0x4
+
+[members.0x28]
+name = "dwCreationFlags"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "lpStartupInfo"
+offset = 0x2c
+type = "LPSTARTUPINFOW"
+size = 0x4
+
+[members.0x30]
+name = "lpProcessInformation"
+offset = 0x30
+type = "LPPROCESS_INFORMATION"
+size = 0x4

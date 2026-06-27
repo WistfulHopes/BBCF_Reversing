@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.627449Z
+name = "STORAGE_BREAK_RESERVATION_REQUEST"
+size = 0x8
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "_unused"
+offset = 0x4
+type = "BYTE"
+size = 0x1
+
+[members.0x5]
+name = "PathId"
+offset = 0x5
+type = "BYTE"
+size = 0x1
+
+[members.0x6]
+name = "TargetId"
+offset = 0x6
+type = "BYTE"
+size = 0x1
+
+[members.0x7]
+name = "Lun"
+offset = 0x7
+type = "BYTE"
+size = 0x1

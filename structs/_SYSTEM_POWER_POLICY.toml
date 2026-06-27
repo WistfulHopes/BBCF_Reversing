@@ -1,0 +1,171 @@
+last_change = 2026-06-27T20:49:16.820691Z
+name = "_SYSTEM_POWER_POLICY"
+size = 0xe8
+
+[members.0x0]
+name = "Revision"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "PowerButton"
+offset = 0x4
+type = "POWER_ACTION_POLICY"
+size = 0xc
+
+[members.0x10]
+name = "SleepButton"
+offset = 0x10
+type = "POWER_ACTION_POLICY"
+size = 0xc
+
+[members.0x1c]
+name = "LidClose"
+offset = 0x1c
+type = "POWER_ACTION_POLICY"
+size = 0xc
+
+[members.0x28]
+name = "LidOpenWake"
+offset = 0x28
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x2c]
+name = "Reserved"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "Idle"
+offset = 0x30
+type = "POWER_ACTION_POLICY"
+size = 0xc
+
+[members.0x3c]
+name = "IdleTimeout"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "IdleSensitivity"
+offset = 0x40
+type = "BYTE"
+size = 0x1
+
+[members.0x41]
+name = "DynamicThrottle"
+offset = 0x41
+type = "BYTE"
+size = 0x1
+
+[members.0x42]
+name = "Spare2"
+offset = 0x42
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x44]
+name = "MinSleep"
+offset = 0x44
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x48]
+name = "MaxSleep"
+offset = 0x48
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x4c]
+name = "ReducedLatencySleep"
+offset = 0x4c
+type = "SYSTEM_POWER_STATE"
+size = 0x4
+
+[members.0x50]
+name = "WinLogonFlags"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "Spare3"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "DozeS4Timeout"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "BroadcastCapacityResolution"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "DischargePolicy"
+offset = 0x60
+type = "SYSTEM_POWER_LEVEL[0x4]"
+size = 0x60
+
+[members.0xc0]
+name = "VideoTimeout"
+offset = 0xc0
+type = "DWORD"
+size = 0x4
+
+[members.0xc4]
+name = "VideoDimDisplay"
+offset = 0xc4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xc8]
+name = "VideoReserved"
+offset = 0xc8
+type = "DWORD[0x3]"
+size = 0xc
+
+[members.0xd4]
+name = "SpindownTimeout"
+offset = 0xd4
+type = "DWORD"
+size = 0x4
+
+[members.0xd8]
+name = "OptimizeForPower"
+offset = 0xd8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd9]
+name = "FanThrottleTolerance"
+offset = 0xd9
+type = "BYTE"
+size = 0x1
+
+[members.0xda]
+name = "ForcedThrottle"
+offset = 0xda
+type = "BYTE"
+size = 0x1
+
+[members.0xdb]
+name = "MinThrottle"
+offset = 0xdb
+type = "BYTE"
+size = 0x1
+
+[members.0xdc]
+name = "OverThrottled"
+offset = 0xdc
+type = "POWER_ACTION_POLICY"
+size = 0xc

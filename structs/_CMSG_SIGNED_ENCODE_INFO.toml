@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.656400Z
+name = "_CMSG_SIGNED_ENCODE_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cSigners"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgSigners"
+offset = 0x8
+type = "PCMSG_SIGNER_ENCODE_INFO"
+size = 0x4
+
+[members.0xc]
+name = "cCertEncoded"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rgCertEncoded"
+offset = 0x10
+type = "PCERT_BLOB"
+size = 0x4
+
+[members.0x14]
+name = "cCrlEncoded"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "rgCrlEncoded"
+offset = 0x18
+type = "PCRL_BLOB"
+size = 0x4

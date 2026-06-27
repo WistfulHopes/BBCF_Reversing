@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.693702Z
+name = "_EXCEPTION_POINTERS"
+size = 0x8
+
+[members.0x0]
+name = "ExceptionRecord"
+offset = 0x0
+type = "PEXCEPTION_RECORD"
+size = 0x4
+
+[members.0x4]
+name = "ContextRecord"
+offset = 0x4
+type = "PCONTEXT"
+size = 0x4

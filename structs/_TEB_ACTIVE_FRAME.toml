@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.824131Z
+name = "_TEB_ACTIVE_FRAME"
+size = 0xc
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Previous"
+offset = 0x4
+type = "struct _TEB_ACTIVE_FRAME*"
+size = 0x4
+
+[members.0x8]
+name = "Context"
+offset = 0x8
+type = "PCTEB_ACTIVE_FRAME_CONTEXT"
+size = 0x4

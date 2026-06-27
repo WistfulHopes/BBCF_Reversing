@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.640232Z
+name = "_CERT_CHAIN_ELEMENT"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pCertContext"
+offset = 0x4
+type = "PCCERT_CONTEXT"
+size = 0x4
+
+[members.0x8]
+name = "TrustStatus"
+offset = 0x8
+type = "CERT_TRUST_STATUS"
+size = 0x8
+
+[members.0x10]
+name = "pRevocationInfo"
+offset = 0x10
+type = "PCERT_REVOCATION_INFO"
+size = 0x4
+
+[members.0x14]
+name = "pIssuanceUsage"
+offset = 0x14
+type = "PCERT_ENHKEY_USAGE"
+size = 0x4
+
+[members.0x18]
+name = "pApplicationUsage"
+offset = 0x18
+type = "PCERT_ENHKEY_USAGE"
+size = 0x4
+
+[members.0x1c]
+name = "pwszExtendedErrorInfo"
+offset = 0x1c
+type = "LPCWSTR"
+size = 0x4

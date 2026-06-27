@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.594619Z
+name = "COPYFILE2_MESSAGE"
+size = 0x48
+
+[members.0x0]
+name = "Type"
+offset = 0x0
+type = "COPYFILE2_MESSAGE_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "dwPadding"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Info"
+offset = 0x8
+type = "union"
+size = 0x40

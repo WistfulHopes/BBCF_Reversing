@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.662325Z
+name = "_CROSS_CERT_DIST_POINTS_INFO"
+size = 0xc
+
+[members.0x0]
+name = "dwSyncDeltaTime"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cDistPoint"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgDistPoint"
+offset = 0x8
+type = "PCERT_ALT_NAME_INFO"
+size = 0x4

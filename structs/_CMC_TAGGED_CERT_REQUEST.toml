@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.652112Z
+name = "_CMC_TAGGED_CERT_REQUEST"
+size = 0xc
+
+[members.0x0]
+name = "dwBodyPartID"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SignedCertRequest"
+offset = 0x4
+type = "CRYPT_DER_BLOB"
+size = 0x8

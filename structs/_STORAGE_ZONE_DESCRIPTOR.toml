@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.816278Z
+name = "_STORAGE_ZONE_DESCRIPTOR"
+size = 0x20
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ZoneType"
+offset = 0x4
+type = "STORAGE_ZONE_TYPES"
+size = 0x4
+
+[members.0x8]
+name = "ZoneCondition"
+offset = 0x8
+type = "STORAGE_ZONE_CONDITION"
+size = 0x4
+
+[members.0xc]
+name = "ResetWritePointerRecommend"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "Reserved0"
+offset = 0xd
+type = "BYTE[0x3]"
+size = 0x3
+
+[members.0x10]
+name = "ZoneSize"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "WritePointerOffset"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8

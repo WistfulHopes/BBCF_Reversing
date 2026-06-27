@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.890188Z
+name = "tagMENUGETOBJECTINFO"
+size = 0x14
+
+[members.0x0]
+name = "dwFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "uPos"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "hmenu"
+offset = 0x8
+type = "HMENU"
+size = 0x4
+
+[members.0xc]
+name = "riid"
+offset = 0xc
+type = "PVOID"
+size = 0x4
+
+[members.0x10]
+name = "pvObj"
+offset = 0x10
+type = "PVOID"
+size = 0x4

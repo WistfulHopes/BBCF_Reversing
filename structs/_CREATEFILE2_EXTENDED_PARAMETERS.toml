@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.660825Z
+name = "_CREATEFILE2_EXTENDED_PARAMETERS"
+size = 0x18
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwFileAttributes"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwFileFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwSecurityQosFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "lpSecurityAttributes"
+offset = 0x10
+type = "LPSECURITY_ATTRIBUTES"
+size = 0x4
+
+[members.0x14]
+name = "hTemplateFile"
+offset = 0x14
+type = "HANDLE"
+size = 0x4

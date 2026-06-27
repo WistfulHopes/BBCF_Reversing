@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.658309Z
+name = "_COMPATIBILITY_CONTEXT_ELEMENT"
+size = 0x20
+
+[members.0x0]
+name = "Id"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "Type"
+offset = 0x10
+type = "ACTCTX_COMPATIBILITY_ELEMENT_TYPE"
+size = 0x4
+
+[members.0x18]
+name = "MaxVersionTested"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8

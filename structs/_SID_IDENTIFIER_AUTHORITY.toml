@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.802878Z
+name = "_SID_IDENTIFIER_AUTHORITY"
+size = 0x6
+
+[members.0x0]
+name = "Value"
+offset = 0x0
+type = "BYTE[0x6]"
+size = 0x6

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.902416Z
+name = "tagOLEVERB"
+size = 0x10
+
+[members.0x0]
+name = "lVerb"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "lpszVerbName"
+offset = 0x4
+type = "LPOLESTR"
+size = 0x4
+
+[members.0x8]
+name = "fuFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "grfAttribs"
+offset = 0xc
+type = "DWORD"
+size = 0x4

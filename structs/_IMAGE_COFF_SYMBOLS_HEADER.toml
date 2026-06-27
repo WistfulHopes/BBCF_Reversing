@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.711480Z
+name = "_IMAGE_COFF_SYMBOLS_HEADER"
+size = 0x20
+
+[members.0x0]
+name = "NumberOfSymbols"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "LvaToFirstSymbol"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NumberOfLinenumbers"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "LvaToFirstLinenumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "RvaToFirstByteOfCode"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "RvaToLastByteOfCode"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "RvaToFirstByteOfData"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "RvaToLastByteOfData"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

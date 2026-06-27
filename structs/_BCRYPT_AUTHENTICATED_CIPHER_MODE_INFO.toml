@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.633872Z
+name = "_BCRYPT_AUTHENTICATED_CIPHER_MODE_INFO"
+size = 0x40
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwInfoVersion"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pbNonce"
+offset = 0x8
+type = "PUCHAR"
+size = 0x4
+
+[members.0xc]
+name = "cbNonce"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "pbAuthData"
+offset = 0x10
+type = "PUCHAR"
+size = 0x4
+
+[members.0x14]
+name = "cbAuthData"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "pbTag"
+offset = 0x18
+type = "PUCHAR"
+size = 0x4
+
+[members.0x1c]
+name = "cbTag"
+offset = 0x1c
+type = "ULONG"
+size = 0x4
+
+[members.0x20]
+name = "pbMacContext"
+offset = 0x20
+type = "PUCHAR"
+size = 0x4
+
+[members.0x24]
+name = "cbMacContext"
+offset = 0x24
+type = "ULONG"
+size = 0x4
+
+[members.0x28]
+name = "cbAAD"
+offset = 0x28
+type = "ULONG"
+size = 0x4
+
+[members.0x30]
+name = "cbData"
+offset = 0x30
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x38]
+name = "dwFlags"
+offset = 0x38
+type = "ULONG"
+size = 0x4

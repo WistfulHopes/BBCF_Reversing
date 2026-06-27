@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.649769Z
+name = "_CHANGER_SEND_VOLUME_TAG_INFORMATION"
+size = 0x34
+
+[members.0x0]
+name = "StartingElement"
+offset = 0x0
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x8]
+name = "ActionCode"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "VolumeIDTemplate"
+offset = 0xc
+type = "BYTE[0x28]"
+size = 0x28

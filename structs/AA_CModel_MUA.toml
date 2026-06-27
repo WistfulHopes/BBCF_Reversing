@@ -1,0 +1,105 @@
+last_change = 2026-06-27T20:49:16.581084Z
+name = "AA_CModel_MUA"
+size = 0x84
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_CModel::AA_CModel_MUA::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_pMuaTop"
+offset = 0x4
+type = "void*"
+size = 0x4
+
+[members.0x30]
+name = "m_pSkelTop"
+offset = 0x30
+type = "void*"
+size = 0x4
+
+[members.0x34]
+name = "m_pBoneTop"
+offset = 0x34
+type = "void*"
+size = 0x4
+
+[members.0x38]
+name = "m_pModelTop"
+offset = 0x38
+type = "void*"
+size = 0x4
+
+[members.0x3c]
+name = "m_pMeshTop"
+offset = 0x3c
+type = "void*"
+size = 0x4
+
+[members.0x40]
+name = "m_pMatTop"
+offset = 0x40
+type = "void*"
+size = 0x4
+
+[members.0x44]
+name = "m_pTextureTop"
+offset = 0x44
+type = "void*"
+size = 0x4
+
+[members.0x48]
+name = "m_pTexNameTop"
+offset = 0x48
+type = "void*"
+size = 0x4
+
+[members.0x4c]
+name = "m_pAnimKeyTop"
+offset = 0x4c
+type = "void*"
+size = 0x4
+
+[members.0x50]
+name = "m_pAnimValTop"
+offset = 0x50
+type = "void*"
+size = 0x4
+
+[members.0x54]
+name = "m_pIndexTop"
+offset = 0x54
+type = "void*"
+size = 0x4
+
+[members.0x58]
+name = "m_pVertexTop"
+offset = 0x58
+type = "void*"
+size = 0x4
+
+[members.0x5c]
+name = "m_pFaceTop"
+offset = 0x5c
+type = "void*"
+size = 0x4
+
+[members.0x60]
+name = "m_pStrTblTop"
+offset = 0x60
+type = "void*"
+size = 0x4
+
+[members.0x64]
+name = "m_pStrValTop"
+offset = 0x64
+type = "void*"
+size = 0x4
+
+[members.0x7c]
+name = "m_pMuaData"
+offset = 0x7c
+type = "void*"
+size = 0x4

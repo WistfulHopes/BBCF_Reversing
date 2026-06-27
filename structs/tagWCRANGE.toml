@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.921425Z
+name = "tagWCRANGE"
+size = 0x4
+
+[members.0x0]
+name = "wcLow"
+offset = 0x0
+type = "WCHAR"
+size = 0x2
+
+[members.0x2]
+name = "cGlyphs"
+offset = 0x2
+type = "USHORT"
+size = 0x2

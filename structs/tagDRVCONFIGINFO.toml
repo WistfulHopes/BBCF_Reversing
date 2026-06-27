@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.863494Z
+name = "tagDRVCONFIGINFO"
+size = 0xc
+
+[members.0x0]
+name = "dwDCISize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "lpszDCISectionName"
+offset = 0x4
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpszDCIAliasName"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4

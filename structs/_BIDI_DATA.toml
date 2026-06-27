@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.636415Z
+name = "_BIDI_DATA"
+size = 0xc
+
+[members.0x0]
+name = "dwBidiType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "u"
+offset = 0x4
+type = "union"
+size = 0x8

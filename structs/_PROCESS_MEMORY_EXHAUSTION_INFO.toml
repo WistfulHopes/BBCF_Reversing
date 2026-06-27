@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.768290Z
+name = "_PROCESS_MEMORY_EXHAUSTION_INFO"
+size = 0xc
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "PROCESS_MEMORY_EXHAUSTION_TYPE"
+size = 0x4
+
+[members.0x8]
+name = "Value"
+offset = 0x8
+type = "ULONG_PTR"
+size = 0x4

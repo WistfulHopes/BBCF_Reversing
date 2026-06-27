@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.788903Z
+name = "_SCM_INTERLEAVED_PD_INFO"
+size = 0x14
+
+[members.0x0]
+name = "DeviceHandle"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DeviceGuid"
+offset = 0x4
+type = "GUID"
+size = 0x10

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.706361Z
+name = "_FS_BPIO_INPUT"
+size = 0x18
+
+[members.0x0]
+name = "Operation"
+offset = 0x0
+type = "FS_BPIO_OPERATIONS"
+size = 0x4
+
+[members.0x4]
+name = "InFlags"
+offset = 0x4
+type = "FS_BPIO_INFLAGS"
+size = 0x4
+
+[members.0x8]
+name = "Reserved1"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "Reserved2"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8

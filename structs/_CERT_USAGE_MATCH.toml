@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.648417Z
+name = "_CERT_USAGE_MATCH"
+size = 0xc
+
+[members.0x0]
+name = "dwType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Usage"
+offset = 0x4
+type = "CERT_ENHKEY_USAGE"
+size = 0x8

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.775680Z
+name = "_READ_ELEMENT_ADDRESS_INFO"
+size = 0x68
+
+[members.0x0]
+name = "NumberOfElements"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ElementStatus"
+offset = 0x4
+type = "CHANGER_ELEMENT_STATUS[0x1]"
+size = 0x64

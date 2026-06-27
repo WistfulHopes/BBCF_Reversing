@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.709991Z
+name = "_ICONINFOEXA"
+size = 0x224
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "fIcon"
+offset = 0x4
+type = "BOOL"
+size = 0x4
+
+[members.0x8]
+name = "xHotspot"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "yHotspot"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "hbmMask"
+offset = 0x10
+type = "HBITMAP"
+size = 0x4
+
+[members.0x14]
+name = "hbmColor"
+offset = 0x14
+type = "HBITMAP"
+size = 0x4
+
+[members.0x18]
+name = "wResID"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "szModName"
+offset = 0x1a
+type = "CHAR[0x104]"
+size = 0x104
+
+[members.0x11e]
+name = "szResName"
+offset = 0x11e
+type = "CHAR[0x104]"
+size = 0x104

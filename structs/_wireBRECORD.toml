@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.845980Z
+name = "_wireBRECORD"
+size = 0x10
+
+[members.0x0]
+name = "fFlags"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "clSize"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pRecInfo"
+offset = 0x8
+type = "void*"
+size = 0x4
+
+[members.0xc]
+name = "pRecord"
+offset = 0xc
+type = "byte*"
+size = 0x4

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.682844Z
+name = "_DISK_RECORD"
+size = 0x28
+
+[members.0x0]
+name = "ByteOffset"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "StartTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "EndTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "VirtualAddress"
+offset = 0x18
+type = "PVOID"
+size = 0x4
+
+[members.0x1c]
+name = "NumberOfBytes"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "DeviceNumber"
+offset = 0x20
+type = "BYTE"
+size = 0x1
+
+[members.0x21]
+name = "ReadRequest"
+offset = 0x21
+type = "BOOLEAN"
+size = 0x1

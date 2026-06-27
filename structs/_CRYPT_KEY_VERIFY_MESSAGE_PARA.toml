@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.666961Z
+name = "_CRYPT_KEY_VERIFY_MESSAGE_PARA"
+size = 0xc
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwMsgEncodingType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hCryptProv"
+offset = 0x8
+type = "HCRYPTPROV_LEGACY"
+size = 0x4

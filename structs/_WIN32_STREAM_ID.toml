@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.836971Z
+name = "_WIN32_STREAM_ID"
+size = 0x18
+
+[members.0x0]
+name = "dwStreamId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwStreamAttributes"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Size"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "dwStreamNameSize"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "cStreamName"
+offset = 0x14
+type = "WCHAR[0x1]"
+size = 0x2

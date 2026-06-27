@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.766435Z
+name = "_PROCESS_BASIC_INFORMATION"
+size = 0x18
+
+[members.0x0]
+name = "ExitStatus"
+offset = 0x0
+type = "NTSTATUS"
+size = 0x4
+
+[members.0x4]
+name = "PebBaseAddress"
+offset = 0x4
+type = "PPEB"
+size = 0x4
+
+[members.0x8]
+name = "AffinityMask"
+offset = 0x8
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0xc]
+name = "BasePriority"
+offset = 0xc
+type = "KPRIORITY"
+size = 0x4
+
+[members.0x10]
+name = "UniqueProcessId"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x14]
+name = "InheritedFromUniqueProcessId"
+offset = 0x14
+type = "ULONG_PTR"
+size = 0x4

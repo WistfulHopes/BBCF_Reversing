@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.662039Z
+name = "_CRL_INFO"
+size = 0x38
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SignatureAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "Issuer"
+offset = 0x10
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0x18]
+name = "ThisUpdate"
+offset = 0x18
+type = "FILETIME"
+size = 0x8
+
+[members.0x20]
+name = "NextUpdate"
+offset = 0x20
+type = "FILETIME"
+size = 0x8
+
+[members.0x28]
+name = "cCRLEntry"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "rgCRLEntry"
+offset = 0x2c
+type = "PCRL_ENTRY"
+size = 0x4
+
+[members.0x30]
+name = "cExtension"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "rgExtension"
+offset = 0x34
+type = "PCERT_EXTENSION"
+size = 0x4

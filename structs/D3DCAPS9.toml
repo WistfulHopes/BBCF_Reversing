@@ -1,0 +1,417 @@
+last_change = 2026-06-27T20:49:16.598027Z
+name = "D3DCAPS9"
+size = 0x130
+
+[members.0x0]
+name = "DeviceType"
+offset = 0x0
+type = "enum D3DDEVTYPE"
+size = 0x4
+
+[members.0x4]
+name = "AdapterOrdinal"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "Caps"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "Caps2"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "Caps3"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "PresentationIntervals"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "CursorCaps"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "DevCaps"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "PrimitiveMiscCaps"
+offset = 0x20
+type = "uint"
+size = 0x4
+
+[members.0x24]
+name = "RasterCaps"
+offset = 0x24
+type = "uint"
+size = 0x4
+
+[members.0x28]
+name = "ZCmpCaps"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "SrcBlendCaps"
+offset = 0x2c
+type = "uint"
+size = 0x4
+
+[members.0x30]
+name = "DestBlendCaps"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "AlphaCmpCaps"
+offset = 0x34
+type = "uint"
+size = 0x4
+
+[members.0x38]
+name = "ShadeCaps"
+offset = 0x38
+type = "uint"
+size = 0x4
+
+[members.0x3c]
+name = "TextureCaps"
+offset = 0x3c
+type = "uint"
+size = 0x4
+
+[members.0x40]
+name = "TextureFilterCaps"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "CubeTextureFilterCaps"
+offset = 0x44
+type = "uint"
+size = 0x4
+
+[members.0x48]
+name = "VolumeTextureFilterCaps"
+offset = 0x48
+type = "uint"
+size = 0x4
+
+[members.0x4c]
+name = "TextureAddressCaps"
+offset = 0x4c
+type = "uint"
+size = 0x4
+
+[members.0x50]
+name = "VolumeTextureAddressCaps"
+offset = 0x50
+type = "uint"
+size = 0x4
+
+[members.0x54]
+name = "LineCaps"
+offset = 0x54
+type = "uint"
+size = 0x4
+
+[members.0x58]
+name = "MaxTextureWidth"
+offset = 0x58
+type = "uint"
+size = 0x4
+
+[members.0x5c]
+name = "MaxTextureHeight"
+offset = 0x5c
+type = "uint"
+size = 0x4
+
+[members.0x60]
+name = "MaxVolumeExtent"
+offset = 0x60
+type = "uint"
+size = 0x4
+
+[members.0x64]
+name = "MaxTextureRepeat"
+offset = 0x64
+type = "uint"
+size = 0x4
+
+[members.0x68]
+name = "MaxTextureAspectRatio"
+offset = 0x68
+type = "uint"
+size = 0x4
+
+[members.0x6c]
+name = "MaxAnisotropy"
+offset = 0x6c
+type = "uint"
+size = 0x4
+
+[members.0x70]
+name = "MaxVertexW"
+offset = 0x70
+type = "float"
+size = 0x4
+
+[members.0x74]
+name = "GuardBandLeft"
+offset = 0x74
+type = "float"
+size = 0x4
+
+[members.0x78]
+name = "GuardBandTop"
+offset = 0x78
+type = "float"
+size = 0x4
+
+[members.0x7c]
+name = "GuardBandRight"
+offset = 0x7c
+type = "float"
+size = 0x4
+
+[members.0x80]
+name = "GuardBandBottom"
+offset = 0x80
+type = "float"
+size = 0x4
+
+[members.0x84]
+name = "ExtentsAdjust"
+offset = 0x84
+type = "float"
+size = 0x4
+
+[members.0x88]
+name = "StencilCaps"
+offset = 0x88
+type = "uint"
+size = 0x4
+
+[members.0x8c]
+name = "FVFCaps"
+offset = 0x8c
+type = "uint"
+size = 0x4
+
+[members.0x90]
+name = "TextureOpCaps"
+offset = 0x90
+type = "uint"
+size = 0x4
+
+[members.0x94]
+name = "MaxTextureBlendStages"
+offset = 0x94
+type = "uint"
+size = 0x4
+
+[members.0x98]
+name = "MaxSimultaneousTextures"
+offset = 0x98
+type = "uint"
+size = 0x4
+
+[members.0x9c]
+name = "VertexProcessingCaps"
+offset = 0x9c
+type = "uint"
+size = 0x4
+
+[members.0xa0]
+name = "MaxActiveLights"
+offset = 0xa0
+type = "uint"
+size = 0x4
+
+[members.0xa4]
+name = "MaxUserClipPlanes"
+offset = 0xa4
+type = "uint"
+size = 0x4
+
+[members.0xa8]
+name = "MaxVertexBlendMatrices"
+offset = 0xa8
+type = "uint"
+size = 0x4
+
+[members.0xac]
+name = "MaxVertexBlendMatrixIndex"
+offset = 0xac
+type = "uint"
+size = 0x4
+
+[members.0xb0]
+name = "MaxPointSize"
+offset = 0xb0
+type = "float"
+size = 0x4
+
+[members.0xb4]
+name = "MaxPrimitiveCount"
+offset = 0xb4
+type = "uint"
+size = 0x4
+
+[members.0xb8]
+name = "MaxVertexIndex"
+offset = 0xb8
+type = "uint"
+size = 0x4
+
+[members.0xbc]
+name = "MaxStreams"
+offset = 0xbc
+type = "uint"
+size = 0x4
+
+[members.0xc0]
+name = "MaxStreamStride"
+offset = 0xc0
+type = "uint"
+size = 0x4
+
+[members.0xc4]
+name = "VertexShaderVersion"
+offset = 0xc4
+type = "uint"
+size = 0x4
+
+[members.0xc8]
+name = "MaxVertexShaderConst"
+offset = 0xc8
+type = "uint"
+size = 0x4
+
+[members.0xcc]
+name = "PixelShaderVersion"
+offset = 0xcc
+type = "uint"
+size = 0x4
+
+[members.0xd0]
+name = "PixelShader1xMaxValue"
+offset = 0xd0
+type = "float"
+size = 0x4
+
+[members.0xd4]
+name = "DevCaps2"
+offset = 0xd4
+type = "uint"
+size = 0x4
+
+[members.0xd8]
+name = "MaxNpatchTessellationLevel"
+offset = 0xd8
+type = "float"
+size = 0x4
+
+[members.0xdc]
+name = "Reserved5"
+offset = 0xdc
+type = "uint"
+size = 0x4
+
+[members.0xe0]
+name = "MasterAdapterOrdinal"
+offset = 0xe0
+type = "uint"
+size = 0x4
+
+[members.0xe4]
+name = "AdapterOrdinalInGroup"
+offset = 0xe4
+type = "uint"
+size = 0x4
+
+[members.0xe8]
+name = "NumberOfAdaptersInGroup"
+offset = 0xe8
+type = "uint"
+size = 0x4
+
+[members.0xec]
+name = "DeclTypes"
+offset = 0xec
+type = "uint"
+size = 0x4
+
+[members.0xf0]
+name = "NumSimultaneousRTs"
+offset = 0xf0
+type = "uint"
+size = 0x4
+
+[members.0xf4]
+name = "StretchRectFilterCaps"
+offset = 0xf4
+type = "uint"
+size = 0x4
+
+[members.0xf8]
+name = "VS20Caps"
+offset = 0xf8
+type = "struct D3DVSHADERCAPS2_0"
+size = 0x10
+
+[members.0x108]
+name = "PS20Caps"
+offset = 0x108
+type = "struct D3DPSHADERCAPS2_0"
+size = 0x14
+
+[members.0x11c]
+name = "VertexTextureFilterCaps"
+offset = 0x11c
+type = "uint"
+size = 0x4
+
+[members.0x120]
+name = "MaxVShaderInstructionsExecuted"
+offset = 0x120
+type = "uint"
+size = 0x4
+
+[members.0x124]
+name = "MaxPShaderInstructionsExecuted"
+offset = 0x124
+type = "uint"
+size = 0x4
+
+[members.0x128]
+name = "MaxVertexShader30InstructionSlots"
+offset = 0x128
+type = "uint"
+size = 0x4
+
+[members.0x12c]
+name = "MaxPixelShader30InstructionSlots"
+offset = 0x12c
+type = "uint"
+size = 0x4

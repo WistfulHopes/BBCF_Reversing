@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.803581Z
+name = "_SSL_F12_EXTRA_CERT_CHAIN_POLICY_STATUS"
+size = 0x210
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwErrorLevel"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwErrorCategory"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwReserved"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "wszErrorText"
+offset = 0x10
+type = "WCHAR[0x100]"
+size = 0x200

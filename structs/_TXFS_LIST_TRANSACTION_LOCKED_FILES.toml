@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.829288Z
+name = "_TXFS_LIST_TRANSACTION_LOCKED_FILES"
+size = 0x28
+
+[members.0x0]
+name = "KtmTransaction"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "NumberOfFiles"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "BufferSizeRequired"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "Offset"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8

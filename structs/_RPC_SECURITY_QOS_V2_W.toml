@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.783534Z
+name = "_RPC_SECURITY_QOS_V2_W"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Capabilities"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "IdentityTracking"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "ImpersonationType"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "AdditionalSecurityInfoType"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "u"
+offset = 0x14
+type = "union"
+size = 0x4

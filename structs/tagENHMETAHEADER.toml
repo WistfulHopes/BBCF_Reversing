@@ -1,0 +1,117 @@
+last_change = 2026-06-27T20:49:16.873133Z
+name = "tagENHMETAHEADER"
+size = 0x6c
+
+[members.0x0]
+name = "iType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "nSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rclBounds"
+offset = 0x8
+type = "RECTL"
+size = 0x10
+
+[members.0x18]
+name = "rclFrame"
+offset = 0x18
+type = "RECTL"
+size = 0x10
+
+[members.0x28]
+name = "dSignature"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "nVersion"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "nBytes"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "nRecords"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "nHandles"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "sReserved"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "nDescription"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "offDescription"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "nPalEntries"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "szlDevice"
+offset = 0x48
+type = "SIZEL"
+size = 0x8
+
+[members.0x50]
+name = "szlMillimeters"
+offset = 0x50
+type = "SIZEL"
+size = 0x8
+
+[members.0x58]
+name = "cbPixelFormat"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "offPixelFormat"
+offset = 0x5c
+type = "DWORD"
+size = 0x4
+
+[members.0x60]
+name = "bOpenGL"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "szlMicrometers"
+offset = 0x64
+type = "SIZEL"
+size = 0x8

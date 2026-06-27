@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.696645Z
+name = "_FILE_BASIC_INFO"
+size = 0x28
+
+[members.0x0]
+name = "CreationTime"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "LastAccessTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "LastWriteTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "ChangeTime"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "FileAttributes"
+offset = 0x20
+type = "DWORD"
+size = 0x4

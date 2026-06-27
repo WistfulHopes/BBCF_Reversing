@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.785527Z
+name = "_RTL_CONDITION_VARIABLE"
+size = 0x4
+
+[members.0x0]
+name = "Ptr"
+offset = 0x0
+type = "PVOID"
+size = 0x4

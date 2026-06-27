@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.626496Z
+name = "SCENE_CBase"
+size = 0x60
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "SCENE_CBase::VTable*"
+size = 0x4
+
+[members.0x18]
+name = "m_Tasks"
+offset = 0x18
+type = "struct AA_TaskList"
+size = 0x10
+
+[members.0x28]
+name = "unk28"
+offset = 0x28
+type = "uint"
+size = 0x4
+
+[members.0x2c]
+name = "m_GameSceneStatus"
+offset = 0x2c
+type = "enum SCENE_STATUS"
+size = 0x4
+
+[members.0x44]
+name = "m_bLogDisabled"
+offset = 0x44
+type = "bool"
+size = 0x1

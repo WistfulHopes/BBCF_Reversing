@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.673165Z
+name = "_CTL_FIND_SUBJECT_PARA"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pUsagePara"
+offset = 0x4
+type = "PCTL_FIND_USAGE_PARA"
+size = 0x4
+
+[members.0x8]
+name = "dwSubjectType"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pvSubject"
+offset = 0xc
+type = "void*"
+size = 0x4

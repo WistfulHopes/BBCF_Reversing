@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.660365Z
+name = "_CORE_PRINTER_DRIVERW"
+size = 0x228
+
+[members.0x0]
+name = "CoreDriverGUID"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "ftDriverDate"
+offset = 0x10
+type = "FILETIME"
+size = 0x8
+
+[members.0x18]
+name = "dwlDriverVersion"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "szPackageID"
+offset = 0x20
+type = "WCHAR[0x104]"
+size = 0x208

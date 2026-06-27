@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.835460Z
+name = "_VOLUME_DISK_EXTENTS"
+size = 0x20
+
+[members.0x0]
+name = "NumberOfDiskExtents"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Extents"
+offset = 0x8
+type = "DISK_EXTENT[0x1]"
+size = 0x18

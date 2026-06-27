@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.731539Z
+name = "_MALLOC_FREE_STRUCT"
+size = 0x8
+
+[members.0x0]
+name = "pfnAllocate"
+offset = 0x0
+type = "void* (*)(uint cb)"
+size = 0x4
+
+[members.0x4]
+name = "pfnFree"
+offset = 0x4
+type = "void (*)(void*)"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.606988Z
+name = "GAME_EventManager"
+size = 0x38
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct GAME_EventManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_bInitialized"
+offset = 0x4
+type = "bool"
+size = 0x1

@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.579068Z
+name = "AA_CCollision_JON"
+size = 0xc8
+
+[members.0xc]
+name = "m_ViewAddr"
+offset = 0xc
+type = "struct sJonElmView*"
+size = 0x4
+
+[members.0x10]
+name = "m_CollisionAddr"
+offset = 0x10
+type = "struct sJonElmCollision*[0x11]"
+size = 0x44
+
+[members.0x54]
+name = "m_ViewNum"
+offset = 0x54
+type = "int"
+size = 0x4
+
+[members.0x58]
+name = "m_CollisionNum"
+offset = 0x58
+type = "int[0x11]"
+size = 0x44
+
+[members.0x9c]
+name = "m_ImageFileName"
+offset = 0x9c
+type = "char*[0x8]"
+size = 0x20
+
+[members.0xbc]
+name = "m_ImageFileNum"
+offset = 0xbc
+type = "int"
+size = 0x4
+
+[members.0xc0]
+name = "m_OffsetPosX"
+offset = 0xc0
+type = "int"
+size = 0x4
+
+[members.0xc4]
+name = "m_OffsetPosY"
+offset = 0xc4
+type = "int"
+size = 0x4

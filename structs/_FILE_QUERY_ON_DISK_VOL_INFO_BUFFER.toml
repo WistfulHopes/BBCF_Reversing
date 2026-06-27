@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.700461Z
+name = "_FILE_QUERY_ON_DISK_VOL_INFO_BUFFER"
+size = 0x150
+
+[members.0x0]
+name = "DirectoryCount"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "FileCount"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "FsFormatMajVersion"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "FsFormatMinVersion"
+offset = 0x12
+type = "WORD"
+size = 0x2
+
+[members.0x14]
+name = "FsFormatName"
+offset = 0x14
+type = "WCHAR[0xc]"
+size = 0x18
+
+[members.0x30]
+name = "FormatTime"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "LastUpdateTime"
+offset = 0x38
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x40]
+name = "CopyrightInfo"
+offset = 0x40
+type = "WCHAR[0x22]"
+size = 0x44
+
+[members.0x84]
+name = "AbstractInfo"
+offset = 0x84
+type = "WCHAR[0x22]"
+size = 0x44
+
+[members.0xc8]
+name = "FormattingImplementationInfo"
+offset = 0xc8
+type = "WCHAR[0x22]"
+size = 0x44
+
+[members.0x10c]
+name = "LastModifyingImplementationInfo"
+offset = 0x10c
+type = "WCHAR[0x22]"
+size = 0x44

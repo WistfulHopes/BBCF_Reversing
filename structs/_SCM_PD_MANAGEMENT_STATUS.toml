@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.790840Z
+name = "_SCM_PD_MANAGEMENT_STATUS"
+size = 0x58
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Health"
+offset = 0x8
+type = "SCM_PD_HEALTH_STATUS"
+size = 0x4
+
+[members.0xc]
+name = "NumberOfOperationalStatus"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "NumberOfAdditionalReasons"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "OperationalStatus"
+offset = 0x14
+type = "SCM_PD_OPERATIONAL_STATUS[0x10]"
+size = 0x40
+
+[members.0x54]
+name = "AdditionalReasons"
+offset = 0x54
+type = "SCM_PD_OPERATIONAL_STATUS_REASON[0x1]"
+size = 0x4

@@ -1,0 +1,141 @@
+last_change = 2026-06-27T20:49:16.725404Z
+name = "_JOB_INFO_2A"
+size = 0x68
+
+[members.0x0]
+name = "JobId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pPrinterName"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "pMachineName"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "pUserName"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "pDocument"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "pNotifyName"
+offset = 0x14
+type = "LPSTR"
+size = 0x4
+
+[members.0x18]
+name = "pDatatype"
+offset = 0x18
+type = "LPSTR"
+size = 0x4
+
+[members.0x1c]
+name = "pPrintProcessor"
+offset = 0x1c
+type = "LPSTR"
+size = 0x4
+
+[members.0x20]
+name = "pParameters"
+offset = 0x20
+type = "LPSTR"
+size = 0x4
+
+[members.0x24]
+name = "pDriverName"
+offset = 0x24
+type = "LPSTR"
+size = 0x4
+
+[members.0x28]
+name = "pDevMode"
+offset = 0x28
+type = "LPDEVMODEA"
+size = 0x4
+
+[members.0x2c]
+name = "pStatus"
+offset = 0x2c
+type = "LPSTR"
+size = 0x4
+
+[members.0x30]
+name = "pSecurityDescriptor"
+offset = 0x30
+type = "PSECURITY_DESCRIPTOR"
+size = 0x4
+
+[members.0x34]
+name = "Status"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "Priority"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "Position"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "StartTime"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "UntilTime"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "TotalPages"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "Size"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "Submitted"
+offset = 0x50
+type = "SYSTEMTIME"
+size = 0x10
+
+[members.0x60]
+name = "Time"
+offset = 0x60
+type = "DWORD"
+size = 0x4
+
+[members.0x64]
+name = "PagesPrinted"
+offset = 0x64
+type = "DWORD"
+size = 0x4

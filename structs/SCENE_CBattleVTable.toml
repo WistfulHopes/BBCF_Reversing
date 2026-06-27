@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.627104Z
+name = "SCENE_CBattleVTable"
+size = 0x34
+
+[members.0x0]
+name = "vectorDeletingDestructor"
+offset = 0x0
+type = "struct SCENE_CBattle* (*)(struct SCENE_CBattle* this, char deleteFlags)"
+size = 0x4
+
+[members.0x4]
+name = "sceneTick"
+offset = 0x4
+type = "int (*)(struct SCENE_CBase* this)"
+size = 0x4
+
+[members.0x8]
+name = "Init"
+offset = 0x8
+type = "int (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0xc]
+name = "LoadingInit"
+offset = 0xc
+type = "struct BATTLE_CLoadTask* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x10]
+name = "Loading"
+offset = 0x10
+type = "void* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x14]
+name = "Update"
+offset = 0x14
+type = "void (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x18]
+name = "UpdateNextScene"
+offset = 0x18
+type = "void* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x1c]
+name = "LoadingFinalize"
+offset = 0x1c
+type = "int (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x20]
+name = "ETCInit"
+offset = 0x20
+type = "struct BATTLE_CLoadTask* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x24]
+name = "PreloadInit"
+offset = 0x24
+type = "struct SCENE_CBattle* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x28]
+name = "Preload"
+offset = 0x28
+type = "int (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x2c]
+name = "Finalize"
+offset = 0x2c
+type = "void* (*)(struct SCENE_CBattle* this)"
+size = 0x4
+
+[members.0x30]
+name = "PreInit"
+offset = 0x30
+type = "int (*)(struct SCENE_CBase* this)"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.883329Z
+name = "tagLOGBRUSH"
+size = 0xc
+
+[members.0x0]
+name = "lbStyle"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "lbColor"
+offset = 0x4
+type = "COLORREF"
+size = 0x4
+
+[members.0x8]
+name = "lbHatch"
+offset = 0x8
+type = "ULONG_PTR"
+size = 0x4

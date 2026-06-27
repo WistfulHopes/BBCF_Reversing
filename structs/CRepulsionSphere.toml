@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.595101Z
+name = "CRepulsionSphere"
+size = 0x28
+
+[members.0x0]
+name = "m_X"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "m_Y"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "m_Z"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "m_R"
+offset = 0xc
+type = "float"
+size = 0x4
+
+[members.0x18]
+name = "m_VecX"
+offset = 0x18
+type = "float"
+size = 0x4
+
+[members.0x1c]
+name = "m_VecY"
+offset = 0x1c
+type = "float"
+size = 0x4
+
+[members.0x20]
+name = "m_VecZ"
+offset = 0x20
+type = "float"
+size = 0x4
+
+[members.0x24]
+name = "m_RSFlag"
+offset = 0x24
+type = "int"
+size = 0x4

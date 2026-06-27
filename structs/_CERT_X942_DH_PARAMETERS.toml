@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.648536Z
+name = "_CERT_X942_DH_PARAMETERS"
+size = 0x24
+
+[members.0x0]
+name = "p"
+offset = 0x0
+type = "CRYPT_UINT_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "g"
+offset = 0x8
+type = "CRYPT_UINT_BLOB"
+size = 0x8
+
+[members.0x10]
+name = "q"
+offset = 0x10
+type = "CRYPT_UINT_BLOB"
+size = 0x8
+
+[members.0x18]
+name = "j"
+offset = 0x18
+type = "CRYPT_UINT_BLOB"
+size = 0x8
+
+[members.0x20]
+name = "pValidationParams"
+offset = 0x20
+type = "PCERT_X942_DH_VALIDATION_PARAMS"
+size = 0x4

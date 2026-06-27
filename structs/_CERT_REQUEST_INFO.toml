@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.645702Z
+name = "_CERT_REQUEST_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Subject"
+offset = 0x4
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "SubjectPublicKeyInfo"
+offset = 0xc
+type = "CERT_PUBLIC_KEY_INFO"
+size = 0x18
+
+[members.0x24]
+name = "cAttribute"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "rgAttribute"
+offset = 0x28
+type = "PCRYPT_ATTRIBUTE"
+size = 0x4

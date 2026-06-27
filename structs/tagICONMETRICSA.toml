@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.878754Z
+name = "tagICONMETRICSA"
+size = 0x4c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "iHorzSpacing"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "iVertSpacing"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "iTitleWrap"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "lfFont"
+offset = 0x10
+type = "LOGFONTA"
+size = 0x3c

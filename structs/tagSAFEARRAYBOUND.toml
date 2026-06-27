@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.912553Z
+name = "tagSAFEARRAYBOUND"
+size = 0x8
+
+[members.0x0]
+name = "cElements"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "lLbound"
+offset = 0x4
+type = "LONG"
+size = 0x4

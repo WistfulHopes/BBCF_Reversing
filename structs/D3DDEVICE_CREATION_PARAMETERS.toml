@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.598280Z
+name = "D3DDEVICE_CREATION_PARAMETERS"
+size = 0x10
+
+[members.0x0]
+name = "AdapterOrdinal"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "DeviceType"
+offset = 0x4
+type = "enum D3DDEVTYPE"
+size = 0x4
+
+[members.0x8]
+name = "hFocusWindow"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "BehaviorFlags"
+offset = 0xc
+type = "uint"
+size = 0x4

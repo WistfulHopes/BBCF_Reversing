@@ -1,0 +1,105 @@
+last_change = 2026-06-27T20:49:16.688227Z
+name = "_DRIVER_INFO_6W"
+size = 0x50
+
+[members.0x0]
+name = "cVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "pEnvironment"
+offset = 0x8
+type = "LPWSTR"
+size = 0x4
+
+[members.0xc]
+name = "pDriverPath"
+offset = 0xc
+type = "LPWSTR"
+size = 0x4
+
+[members.0x10]
+name = "pDataFile"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "pConfigFile"
+offset = 0x14
+type = "LPWSTR"
+size = 0x4
+
+[members.0x18]
+name = "pHelpFile"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "pDependentFiles"
+offset = 0x1c
+type = "LPWSTR"
+size = 0x4
+
+[members.0x20]
+name = "pMonitorName"
+offset = 0x20
+type = "LPWSTR"
+size = 0x4
+
+[members.0x24]
+name = "pDefaultDataType"
+offset = 0x24
+type = "LPWSTR"
+size = 0x4
+
+[members.0x28]
+name = "pszzPreviousNames"
+offset = 0x28
+type = "LPWSTR"
+size = 0x4
+
+[members.0x2c]
+name = "ftDriverDate"
+offset = 0x2c
+type = "FILETIME"
+size = 0x8
+
+[members.0x38]
+name = "dwlDriverVersion"
+offset = 0x38
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x40]
+name = "pszMfgName"
+offset = 0x40
+type = "LPWSTR"
+size = 0x4
+
+[members.0x44]
+name = "pszOEMUrl"
+offset = 0x44
+type = "LPWSTR"
+size = 0x4
+
+[members.0x48]
+name = "pszHardwareID"
+offset = 0x48
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4c]
+name = "pszProvider"
+offset = 0x4c
+type = "LPWSTR"
+size = 0x4

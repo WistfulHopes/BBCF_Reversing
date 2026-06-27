@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.710825Z
+name = "_IMAGE_ARM_RUNTIME_FUNCTION_ENTRY"
+size = 0x8
+
+[members.0x0]
+name = "BeginAddress"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = ""
+offset = 0x4
+type = "union"
+size = 0x4

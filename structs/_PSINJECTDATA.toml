@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.773032Z
+name = "_PSINJECTDATA"
+size = 0x8
+
+[members.0x0]
+name = "DataBytes"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "InjectionPoint"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "PageNumber"
+offset = 0x6
+type = "WORD"
+size = 0x2

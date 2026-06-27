@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.647256Z
+name = "_CERT_SIGNED_CONTENT_INFO"
+size = 0x20
+
+[members.0x0]
+name = "ToBeSigned"
+offset = 0x0
+type = "CRYPT_DER_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "SignatureAlgorithm"
+offset = 0x8
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x14]
+name = "Signature"
+offset = 0x14
+type = "CRYPT_BIT_BLOB"
+size = 0xc

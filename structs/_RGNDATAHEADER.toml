@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.778953Z
+name = "_RGNDATAHEADER"
+size = 0x20
+
+[members.0x0]
+name = "dwSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "iType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "nCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "nRgnSize"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "rcBound"
+offset = 0x10
+type = "RECT"
+size = 0x10

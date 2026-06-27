@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.677602Z
+name = "_DEVICE_DSM_LOST_QUERY_OUTPUT"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Alignment"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "NumberOfBits"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "BitMap"
+offset = 0x14
+type = "DWORD[0x1]"
+size = 0x4

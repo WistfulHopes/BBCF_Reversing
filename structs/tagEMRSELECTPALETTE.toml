@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.870367Z
+name = "tagEMRSELECTPALETTE"
+size = 0xc
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihPal"
+offset = 0x8
+type = "DWORD"
+size = 0x4

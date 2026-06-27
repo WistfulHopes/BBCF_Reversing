@@ -1,0 +1,177 @@
+last_change = 2026-06-27T20:49:16.605626Z
+name = "GAME_CETCManager"
+size = 0x29c8
+
+[members.0x0]
+name = "vftable_Serializable"
+offset = 0x0
+type = "struct ISerializable::GAME_CETCManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "vftable_SerializableChunk"
+offset = 0x4
+type = "struct ISerializableChunk::GAME_CETCManager::VTable*"
+size = 0x4
+
+[members.0x710]
+name = "m_ObjList"
+offset = 0x710
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0x71c]
+name = "m_ObjListStatic"
+offset = 0x71c
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0x728]
+name = "m_ObjReserveList"
+offset = 0x728
+type = "struct AA_LooseList"
+size = 0xc
+
+[members.0x734]
+name = "m_pUnkList"
+offset = 0x734
+type = "struct BG_CList*"
+size = 0x4
+
+[members.0x2744]
+name = "m_pUnkList2"
+offset = 0x2744
+type = "struct BG_CList*"
+size = 0x4
+
+[members.0x2748]
+name = "m_pDataTop"
+offset = 0x2748
+type = "void*"
+size = 0x4
+
+[members.0x2760]
+name = "m_pStaticDataTop"
+offset = 0x2760
+type = "void*"
+size = 0x4
+
+[members.0x27bc]
+name = "m_AudioNames"
+offset = 0x27bc
+type = "struct CXXBYTE<32>[0xc]"
+size = 0x180
+
+[members.0x293c]
+name = "m_MemoryPool"
+offset = 0x293c
+type = "struct AA_CMemoryPool*"
+size = 0x4
+
+[members.0x2940]
+name = "m_pCockpit"
+offset = 0x2940
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2944]
+name = "m_pTitleLoop"
+offset = 0x2944
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2948]
+name = "m_pCharSelect"
+offset = 0x2948
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x294c]
+name = "m_pProfile"
+offset = 0x294c
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2950]
+name = "m_pVSInfo"
+offset = 0x2950
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2954]
+name = "m_pWinner"
+offset = 0x2954
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2958]
+name = "m_pStageInfo"
+offset = 0x2958
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x295c]
+name = "m_pEnding"
+offset = 0x295c
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2960]
+name = "m_pRanking"
+offset = 0x2960
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2964]
+name = "m_pModeSelect"
+offset = 0x2964
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2968]
+name = "m_pStaffRoll"
+offset = 0x2968
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x296c]
+name = "m_pResult"
+offset = 0x296c
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2970]
+name = "m_pMainMenu"
+offset = 0x2970
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2974]
+name = "m_pStorySelect"
+offset = 0x2974
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2978]
+name = "m_pLobby"
+offset = 0x2978
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x297c]
+name = "m_pMyRoomTest"
+offset = 0x297c
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2980]
+name = "m_pDCC"
+offset = 0x2980
+type = "struct GAME_CETCObjectBase*"
+size = 0x4
+
+[members.0x2984]
+name = "m_pObjectStatic"
+offset = 0x2984
+type = "struct GAME_CETCObjectBase*"
+size = 0x4

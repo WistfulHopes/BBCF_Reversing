@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.827484Z
+name = "_TRANSACTION_ENLISTMENTS_INFORMATION"
+size = 0x24
+
+[members.0x0]
+name = "NumberOfEnlistments"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "EnlistmentPair"
+offset = 0x4
+type = "TRANSACTION_ENLISTMENT_PAIR[0x1]"
+size = 0x20

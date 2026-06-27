@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.665152Z
+name = "_CRYPT_DES_KEY_STATE"
+size = 0x18
+
+[members.0x0]
+name = "Key"
+offset = 0x0
+type = "uchar[0x8]"
+size = 0x8
+
+[members.0x8]
+name = "IV"
+offset = 0x8
+type = "uchar[0x8]"
+size = 0x8
+
+[members.0x10]
+name = "Feedback"
+offset = 0x10
+type = "uchar[0x8]"
+size = 0x8

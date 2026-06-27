@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.765176Z
+name = "_PROCESSOR_GROUP_INFO"
+size = 0x2c
+
+[members.0x0]
+name = "MaximumProcessorCount"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "ActiveProcessorCount"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "BYTE[0x26]"
+size = 0x26
+
+[members.0x28]
+name = "ActiveProcessorMask"
+offset = 0x28
+type = "KAFFINITY"
+size = 0x4

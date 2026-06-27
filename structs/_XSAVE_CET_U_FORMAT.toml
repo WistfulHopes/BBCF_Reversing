@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.838683Z
+name = "_XSAVE_CET_U_FORMAT"
+size = 0x10
+
+[members.0x0]
+name = "Ia32CetUMsr"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "Ia32Pl3SspMsr"
+offset = 0x8
+type = "DWORD64"
+size = 0x8

@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.592280Z
+name = "CCompositeImageInfo"
+size = 0x40
+
+[members.0x0]
+name = "m_Name"
+offset = 0x0
+type = "struct CXXBYTE<32>"
+size = 0x20
+
+[members.0x20]
+name = "m_PosX"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "m_PosY"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "m_SpeedX"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x2c]
+name = "m_SpeedY"
+offset = 0x2c
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "m_Color"
+offset = 0x30
+type = "uint"
+size = 0x4
+
+[members.0x34]
+name = "m_ScaleX"
+offset = 0x34
+type = "int"
+size = 0x4
+
+[members.0x38]
+name = "m_ScaleY"
+offset = 0x38
+type = "int"
+size = 0x4
+
+[members.0x3c]
+name = "m_BlendMode"
+offset = 0x3c
+type = "int"
+size = 0x4

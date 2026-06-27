@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.727488Z
+name = "_KEY_EVENT_RECORD"
+size = 0x10
+
+[members.0x0]
+name = "bKeyDown"
+offset = 0x0
+type = "BOOL"
+size = 0x4
+
+[members.0x4]
+name = "wRepeatCount"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "wVirtualKeyCode"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "wVirtualScanCode"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "uChar"
+offset = 0xa
+type = "union"
+size = 0x2
+
+[members.0xc]
+name = "dwControlKeyState"
+offset = 0xc
+type = "DWORD"
+size = 0x4

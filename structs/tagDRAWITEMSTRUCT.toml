@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.862816Z
+name = "tagDRAWITEMSTRUCT"
+size = 0x30
+
+[members.0x0]
+name = "CtlType"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "CtlID"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "itemID"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "itemAction"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "itemState"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "hwndItem"
+offset = 0x14
+type = "HWND"
+size = 0x4
+
+[members.0x18]
+name = "hDC"
+offset = 0x18
+type = "HDC"
+size = 0x4
+
+[members.0x1c]
+name = "rcItem"
+offset = 0x1c
+type = "RECT"
+size = 0x10
+
+[members.0x2c]
+name = "itemData"
+offset = 0x2c
+type = "ULONG_PTR"
+size = 0x4

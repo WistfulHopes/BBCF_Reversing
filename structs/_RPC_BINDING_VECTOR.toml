@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.780370Z
+name = "_RPC_BINDING_VECTOR"
+size = 0x8
+
+[members.0x0]
+name = "Count"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "BindingH"
+offset = 0x4
+type = "RPC_BINDING_HANDLE[0x1]"
+size = 0x4

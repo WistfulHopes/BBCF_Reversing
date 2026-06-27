@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.674880Z
+name = "_DEBUG_EVENT"
+size = 0x60
+
+[members.0x0]
+name = "dwDebugEventCode"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwProcessId"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "dwThreadId"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "u"
+offset = 0xc
+type = "union"
+size = 0x54

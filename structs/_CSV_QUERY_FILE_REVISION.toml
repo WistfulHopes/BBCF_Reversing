@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.671848Z
+name = "_CSV_QUERY_FILE_REVISION"
+size = 0x20
+
+[members.0x0]
+name = "FileId"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "FileRevision"
+offset = 0x8
+type = "LONGLONG[0x3]"
+size = 0x18

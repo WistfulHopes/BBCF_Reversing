@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.746024Z
+name = "_OCSP_REQUEST_ENTRY"
+size = 0x2c
+
+[members.0x0]
+name = "CertId"
+offset = 0x0
+type = "OCSP_CERT_ID"
+size = 0x24
+
+[members.0x24]
+name = "cExtension"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "rgExtension"
+offset = 0x28
+type = "PCERT_EXTENSION"
+size = 0x4

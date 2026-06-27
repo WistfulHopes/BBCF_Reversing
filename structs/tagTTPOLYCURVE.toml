@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.917915Z
+name = "tagTTPOLYCURVE"
+size = 0xc
+
+[members.0x0]
+name = "wType"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "cpfx"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "apfx"
+offset = 0x4
+type = "POINTFX[0x1]"
+size = 0x8

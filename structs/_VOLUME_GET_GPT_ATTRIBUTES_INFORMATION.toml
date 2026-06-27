@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.835509Z
+name = "_VOLUME_GET_GPT_ATTRIBUTES_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "GptAttributes"
+offset = 0x0
+type = "DWORDLONG"
+size = 0x8

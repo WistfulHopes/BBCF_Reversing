@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.898925Z
+name = "tagNEWTEXTMETRICEXA"
+size = 0x60
+
+[members.0x0]
+name = "ntmTm"
+offset = 0x0
+type = "NEWTEXTMETRICA"
+size = 0x48
+
+[members.0x48]
+name = "ntmFontSig"
+offset = 0x48
+type = "FONTSIGNATURE"
+size = 0x18

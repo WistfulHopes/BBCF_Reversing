@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.745837Z
+name = "_OCSP_BASIC_SIGNED_RESPONSE_INFO"
+size = 0x28
+
+[members.0x0]
+name = "ToBeSigned"
+offset = 0x0
+type = "CRYPT_DER_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "SignatureInfo"
+offset = 0x8
+type = "OCSP_SIGNATURE_INFO"
+size = 0x20

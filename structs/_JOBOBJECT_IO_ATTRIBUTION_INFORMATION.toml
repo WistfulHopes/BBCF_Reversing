@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.723870Z
+name = "_JOBOBJECT_IO_ATTRIBUTION_INFORMATION"
+size = 0x48
+
+[members.0x0]
+name = "ControlFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ReadStats"
+offset = 0x8
+type = "JOBOBJECT_IO_ATTRIBUTION_STATS"
+size = 0x20
+
+[members.0x28]
+name = "WriteStats"
+offset = 0x28
+type = "JOBOBJECT_IO_ATTRIBUTION_STATS"
+size = 0x20

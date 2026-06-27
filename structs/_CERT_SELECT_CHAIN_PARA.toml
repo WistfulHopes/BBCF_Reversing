@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.646857Z
+name = "_CERT_SELECT_CHAIN_PARA"
+size = 0x14
+
+[members.0x0]
+name = "hChainEngine"
+offset = 0x0
+type = "HCERTCHAINENGINE"
+size = 0x4
+
+[members.0x4]
+name = "pTime"
+offset = 0x4
+type = "PFILETIME"
+size = 0x4
+
+[members.0x8]
+name = "hAdditionalStore"
+offset = 0x8
+type = "HCERTSTORE"
+size = 0x4
+
+[members.0xc]
+name = "pChainPara"
+offset = 0xc
+type = "PCERT_CHAIN_PARA"
+size = 0x4
+
+[members.0x10]
+name = "dwFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4

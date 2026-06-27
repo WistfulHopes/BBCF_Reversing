@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.778166Z
+name = "_REPARSE_GUID_DATA_BUFFER"
+size = 0x1c
+
+[members.0x0]
+name = "ReparseTag"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ReparseDataLength"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Reserved"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "ReparseGuid"
+offset = 0x8
+type = "GUID"
+size = 0x10
+
+[members.0x18]
+name = "GenericReparseBuffer"
+offset = 0x18
+type = "struct"
+size = 0x1

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.602704Z
+name = "DISPLAYCONFIG_SOURCE_DEVICE_NAME"
+size = 0x54
+
+[members.0x0]
+name = "header"
+offset = 0x0
+type = "struct DISPLAYCONFIG_DEVICE_INFO_HEADER"
+size = 0x14
+
+[members.0x14]
+name = "viewGdiDeviceName"
+offset = 0x14
+type = "WCHAR[0x20]"
+size = 0x40

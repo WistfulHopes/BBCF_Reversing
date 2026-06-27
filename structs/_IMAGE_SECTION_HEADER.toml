@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.720266Z
+name = "_IMAGE_SECTION_HEADER"
+size = 0x28
+
+[members.0x0]
+name = "Name"
+offset = 0x0
+type = "BYTE[0x8]"
+size = 0x8
+
+[members.0x8]
+name = "Misc"
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "VirtualAddress"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "SizeOfRawData"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "PointerToRawData"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "PointerToRelocations"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "PointerToLinenumbers"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "NumberOfRelocations"
+offset = 0x20
+type = "WORD"
+size = 0x2
+
+[members.0x22]
+name = "NumberOfLinenumbers"
+offset = 0x22
+type = "WORD"
+size = 0x2
+
+[members.0x24]
+name = "Characteristics"
+offset = 0x24
+type = "DWORD"
+size = 0x4

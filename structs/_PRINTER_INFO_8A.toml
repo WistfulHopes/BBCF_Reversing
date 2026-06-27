@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.763708Z
+name = "_PRINTER_INFO_8A"
+size = 0x4
+
+[members.0x0]
+name = "pDevMode"
+offset = 0x0
+type = "LPDEVMODEA"
+size = 0x4

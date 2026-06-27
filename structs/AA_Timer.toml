@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.586105Z
+name = "AA_Timer"
+size = 0x18
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct AA_Timer::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "m_TimeMemory"
+offset = 0x4
+type = "uint"
+size = 0x4

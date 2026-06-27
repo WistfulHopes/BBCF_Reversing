@@ -1,0 +1,123 @@
+last_change = 2026-06-27T20:49:16.728116Z
+name = "_KNONVOLATILE_CONTEXT_POINTERS_ARM64"
+size = 0x50
+
+[members.0x0]
+name = "X19"
+offset = 0x0
+type = "PDWORD64"
+size = 0x4
+
+[members.0x4]
+name = "X20"
+offset = 0x4
+type = "PDWORD64"
+size = 0x4
+
+[members.0x8]
+name = "X21"
+offset = 0x8
+type = "PDWORD64"
+size = 0x4
+
+[members.0xc]
+name = "X22"
+offset = 0xc
+type = "PDWORD64"
+size = 0x4
+
+[members.0x10]
+name = "X23"
+offset = 0x10
+type = "PDWORD64"
+size = 0x4
+
+[members.0x14]
+name = "X24"
+offset = 0x14
+type = "PDWORD64"
+size = 0x4
+
+[members.0x18]
+name = "X25"
+offset = 0x18
+type = "PDWORD64"
+size = 0x4
+
+[members.0x1c]
+name = "X26"
+offset = 0x1c
+type = "PDWORD64"
+size = 0x4
+
+[members.0x20]
+name = "X27"
+offset = 0x20
+type = "PDWORD64"
+size = 0x4
+
+[members.0x24]
+name = "X28"
+offset = 0x24
+type = "PDWORD64"
+size = 0x4
+
+[members.0x28]
+name = "Fp"
+offset = 0x28
+type = "PDWORD64"
+size = 0x4
+
+[members.0x2c]
+name = "Lr"
+offset = 0x2c
+type = "PDWORD64"
+size = 0x4
+
+[members.0x30]
+name = "D8"
+offset = 0x30
+type = "PDWORD64"
+size = 0x4
+
+[members.0x34]
+name = "D9"
+offset = 0x34
+type = "PDWORD64"
+size = 0x4
+
+[members.0x38]
+name = "D10"
+offset = 0x38
+type = "PDWORD64"
+size = 0x4
+
+[members.0x3c]
+name = "D11"
+offset = 0x3c
+type = "PDWORD64"
+size = 0x4
+
+[members.0x40]
+name = "D12"
+offset = 0x40
+type = "PDWORD64"
+size = 0x4
+
+[members.0x44]
+name = "D13"
+offset = 0x44
+type = "PDWORD64"
+size = 0x4
+
+[members.0x48]
+name = "D14"
+offset = 0x48
+type = "PDWORD64"
+size = 0x4
+
+[members.0x4c]
+name = "D15"
+offset = 0x4c
+type = "PDWORD64"
+size = 0x4

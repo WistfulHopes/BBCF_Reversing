@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.701640Z
+name = "_FILE_SET_DEFECT_MGMT_BUFFER"
+size = 0x1
+
+[members.0x0]
+name = "Disable"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

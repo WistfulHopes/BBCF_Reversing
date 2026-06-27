@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.859754Z
+name = "tagCOMPAREITEMSTRUCT"
+size = 0x20
+
+[members.0x0]
+name = "CtlType"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "CtlID"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "hwndItem"
+offset = 0x8
+type = "HWND"
+size = 0x4
+
+[members.0xc]
+name = "itemID1"
+offset = 0xc
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "itemData1"
+offset = 0x10
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x14]
+name = "itemID2"
+offset = 0x14
+type = "UINT"
+size = 0x4
+
+[members.0x18]
+name = "itemData2"
+offset = 0x18
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x1c]
+name = "dwLocaleId"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

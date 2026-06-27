@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.659613Z
+name = "_CONTAINER_ROOT_INFO_OUTPUT"
+size = 0x4
+
+[members.0x0]
+name = "ContainerRootIdLength"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "ContainerRootId"
+offset = 0x2
+type = "BYTE[0x1]"
+size = 0x1

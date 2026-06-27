@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.884748Z
+name = "tagLOGPALETTE"
+size = 0x8
+
+[members.0x0]
+name = "palVersion"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "palNumEntries"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "palPalEntry"
+offset = 0x4
+type = "PALETTEENTRY[0x1]"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.793696Z
+name = "_SD_CHANGE_MACHINE_SID_INPUT"
+size = 0x8
+
+[members.0x0]
+name = "CurrentMachineSIDOffset"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "CurrentMachineSIDLength"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "NewMachineSIDOffset"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "NewMachineSIDLength"
+offset = 0x6
+type = "WORD"
+size = 0x2

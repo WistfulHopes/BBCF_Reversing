@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.802993Z
+name = "_SILOOBJECT_BASIC_INFORMATION"
+size = 0x10
+
+[members.0x0]
+name = "SiloId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SiloParentId"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NumberOfProcesses"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "IsInServerSilo"
+offset = 0xc
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xd]
+name = "Reserved"
+offset = 0xd
+type = "BYTE[0x3]"
+size = 0x3

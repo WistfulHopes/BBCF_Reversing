@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.872476Z
+name = "tagEMRTEXT"
+size = 0x28
+
+[members.0x0]
+name = "ptlReference"
+offset = 0x0
+type = "POINTL"
+size = 0x8
+
+[members.0x8]
+name = "nChars"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "offString"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "fOptions"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "rcl"
+offset = 0x14
+type = "RECTL"
+size = 0x10
+
+[members.0x24]
+name = "offDx"
+offset = 0x24
+type = "DWORD"
+size = 0x4

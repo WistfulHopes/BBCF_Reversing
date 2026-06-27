@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.802493Z
+name = "_SHSTOCKICONINFO"
+size = 0x218
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hIcon"
+offset = 0x4
+type = "HICON"
+size = 0x4
+
+[members.0x8]
+name = "iSysImageIndex"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "iIcon"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "szPath"
+offset = 0x10
+type = "WCHAR[0x104]"
+size = 0x208

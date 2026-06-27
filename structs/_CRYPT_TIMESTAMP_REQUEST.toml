@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.670757Z
+name = "_CRYPT_TIMESTAMP_REQUEST"
+size = 0x30
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "HashAlgorithm"
+offset = 0x4
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x10]
+name = "HashedMessage"
+offset = 0x10
+type = "CRYPT_DER_BLOB"
+size = 0x8
+
+[members.0x18]
+name = "pszTSAPolicyId"
+offset = 0x18
+type = "LPSTR"
+size = 0x4
+
+[members.0x1c]
+name = "Nonce"
+offset = 0x1c
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8
+
+[members.0x24]
+name = "fCertReq"
+offset = 0x24
+type = "BOOL"
+size = 0x4
+
+[members.0x28]
+name = "cExtension"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "rgExtension"
+offset = 0x2c
+type = "PCERT_EXTENSION"
+size = 0x4

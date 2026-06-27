@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.831753Z
+name = "_USER_MARSHAL_ROUTINE_QUADRUPLE"
+size = 0x10
+
+[members.0x0]
+name = "pfnBufferSize"
+offset = 0x0
+type = "USER_MARSHAL_SIZING_ROUTINE"
+size = 0x4
+
+[members.0x4]
+name = "pfnMarshall"
+offset = 0x4
+type = "USER_MARSHAL_MARSHALLING_ROUTINE"
+size = 0x4
+
+[members.0x8]
+name = "pfnUnmarshall"
+offset = 0x8
+type = "USER_MARSHAL_UNMARSHALLING_ROUTINE"
+size = 0x4
+
+[members.0xc]
+name = "pfnFree"
+offset = 0xc
+type = "USER_MARSHAL_FREEING_ROUTINE"
+size = 0x4

@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.875607Z
+name = "tagFINDREPLACEA"
+size = 0x28
+
+[members.0x0]
+name = "lStructSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hwndOwner"
+offset = 0x4
+type = "HWND"
+size = 0x4
+
+[members.0x8]
+name = "hInstance"
+offset = 0x8
+type = "HINSTANCE"
+size = 0x4
+
+[members.0xc]
+name = "Flags"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "lpstrFindWhat"
+offset = 0x10
+type = "LPSTR"
+size = 0x4
+
+[members.0x14]
+name = "lpstrReplaceWith"
+offset = 0x14
+type = "LPSTR"
+size = 0x4
+
+[members.0x18]
+name = "wFindWhatLen"
+offset = 0x18
+type = "WORD"
+size = 0x2
+
+[members.0x1a]
+name = "wReplaceWithLen"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "lCustData"
+offset = 0x1c
+type = "LPARAM"
+size = 0x4
+
+[members.0x20]
+name = "lpfnHook"
+offset = 0x20
+type = "LPFRHOOKPROC"
+size = 0x4
+
+[members.0x24]
+name = "lpTemplateName"
+offset = 0x24
+type = "LPCSTR"
+size = 0x4

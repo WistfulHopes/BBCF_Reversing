@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.851362Z
+name = "struct_1"
+size = 0x4
+
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = "void*** (* const)(void*** arg1, char arg2)"
+size = 0x4

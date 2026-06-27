@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.917168Z
+name = "tagTOUCHINPUT"
+size = 0x28
+
+[members.0x0]
+name = "x"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "y"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "hSource"
+offset = 0x8
+type = "HANDLE"
+size = 0x4
+
+[members.0xc]
+name = "dwID"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "dwFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwMask"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "dwTime"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "dwExtraInfo"
+offset = 0x1c
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x20]
+name = "cxContact"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "cyContact"
+offset = 0x24
+type = "DWORD"
+size = 0x4

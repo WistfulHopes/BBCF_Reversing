@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.780787Z
+name = "_RPC_C_OPT_COOKIE_AUTH_DESCRIPTOR"
+size = 0x8
+
+[members.0x0]
+name = "BufferSize"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Buffer"
+offset = 0x4
+type = "char*"
+size = 0x4

@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.679568Z
+name = "_DEVICE_MANAGE_DATA_SET_ATTRIBUTES_OUTPUT"
+size = 0x24
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Action"
+offset = 0x4
+type = "DEVICE_DSM_ACTION"
+size = 0x4
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "OperationStatus"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ExtendedError"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "TargetDetailedError"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "ReservedStatus"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "OutputBlockOffset"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "OutputBlockLength"
+offset = 0x20
+type = "DWORD"
+size = 0x4

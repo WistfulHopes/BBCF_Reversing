@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.630412Z
+name = "_ACTION_HEADER"
+size = 0x8
+
+[members.0x0]
+name = "transport_id"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "action_code"
+offset = 0x4
+type = "USHORT"
+size = 0x2
+
+[members.0x6]
+name = "reserved"
+offset = 0x6
+type = "USHORT"
+size = 0x2

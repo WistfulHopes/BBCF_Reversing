@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.641258Z
+name = "_CERT_DH_PARAMETERS"
+size = 0x10
+
+[members.0x0]
+name = "p"
+offset = 0x0
+type = "CRYPT_UINT_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "g"
+offset = 0x8
+type = "CRYPT_UINT_BLOB"
+size = 0x8

@@ -1,0 +1,165 @@
+last_change = 2026-06-27T20:49:16.881504Z
+name = "tagJOYCAPS2W"
+size = 0x308
+
+[members.0x0]
+name = "wMid"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wPid"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "szPname"
+offset = 0x4
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0x44]
+name = "wXmin"
+offset = 0x44
+type = "UINT"
+size = 0x4
+
+[members.0x48]
+name = "wXmax"
+offset = 0x48
+type = "UINT"
+size = 0x4
+
+[members.0x4c]
+name = "wYmin"
+offset = 0x4c
+type = "UINT"
+size = 0x4
+
+[members.0x50]
+name = "wYmax"
+offset = 0x50
+type = "UINT"
+size = 0x4
+
+[members.0x54]
+name = "wZmin"
+offset = 0x54
+type = "UINT"
+size = 0x4
+
+[members.0x58]
+name = "wZmax"
+offset = 0x58
+type = "UINT"
+size = 0x4
+
+[members.0x5c]
+name = "wNumButtons"
+offset = 0x5c
+type = "UINT"
+size = 0x4
+
+[members.0x60]
+name = "wPeriodMin"
+offset = 0x60
+type = "UINT"
+size = 0x4
+
+[members.0x64]
+name = "wPeriodMax"
+offset = 0x64
+type = "UINT"
+size = 0x4
+
+[members.0x68]
+name = "wRmin"
+offset = 0x68
+type = "UINT"
+size = 0x4
+
+[members.0x6c]
+name = "wRmax"
+offset = 0x6c
+type = "UINT"
+size = 0x4
+
+[members.0x70]
+name = "wUmin"
+offset = 0x70
+type = "UINT"
+size = 0x4
+
+[members.0x74]
+name = "wUmax"
+offset = 0x74
+type = "UINT"
+size = 0x4
+
+[members.0x78]
+name = "wVmin"
+offset = 0x78
+type = "UINT"
+size = 0x4
+
+[members.0x7c]
+name = "wVmax"
+offset = 0x7c
+type = "UINT"
+size = 0x4
+
+[members.0x80]
+name = "wCaps"
+offset = 0x80
+type = "UINT"
+size = 0x4
+
+[members.0x84]
+name = "wMaxAxes"
+offset = 0x84
+type = "UINT"
+size = 0x4
+
+[members.0x88]
+name = "wNumAxes"
+offset = 0x88
+type = "UINT"
+size = 0x4
+
+[members.0x8c]
+name = "wMaxButtons"
+offset = 0x8c
+type = "UINT"
+size = 0x4
+
+[members.0x90]
+name = "szRegKey"
+offset = 0x90
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0xd0]
+name = "szOEMVxD"
+offset = 0xd0
+type = "WCHAR[0x104]"
+size = 0x208
+
+[members.0x2d8]
+name = "ManufacturerGuid"
+offset = 0x2d8
+type = "GUID"
+size = 0x10
+
+[members.0x2e8]
+name = "ProductGuid"
+offset = 0x2e8
+type = "GUID"
+size = 0x10
+
+[members.0x2f8]
+name = "NameGuid"
+offset = 0x2f8
+type = "GUID"
+size = 0x10

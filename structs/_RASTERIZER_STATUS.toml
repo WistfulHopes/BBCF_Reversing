@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.775101Z
+name = "_RASTERIZER_STATUS"
+size = 0x6
+
+[members.0x0]
+name = "nSize"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "wFlags"
+offset = 0x2
+type = "short"
+size = 0x2
+
+[members.0x4]
+name = "nLanguageID"
+offset = 0x4
+type = "short"
+size = 0x2

@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.714958Z
+name = "_IMAGE_HOT_PATCH_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SequenceNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "BaseImageList"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "BaseImageCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "BufferOffset"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "ExtraPatchSize"
+offset = 0x18
+type = "DWORD"
+size = 0x4

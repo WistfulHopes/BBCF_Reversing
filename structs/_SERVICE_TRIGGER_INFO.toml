@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.798533Z
+name = "_SERVICE_TRIGGER_INFO"
+size = 0xc
+
+[members.0x0]
+name = "cTriggers"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pTriggers"
+offset = 0x4
+type = "PSERVICE_TRIGGER"
+size = 0x4
+
+[members.0x8]
+name = "pReserved"
+offset = 0x8
+type = "PBYTE"
+size = 0x4

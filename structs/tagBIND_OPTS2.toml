@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.854602Z
+name = "tagBIND_OPTS2"
+size = 0x20
+
+[members.0x10]
+name = "dwTrackFlags"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "dwClassContext"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "locale"
+offset = 0x18
+type = "LCID"
+size = 0x4
+
+[members.0x1c]
+name = "pServerInfo"
+offset = 0x1c
+type = "COSERVERINFO*"
+size = 0x4

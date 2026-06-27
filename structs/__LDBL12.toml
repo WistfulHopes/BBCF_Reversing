@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.839934Z
+name = "__LDBL12"
+size = 0xc
+
+[members.0x0]
+name = "ld12"
+offset = 0x0
+type = "uchar[0xc]"
+size = 0xc

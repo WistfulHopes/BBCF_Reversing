@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.913381Z
+name = "tagSERIALKEYSA"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lpszActivePort"
+offset = 0x8
+type = "LPSTR"
+size = 0x4
+
+[members.0xc]
+name = "lpszPort"
+offset = 0xc
+type = "LPSTR"
+size = 0x4
+
+[members.0x10]
+name = "iBaudRate"
+offset = 0x10
+type = "UINT"
+size = 0x4
+
+[members.0x14]
+name = "iPortState"
+offset = 0x14
+type = "UINT"
+size = 0x4
+
+[members.0x18]
+name = "iActive"
+offset = 0x18
+type = "UINT"
+size = 0x4

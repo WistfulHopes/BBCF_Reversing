@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.838303Z
+name = "_XMIT_ROUTINE_QUINTUPLE"
+size = 0x10
+
+[members.0x0]
+name = "pfnTranslateToXmit"
+offset = 0x0
+type = "XMIT_HELPER_ROUTINE"
+size = 0x4
+
+[members.0x4]
+name = "pfnTranslateFromXmit"
+offset = 0x4
+type = "XMIT_HELPER_ROUTINE"
+size = 0x4
+
+[members.0x8]
+name = "pfnFreeXmit"
+offset = 0x8
+type = "XMIT_HELPER_ROUTINE"
+size = 0x4
+
+[members.0xc]
+name = "pfnFreeInst"
+offset = 0xc
+type = "XMIT_HELPER_ROUTINE"
+size = 0x4

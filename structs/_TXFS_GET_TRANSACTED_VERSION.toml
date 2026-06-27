@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.829007Z
+name = "_TXFS_GET_TRANSACTED_VERSION"
+size = 0x10
+
+[members.0x0]
+name = "ThisBaseVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "LatestVersion"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ThisMiniVersion"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "FirstMiniVersion"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "LatestMiniVersion"
+offset = 0xc
+type = "WORD"
+size = 0x2

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.864754Z
+name = "tagEMRCREATEBRUSHINDIRECT"
+size = 0x18
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihBrush"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lb"
+offset = 0xc
+type = "LOGBRUSH32"
+size = 0xc

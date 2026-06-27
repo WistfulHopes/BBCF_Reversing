@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.656758Z
+name = "_CMSG_SIGNER_INFO"
+size = 0x44
+
+[members.0x0]
+name = "dwVersion"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Issuer"
+offset = 0x4
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0xc]
+name = "SerialNumber"
+offset = 0xc
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8
+
+[members.0x14]
+name = "HashAlgorithm"
+offset = 0x14
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x20]
+name = "HashEncryptionAlgorithm"
+offset = 0x20
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x2c]
+name = "EncryptedHash"
+offset = 0x2c
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x34]
+name = "AuthAttrs"
+offset = 0x34
+type = "CRYPT_ATTRIBUTES"
+size = 0x8
+
+[members.0x3c]
+name = "UnauthAttrs"
+offset = 0x3c
+type = "CRYPT_ATTRIBUTES"
+size = 0x8

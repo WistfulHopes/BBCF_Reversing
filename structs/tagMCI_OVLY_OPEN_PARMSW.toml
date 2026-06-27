@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.887057Z
+name = "tagMCI_OVLY_OPEN_PARMSW"
+size = 0x1c
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "wDeviceID"
+offset = 0x4
+type = "MCIDEVICEID"
+size = 0x4
+
+[members.0x8]
+name = "lpstrDeviceType"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4
+
+[members.0xc]
+name = "lpstrElementName"
+offset = 0xc
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpstrAlias"
+offset = 0x10
+type = "LPCWSTR"
+size = 0x4
+
+[members.0x14]
+name = "dwStyle"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "hWndParent"
+offset = 0x18
+type = "HWND"
+size = 0x4

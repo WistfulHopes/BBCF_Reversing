@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.641631Z
+name = "_CERT_FORTEZZA_DATA_PROP"
+size = 0x30
+
+[members.0x0]
+name = "SerialNumber"
+offset = 0x0
+type = "uchar[0x8]"
+size = 0x8
+
+[members.0x8]
+name = "CertIndex"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "CertLabel"
+offset = 0xc
+type = "uchar[0x24]"
+size = 0x24

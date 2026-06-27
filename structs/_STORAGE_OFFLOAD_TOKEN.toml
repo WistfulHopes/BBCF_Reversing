@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.811298Z
+name = "_STORAGE_OFFLOAD_TOKEN"
+size = 0x200
+
+[members.0x0]
+name = "TokenType"
+offset = 0x0
+type = "BYTE[0x4]"
+size = 0x4
+
+[members.0x4]
+name = "Reserved"
+offset = 0x4
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x6]
+name = "TokenIdLength"
+offset = 0x6
+type = "BYTE[0x2]"
+size = 0x2
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x1f8

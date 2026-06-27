@@ -1,0 +1,231 @@
+last_change = 2026-06-27T20:49:16.786766Z
+name = "_RTL_USER_PROCESS_PARAMETERS"
+size = 0x2c0
+
+[members.0x0]
+name = "MaximumLength"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Length"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "DebugFlags"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "ConsoleHandle"
+offset = 0x10
+type = "VOID*"
+size = 0x4
+
+[members.0x14]
+name = "ConsoleFlags"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "StandardInput"
+offset = 0x18
+type = "VOID*"
+size = 0x4
+
+[members.0x1c]
+name = "StandardOutput"
+offset = 0x1c
+type = "VOID*"
+size = 0x4
+
+[members.0x20]
+name = "StandardError"
+offset = 0x20
+type = "VOID*"
+size = 0x4
+
+[members.0x24]
+name = "CurrentDirectory"
+offset = 0x24
+type = "struct _CURDIR"
+size = 0xc
+
+[members.0x30]
+name = "DllPath"
+offset = 0x30
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x38]
+name = "ImagePathName"
+offset = 0x38
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x40]
+name = "CommandLine"
+offset = 0x40
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x48]
+name = "Environment"
+offset = 0x48
+type = "VOID*"
+size = 0x4
+
+[members.0x4c]
+name = "StartingX"
+offset = 0x4c
+type = "ULONG"
+size = 0x4
+
+[members.0x50]
+name = "StartingY"
+offset = 0x50
+type = "ULONG"
+size = 0x4
+
+[members.0x54]
+name = "CountX"
+offset = 0x54
+type = "ULONG"
+size = 0x4
+
+[members.0x58]
+name = "CountY"
+offset = 0x58
+type = "ULONG"
+size = 0x4
+
+[members.0x5c]
+name = "CountCharsX"
+offset = 0x5c
+type = "ULONG"
+size = 0x4
+
+[members.0x60]
+name = "CountCharsY"
+offset = 0x60
+type = "ULONG"
+size = 0x4
+
+[members.0x64]
+name = "FillAttribute"
+offset = 0x64
+type = "ULONG"
+size = 0x4
+
+[members.0x68]
+name = "WindowFlags"
+offset = 0x68
+type = "ULONG"
+size = 0x4
+
+[members.0x6c]
+name = "ShowWindowFlags"
+offset = 0x6c
+type = "ULONG"
+size = 0x4
+
+[members.0x70]
+name = "WindowTitle"
+offset = 0x70
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x78]
+name = "DesktopInfo"
+offset = 0x78
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x80]
+name = "ShellInfo"
+offset = 0x80
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x88]
+name = "RuntimeData"
+offset = 0x88
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x90]
+name = "CurrentDirectores"
+offset = 0x90
+type = "struct _RTL_DRIVE_LETTER_CURDIR[0x20]"
+size = 0x200
+
+[members.0x290]
+name = "EnvironmentSize"
+offset = 0x290
+type = "ULONG"
+size = 0x4
+
+[members.0x294]
+name = "EnvironmentVersion"
+offset = 0x294
+type = "ULONG"
+size = 0x4
+
+[members.0x298]
+name = "PackageDependencyData"
+offset = 0x298
+type = "VOID*"
+size = 0x4
+
+[members.0x29c]
+name = "ProcessGroupId"
+offset = 0x29c
+type = "ULONG"
+size = 0x4
+
+[members.0x2a0]
+name = "LoaderThreads"
+offset = 0x2a0
+type = "ULONG"
+size = 0x4
+
+[members.0x2a4]
+name = "RedirectionDllName"
+offset = 0x2a4
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x2ac]
+name = "HeapPartitionName"
+offset = 0x2ac
+type = "struct _UNICODE_STRING"
+size = 0x8
+
+[members.0x2b4]
+name = "DefaultThreadpoolCpuSetMasks"
+offset = 0x2b4
+type = "ULONGLONG*"
+size = 0x4
+
+[members.0x2b8]
+name = "DefaultThreadpoolCpuSetMaskCount"
+offset = 0x2b8
+type = "ULONG"
+size = 0x4
+
+[members.0x2bc]
+name = "DefaultThreadpoolThreadMaximum"
+offset = 0x2bc
+type = "ULONG"
+size = 0x4

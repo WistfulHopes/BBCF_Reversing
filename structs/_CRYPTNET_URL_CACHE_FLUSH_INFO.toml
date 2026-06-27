@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.662407Z
+name = "_CRYPTNET_URL_CACHE_FLUSH_INFO"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwExemptSeconds"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ExpireTime"
+offset = 0x8
+type = "FILETIME"
+size = 0x8

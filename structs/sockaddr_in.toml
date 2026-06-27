@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.850211Z
+name = "sockaddr_in"
+size = 0x10
+
+[members.0x0]
+name = "sin_family"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "sin_port"
+offset = 0x2
+type = "u_short"
+size = 0x2
+
+[members.0x4]
+name = "sin_addr"
+offset = 0x4
+type = "struct in_addr"
+size = 0x4
+
+[members.0x8]
+name = "sin_zero"
+offset = 0x8
+type = "char[0x8]"
+size = 0x8

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.703967Z
+name = "_FORMAT_PARAMETERS"
+size = 0x14
+
+[members.0x0]
+name = "MediaType"
+offset = 0x0
+type = "MEDIA_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "StartCylinderNumber"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "EndCylinderNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "StartHeadNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "EndHeadNumber"
+offset = 0x10
+type = "DWORD"
+size = 0x4

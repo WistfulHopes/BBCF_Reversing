@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.787077Z
+name = "_RTTICompleteObjectLocator"
+size = 0x14
+
+[members.0x0]
+name = "signature"
+offset = 0x0
+type = "enum"
+size = 0x4
+
+[members.0x4]
+name = "offset"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "cdOffset"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "pTypeDescriptor"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "pClassHierarchyDescriptor"
+offset = 0x10
+type = "struct _RTTIClassHierarchyDescriptor*"
+size = 0x4

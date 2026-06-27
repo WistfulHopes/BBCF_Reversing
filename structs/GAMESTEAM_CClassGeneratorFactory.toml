@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.604855Z
+name = "GAMESTEAM_CClassGeneratorFactory"
+size = 0x4
+
+[members.0x0]
+name = "vftable"
+offset = 0x0
+type = "struct GAME_CClassGeneratorFactory::GAMESTEAM_CClassGeneratorFactory::VTable"
+size = 0x4

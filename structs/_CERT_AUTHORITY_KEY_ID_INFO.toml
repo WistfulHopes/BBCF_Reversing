@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.639300Z
+name = "_CERT_AUTHORITY_KEY_ID_INFO"
+size = 0x18
+
+[members.0x0]
+name = "KeyId"
+offset = 0x0
+type = "CRYPT_DATA_BLOB"
+size = 0x8
+
+[members.0x8]
+name = "CertIssuer"
+offset = 0x8
+type = "CERT_NAME_BLOB"
+size = 0x8
+
+[members.0x10]
+name = "CertSerialNumber"
+offset = 0x10
+type = "CRYPT_INTEGER_BLOB"
+size = 0x8

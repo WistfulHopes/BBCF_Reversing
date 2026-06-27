@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.708590Z
+name = "_GRADIENT_TRIANGLE"
+size = 0xc
+
+[members.0x0]
+name = "Vertex1"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Vertex2"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "Vertex3"
+offset = 0x8
+type = "ULONG"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.766723Z
+name = "_PROCESS_DEVICEMAP_INFORMATION_EX"
+size = 0x28
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x24
+
+[members.0x24]
+name = "Flags"
+offset = 0x24
+type = "ULONG"
+size = 0x4

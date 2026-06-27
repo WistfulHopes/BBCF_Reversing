@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.822432Z
+name = "_TAPE_WMI_OPERATIONS"
+size = 0xc
+
+[members.0x0]
+name = "Method"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DataBufferSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "DataBuffer"
+offset = 0x8
+type = "PVOID"
+size = 0x4

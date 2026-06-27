@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.895540Z
+name = "tagMONCONVSTRUCT"
+size = 0x20
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "fConnect"
+offset = 0x4
+type = "BOOL"
+size = 0x4
+
+[members.0x8]
+name = "dwTime"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "hTask"
+offset = 0xc
+type = "HANDLE"
+size = 0x4
+
+[members.0x10]
+name = "hszSvc"
+offset = 0x10
+type = "HSZ"
+size = 0x4
+
+[members.0x14]
+name = "hszTopic"
+offset = 0x14
+type = "HSZ"
+size = 0x4
+
+[members.0x18]
+name = "hConvClient"
+offset = 0x18
+type = "HCONV"
+size = 0x4
+
+[members.0x1c]
+name = "hConvServer"
+offset = 0x1c
+type = "HCONV"
+size = 0x4

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.834721Z
+name = "_VIRTUALIZATION_INSTANCE_INFO_OUTPUT"
+size = 0x10
+
+[members.0x0]
+name = "VirtualizationInstanceID"
+offset = 0x0
+type = "GUID"
+size = 0x10

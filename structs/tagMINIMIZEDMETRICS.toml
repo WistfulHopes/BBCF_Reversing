@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.892938Z
+name = "tagMINIMIZEDMETRICS"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "iWidth"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "iHorzGap"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "iVertGap"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "iArrange"
+offset = 0x10
+type = "int"
+size = 0x4

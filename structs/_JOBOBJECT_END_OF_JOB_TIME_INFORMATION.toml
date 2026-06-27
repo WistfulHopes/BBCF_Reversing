@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.723489Z
+name = "_JOBOBJECT_END_OF_JOB_TIME_INFORMATION"
+size = 0x4
+
+[members.0x0]
+name = "EndOfJobTimeAction"
+offset = 0x0
+type = "DWORD"
+size = 0x4

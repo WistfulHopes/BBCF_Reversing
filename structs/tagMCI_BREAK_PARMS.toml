@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.885919Z
+name = "tagMCI_BREAK_PARMS"
+size = 0xc
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "nVirtKey"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "hwndBreak"
+offset = 0x8
+type = "HWND"
+size = 0x4

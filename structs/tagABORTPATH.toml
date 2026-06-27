@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.851848Z
+name = "tagABORTPATH"
+size = 0x8
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.671684Z
+name = "_CSV_MGMT_LOCK"
+size = 0x4
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4

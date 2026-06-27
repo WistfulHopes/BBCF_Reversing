@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.859196Z
+name = "tagCOLORADJUSTMENT"
+size = 0x18
+
+[members.0x0]
+name = "caSize"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "caFlags"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "caIlluminantIndex"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "caRedGamma"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "caGreenGamma"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "caBlueGamma"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "caReferenceBlack"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "caReferenceWhite"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "caContrast"
+offset = 0x10
+type = "SHORT"
+size = 0x2
+
+[members.0x12]
+name = "caBrightness"
+offset = 0x12
+type = "SHORT"
+size = 0x2
+
+[members.0x14]
+name = "caColorfulness"
+offset = 0x14
+type = "SHORT"
+size = 0x2
+
+[members.0x16]
+name = "caRedGreenTint"
+offset = 0x16
+type = "SHORT"
+size = 0x2

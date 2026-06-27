@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.856876Z
+name = "tagCANDIDATEFORM"
+size = 0x20
+
+[members.0x0]
+name = "dwIndex"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwStyle"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ptCurrentPos"
+offset = 0x8
+type = "POINT"
+size = 0x8
+
+[members.0x10]
+name = "rcArea"
+offset = 0x10
+type = "RECT"
+size = 0x10

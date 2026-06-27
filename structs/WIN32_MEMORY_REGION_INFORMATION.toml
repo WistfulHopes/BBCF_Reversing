@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.628233Z
+name = "WIN32_MEMORY_REGION_INFORMATION"
+size = 0x14
+
+[members.0x0]
+name = "AllocationBase"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "AllocationProtect"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x4
+
+[members.0xc]
+name = "RegionSize"
+offset = 0xc
+type = "SIZE_T"
+size = 0x4
+
+[members.0x10]
+name = "CommitSize"
+offset = 0x10
+type = "SIZE_T"
+size = 0x4

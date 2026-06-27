@@ -1,0 +1,81 @@
+last_change = 2026-06-27T20:49:16.719989Z
+name = "_IMAGE_ROM_OPTIONAL_HEADER"
+size = 0x38
+
+[members.0x0]
+name = "Magic"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "MajorLinkerVersion"
+offset = 0x2
+type = "BYTE"
+size = 0x1
+
+[members.0x3]
+name = "MinorLinkerVersion"
+offset = 0x3
+type = "BYTE"
+size = 0x1
+
+[members.0x4]
+name = "SizeOfCode"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SizeOfInitializedData"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "SizeOfUninitializedData"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "AddressOfEntryPoint"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "BaseOfCode"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "BaseOfData"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "BaseOfBss"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "GprMask"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "CprMask"
+offset = 0x24
+type = "DWORD[0x4]"
+size = 0x10
+
+[members.0x34]
+name = "GpValue"
+offset = 0x34
+type = "DWORD"
+size = 0x4

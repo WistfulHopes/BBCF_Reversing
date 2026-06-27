@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.705461Z
+name = "_FSCTL_QUERY_FAT_BPB_BUFFER"
+size = 0x24
+
+[members.0x0]
+name = "First0x24BytesOfBootSector"
+offset = 0x0
+type = "BYTE[0x24]"
+size = 0x24

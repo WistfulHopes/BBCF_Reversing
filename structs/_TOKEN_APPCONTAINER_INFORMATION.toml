@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.825167Z
+name = "_TOKEN_APPCONTAINER_INFORMATION"
+size = 0x4
+
+[members.0x0]
+name = "TokenAppContainer"
+offset = 0x0
+type = "PSID"
+size = 0x4

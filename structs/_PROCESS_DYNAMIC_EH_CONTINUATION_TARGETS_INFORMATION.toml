@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.766887Z
+name = "_PROCESS_DYNAMIC_EH_CONTINUATION_TARGETS_INFORMATION"
+size = 0xc
+
+[members.0x0]
+name = "NumberOfTargets"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Reserved2"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Targets"
+offset = 0x8
+type = "PPROCESS_DYNAMIC_EH_CONTINUATION_TARGET"
+size = 0x4

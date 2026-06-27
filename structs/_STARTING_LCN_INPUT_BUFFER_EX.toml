@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.803959Z
+name = "_STARTING_LCN_INPUT_BUFFER_EX"
+size = 0x10
+
+[members.0x0]
+name = "StartingLcn"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "DWORD"
+size = 0x4

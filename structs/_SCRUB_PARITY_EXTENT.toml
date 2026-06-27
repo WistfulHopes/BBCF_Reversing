@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.793394Z
+name = "_SCRUB_PARITY_EXTENT"
+size = 0x10
+
+[members.0x0]
+name = "Offset"
+offset = 0x0
+type = "LONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "Length"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8

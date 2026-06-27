@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.635680Z
+name = "_BCRYPT_MULTI_OBJECT_LENGTH_STRUCT"
+size = 0x8
+
+[members.0x0]
+name = "cbPerObject"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "cbPerElement"
+offset = 0x4
+type = "ULONG"
+size = 0x4

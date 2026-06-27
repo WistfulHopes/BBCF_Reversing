@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.875128Z
+name = "tagEXTLOGPEN32"
+size = 0x1c
+
+[members.0x0]
+name = "elpPenStyle"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "elpWidth"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "elpBrushStyle"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "elpColor"
+offset = 0xc
+type = "COLORREF"
+size = 0x4
+
+[members.0x10]
+name = "elpHatch"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "elpNumEntries"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "elpStyleEntry"
+offset = 0x18
+type = "DWORD[0x1]"
+size = 0x4

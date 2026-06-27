@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.883243Z
+name = "tagLOCALESIGNATURE"
+size = 0x20
+
+[members.0x0]
+name = "lsUsb"
+offset = 0x0
+type = "DWORD[0x4]"
+size = 0x10
+
+[members.0x10]
+name = "lsCsbDefault"
+offset = 0x10
+type = "DWORD[0x2]"
+size = 0x8
+
+[members.0x18]
+name = "lsCsbSupported"
+offset = 0x18
+type = "DWORD[0x2]"
+size = 0x8

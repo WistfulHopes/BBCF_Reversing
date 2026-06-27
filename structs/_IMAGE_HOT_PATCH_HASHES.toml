@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.714809Z
+name = "_IMAGE_HOT_PATCH_HASHES"
+size = 0x34
+
+[members.0x0]
+name = "SHA256"
+offset = 0x0
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x20]
+name = "SHA1"
+offset = 0x20
+type = "BYTE[0x14]"
+size = 0x14

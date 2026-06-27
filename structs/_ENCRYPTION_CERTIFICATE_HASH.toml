@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.691744Z
+name = "_ENCRYPTION_CERTIFICATE_HASH"
+size = 0x10
+
+[members.0x0]
+name = "cbTotalLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pUserSid"
+offset = 0x4
+type = "SID*"
+size = 0x4
+
+[members.0x8]
+name = "pHash"
+offset = 0x8
+type = "PEFS_HASH_BLOB"
+size = 0x4
+
+[members.0xc]
+name = "lpDisplayInformation"
+offset = 0xc
+type = "LPWSTR"
+size = 0x4

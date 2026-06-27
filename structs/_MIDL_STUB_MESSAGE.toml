@@ -1,0 +1,357 @@
+last_change = 2026-06-27T20:49:16.736312Z
+name = "_MIDL_STUB_MESSAGE"
+size = 0xdc
+
+[members.0x0]
+name = "RpcMsg"
+offset = 0x0
+type = "PRPC_MESSAGE"
+size = 0x4
+
+[members.0x4]
+name = "Buffer"
+offset = 0x4
+type = "uchar*"
+size = 0x4
+
+[members.0x8]
+name = "BufferStart"
+offset = 0x8
+type = "uchar*"
+size = 0x4
+
+[members.0xc]
+name = "BufferEnd"
+offset = 0xc
+type = "uchar*"
+size = 0x4
+
+[members.0x10]
+name = "BufferMark"
+offset = 0x10
+type = "uchar*"
+size = 0x4
+
+[members.0x14]
+name = "BufferLength"
+offset = 0x14
+type = "uint"
+size = 0x4
+
+[members.0x18]
+name = "MemorySize"
+offset = 0x18
+type = "uint"
+size = 0x4
+
+[members.0x1c]
+name = "Memory"
+offset = 0x1c
+type = "uchar*"
+size = 0x4
+
+[members.0x20]
+name = "IsClient"
+offset = 0x20
+type = "uchar"
+size = 0x1
+
+[members.0x21]
+name = "Pad"
+offset = 0x21
+type = "uchar"
+size = 0x1
+
+[members.0x22]
+name = "uFlags2"
+offset = 0x22
+type = "ushort"
+size = 0x2
+
+[members.0x24]
+name = "ReuseBuffer"
+offset = 0x24
+type = "int"
+size = 0x4
+
+[members.0x28]
+name = "pAllocAllNodesContext"
+offset = 0x28
+type = "struct NDR_ALLOC_ALL_NODES_CONTEXT*"
+size = 0x4
+
+[members.0x2c]
+name = "pPointerQueueState"
+offset = 0x2c
+type = "struct NDR_POINTER_QUEUE_STATE*"
+size = 0x4
+
+[members.0x30]
+name = "IgnoreEmbeddedPointers"
+offset = 0x30
+type = "int"
+size = 0x4
+
+[members.0x34]
+name = "PointerBufferMark"
+offset = 0x34
+type = "uchar*"
+size = 0x4
+
+[members.0x38]
+name = "CorrDespIncrement"
+offset = 0x38
+type = "uchar"
+size = 0x1
+
+[members.0x39]
+name = "uFlags"
+offset = 0x39
+type = "uchar"
+size = 0x1
+
+[members.0x3a]
+name = "UniquePtrCount"
+offset = 0x3a
+type = "ushort"
+size = 0x2
+
+[members.0x3c]
+name = "MaxCount"
+offset = 0x3c
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x40]
+name = "Offset"
+offset = 0x40
+type = "uint"
+size = 0x4
+
+[members.0x44]
+name = "ActualCount"
+offset = 0x44
+type = "uint"
+size = 0x4
+
+[members.0x48]
+name = "pfnAllocate"
+offset = 0x48
+type = "void* (*)(uint cb)"
+size = 0x4
+
+[members.0x4c]
+name = "pfnFree"
+offset = 0x4c
+type = "void (*)(void*)"
+size = 0x4
+
+[members.0x50]
+name = "StackTop"
+offset = 0x50
+type = "uchar*"
+size = 0x4
+
+[members.0x54]
+name = "pPresentedType"
+offset = 0x54
+type = "uchar*"
+size = 0x4
+
+[members.0x58]
+name = "pTransmitType"
+offset = 0x58
+type = "uchar*"
+size = 0x4
+
+[members.0x5c]
+name = "SavedHandle"
+offset = 0x5c
+type = "handle_t"
+size = 0x4
+
+[members.0x60]
+name = "StubDesc"
+offset = 0x60
+type = "struct _MIDL_STUB_DESC*"
+size = 0x4
+
+[members.0x64]
+name = "FullPtrXlatTables"
+offset = 0x64
+type = "struct _FULL_PTR_XLAT_TABLES*"
+size = 0x4
+
+[members.0x68]
+name = "FullPtrRefId"
+offset = 0x68
+type = "uint"
+size = 0x4
+
+[members.0x6c]
+name = "PointerLength"
+offset = 0x6c
+type = "uint"
+size = 0x4
+
+[members.0x70]
+name = "__bitfield70"
+offset = 0x70
+type = "union"
+size = 0x4
+
+[members.0x74]
+name = "dwDestContext"
+offset = 0x74
+type = "uint"
+size = 0x4
+
+[members.0x78]
+name = "pvDestContext"
+offset = 0x78
+type = "void*"
+size = 0x4
+
+[members.0x7c]
+name = "SavedContextHandles"
+offset = 0x7c
+type = "NDR_SCONTEXT*"
+size = 0x4
+
+[members.0x80]
+name = "ParamNumber"
+offset = 0x80
+type = "int"
+size = 0x4
+
+[members.0x84]
+name = "pRpcChannelBuffer"
+offset = 0x84
+type = "void*"
+size = 0x4
+
+[members.0x88]
+name = "pArrayInfo"
+offset = 0x88
+type = "PARRAY_INFO"
+size = 0x4
+
+[members.0x8c]
+name = "SizePtrCountArray"
+offset = 0x8c
+type = "uint*"
+size = 0x4
+
+[members.0x90]
+name = "SizePtrOffsetArray"
+offset = 0x90
+type = "uint*"
+size = 0x4
+
+[members.0x94]
+name = "SizePtrLengthArray"
+offset = 0x94
+type = "uint*"
+size = 0x4
+
+[members.0x98]
+name = "pArgQueue"
+offset = 0x98
+type = "void*"
+size = 0x4
+
+[members.0x9c]
+name = "dwStubPhase"
+offset = 0x9c
+type = "uint"
+size = 0x4
+
+[members.0xa0]
+name = "LowStackMark"
+offset = 0xa0
+type = "void*"
+size = 0x4
+
+[members.0xa4]
+name = "pAsyncMsg"
+offset = 0xa4
+type = "PNDR_ASYNC_MESSAGE"
+size = 0x4
+
+[members.0xa8]
+name = "pCorrInfo"
+offset = 0xa8
+type = "PNDR_CORRELATION_INFO"
+size = 0x4
+
+[members.0xac]
+name = "pCorrMemory"
+offset = 0xac
+type = "uchar*"
+size = 0x4
+
+[members.0xb0]
+name = "pMemoryList"
+offset = 0xb0
+type = "void*"
+size = 0x4
+
+[members.0xb4]
+name = "pCSInfo"
+offset = 0xb4
+type = "INT_PTR"
+size = 0x4
+
+[members.0xb8]
+name = "ConformanceMark"
+offset = 0xb8
+type = "uchar*"
+size = 0x4
+
+[members.0xbc]
+name = "VarianceMark"
+offset = 0xbc
+type = "uchar*"
+size = 0x4
+
+[members.0xc0]
+name = "Unused"
+offset = 0xc0
+type = "INT_PTR"
+size = 0x4
+
+[members.0xc4]
+name = "pContext"
+offset = 0xc4
+type = "struct _NDR_PROC_CONTEXT*"
+size = 0x4
+
+[members.0xc8]
+name = "ContextHandleHash"
+offset = 0xc8
+type = "void*"
+size = 0x4
+
+[members.0xcc]
+name = "pUserMarshalList"
+offset = 0xcc
+type = "void*"
+size = 0x4
+
+[members.0xd0]
+name = "Reserved51_3"
+offset = 0xd0
+type = "INT_PTR"
+size = 0x4
+
+[members.0xd4]
+name = "Reserved51_4"
+offset = 0xd4
+type = "INT_PTR"
+size = 0x4
+
+[members.0xd8]
+name = "Reserved51_5"
+offset = 0xd8
+type = "INT_PTR"
+size = 0x4

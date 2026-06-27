@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.645309Z
+name = "_CERT_QC_STATEMENTS_EXT_INFO"
+size = 0x8
+
+[members.0x0]
+name = "cStatement"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgStatement"
+offset = 0x4
+type = "PCERT_QC_STATEMENT"
+size = 0x4

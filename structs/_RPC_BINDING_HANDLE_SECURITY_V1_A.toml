@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.779588Z
+name = "_RPC_BINDING_HANDLE_SECURITY_V1_A"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "ServerPrincName"
+offset = 0x4
+type = "uchar*"
+size = 0x4
+
+[members.0x8]
+name = "AuthnLevel"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "AuthnSvc"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "AuthIdentity"
+offset = 0x10
+type = "SEC_WINNT_AUTH_IDENTITY_A*"
+size = 0x4
+
+[members.0x14]
+name = "SecurityQos"
+offset = 0x14
+type = "RPC_SECURITY_QOS*"
+size = 0x4

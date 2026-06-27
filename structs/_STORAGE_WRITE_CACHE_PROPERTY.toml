@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.815974Z
+name = "_STORAGE_WRITE_CACHE_PROPERTY"
+size = 0x1c
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "WriteCacheType"
+offset = 0x8
+type = "WRITE_CACHE_TYPE"
+size = 0x4
+
+[members.0xc]
+name = "WriteCacheEnabled"
+offset = 0xc
+type = "WRITE_CACHE_ENABLE"
+size = 0x4
+
+[members.0x10]
+name = "WriteCacheChangeable"
+offset = 0x10
+type = "WRITE_CACHE_CHANGE"
+size = 0x4
+
+[members.0x14]
+name = "WriteThroughSupported"
+offset = 0x14
+type = "WRITE_THROUGH"
+size = 0x4
+
+[members.0x18]
+name = "FlushCacheSupported"
+offset = 0x18
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x19]
+name = "UserDefinedPowerProtection"
+offset = 0x19
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1a]
+name = "NVCacheEnabled"
+offset = 0x1a
+type = "BOOLEAN"
+size = 0x1

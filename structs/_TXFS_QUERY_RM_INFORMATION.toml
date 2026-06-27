@@ -1,0 +1,159 @@
+last_change = 2026-06-27T20:49:16.830383Z
+name = "_TXFS_QUERY_RM_INFORMATION"
+size = 0xb0
+
+[members.0x0]
+name = "BytesRequired"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "TailLsn"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "CurrentLsn"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "ArchiveTailLsn"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "LogContainerSize"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "HighestVirtualClock"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "LogContainerCount"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "LogContainerCountMax"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "LogContainerCountMin"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "LogGrowthIncrement"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "LogAutoShrinkPercentage"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "Flags"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "LoggingMode"
+offset = 0x48
+type = "WORD"
+size = 0x2
+
+[members.0x4a]
+name = "Reserved"
+offset = 0x4a
+type = "WORD"
+size = 0x2
+
+[members.0x4c]
+name = "RmState"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "LogCapacity"
+offset = 0x50
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x58]
+name = "LogFree"
+offset = 0x58
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x60]
+name = "TopsSize"
+offset = 0x60
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x68]
+name = "TopsUsed"
+offset = 0x68
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x70]
+name = "TransactionCount"
+offset = 0x70
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x78]
+name = "OnePCCount"
+offset = 0x78
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x80]
+name = "TwoPCCount"
+offset = 0x80
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x88]
+name = "NumberLogFileFull"
+offset = 0x88
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x90]
+name = "OldestTransactionAge"
+offset = 0x90
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x98]
+name = "RMName"
+offset = 0x98
+type = "GUID"
+size = 0x10
+
+[members.0xa8]
+name = "TmLogPathOffset"
+offset = 0xa8
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.899485Z
+name = "tagNMHDR"
+size = 0xc
+
+[members.0x0]
+name = "hwndFrom"
+offset = 0x0
+type = "HWND"
+size = 0x4
+
+[members.0x4]
+name = "idFrom"
+offset = 0x4
+type = "UINT_PTR"
+size = 0x4
+
+[members.0x8]
+name = "code"
+offset = 0x8
+type = "UINT"
+size = 0x4

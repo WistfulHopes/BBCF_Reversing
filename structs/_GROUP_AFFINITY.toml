@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.708673Z
+name = "_GROUP_AFFINITY"
+size = 0xc
+
+[members.0x0]
+name = "Mask"
+offset = 0x0
+type = "KAFFINITY"
+size = 0x4
+
+[members.0x4]
+name = "Group"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Reserved"
+offset = 0x6
+type = "WORD[0x3]"
+size = 0x6

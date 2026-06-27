@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.867169Z
+name = "tagEMRGLSRECORD"
+size = 0x10
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "cbData"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Data"
+offset = 0xc
+type = "BYTE[0x1]"
+size = 0x1

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.781096Z
+name = "_RPC_ENDPOINT_TEMPLATEW"
+size = 0x14
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "ProtSeq"
+offset = 0x4
+type = "RPC_WSTR"
+size = 0x4
+
+[members.0x8]
+name = "Endpoint"
+offset = 0x8
+type = "RPC_WSTR"
+size = 0x4
+
+[members.0xc]
+name = "SecurityDescriptor"
+offset = 0xc
+type = "void*"
+size = 0x4
+
+[members.0x10]
+name = "Backlog"
+offset = 0x10
+type = "uint"
+size = 0x4

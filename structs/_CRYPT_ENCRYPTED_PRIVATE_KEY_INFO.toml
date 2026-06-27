@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.665491Z
+name = "_CRYPT_ENCRYPTED_PRIVATE_KEY_INFO"
+size = 0x14
+
+[members.0x0]
+name = "EncryptionAlgorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "EncryptedPrivateKey"
+offset = 0xc
+type = "CRYPT_DATA_BLOB"
+size = 0x8

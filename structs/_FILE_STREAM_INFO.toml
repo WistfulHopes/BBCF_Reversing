@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.702306Z
+name = "_FILE_STREAM_INFO"
+size = 0x20
+
+[members.0x0]
+name = "NextEntryOffset"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "StreamNameLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "StreamSize"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "StreamAllocationSize"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "StreamName"
+offset = 0x18
+type = "WCHAR[0x1]"
+size = 0x2

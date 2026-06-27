@@ -1,0 +1,159 @@
+last_change = 2026-06-27T20:49:16.905306Z
+name = "tagPIXELFORMATDESCRIPTOR"
+size = 0x28
+
+[members.0x0]
+name = "nSize"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "nVersion"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "dwFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "iPixelType"
+offset = 0x8
+type = "BYTE"
+size = 0x1
+
+[members.0x9]
+name = "cColorBits"
+offset = 0x9
+type = "BYTE"
+size = 0x1
+
+[members.0xa]
+name = "cRedBits"
+offset = 0xa
+type = "BYTE"
+size = 0x1
+
+[members.0xb]
+name = "cRedShift"
+offset = 0xb
+type = "BYTE"
+size = 0x1
+
+[members.0xc]
+name = "cGreenBits"
+offset = 0xc
+type = "BYTE"
+size = 0x1
+
+[members.0xd]
+name = "cGreenShift"
+offset = 0xd
+type = "BYTE"
+size = 0x1
+
+[members.0xe]
+name = "cBlueBits"
+offset = 0xe
+type = "BYTE"
+size = 0x1
+
+[members.0xf]
+name = "cBlueShift"
+offset = 0xf
+type = "BYTE"
+size = 0x1
+
+[members.0x10]
+name = "cAlphaBits"
+offset = 0x10
+type = "BYTE"
+size = 0x1
+
+[members.0x11]
+name = "cAlphaShift"
+offset = 0x11
+type = "BYTE"
+size = 0x1
+
+[members.0x12]
+name = "cAccumBits"
+offset = 0x12
+type = "BYTE"
+size = 0x1
+
+[members.0x13]
+name = "cAccumRedBits"
+offset = 0x13
+type = "BYTE"
+size = 0x1
+
+[members.0x14]
+name = "cAccumGreenBits"
+offset = 0x14
+type = "BYTE"
+size = 0x1
+
+[members.0x15]
+name = "cAccumBlueBits"
+offset = 0x15
+type = "BYTE"
+size = 0x1
+
+[members.0x16]
+name = "cAccumAlphaBits"
+offset = 0x16
+type = "BYTE"
+size = 0x1
+
+[members.0x17]
+name = "cDepthBits"
+offset = 0x17
+type = "BYTE"
+size = 0x1
+
+[members.0x18]
+name = "cStencilBits"
+offset = 0x18
+type = "BYTE"
+size = 0x1
+
+[members.0x19]
+name = "cAuxBuffers"
+offset = 0x19
+type = "BYTE"
+size = 0x1
+
+[members.0x1a]
+name = "iLayerType"
+offset = 0x1a
+type = "BYTE"
+size = 0x1
+
+[members.0x1b]
+name = "bReserved"
+offset = 0x1b
+type = "BYTE"
+size = 0x1
+
+[members.0x1c]
+name = "dwLayerMask"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "dwVisibleMask"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwDamageMask"
+offset = 0x24
+type = "DWORD"
+size = 0x4

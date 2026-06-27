@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.715102Z
+name = "_IMAGE_IMPORT_CONTROL_TRANSFER_DYNAMIC_RELOCATION"
+size = 0x4
+
+[members.0x0]
+name = "IATIndex"
+offset = 0x0
+type = "DWORD"
+size = 0x4

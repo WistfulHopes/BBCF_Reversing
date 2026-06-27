@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.821614Z
+name = "_TAPE_GET_DRIVE_PARAMETERS"
+size = 0x20
+
+[members.0x0]
+name = "ECC"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x1]
+name = "Compression"
+offset = 0x1
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x2]
+name = "DataPadding"
+offset = 0x2
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x3]
+name = "ReportSetmarks"
+offset = 0x3
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x4]
+name = "DefaultBlockSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MaximumBlockSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MinimumBlockSize"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "MaximumPartitionCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "FeaturesLow"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "FeaturesHigh"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "EOTWarningZoneSize"
+offset = 0x1c
+type = "DWORD"
+size = 0x4

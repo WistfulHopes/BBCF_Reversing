@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.896658Z
+name = "tagMONLINKSTRUCT"
+size = 0x30
+
+[members.0x0]
+name = "cb"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "dwTime"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hTask"
+offset = 0x8
+type = "HANDLE"
+size = 0x4
+
+[members.0xc]
+name = "fEstablished"
+offset = 0xc
+type = "BOOL"
+size = 0x4
+
+[members.0x10]
+name = "fNoData"
+offset = 0x10
+type = "BOOL"
+size = 0x4
+
+[members.0x14]
+name = "hszSvc"
+offset = 0x14
+type = "HSZ"
+size = 0x4
+
+[members.0x18]
+name = "hszTopic"
+offset = 0x18
+type = "HSZ"
+size = 0x4
+
+[members.0x1c]
+name = "hszItem"
+offset = 0x1c
+type = "HSZ"
+size = 0x4
+
+[members.0x20]
+name = "wFmt"
+offset = 0x20
+type = "UINT"
+size = 0x4
+
+[members.0x24]
+name = "fServer"
+offset = 0x24
+type = "BOOL"
+size = 0x4
+
+[members.0x28]
+name = "hConvServer"
+offset = 0x28
+type = "HCONV"
+size = 0x4
+
+[members.0x2c]
+name = "hConvClient"
+offset = 0x2c
+type = "HCONV"
+size = 0x4

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.618999Z
+name = "LIST_ENTRY64"
+size = 0x10
+
+[members.0x0]
+name = "Flink"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "Blink"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8

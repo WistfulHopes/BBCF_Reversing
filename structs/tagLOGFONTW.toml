@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.884658Z
+name = "tagLOGFONTW"
+size = 0x5c
+
+[members.0x0]
+name = "lfHeight"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "lfWidth"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "lfEscapement"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "lfOrientation"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "lfWeight"
+offset = 0x10
+type = "LONG"
+size = 0x4
+
+[members.0x14]
+name = "lfItalic"
+offset = 0x14
+type = "BYTE"
+size = 0x1
+
+[members.0x15]
+name = "lfUnderline"
+offset = 0x15
+type = "BYTE"
+size = 0x1
+
+[members.0x16]
+name = "lfStrikeOut"
+offset = 0x16
+type = "BYTE"
+size = 0x1
+
+[members.0x17]
+name = "lfCharSet"
+offset = 0x17
+type = "BYTE"
+size = 0x1
+
+[members.0x18]
+name = "lfOutPrecision"
+offset = 0x18
+type = "BYTE"
+size = 0x1
+
+[members.0x19]
+name = "lfClipPrecision"
+offset = 0x19
+type = "BYTE"
+size = 0x1
+
+[members.0x1a]
+name = "lfQuality"
+offset = 0x1a
+type = "BYTE"
+size = 0x1
+
+[members.0x1b]
+name = "lfPitchAndFamily"
+offset = 0x1b
+type = "BYTE"
+size = 0x1
+
+[members.0x1c]
+name = "lfFaceName"
+offset = 0x1c
+type = "WCHAR[0x20]"
+size = 0x40

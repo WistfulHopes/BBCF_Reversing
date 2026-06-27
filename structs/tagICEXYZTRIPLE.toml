@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.878648Z
+name = "tagICEXYZTRIPLE"
+size = 0x24
+
+[members.0x0]
+name = "ciexyzRed"
+offset = 0x0
+type = "CIEXYZ"
+size = 0xc
+
+[members.0xc]
+name = "ciexyzGreen"
+offset = 0xc
+type = "CIEXYZ"
+size = 0xc
+
+[members.0x18]
+name = "ciexyzBlue"
+offset = 0x18
+type = "CIEXYZ"
+size = 0xc

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.642832Z
+name = "_CERT_LOGOTYPE_DATA"
+size = 0x10
+
+[members.0x0]
+name = "cLogotypeImage"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rgLogotypeImage"
+offset = 0x4
+type = "PCERT_LOGOTYPE_IMAGE"
+size = 0x4
+
+[members.0x8]
+name = "cLogotypeAudio"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "rgLogotypeAudio"
+offset = 0xc
+type = "PCERT_LOGOTYPE_AUDIO"
+size = 0x4

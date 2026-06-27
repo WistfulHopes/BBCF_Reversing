@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.827672Z
+name = "_TRANSACTION_LIST_INFORMATION"
+size = 0x14
+
+[members.0x0]
+name = "NumberOfTransactions"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TransactionInformation"
+offset = 0x4
+type = "TRANSACTION_LIST_ENTRY[0x1]"
+size = 0x10

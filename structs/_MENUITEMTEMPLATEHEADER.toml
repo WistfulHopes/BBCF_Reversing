@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.733645Z
+name = "_MENUITEMTEMPLATEHEADER"
+size = 0x4
+
+[members.0x0]
+name = "versionNumber"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "offset"
+offset = 0x2
+type = "WORD"
+size = 0x2

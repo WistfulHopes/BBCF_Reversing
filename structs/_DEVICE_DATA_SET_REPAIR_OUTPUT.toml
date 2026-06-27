@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.676712Z
+name = "_DEVICE_DATA_SET_REPAIR_OUTPUT"
+size = 0x10
+
+[members.0x0]
+name = "ParityExtent"
+offset = 0x0
+type = "DEVICE_DSM_RANGE"
+size = 0x10

@@ -1,0 +1,69 @@
+last_change = 2026-06-27T20:49:16.777176Z
+name = "_REFS_SMR_VOLUME_INFO_OUTPUT"
+size = 0x70
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SizeOfRandomlyWritableTier"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "FreeSpaceInRandomlyWritableTier"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "SizeofSMRTier"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "FreeSpaceInSMRTier"
+offset = 0x20
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x28]
+name = "UsableFreeSpaceInSMRTier"
+offset = 0x28
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x30]
+name = "VolumeGcState"
+offset = 0x30
+type = "REFS_SMR_VOLUME_GC_STATE"
+size = 0x4
+
+[members.0x34]
+name = "VolumeGcLastStatus"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "CurrentGcBandFillPercentage"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "Unused"
+offset = 0x40
+type = "DWORDLONG[0x6]"
+size = 0x30

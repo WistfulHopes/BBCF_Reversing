@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.653081Z
+name = "_CMSG_CTRL_ADD_SIGNER_UNAUTH_ATTR_PARA"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwSignerIndex"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "blob"
+offset = 0x8
+type = "CRYPT_DATA_BLOB"
+size = 0x8

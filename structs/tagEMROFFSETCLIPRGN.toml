@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.868545Z
+name = "tagEMROFFSETCLIPRGN"
+size = 0x10
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ptlOffset"
+offset = 0x8
+type = "POINTL"
+size = 0x8

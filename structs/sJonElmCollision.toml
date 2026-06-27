@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.849716Z
+name = "sJonElmCollision"
+size = 0x14
+
+[members.0x0]
+name = "m_CollisionType"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "m_WorldRect"
+offset = 0x4
+type = "class CCmnRect"
+size = 0x10

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.613759Z
+name = "IDirect3DPixelShader9VTable"
+size = 0x14
+
+[members.0xc]
+name = "GetDevice"
+offset = 0xc
+type = "HRESULT (*)(struct IDirect3DPixelShader9* this, struct IDirect3DDevice9* ppDevice)"
+size = 0x4
+
+[members.0x10]
+name = "GetFunction"
+offset = 0x10
+type = "HRESULT (*)(struct IDirect3DPixelShader9* this, void* param0, uint* pSizeOfData)"
+size = 0x4

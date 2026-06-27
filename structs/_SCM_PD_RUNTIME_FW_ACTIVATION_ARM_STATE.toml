@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.791709Z
+name = "_SCM_PD_RUNTIME_FW_ACTIVATION_ARM_STATE"
+size = 0x1
+
+[members.0x0]
+name = "ArmState"
+offset = 0x0
+type = "BOOLEAN"
+size = 0x1

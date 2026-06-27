@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.723785Z
+name = "_JOBOBJECT_EXTENDED_LIMIT_INFORMATION"
+size = 0x70
+
+[members.0x0]
+name = "BasicLimitInformation"
+offset = 0x0
+type = "JOBOBJECT_BASIC_LIMIT_INFORMATION"
+size = 0x30
+
+[members.0x30]
+name = "IoInfo"
+offset = 0x30
+type = "IO_COUNTERS"
+size = 0x30
+
+[members.0x60]
+name = "ProcessMemoryLimit"
+offset = 0x60
+type = "SIZE_T"
+size = 0x4
+
+[members.0x64]
+name = "JobMemoryLimit"
+offset = 0x64
+type = "SIZE_T"
+size = 0x4
+
+[members.0x68]
+name = "PeakProcessMemoryUsed"
+offset = 0x68
+type = "SIZE_T"
+size = 0x4
+
+[members.0x6c]
+name = "PeakJobMemoryUsed"
+offset = 0x6c
+type = "SIZE_T"
+size = 0x4

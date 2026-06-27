@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.873620Z
+name = "tagENUMLOGFONTEXW"
+size = 0x15c
+
+[members.0x0]
+name = "elfLogFont"
+offset = 0x0
+type = "LOGFONTW"
+size = 0x5c
+
+[members.0x5c]
+name = "elfFullName"
+offset = 0x5c
+type = "WCHAR[0x40]"
+size = 0x80
+
+[members.0xdc]
+name = "elfStyle"
+offset = 0xdc
+type = "WCHAR[0x20]"
+size = 0x40
+
+[members.0x11c]
+name = "elfScript"
+offset = 0x11c
+type = "WCHAR[0x20]"
+size = 0x40

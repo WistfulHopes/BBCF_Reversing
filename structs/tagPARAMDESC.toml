@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.903117Z
+name = "tagPARAMDESC"
+size = 0x8
+
+[members.0x0]
+name = "pparamdescex"
+offset = 0x0
+type = "LPPARAMDESCEX"
+size = 0x4
+
+[members.0x4]
+name = "wParamFlags"
+offset = 0x4
+type = "USHORT"
+size = 0x2

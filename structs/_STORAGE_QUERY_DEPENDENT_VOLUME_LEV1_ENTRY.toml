@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.813932Z
+name = "_STORAGE_QUERY_DEPENDENT_VOLUME_LEV1_ENTRY"
+size = 0x20
+
+[members.0x0]
+name = "EntryLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DependencyTypeFlags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ProviderSpecificFlags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "VirtualStorageType"
+offset = 0xc
+type = "VIRTUAL_STORAGE_TYPE"
+size = 0x14

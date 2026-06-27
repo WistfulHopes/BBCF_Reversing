@@ -1,0 +1,165 @@
+last_change = 2026-06-27T20:49:16.577010Z
+name = "AADX_CRenderer"
+size = 0x1248
+
+[members.0x28]
+name = "m_Hwnd"
+offset = 0x28
+type = "HWND"
+size = 0x4
+
+[members.0x2c]
+name = "m_pD3DEx"
+offset = 0x2c
+type = "struct IDirect3D9Ex*"
+size = 0x4
+
+[members.0x30]
+name = "m_pD3DDevice"
+offset = 0x30
+type = "struct IDirect3DDevice9Ex*"
+size = 0x4
+
+[members.0x34]
+name = "m_pD3DPresentParams"
+offset = 0x34
+type = "struct D3DPRESENT_PARAMETERS*"
+size = 0x4
+
+[members.0x38]
+name = "m_pDefaultD3DPresentParams"
+offset = 0x38
+type = "struct D3DPRESENT_PARAMETERS*"
+size = 0x4
+
+[members.0x70]
+name = "m_DefaultD3DPresentParams"
+offset = 0x70
+type = "struct D3DPRESENT_PARAMETERS"
+size = 0x38
+
+[members.0xb4]
+name = "m_ResX"
+offset = 0xb4
+type = "int"
+size = 0x4
+
+[members.0xb8]
+name = "m_ResY"
+offset = 0xb8
+type = "int"
+size = 0x4
+
+[members.0xd0]
+name = "m_bIsFocused"
+offset = 0xd0
+type = "bool"
+size = 0x1
+
+[members.0x110]
+name = "m_FadeColor"
+offset = 0x110
+type = "uint"
+size = 0x4
+
+[members.0x11c]
+name = "m_InternalResX"
+offset = 0x11c
+type = "int"
+size = 0x4
+
+[members.0x120]
+name = "m_InternalResY"
+offset = 0x120
+type = "int"
+size = 0x4
+
+[members.0x12c]
+name = "m_ViewportWidth"
+offset = 0x12c
+type = "int"
+size = 0x4
+
+[members.0x130]
+name = "m_ViewportHeight"
+offset = 0x130
+type = "int"
+size = 0x4
+
+[members.0x14c]
+name = "m_Fonts"
+offset = 0x14c
+type = "void*[0x8]"
+size = 0x20
+
+[members.0x16c]
+name = "m_FontNum"
+offset = 0x16c
+type = "int"
+size = 0x4
+
+[members.0x1bc]
+name = "m_bInitialized"
+offset = 0x1bc
+type = "bool"
+size = 0x1
+
+[members.0x1c8]
+name = "m_pVertexBuffers"
+offset = 0x1c8
+type = "struct CVertexBuffer*"
+size = 0x4
+
+[members.0x1cc]
+name = "m_pShaderCtrl"
+offset = 0x1cc
+type = "struct CShaderCtrl*"
+size = 0x4
+
+[members.0x1d0]
+name = "m_pShaderNum"
+offset = 0x1d0
+type = "uint*"
+size = 0x4
+
+[members.0x1d4]
+name = "m_pCameraNum"
+offset = 0x1d4
+type = "uint*"
+size = 0x4
+
+[members.0x1d8]
+name = "m_PostProcessTextures"
+offset = 0x1d8
+type = "uint*"
+size = 0x4
+
+[members.0x1fc]
+name = "m_bEnableAutoDepthStencil"
+offset = 0x1fc
+type = "bool"
+size = 0x1
+
+[members.0x112c]
+name = "m_pDepthStencilSurface"
+offset = 0x112c
+type = "struct IDirect3DSurface9*"
+size = 0x4
+
+[members.0x1130]
+name = "m_pRenderTargetEx"
+offset = 0x1130
+type = "struct IDirect3DSurface9*"
+size = 0x4
+
+[members.0x1134]
+name = "m_pDepthStencilSurface2"
+offset = 0x1134
+type = "struct IDirect3DSurface9*"
+size = 0x4
+
+[members.0x1138]
+name = "m_pRenderTargetEx2"
+offset = 0x1138
+type = "struct IDirect3DSurface9*"
+size = 0x4

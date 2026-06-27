@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.888327Z
+name = "tagMCI_SYSINFO_PARMSA"
+size = 0x14
+
+[members.0x0]
+name = "dwCallback"
+offset = 0x0
+type = "DWORD_PTR"
+size = 0x4
+
+[members.0x4]
+name = "lpstrReturn"
+offset = 0x4
+type = "LPSTR"
+size = 0x4
+
+[members.0x8]
+name = "dwRetSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dwNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "wDeviceType"
+offset = 0x10
+type = "UINT"
+size = 0x4

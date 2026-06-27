@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.776818Z
+name = "_REDIRECTION_FUNCTION_DESCRIPTOR"
+size = 0xc
+
+[members.0x0]
+name = "DllName"
+offset = 0x0
+type = "PCSTR"
+size = 0x4
+
+[members.0x4]
+name = "FunctionName"
+offset = 0x4
+type = "PCSTR"
+size = 0x4
+
+[members.0x8]
+name = "RedirectionTarget"
+offset = 0x8
+type = "PVOID"
+size = 0x4

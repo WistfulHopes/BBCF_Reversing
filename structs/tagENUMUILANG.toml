@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.874101Z
+name = "tagENUMUILANG"
+size = 0xc
+
+[members.0x0]
+name = "NumOfEnumUILang"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "SizeOfEnumUIBuffer"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "pEnumUIBuffer"
+offset = 0x8
+type = "LANGID*"
+size = 0x4

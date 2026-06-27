@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.866258Z
+name = "tagEMREXTFLOODFILL"
+size = 0x18
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ptlStart"
+offset = 0x8
+type = "POINTL"
+size = 0x8
+
+[members.0x10]
+name = "crColor"
+offset = 0x10
+type = "COLORREF"
+size = 0x4
+
+[members.0x14]
+name = "iMode"
+offset = 0x14
+type = "DWORD"
+size = 0x4

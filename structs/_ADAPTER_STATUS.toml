@@ -1,0 +1,165 @@
+last_change = 2026-06-27T20:49:16.631895Z
+name = "_ADAPTER_STATUS"
+size = 0x3c
+
+[members.0x0]
+name = "adapter_address"
+offset = 0x0
+type = "UCHAR[0x6]"
+size = 0x6
+
+[members.0x6]
+name = "rev_major"
+offset = 0x6
+type = "UCHAR"
+size = 0x1
+
+[members.0x7]
+name = "reserved0"
+offset = 0x7
+type = "UCHAR"
+size = 0x1
+
+[members.0x8]
+name = "adapter_type"
+offset = 0x8
+type = "UCHAR"
+size = 0x1
+
+[members.0x9]
+name = "rev_minor"
+offset = 0x9
+type = "UCHAR"
+size = 0x1
+
+[members.0xa]
+name = "duration"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "frmr_recv"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "frmr_xmit"
+offset = 0xe
+type = "WORD"
+size = 0x2
+
+[members.0x10]
+name = "iframe_recv_err"
+offset = 0x10
+type = "WORD"
+size = 0x2
+
+[members.0x12]
+name = "xmit_aborts"
+offset = 0x12
+type = "WORD"
+size = 0x2
+
+[members.0x14]
+name = "xmit_success"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "recv_success"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "iframe_xmit_err"
+offset = 0x1c
+type = "WORD"
+size = 0x2
+
+[members.0x1e]
+name = "recv_buff_unavail"
+offset = 0x1e
+type = "WORD"
+size = 0x2
+
+[members.0x20]
+name = "t1_timeouts"
+offset = 0x20
+type = "WORD"
+size = 0x2
+
+[members.0x22]
+name = "ti_timeouts"
+offset = 0x22
+type = "WORD"
+size = 0x2
+
+[members.0x24]
+name = "reserved1"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "free_ncbs"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "max_cfg_ncbs"
+offset = 0x2a
+type = "WORD"
+size = 0x2
+
+[members.0x2c]
+name = "max_ncbs"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "xmit_buf_unavail"
+offset = 0x2e
+type = "WORD"
+size = 0x2
+
+[members.0x30]
+name = "max_dgram_size"
+offset = 0x30
+type = "WORD"
+size = 0x2
+
+[members.0x32]
+name = "pending_sess"
+offset = 0x32
+type = "WORD"
+size = 0x2
+
+[members.0x34]
+name = "max_cfg_sess"
+offset = 0x34
+type = "WORD"
+size = 0x2
+
+[members.0x36]
+name = "max_sess"
+offset = 0x36
+type = "WORD"
+size = 0x2
+
+[members.0x38]
+name = "max_sess_pkt_size"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "name_count"
+offset = 0x3a
+type = "WORD"
+size = 0x2

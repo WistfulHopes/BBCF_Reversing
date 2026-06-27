@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.632946Z
+name = "_ASSEMBLY_FILE_DETAILED_INFORMATION"
+size = 0x14
+
+[members.0x0]
+name = "ulFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ulFilenameLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ulPathLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lpFileName"
+offset = 0xc
+type = "PCWSTR"
+size = 0x4
+
+[members.0x10]
+name = "lpFilePath"
+offset = 0x10
+type = "PCWSTR"
+size = 0x4

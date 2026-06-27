@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.758835Z
+name = "_PPM_IDLE_STATE_ACCOUNTING"
+size = 0x30
+
+[members.0x0]
+name = "IdleTransitions"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "FailedTransitions"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "InvalidBucketIndex"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "TotalTime"
+offset = 0x10
+type = "DWORD64"
+size = 0x8
+
+[members.0x18]
+name = "IdleTimeBuckets"
+offset = 0x18
+type = "DWORD[0x6]"
+size = 0x18

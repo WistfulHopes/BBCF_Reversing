@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.645981Z
+name = "_CERT_REVOCATION_CRL_INFO"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pBaseCrlContext"
+offset = 0x4
+type = "PCCRL_CONTEXT"
+size = 0x4
+
+[members.0x8]
+name = "pDeltaCrlContext"
+offset = 0x8
+type = "PCCRL_CONTEXT"
+size = 0x4
+
+[members.0xc]
+name = "pCrlEntry"
+offset = 0xc
+type = "PCRL_ENTRY"
+size = 0x4
+
+[members.0x10]
+name = "fDeltaCrlEntry"
+offset = 0x10
+type = "BOOL"
+size = 0x4

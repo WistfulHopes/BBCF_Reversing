@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.698152Z
+name = "_FILE_ID_INFO"
+size = 0x18
+
+[members.0x0]
+name = "VolumeSerialNumber"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "FileId"
+offset = 0x8
+type = "FILE_ID_128"
+size = 0x10

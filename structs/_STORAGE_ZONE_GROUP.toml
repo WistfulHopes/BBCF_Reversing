@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.816363Z
+name = "_STORAGE_ZONE_GROUP"
+size = 0x10
+
+[members.0x0]
+name = "ZoneCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ZoneType"
+offset = 0x4
+type = "STORAGE_ZONE_TYPES"
+size = 0x4
+
+[members.0x8]
+name = "ZoneSize"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8

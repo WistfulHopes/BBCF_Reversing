@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.610152Z
+name = "IDirect3D9ExVTable"
+size = 0x58
+
+[members.0x44]
+name = "GetAdapterModeCountEx"
+offset = 0x44
+type = "uint (*)(struct IDirect3D9Ex* this, uint Adapter, struct D3DDISPLAYMODEFILTER* pFilter)"
+size = 0x4
+
+[members.0x48]
+name = "EnumAdapterModesEx"
+offset = 0x48
+type = "HRESULT (*)(struct IDirect3D9Ex* this, uint Adapter, struct D3DDISPLAYMODEFILTER* pFilter, uint Mode, struct D3DDISPLAYMODEEX* pMode)"
+size = 0x4
+
+[members.0x4c]
+name = "GetAdapterDisplayModeEx"
+offset = 0x4c
+type = "HRESULT (*)(struct IDirect3D9Ex* this, uint Adapter, struct D3DDISPLAYMODEEX* pMode, enum D3DDISPLAYROTATION* pRotation)"
+size = 0x4
+
+[members.0x50]
+name = "CreateDeviceEx"
+offset = 0x50
+type = "HRESULT (*)(struct IDirect3D9Ex* this, uint Adapter, enum D3DDEVTYPE DeviceType, HWND hFocusWindow, uint BehaviorFlags, struct D3DPRESENT_PARAMETERS* pPresentationParameters, struct D3DDISPLAYMODEEX* pFullscreenDisplayMode, struct IDirect3DDevice9Ex* ppReturnedDeviceInterface)"
+size = 0x4
+
+[members.0x54]
+name = "GetAdapterLUID"
+offset = 0x54
+type = "HRESULT (*)(struct IDirect3D9Ex* this, uint Adapter, LUID* pLUID)"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.846691Z
+name = "_wireSAFEARR_HAVEIID"
+size = 0x18
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "apUnknown"
+offset = 0x4
+type = "void**"
+size = 0x4
+
+[members.0x8]
+name = "iid"
+offset = 0x8
+type = "IID"
+size = 0x10

@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.874003Z
+name = "tagENUMTEXTMETRICW"
+size = 0x2ec
+
+[members.0x0]
+name = "etmNewTextMetricEx"
+offset = 0x0
+type = "NEWTEXTMETRICEXW"
+size = 0x64
+
+[members.0x64]
+name = "etmAxesList"
+offset = 0x64
+type = "AXESLISTW"
+size = 0x288

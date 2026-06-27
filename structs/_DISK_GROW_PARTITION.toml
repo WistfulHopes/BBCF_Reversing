@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.681683Z
+name = "_DISK_GROW_PARTITION"
+size = 0x10
+
+[members.0x0]
+name = "PartitionNumber"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "BytesToGrow"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8

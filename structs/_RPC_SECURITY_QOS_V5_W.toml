@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.784673Z
+name = "_RPC_SECURITY_QOS_V5_W"
+size = 0x24
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Capabilities"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "IdentityTracking"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "ImpersonationType"
+offset = 0xc
+type = "uint"
+size = 0x4
+
+[members.0x10]
+name = "AdditionalSecurityInfoType"
+offset = 0x10
+type = "uint"
+size = 0x4
+
+[members.0x14]
+name = "u"
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "Sid"
+offset = 0x18
+type = "void*"
+size = 0x4
+
+[members.0x1c]
+name = "EffectiveOnly"
+offset = 0x1c
+type = "uint"
+size = 0x4
+
+[members.0x20]
+name = "ServerSecurityDescriptor"
+offset = 0x20
+type = "void*"
+size = 0x4

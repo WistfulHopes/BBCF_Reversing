@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.728192Z
+name = "_KSYSTEM_TIME"
+size = 0xc
+
+[members.0x0]
+name = "LowPart"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "High1Time"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "High2Time"
+offset = 0x8
+type = "int"
+size = 0x4

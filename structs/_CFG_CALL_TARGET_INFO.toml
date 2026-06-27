@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.648668Z
+name = "_CFG_CALL_TARGET_INFO"
+size = 0x8
+
+[members.0x0]
+name = "Offset"
+offset = 0x0
+type = "ULONG_PTR"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "ULONG_PTR"
+size = 0x4

@@ -1,0 +1,87 @@
+last_change = 2026-06-27T20:49:16.756088Z
+name = "_PERF_OBJECT_TYPE"
+size = 0x40
+
+[members.0x0]
+name = "TotalByteLength"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "DefinitionLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "HeaderLength"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ObjectNameTitleIndex"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ObjectNameTitle"
+offset = 0x10
+type = "LPWSTR"
+size = 0x4
+
+[members.0x14]
+name = "ObjectHelpTitleIndex"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "ObjectHelpTitle"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "DetailLevel"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "NumCounters"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "DefaultCounter"
+offset = 0x24
+type = "LONG"
+size = 0x4
+
+[members.0x28]
+name = "NumInstances"
+offset = 0x28
+type = "LONG"
+size = 0x4
+
+[members.0x2c]
+name = "CodePage"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "PerfTime"
+offset = 0x30
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x38]
+name = "PerfFreq"
+offset = 0x38
+type = "LARGE_INTEGER"
+size = 0x8

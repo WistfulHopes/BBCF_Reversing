@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.731470Z
+name = "_M128A"
+size = 0x10
+
+[members.0x0]
+name = "Low"
+offset = 0x0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x8]
+name = "High"
+offset = 0x8
+type = "LONGLONG"
+size = 0x8

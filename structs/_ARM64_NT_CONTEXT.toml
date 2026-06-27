@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.632619Z
+name = "_ARM64_NT_CONTEXT"
+size = 0x390
+
+[members.0x0]
+name = "ContextFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Cpsr"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0xf8
+
+[members.0x100]
+name = "Sp"
+offset = 0x100
+type = "DWORD64"
+size = 0x8
+
+[members.0x108]
+name = "Pc"
+offset = 0x108
+type = "DWORD64"
+size = 0x8
+
+[members.0x110]
+name = "V"
+offset = 0x110
+type = "ARM64_NT_NEON128[0x20]"
+size = 0x200
+
+[members.0x310]
+name = "Fpcr"
+offset = 0x310
+type = "DWORD"
+size = 0x4
+
+[members.0x314]
+name = "Fpsr"
+offset = 0x314
+type = "DWORD"
+size = 0x4
+
+[members.0x318]
+name = "Bcr"
+offset = 0x318
+type = "DWORD[0x8]"
+size = 0x20
+
+[members.0x338]
+name = "Bvr"
+offset = 0x338
+type = "DWORD64[0x8]"
+size = 0x40
+
+[members.0x378]
+name = "Wcr"
+offset = 0x378
+type = "DWORD[0x2]"
+size = 0x8
+
+[members.0x380]
+name = "Wvr"
+offset = 0x380
+type = "DWORD64[0x2]"
+size = 0x10

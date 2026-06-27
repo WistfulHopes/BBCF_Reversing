@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.812890Z
+name = "_STORAGE_PROTOCOL_DATA_DESCRIPTOR"
+size = 0x30
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ProtocolSpecificData"
+offset = 0x8
+type = "STORAGE_PROTOCOL_SPECIFIC_DATA"
+size = 0x28

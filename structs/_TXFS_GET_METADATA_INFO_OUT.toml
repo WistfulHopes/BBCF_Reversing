@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.828889Z
+name = "_TXFS_GET_METADATA_INFO_OUT"
+size = 0x30
+
+[members.0x0]
+name = "TxfFileId"
+offset = 0x0
+type = "struct"
+size = 0x10
+
+[members.0x10]
+name = "LockingTransaction"
+offset = 0x10
+type = "GUID"
+size = 0x10
+
+[members.0x20]
+name = "LastLsn"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "TransactionState"
+offset = 0x28
+type = "DWORD"
+size = 0x4

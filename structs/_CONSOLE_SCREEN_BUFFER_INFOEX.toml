@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.659416Z
+name = "_CONSOLE_SCREEN_BUFFER_INFOEX"
+size = 0x60
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "dwSize"
+offset = 0x4
+type = "COORD"
+size = 0x4
+
+[members.0x8]
+name = "dwCursorPosition"
+offset = 0x8
+type = "COORD"
+size = 0x4
+
+[members.0xc]
+name = "wAttributes"
+offset = 0xc
+type = "WORD"
+size = 0x2
+
+[members.0xe]
+name = "srWindow"
+offset = 0xe
+type = "SMALL_RECT"
+size = 0x8
+
+[members.0x16]
+name = "dwMaximumWindowSize"
+offset = 0x16
+type = "COORD"
+size = 0x4
+
+[members.0x1a]
+name = "wPopupAttributes"
+offset = 0x1a
+type = "WORD"
+size = 0x2
+
+[members.0x1c]
+name = "bFullscreenSupported"
+offset = 0x1c
+type = "BOOL"
+size = 0x4
+
+[members.0x20]
+name = "ColorTable"
+offset = 0x20
+type = "COLORREF[0x10]"
+size = 0x40

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.739273Z
+name = "_NCRYPT_KEY_ATTEST_PADDING_INFO"
+size = 0x14
+
+[members.0x0]
+name = "magic"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "pbKeyBlob"
+offset = 0x4
+type = "PUCHAR"
+size = 0x4
+
+[members.0x8]
+name = "cbKeyBlob"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "pbKeyAuth"
+offset = 0xc
+type = "PUCHAR"
+size = 0x4
+
+[members.0x10]
+name = "cbKeyAuth"
+offset = 0x10
+type = "ULONG"
+size = 0x4

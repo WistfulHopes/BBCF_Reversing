@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.767071Z
+name = "_PROCESS_DYNAMIC_ENFORCED_ADDRESS_RANGES_INFORMATION"
+size = 0xc
+
+[members.0x0]
+name = "NumberOfRanges"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Reserved"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "Reserved2"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Ranges"
+offset = 0x8
+type = "PPROCESS_DYNAMIC_ENFORCED_ADDRESS_RANGE"
+size = 0x4

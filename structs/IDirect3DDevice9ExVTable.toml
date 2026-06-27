@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.611225Z
+name = "IDirect3DDevice9ExVTable"
+size = 0x218
+
+[members.0x1dc]
+name = "SetConvolutionMonoKernel"
+offset = 0x1dc
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint width, uint height, float* rows, float* columns)"
+size = 0x4
+
+[members.0x1e0]
+name = "ComposeRects"
+offset = 0x1e0
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, struct IDirect3DSurface9 pSrc, struct IDirect3DSurface9 pDst, struct IDirect3DVertexBuffer9 pSrcRectDescs, uint NumRects, struct IDirect3DVertexBuffer9 pDstRectDescs, enum D3DCOMPOSERECTSOP Operation, int Xoffset, int Yoffset)"
+size = 0x4
+
+[members.0x1e4]
+name = "PresentEx"
+offset = 0x1e4
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, RECT* pSourceRect, RECT* pDestRect, HWND hDestWindowOverride, RGNDATA* pDirtyRegion, uint dwFlags)"
+size = 0x4
+
+[members.0x1e8]
+name = "GetGPUThreadPriority"
+offset = 0x1e8
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, int* pPriority)"
+size = 0x4
+
+[members.0x1ec]
+name = "SetGPUThreadPriority"
+offset = 0x1ec
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, int Priority)"
+size = 0x4
+
+[members.0x1f0]
+name = "WaitForVBlank"
+offset = 0x1f0
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint iSwapChain)"
+size = 0x4
+
+[members.0x1f4]
+name = "CheckResourceResidency"
+offset = 0x1f4
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, struct IDirect3DResource9* pResourceArray, uint NumResources)"
+size = 0x4
+
+[members.0x1f8]
+name = "SetMaximumFrameLatency"
+offset = 0x1f8
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint MaxLatency)"
+size = 0x4
+
+[members.0x1fc]
+name = "GetMaximumFrameLatency"
+offset = 0x1fc
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint* pMaxLatency)"
+size = 0x4
+
+[members.0x200]
+name = "CheckDeviceState"
+offset = 0x200
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, HWND hDestinationWindow)"
+size = 0x4
+
+[members.0x204]
+name = "CreateRenderTargetEx"
+offset = 0x204
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint Width, uint Height, enum D3DFORMAT Format, enum D3DMULTISAMPLE_TYPE MultiSample, uint MultisampleQuality, BOOL Lockable, struct IDirect3DSurface9* ppSurface, HANDLE* pSharedHandle, uint Usage)"
+size = 0x4
+
+[members.0x208]
+name = "CreateOffscreenPlainSurfaceEx"
+offset = 0x208
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint Width, uint Height, enum D3DFORMAT Format, enum D3DPOOL Pool, struct IDirect3DSurface9* ppSurface, HANDLE* pSharedHandle, uint Usage)"
+size = 0x4
+
+[members.0x20c]
+name = "CreateDepthStencilSurfaceEx"
+offset = 0x20c
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint Width, uint Height, enum D3DFORMAT Format, enum D3DMULTISAMPLE_TYPE MultiSample, uint MultisampleQuality, BOOL Discard, struct IDirect3DSurface9* ppSurface, HANDLE* pSharedHandle, uint Usage)"
+size = 0x4
+
+[members.0x210]
+name = "ResetEx"
+offset = 0x210
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, struct D3DPRESENT_PARAMETERS* pPresentationParameters, struct D3DDISPLAYMODEEX* pFullscreenDisplayMode)"
+size = 0x4
+
+[members.0x214]
+name = "GetDisplayModeEx"
+offset = 0x214
+type = "HRESULT (*)(struct IDirect3DDevice9Ex* this, uint iSwapChain, struct D3DDISPLAYMODEEX* pMode, enum D3DDISPLAYROTATION* pRotation)"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.865437Z
+name = "tagEMRCREATEPEN"
+size = 0x1c
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihPen"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "lopn"
+offset = 0xc
+type = "LOGPEN"
+size = 0x10

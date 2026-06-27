@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.650495Z
+name = "_CLAIM_SECURITY_ATTRIBUTE_RELATIVE_V1"
+size = 0x14
+
+[members.0x0]
+name = "Name"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "ValueType"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "Reserved"
+offset = 0x6
+type = "WORD"
+size = 0x2
+
+[members.0x8]
+name = "Flags"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "ValueCount"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Values"
+offset = 0x10
+type = "union"
+size = 0x4

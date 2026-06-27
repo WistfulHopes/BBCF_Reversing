@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.581958Z
+name = "AA_CRandomManager"
+size = 0xc
+
+[members.0x0]
+name = "vftable_Serializable"
+offset = 0x0
+type = "struct ISerializable::AA_CRandomManager::VTable*"
+size = 0x4
+
+[members.0x4]
+name = "vftable_GameState"
+offset = 0x4
+type = "struct IGameState::AA_CRandomManager::VTable*"
+size = 0x4
+
+[members.0x8]
+name = "m_Instance"
+offset = 0x8
+type = "struct AA_CRandMT*"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.861260Z
+name = "tagCURSORINFO"
+size = 0x14
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "hCursor"
+offset = 0x8
+type = "HCURSOR"
+size = 0x4
+
+[members.0xc]
+name = "ptScreenPos"
+offset = 0xc
+type = "POINT"
+size = 0x8

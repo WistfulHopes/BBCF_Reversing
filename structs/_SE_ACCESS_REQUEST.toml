@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.799847Z
+name = "_SE_ACCESS_REQUEST"
+size = 0x20
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SeSecurityDescriptor"
+offset = 0x4
+type = "PSE_SECURITY_DESCRIPTOR"
+size = 0x4
+
+[members.0x8]
+name = "DesiredAccess"
+offset = 0x8
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0xc]
+name = "PreviouslyGrantedAccess"
+offset = 0xc
+type = "ACCESS_MASK"
+size = 0x4
+
+[members.0x10]
+name = "PrincipalSelfSid"
+offset = 0x10
+type = "PSID"
+size = 0x4
+
+[members.0x14]
+name = "GenericMapping"
+offset = 0x14
+type = "PGENERIC_MAPPING"
+size = 0x4
+
+[members.0x18]
+name = "ObjectTypeListCount"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "ObjectTypeList"
+offset = 0x1c
+type = "POBJECT_TYPE_LIST"
+size = 0x4

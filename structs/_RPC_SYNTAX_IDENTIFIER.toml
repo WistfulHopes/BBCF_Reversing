@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.785057Z
+name = "_RPC_SYNTAX_IDENTIFIER"
+size = 0x14
+
+[members.0x0]
+name = "SyntaxGUID"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "SyntaxVersion"
+offset = 0x10
+type = "RPC_VERSION"
+size = 0x4

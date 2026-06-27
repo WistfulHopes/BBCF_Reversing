@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.625453Z
+name = "RETRIEVAL_POINTER_COUNT"
+size = 0x4
+
+[members.0x0]
+name = "ExtentCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4

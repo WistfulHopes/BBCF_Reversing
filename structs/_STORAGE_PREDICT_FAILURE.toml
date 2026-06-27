@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.812264Z
+name = "_STORAGE_PREDICT_FAILURE"
+size = 0x204
+
+[members.0x0]
+name = "PredictFailure"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "VendorSpecific"
+offset = 0x4
+type = "BYTE[0x200]"
+size = 0x200

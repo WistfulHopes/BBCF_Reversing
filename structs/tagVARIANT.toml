@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.919146Z
+name = "tagVARIANT"
+size = 0x10
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x10

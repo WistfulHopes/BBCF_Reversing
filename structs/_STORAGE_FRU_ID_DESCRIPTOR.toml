@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.808913Z
+name = "_STORAGE_FRU_ID_DESCRIPTOR"
+size = 0x10
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "IdentifierSize"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "Identifier"
+offset = 0xc
+type = "BYTE[0x1]"
+size = 0x1

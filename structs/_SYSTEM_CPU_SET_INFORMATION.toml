@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.818855Z
+name = "_SYSTEM_CPU_SET_INFORMATION"
+size = 0x20
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Type"
+offset = 0x4
+type = "CPU_SET_INFORMATION_TYPE"
+size = 0x4
+
+[members.0x8]
+name = ""
+offset = 0x8
+type = "union"
+size = 0x18

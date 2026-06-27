@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.615824Z
+name = "IMAGE_AUX_SYMBOL_TOKEN_DEF"
+size = 0x14
+
+[members.0x0]
+name = "bAuxType"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "bReserved"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x4]
+name = "SymbolTableIndex"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgbReserved"
+offset = 0x8
+type = "BYTE[0xc]"
+size = 0xc

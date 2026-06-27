@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.632347Z
+name = "_APP_MEMORY_INFORMATION"
+size = 0x20
+
+[members.0x0]
+name = "AvailableCommit"
+offset = 0x0
+type = "ULONG64"
+size = 0x8
+
+[members.0x8]
+name = "PrivateCommitUsage"
+offset = 0x8
+type = "ULONG64"
+size = 0x8
+
+[members.0x10]
+name = "PeakPrivateCommitUsage"
+offset = 0x10
+type = "ULONG64"
+size = 0x8
+
+[members.0x18]
+name = "TotalCommitUsage"
+offset = 0x18
+type = "ULONG64"
+size = 0x8

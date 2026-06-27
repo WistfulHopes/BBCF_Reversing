@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.772814Z
+name = "_PSFEATURE_CUSTPAPER"
+size = 0x14
+
+[members.0x0]
+name = "lOrientation"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "lWidth"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "lHeight"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "lWidthOffset"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "lHeightOffset"
+offset = 0x10
+type = "LONG"
+size = 0x4

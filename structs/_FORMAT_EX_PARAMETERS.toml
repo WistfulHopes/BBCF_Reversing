@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.703852Z
+name = "_FORMAT_EX_PARAMETERS"
+size = 0x1c
+
+[members.0x0]
+name = "MediaType"
+offset = 0x0
+type = "MEDIA_TYPE"
+size = 0x4
+
+[members.0x4]
+name = "StartCylinderNumber"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "EndCylinderNumber"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "StartHeadNumber"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "EndHeadNumber"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "FormatGapLength"
+offset = 0x14
+type = "WORD"
+size = 0x2
+
+[members.0x16]
+name = "SectorsPerTrack"
+offset = 0x16
+type = "WORD"
+size = 0x2
+
+[members.0x18]
+name = "SectorNumber"
+offset = 0x18
+type = "WORD[0x1]"
+size = 0x2

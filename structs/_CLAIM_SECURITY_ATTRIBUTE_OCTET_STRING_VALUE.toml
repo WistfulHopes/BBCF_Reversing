@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.650216Z
+name = "_CLAIM_SECURITY_ATTRIBUTE_OCTET_STRING_VALUE"
+size = 0x8
+
+[members.0x0]
+name = "pValue"
+offset = 0x0
+type = "PVOID"
+size = 0x4
+
+[members.0x4]
+name = "ValueLength"
+offset = 0x4
+type = "DWORD"
+size = 0x4

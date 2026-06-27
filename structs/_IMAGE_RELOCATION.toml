@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.719167Z
+name = "_IMAGE_RELOCATION"
+size = 0xc
+
+[members.0x0]
+name = ""
+offset = 0x0
+type = "union"
+size = 0x4
+
+[members.0x4]
+name = "SymbolTableIndex"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Type"
+offset = 0x8
+type = "WORD"
+size = 0x2

@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.803894Z
+name = "_STARTING_LCN_INPUT_BUFFER"
+size = 0x8
+
+[members.0x0]
+name = "StartingLcn"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8

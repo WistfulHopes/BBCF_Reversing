@@ -1,0 +1,93 @@
+last_change = 2026-06-27T20:49:16.730312Z
+name = "_LDR_DATA_TABLE_ENTRY"
+size = 0x50
+
+[members.0x0]
+name = "InLoadOrderLinks"
+offset = 0x0
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_LO"
+size = 0x8
+
+[members.0x8]
+name = "InMemoryOrderModuleList"
+offset = 0x8
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_MO"
+size = 0x8
+
+[members.0x10]
+name = "InInitializationOrderModuleList"
+offset = 0x10
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_IO"
+size = 0x8
+
+[members.0x18]
+name = "DllBase"
+offset = 0x18
+type = "PVOID"
+size = 0x4
+
+[members.0x1c]
+name = "EntryPoint"
+offset = 0x1c
+type = "PVOID"
+size = 0x4
+
+[members.0x20]
+name = "SizeOfImage"
+offset = 0x20
+type = "ULONG"
+size = 0x4
+
+[members.0x24]
+name = "FullDllName"
+offset = 0x24
+type = "UNICODE_STRING"
+size = 0x8
+
+[members.0x2c]
+name = "BaseDllName"
+offset = 0x2c
+type = "UNICODE_STRING"
+size = 0x8
+
+[members.0x34]
+name = "Flags"
+offset = 0x34
+type = "ULONG"
+size = 0x4
+
+[members.0x38]
+name = "LoadCount"
+offset = 0x38
+type = "USHORT"
+size = 0x2
+
+[members.0x3a]
+name = "TlsIndex"
+offset = 0x3a
+type = "USHORT"
+size = 0x2
+
+[members.0x3c]
+name = ""
+offset = 0x3c
+type = "union"
+size = 0x8
+
+[members.0x44]
+name = ""
+offset = 0x44
+type = "union"
+size = 0x4
+
+[members.0x48]
+name = "EntryPointActivationContext"
+offset = 0x48
+type = "PVOID"
+size = 0x4
+
+[members.0x4c]
+name = "PatchInformation"
+offset = 0x4c
+type = "PVOID"
+size = 0x4

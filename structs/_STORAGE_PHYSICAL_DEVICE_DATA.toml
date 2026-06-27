@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.811914Z
+name = "_STORAGE_PHYSICAL_DEVICE_DATA"
+size = 0x88
+
+[members.0x0]
+name = "DeviceId"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Role"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "HealthStatus"
+offset = 0x8
+type = "STORAGE_COMPONENT_HEALTH_STATUS"
+size = 0x4
+
+[members.0xc]
+name = "CommandProtocol"
+offset = 0xc
+type = "STORAGE_PROTOCOL_TYPE"
+size = 0x4
+
+[members.0x10]
+name = "SpecVersion"
+offset = 0x10
+type = "STORAGE_SPEC_VERSION"
+size = 0x4
+
+[members.0x14]
+name = "FormFactor"
+offset = 0x14
+type = "STORAGE_DEVICE_FORM_FACTOR"
+size = 0x4
+
+[members.0x18]
+name = "Vendor"
+offset = 0x18
+type = "BYTE[0x8]"
+size = 0x8
+
+[members.0x20]
+name = "Model"
+offset = 0x20
+type = "BYTE[0x28]"
+size = 0x28
+
+[members.0x48]
+name = "FirmwareRevision"
+offset = 0x48
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x58]
+name = "Capacity"
+offset = 0x58
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x60]
+name = "PhysicalLocation"
+offset = 0x60
+type = "BYTE[0x20]"
+size = 0x20
+
+[members.0x80]
+name = "Reserved"
+offset = 0x80
+type = "DWORD[0x2]"
+size = 0x8

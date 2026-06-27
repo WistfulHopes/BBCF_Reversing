@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.667816Z
+name = "_CRYPT_OID_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pszOID"
+offset = 0x4
+type = "LPCSTR"
+size = 0x4
+
+[members.0x8]
+name = "pwszName"
+offset = 0x8
+type = "LPCWSTR"
+size = 0x4
+
+[members.0xc]
+name = "dwGroupId"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = ""
+offset = 0x10
+type = "union"
+size = 0x4
+
+[members.0x14]
+name = "ExtraInfo"
+offset = 0x14
+type = "CRYPT_DATA_BLOB"
+size = 0x8

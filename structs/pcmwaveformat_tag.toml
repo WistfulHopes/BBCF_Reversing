@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.848938Z
+name = "pcmwaveformat_tag"
+size = 0x14
+
+[members.0x0]
+name = "wf"
+offset = 0x0
+type = "WAVEFORMAT"
+size = 0x10
+
+[members.0x10]
+name = "wBitsPerSample"
+offset = 0x10
+type = "WORD"
+size = 0x2

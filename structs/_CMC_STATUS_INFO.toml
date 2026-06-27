@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.651981Z
+name = "_CMC_STATUS_INFO"
+size = 0x18
+
+[members.0x0]
+name = "dwStatus"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cBodyList"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "rgdwBodyList"
+offset = 0x8
+type = "DWORD*"
+size = 0x4
+
+[members.0xc]
+name = "pwszStatusString"
+offset = 0xc
+type = "LPWSTR"
+size = 0x4
+
+[members.0x10]
+name = "dwOtherInfoChoice"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = ""
+offset = 0x14
+type = "union"
+size = 0x4

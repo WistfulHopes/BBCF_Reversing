@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.733559Z
+name = "_MENUITEMTEMPLATE"
+size = 0x6
+
+[members.0x0]
+name = "mtOption"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "mtID"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "mtString"
+offset = 0x4
+type = "WCHAR[0x1]"
+size = 0x2

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.759136Z
+name = "_PPM_IDLE_STATE_BUCKET_EX"
+size = 0x18
+
+[members.0x0]
+name = "TotalTimeUs"
+offset = 0x0
+type = "DWORD64"
+size = 0x8
+
+[members.0x8]
+name = "MinTimeUs"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "MaxTimeUs"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "Count"
+offset = 0x10
+type = "DWORD"
+size = 0x4

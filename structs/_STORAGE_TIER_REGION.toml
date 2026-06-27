@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.815790Z
+name = "_STORAGE_TIER_REGION"
+size = 0x20
+
+[members.0x0]
+name = "TierId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "Offset"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "Length"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8

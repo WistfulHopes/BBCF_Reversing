@@ -1,0 +1,51 @@
+last_change = 2026-06-27T20:49:16.722995Z
+name = "_JOBOBJECT_BASIC_ACCOUNTING_INFORMATION"
+size = 0x30
+
+[members.0x0]
+name = "TotalUserTime"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "TotalKernelTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x10]
+name = "ThisPeriodTotalUserTime"
+offset = 0x10
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x18]
+name = "ThisPeriodTotalKernelTime"
+offset = 0x18
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x20]
+name = "TotalPageFaultCount"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "TotalProcesses"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "ActiveProcesses"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "TotalTerminatedProcesses"
+offset = 0x2c
+type = "DWORD"
+size = 0x4

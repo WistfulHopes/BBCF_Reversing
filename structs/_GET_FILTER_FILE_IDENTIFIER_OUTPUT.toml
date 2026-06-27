@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.708017Z
+name = "_GET_FILTER_FILE_IDENTIFIER_OUTPUT"
+size = 0x4
+
+[members.0x0]
+name = "FilterFileIdentifierLength"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "FilterFileIdentifier"
+offset = 0x2
+type = "BYTE[0x1]"
+size = 0x1

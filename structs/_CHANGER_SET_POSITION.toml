@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.649920Z
+name = "_CHANGER_SET_POSITION"
+size = 0x14
+
+[members.0x0]
+name = "Transport"
+offset = 0x0
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x8]
+name = "Destination"
+offset = 0x8
+type = "CHANGER_ELEMENT"
+size = 0x8
+
+[members.0x10]
+name = "Flip"
+offset = 0x10
+type = "BOOLEAN"
+size = 0x1

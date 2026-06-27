@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.752221Z
+name = "_OUTPUT_DEBUG_STRING_INFO"
+size = 0x8
+
+[members.0x0]
+name = "lpDebugStringData"
+offset = 0x0
+type = "LPSTR"
+size = 0x4
+
+[members.0x4]
+name = "fUnicode"
+offset = 0x4
+type = "WORD"
+size = 0x2
+
+[members.0x6]
+name = "nDebugStringLength"
+offset = 0x6
+type = "WORD"
+size = 0x2

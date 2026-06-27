@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.898117Z
+name = "tagMULTIKEYHELPA"
+size = 0x8
+
+[members.0x0]
+name = "mkSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "mkKeylist"
+offset = 0x4
+type = "CHAR"
+size = 0x1
+
+[members.0x5]
+name = "szKeyphrase"
+offset = 0x5
+type = "CHAR[0x1]"
+size = 0x1

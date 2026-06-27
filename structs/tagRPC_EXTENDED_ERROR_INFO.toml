@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.911556Z
+name = "tagRPC_EXTENDED_ERROR_INFO"
+size = 0x70
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "ComputerName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "ProcessID"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "u"
+offset = 0xc
+type = "union"
+size = 0x10
+
+[members.0x1c]
+name = "GeneratingComponent"
+offset = 0x1c
+type = "ULONG"
+size = 0x4
+
+[members.0x20]
+name = "Status"
+offset = 0x20
+type = "ULONG"
+size = 0x4
+
+[members.0x24]
+name = "DetectionLocation"
+offset = 0x24
+type = "USHORT"
+size = 0x2
+
+[members.0x26]
+name = "Flags"
+offset = 0x26
+type = "USHORT"
+size = 0x2
+
+[members.0x28]
+name = "NumberOfParameters"
+offset = 0x28
+type = "int"
+size = 0x4
+
+[members.0x30]
+name = "Parameters"
+offset = 0x30
+type = "RPC_EE_INFO_PARAM[0x4]"
+size = 0x40

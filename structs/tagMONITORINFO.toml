@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.896000Z
+name = "tagMONITORINFO"
+size = 0x28
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "rcMonitor"
+offset = 0x4
+type = "RECT"
+size = 0x10
+
+[members.0x14]
+name = "rcWork"
+offset = 0x14
+type = "RECT"
+size = 0x10
+
+[members.0x24]
+name = "dwFlags"
+offset = 0x24
+type = "DWORD"
+size = 0x4

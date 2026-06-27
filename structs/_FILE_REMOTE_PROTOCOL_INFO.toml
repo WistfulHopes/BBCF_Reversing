@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.701427Z
+name = "_FILE_REMOTE_PROTOCOL_INFO"
+size = 0x74
+
+[members.0x0]
+name = "StructureVersion"
+offset = 0x0
+type = "USHORT"
+size = 0x2
+
+[members.0x2]
+name = "StructureSize"
+offset = 0x2
+type = "USHORT"
+size = 0x2
+
+[members.0x4]
+name = "Protocol"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "ProtocolMajorVersion"
+offset = 0x8
+type = "USHORT"
+size = 0x2
+
+[members.0xa]
+name = "ProtocolMinorVersion"
+offset = 0xa
+type = "USHORT"
+size = 0x2
+
+[members.0xc]
+name = "ProtocolRevision"
+offset = 0xc
+type = "USHORT"
+size = 0x2
+
+[members.0xe]
+name = "Reserved"
+offset = 0xe
+type = "USHORT"
+size = 0x2
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "GenericReserved"
+offset = 0x14
+type = "struct"
+size = 0x20
+
+[members.0x34]
+name = "ProtocolSpecific"
+offset = 0x34
+type = "union"
+size = 0x40

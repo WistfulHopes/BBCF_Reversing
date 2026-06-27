@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.846415Z
+name = "_wireSAFEARRAY_UNION"
+size = 0x1c
+
+[members.0x0]
+name = "sfType"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "u"
+offset = 0x4
+type = "union"
+size = 0x18

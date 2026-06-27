@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.802832Z
+name = "_SID_AND_ATTRIBUTES_HASH"
+size = 0x88
+
+[members.0x0]
+name = "SidCount"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "SidAttr"
+offset = 0x4
+type = "PSID_AND_ATTRIBUTES"
+size = 0x4
+
+[members.0x8]
+name = "Hash"
+offset = 0x8
+type = "SID_HASH_ENTRY[0x20]"
+size = 0x80

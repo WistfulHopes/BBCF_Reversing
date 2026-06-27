@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.654080Z
+name = "_CMSG_ENVELOPED_ENCODE_INFO"
+size = 0x20
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "hCryptProv"
+offset = 0x4
+type = "HCRYPTPROV_LEGACY"
+size = 0x4
+
+[members.0x8]
+name = "ContentEncryptionAlgorithm"
+offset = 0x8
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0x14]
+name = "pvEncryptionAuxInfo"
+offset = 0x14
+type = "void*"
+size = 0x4
+
+[members.0x18]
+name = "cRecipients"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "rgpRecipients"
+offset = 0x1c
+type = "PCERT_INFO*"
+size = 0x4

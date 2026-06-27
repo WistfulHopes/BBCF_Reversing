@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.633105Z
+name = "_ASYNC_DUPLICATE_EXTENTS_STATUS"
+size = 0x28
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "State"
+offset = 0x4
+type = "DUPLICATE_EXTENTS_STATE"
+size = 0x4
+
+[members.0x8]
+name = "SourceFileOffset"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "TargetFileOffset"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "ByteCount"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "BytesDuplicated"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8

@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.602507Z
+name = "DISPLAYCONFIG_PATH_TARGET_INFO"
+size = 0x30
+
+[members.0x0]
+name = "adapterId"
+offset = 0x0
+type = "LUID"
+size = 0x8
+
+[members.0x8]
+name = "id"
+offset = 0x8
+type = "UINT32"
+size = 0x4
+
+[members.0xc]
+name = ""
+offset = 0xc
+type = "union"
+size = 0x4
+
+[members.0x10]
+name = "outputTechnology"
+offset = 0x10
+type = "DISPLAYCONFIG_VIDEO_OUTPUT_TECHNOLOGY"
+size = 0x4
+
+[members.0x14]
+name = "rotation"
+offset = 0x14
+type = "DISPLAYCONFIG_ROTATION"
+size = 0x4
+
+[members.0x18]
+name = "scaling"
+offset = 0x18
+type = "DISPLAYCONFIG_SCALING"
+size = 0x4
+
+[members.0x1c]
+name = "refreshRate"
+offset = 0x1c
+type = "struct DISPLAYCONFIG_RATIONAL"
+size = 0x8
+
+[members.0x24]
+name = "scanLineOrdering"
+offset = 0x24
+type = "DISPLAYCONFIG_SCANLINE_ORDERING"
+size = 0x4
+
+[members.0x28]
+name = "targetAvailable"
+offset = 0x28
+type = "BOOL"
+size = 0x4
+
+[members.0x2c]
+name = "statusFlags"
+offset = 0x2c
+type = "UINT32"
+size = 0x4

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.646948Z
+name = "_CERT_SELECT_CRITERIA"
+size = 0xc
+
+[members.0x0]
+name = "dwType"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "cPara"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "ppPara"
+offset = 0x8
+type = "void**"
+size = 0x4

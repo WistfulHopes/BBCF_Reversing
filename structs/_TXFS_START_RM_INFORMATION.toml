@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.830839Z
+name = "_TXFS_START_RM_INFORMATION"
+size = 0x30
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "LogContainerSize"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "LogContainerCountMin"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "LogContainerCountMax"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "LogGrowthIncrement"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "LogAutoShrinkPercentage"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "TmLogPathOffset"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "TmLogPathLength"
+offset = 0x24
+type = "WORD"
+size = 0x2
+
+[members.0x26]
+name = "LoggingMode"
+offset = 0x26
+type = "WORD"
+size = 0x2
+
+[members.0x28]
+name = "LogPathLength"
+offset = 0x28
+type = "WORD"
+size = 0x2
+
+[members.0x2a]
+name = "Reserved"
+offset = 0x2a
+type = "WORD"
+size = 0x2
+
+[members.0x2c]
+name = "LogPath"
+offset = 0x2c
+type = "WCHAR[0x1]"
+size = 0x2

@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.912354Z
+name = "tagRemSTGMEDIUM"
+size = 0x18
+
+[members.0x0]
+name = "tymed"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwHandleType"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "pData"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "pUnkForRelease"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "cbData"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "data"
+offset = 0x14
+type = "byte[0x1]"
+size = 0x1

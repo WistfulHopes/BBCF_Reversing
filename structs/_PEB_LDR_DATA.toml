@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.754775Z
+name = "_PEB_LDR_DATA"
+size = 0x30
+
+[members.0x0]
+name = "Length"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "Initialized"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x8]
+name = "SsHandle"
+offset = 0x8
+type = "HANDLE"
+size = 0x4
+
+[members.0xc]
+name = "InLoadOrderModuleList"
+offset = 0xc
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_LO"
+size = 0x8
+
+[members.0x14]
+name = "InMemoryOrderModuleList"
+offset = 0x14
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_MO"
+size = 0x8
+
+[members.0x1c]
+name = "InInitializationOrderModuleList"
+offset = 0x1c
+type = "struct _LDR_DATA_TABLE_ENTRY_LIST_ENTRY_IO"
+size = 0x8
+
+[members.0x24]
+name = "EntryInProgress"
+offset = 0x24
+type = "PVOID"
+size = 0x4
+
+[members.0x28]
+name = "ShutdownInProgress"
+offset = 0x28
+type = "uchar"
+size = 0x1
+
+[members.0x2c]
+name = "ShutdownThreadId"
+offset = 0x2c
+type = "void*"
+size = 0x4

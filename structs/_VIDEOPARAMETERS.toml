@@ -1,0 +1,141 @@
+last_change = 2026-06-27T20:49:16.834472Z
+name = "_VIDEOPARAMETERS"
+size = 0x164
+
+[members.0x0]
+name = "Guid"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "dwOffset"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "dwCommand"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "dwFlags"
+offset = 0x18
+type = "ULONG"
+size = 0x4
+
+[members.0x1c]
+name = "dwMode"
+offset = 0x1c
+type = "ULONG"
+size = 0x4
+
+[members.0x20]
+name = "dwTVStandard"
+offset = 0x20
+type = "ULONG"
+size = 0x4
+
+[members.0x24]
+name = "dwAvailableModes"
+offset = 0x24
+type = "ULONG"
+size = 0x4
+
+[members.0x28]
+name = "dwAvailableTVStandard"
+offset = 0x28
+type = "ULONG"
+size = 0x4
+
+[members.0x2c]
+name = "dwFlickerFilter"
+offset = 0x2c
+type = "ULONG"
+size = 0x4
+
+[members.0x30]
+name = "dwOverScanX"
+offset = 0x30
+type = "ULONG"
+size = 0x4
+
+[members.0x34]
+name = "dwOverScanY"
+offset = 0x34
+type = "ULONG"
+size = 0x4
+
+[members.0x38]
+name = "dwMaxUnscaledX"
+offset = 0x38
+type = "ULONG"
+size = 0x4
+
+[members.0x3c]
+name = "dwMaxUnscaledY"
+offset = 0x3c
+type = "ULONG"
+size = 0x4
+
+[members.0x40]
+name = "dwPositionX"
+offset = 0x40
+type = "ULONG"
+size = 0x4
+
+[members.0x44]
+name = "dwPositionY"
+offset = 0x44
+type = "ULONG"
+size = 0x4
+
+[members.0x48]
+name = "dwBrightness"
+offset = 0x48
+type = "ULONG"
+size = 0x4
+
+[members.0x4c]
+name = "dwContrast"
+offset = 0x4c
+type = "ULONG"
+size = 0x4
+
+[members.0x50]
+name = "dwCPType"
+offset = 0x50
+type = "ULONG"
+size = 0x4
+
+[members.0x54]
+name = "dwCPCommand"
+offset = 0x54
+type = "ULONG"
+size = 0x4
+
+[members.0x58]
+name = "dwCPStandard"
+offset = 0x58
+type = "ULONG"
+size = 0x4
+
+[members.0x5c]
+name = "dwCPKey"
+offset = 0x5c
+type = "ULONG"
+size = 0x4
+
+[members.0x60]
+name = "bCP_APSTriggerBits"
+offset = 0x60
+type = "ULONG"
+size = 0x4
+
+[members.0x64]
+name = "bOEMCopyProtection"
+offset = 0x64
+type = "UCHAR[0x100]"
+size = 0x100

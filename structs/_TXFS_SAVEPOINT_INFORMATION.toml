@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.830615Z
+name = "_TXFS_SAVEPOINT_INFORMATION"
+size = 0xc
+
+[members.0x0]
+name = "KtmTransaction"
+offset = 0x0
+type = "HANDLE"
+size = 0x4
+
+[members.0x4]
+name = "ActionCode"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "SavepointId"
+offset = 0x8
+type = "DWORD"
+size = 0x4

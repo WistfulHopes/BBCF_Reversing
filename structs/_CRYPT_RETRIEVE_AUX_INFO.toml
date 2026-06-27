@@ -1,0 +1,75 @@
+last_change = 2026-06-27T20:49:16.669327Z
+name = "_CRYPT_RETRIEVE_AUX_INFO"
+size = 0x30
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "pLastSyncTime"
+offset = 0x4
+type = "FILETIME*"
+size = 0x4
+
+[members.0x8]
+name = "dwMaxUrlRetrievalByteCount"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "pPreFetchInfo"
+offset = 0xc
+type = "PCRYPTNET_URL_CACHE_PRE_FETCH_INFO"
+size = 0x4
+
+[members.0x10]
+name = "pFlushInfo"
+offset = 0x10
+type = "PCRYPTNET_URL_CACHE_FLUSH_INFO"
+size = 0x4
+
+[members.0x14]
+name = "ppResponseInfo"
+offset = 0x14
+type = "PCRYPTNET_URL_CACHE_RESPONSE_INFO*"
+size = 0x4
+
+[members.0x18]
+name = "pwszCacheFileNamePrefix"
+offset = 0x18
+type = "LPWSTR"
+size = 0x4
+
+[members.0x1c]
+name = "pftCacheResync"
+offset = 0x1c
+type = "LPFILETIME"
+size = 0x4
+
+[members.0x20]
+name = "fProxyCacheRetrieval"
+offset = 0x20
+type = "BOOL"
+size = 0x4
+
+[members.0x24]
+name = "dwHttpStatusCode"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "ppwszErrorResponseHeaders"
+offset = 0x28
+type = "LPWSTR*"
+size = 0x4
+
+[members.0x2c]
+name = "ppErrorContentBlob"
+offset = 0x2c
+type = "PCRYPT_DATA_BLOB*"
+size = 0x4

@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.659030Z
+name = "_CONSOLE_HISTORY_INFO"
+size = 0x10
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "HistoryBufferSize"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "NumberOfHistoryBuffers"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0xc]
+name = "dwFlags"
+offset = 0xc
+type = "DWORD"
+size = 0x4

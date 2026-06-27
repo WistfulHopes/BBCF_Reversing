@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.715323Z
+name = "_IMAGE_INDIR_CONTROL_TRANSFER_DYNAMIC_RELOCATION"
+size = 0x2
+
+[members.0x0]
+name = "Reserved"
+offset = 0x0
+type = "WORD"
+size = 0x2

@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.911952Z
+name = "tagRemHGLOBAL"
+size = 0xc
+
+[members.0x0]
+name = "fNullHGlobal"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "cbData"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "data"
+offset = 0x8
+type = "byte[0x1]"
+size = 0x1

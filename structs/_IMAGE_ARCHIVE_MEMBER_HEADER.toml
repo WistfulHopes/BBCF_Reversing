@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.710695Z
+name = "_IMAGE_ARCHIVE_MEMBER_HEADER"
+size = 0x3c
+
+[members.0x0]
+name = "Name"
+offset = 0x0
+type = "BYTE[0x10]"
+size = 0x10
+
+[members.0x10]
+name = "Date"
+offset = 0x10
+type = "BYTE[0xc]"
+size = 0xc
+
+[members.0x1c]
+name = "UserID"
+offset = 0x1c
+type = "BYTE[0x6]"
+size = 0x6
+
+[members.0x22]
+name = "GroupID"
+offset = 0x22
+type = "BYTE[0x6]"
+size = 0x6
+
+[members.0x28]
+name = "Mode"
+offset = 0x28
+type = "BYTE[0x8]"
+size = 0x8
+
+[members.0x30]
+name = "Size"
+offset = 0x30
+type = "BYTE[0xa]"
+size = 0xa
+
+[members.0x3a]
+name = "EndHeader"
+offset = 0x3a
+type = "BYTE[0x2]"
+size = 0x2

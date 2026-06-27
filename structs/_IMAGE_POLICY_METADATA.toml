@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.719034Z
+name = "_IMAGE_POLICY_METADATA"
+size = 0x18
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "Reserved0"
+offset = 0x1
+type = "BYTE[0x7]"
+size = 0x7
+
+[members.0x8]
+name = "ApplicationId"
+offset = 0x8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x10]
+name = "Policies"
+offset = 0x10
+type = "IMAGE_POLICY_ENTRY*"
+size = 0x4

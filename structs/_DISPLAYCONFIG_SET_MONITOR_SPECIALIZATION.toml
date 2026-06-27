@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.683561Z
+name = "_DISPLAYCONFIG_SET_MONITOR_SPECIALIZATION"
+size = 0x138
+
+[members.0x0]
+name = "header"
+offset = 0x0
+type = "struct DISPLAYCONFIG_DEVICE_INFO_HEADER"
+size = 0x14
+
+[members.0x14]
+name = ""
+offset = 0x14
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "specializationType"
+offset = 0x18
+type = "GUID"
+size = 0x10
+
+[members.0x28]
+name = "specializationSubType"
+offset = 0x28
+type = "GUID"
+size = 0x10
+
+[members.0x38]
+name = "specializationApplicationName"
+offset = 0x38
+type = "WCHAR[0x80]"
+size = 0x100

@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.847352Z
+name = "hostent"
+size = 0x10
+
+[members.0x0]
+name = "h_name"
+offset = 0x0
+type = "char*"
+size = 0x4
+
+[members.0x4]
+name = "h_aliases"
+offset = 0x4
+type = "char**"
+size = 0x4
+
+[members.0x8]
+name = "h_addrtype"
+offset = 0x8
+type = "short"
+size = 0x2
+
+[members.0xa]
+name = "h_length"
+offset = 0xa
+type = "short"
+size = 0x2
+
+[members.0xc]
+name = "h_addr_list"
+offset = 0xc
+type = "char**"
+size = 0x4

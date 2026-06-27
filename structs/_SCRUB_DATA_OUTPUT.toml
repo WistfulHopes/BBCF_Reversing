@@ -1,0 +1,147 @@
+last_change = 2026-06-27T20:49:16.793324Z
+name = "_SCRUB_DATA_OUTPUT"
+size = 0x4d0
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "Status"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "ErrorFileOffset"
+offset = 0x10
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x18]
+name = "ErrorLength"
+offset = 0x18
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x20]
+name = "NumberOfBytesRepaired"
+offset = 0x20
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x28]
+name = "NumberOfBytesFailed"
+offset = 0x28
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x30]
+name = "InternalFileReference"
+offset = 0x30
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x38]
+name = "ResumeContextLength"
+offset = 0x38
+type = "WORD"
+size = 0x2
+
+[members.0x3a]
+name = "ParityExtentDataOffset"
+offset = 0x3a
+type = "WORD"
+size = 0x2
+
+[members.0x3c]
+name = "Reserved"
+offset = 0x3c
+type = "DWORD[0x9]"
+size = 0x24
+
+[members.0x60]
+name = "NumberOfMetadataBytesProcessed"
+offset = 0x60
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x68]
+name = "NumberOfDataBytesProcessed"
+offset = 0x68
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x70]
+name = "TotalNumberOfMetadataBytesInUse"
+offset = 0x70
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x78]
+name = "TotalNumberOfDataBytesInUse"
+offset = 0x78
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x80]
+name = "DataBytesSkippedDueToNoAllocation"
+offset = 0x80
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x88]
+name = "DataBytesSkippedDueToInvalidRun"
+offset = 0x88
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x90]
+name = "DataBytesSkippedDueToIntegrityStream"
+offset = 0x90
+type = "ULONGLONG"
+size = 0x8
+
+[members.0x98]
+name = "DataBytesSkippedDueToRegionBeingClean"
+offset = 0x98
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xa0]
+name = "DataBytesSkippedDueToLockConflict"
+offset = 0xa0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xa8]
+name = "DataBytesSkippedDueToNoScrubDataFlag"
+offset = 0xa8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xb0]
+name = "DataBytesSkippedDueToNoScrubNonIntegrityStreamFlag"
+offset = 0xb0
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xb8]
+name = "DataBytesScrubbed"
+offset = 0xb8
+type = "ULONGLONG"
+size = 0x8
+
+[members.0xc0]
+name = "ResumeContext"
+offset = 0xc0
+type = "BYTE[0x410]"
+size = 0x410

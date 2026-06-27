@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.722484Z
+name = "_IO_IRP_EXT_TRACK_OFFSET_HEADER"
+size = 0x8
+
+[members.0x0]
+name = "Validation"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "Flags"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "TrackedOffsetCallback"
+offset = 0x4
+type = "PIO_IRP_EXT_PROCESS_TRACKED_OFFSET_CALLBACK"
+size = 0x4

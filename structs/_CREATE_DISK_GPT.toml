@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.660960Z
+name = "_CREATE_DISK_GPT"
+size = 0x14
+
+[members.0x0]
+name = "DiskId"
+offset = 0x0
+type = "GUID"
+size = 0x10
+
+[members.0x10]
+name = "MaxPartitionCount"
+offset = 0x10
+type = "DWORD"
+size = 0x4

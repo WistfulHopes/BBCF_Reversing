@@ -1,0 +1,291 @@
+last_change = 2026-06-27T20:49:16.716286Z
+name = "_IMAGE_LOAD_CONFIG_DIRECTORY32"
+size = 0xbc
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "TimeDateStamp"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "MajorVersion"
+offset = 0x8
+type = "WORD"
+size = 0x2
+
+[members.0xa]
+name = "MinorVersion"
+offset = 0xa
+type = "WORD"
+size = 0x2
+
+[members.0xc]
+name = "GlobalFlagsClear"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "GlobalFlagsSet"
+offset = 0x10
+type = "DWORD"
+size = 0x4
+
+[members.0x14]
+name = "CriticalSectionDefaultTimeout"
+offset = 0x14
+type = "DWORD"
+size = 0x4
+
+[members.0x18]
+name = "DeCommitFreeBlockThreshold"
+offset = 0x18
+type = "DWORD"
+size = 0x4
+
+[members.0x1c]
+name = "DeCommitTotalFreeThreshold"
+offset = 0x1c
+type = "DWORD"
+size = 0x4
+
+[members.0x20]
+name = "LockPrefixTable"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "MaximumAllocationSize"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "VirtualMemoryThreshold"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "ProcessHeapFlags"
+offset = 0x2c
+type = "DWORD"
+size = 0x4
+
+[members.0x30]
+name = "ProcessAffinityMask"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "CSDVersion"
+offset = 0x34
+type = "WORD"
+size = 0x2
+
+[members.0x36]
+name = "DependentLoadFlags"
+offset = 0x36
+type = "WORD"
+size = 0x2
+
+[members.0x38]
+name = "EditList"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "SecurityCookie"
+offset = 0x3c
+type = "DWORD"
+size = 0x4
+
+[members.0x40]
+name = "SEHandlerTable"
+offset = 0x40
+type = "DWORD"
+size = 0x4
+
+[members.0x44]
+name = "SEHandlerCount"
+offset = 0x44
+type = "DWORD"
+size = 0x4
+
+[members.0x48]
+name = "GuardCFCheckFunctionPointer"
+offset = 0x48
+type = "DWORD"
+size = 0x4
+
+[members.0x4c]
+name = "GuardCFDispatchFunctionPointer"
+offset = 0x4c
+type = "DWORD"
+size = 0x4
+
+[members.0x50]
+name = "GuardCFFunctionTable"
+offset = 0x50
+type = "DWORD"
+size = 0x4
+
+[members.0x54]
+name = "GuardCFFunctionCount"
+offset = 0x54
+type = "DWORD"
+size = 0x4
+
+[members.0x58]
+name = "GuardFlags"
+offset = 0x58
+type = "DWORD"
+size = 0x4
+
+[members.0x5c]
+name = "CodeIntegrity"
+offset = 0x5c
+type = "IMAGE_LOAD_CONFIG_CODE_INTEGRITY"
+size = 0xc
+
+[members.0x68]
+name = "GuardAddressTakenIatEntryTable"
+offset = 0x68
+type = "DWORD"
+size = 0x4
+
+[members.0x6c]
+name = "GuardAddressTakenIatEntryCount"
+offset = 0x6c
+type = "DWORD"
+size = 0x4
+
+[members.0x70]
+name = "GuardLongJumpTargetTable"
+offset = 0x70
+type = "DWORD"
+size = 0x4
+
+[members.0x74]
+name = "GuardLongJumpTargetCount"
+offset = 0x74
+type = "DWORD"
+size = 0x4
+
+[members.0x78]
+name = "DynamicValueRelocTable"
+offset = 0x78
+type = "DWORD"
+size = 0x4
+
+[members.0x7c]
+name = "CHPEMetadataPointer"
+offset = 0x7c
+type = "DWORD"
+size = 0x4
+
+[members.0x80]
+name = "GuardRFFailureRoutine"
+offset = 0x80
+type = "DWORD"
+size = 0x4
+
+[members.0x84]
+name = "GuardRFFailureRoutineFunctionPointer"
+offset = 0x84
+type = "DWORD"
+size = 0x4
+
+[members.0x88]
+name = "DynamicValueRelocTableOffset"
+offset = 0x88
+type = "DWORD"
+size = 0x4
+
+[members.0x8c]
+name = "DynamicValueRelocTableSection"
+offset = 0x8c
+type = "WORD"
+size = 0x2
+
+[members.0x8e]
+name = "Reserved2"
+offset = 0x8e
+type = "WORD"
+size = 0x2
+
+[members.0x90]
+name = "GuardRFVerifyStackPointerFunctionPointer"
+offset = 0x90
+type = "DWORD"
+size = 0x4
+
+[members.0x94]
+name = "HotPatchTableOffset"
+offset = 0x94
+type = "DWORD"
+size = 0x4
+
+[members.0x98]
+name = "Reserved3"
+offset = 0x98
+type = "DWORD"
+size = 0x4
+
+[members.0x9c]
+name = "EnclaveConfigurationPointer"
+offset = 0x9c
+type = "DWORD"
+size = 0x4
+
+[members.0xa0]
+name = "VolatileMetadataPointer"
+offset = 0xa0
+type = "DWORD"
+size = 0x4
+
+[members.0xa4]
+name = "GuardEHContinuationTable"
+offset = 0xa4
+type = "DWORD"
+size = 0x4
+
+[members.0xa8]
+name = "GuardEHContinuationCount"
+offset = 0xa8
+type = "DWORD"
+size = 0x4
+
+[members.0xac]
+name = "GuardXFGCheckFunctionPointer"
+offset = 0xac
+type = "DWORD"
+size = 0x4
+
+[members.0xb0]
+name = "GuardXFGDispatchFunctionPointer"
+offset = 0xb0
+type = "DWORD"
+size = 0x4
+
+[members.0xb4]
+name = "GuardXFGTableDispatchFunctionPointer"
+offset = 0xb4
+type = "DWORD"
+size = 0x4
+
+[members.0xb8]
+name = "CastGuardOsDeterminedFailureMode"
+offset = 0xb8
+type = "DWORD"
+size = 0x4

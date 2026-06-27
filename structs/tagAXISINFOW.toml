@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.854334Z
+name = "tagAXISINFOW"
+size = 0x28
+
+[members.0x0]
+name = "axMinValue"
+offset = 0x0
+type = "LONG"
+size = 0x4
+
+[members.0x4]
+name = "axMaxValue"
+offset = 0x4
+type = "LONG"
+size = 0x4
+
+[members.0x8]
+name = "axAxisName"
+offset = 0x8
+type = "WCHAR[0x10]"
+size = 0x20

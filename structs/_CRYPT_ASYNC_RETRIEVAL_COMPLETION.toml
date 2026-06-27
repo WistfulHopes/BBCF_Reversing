@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.663614Z
+name = "_CRYPT_ASYNC_RETRIEVAL_COMPLETION"
+size = 0x8
+
+[members.0x0]
+name = "pfnCompletion"
+offset = 0x0
+type = "PFN_CRYPT_ASYNC_RETRIEVAL_COMPLETION_FUNC"
+size = 0x4
+
+[members.0x4]
+name = "pvCompletion"
+offset = 0x4
+type = "LPVOID"
+size = 0x4

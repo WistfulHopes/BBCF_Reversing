@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.903050Z
+name = "tagPARAMDATA"
+size = 0x8
+
+[members.0x0]
+name = "szName"
+offset = 0x0
+type = "OLECHAR*"
+size = 0x4
+
+[members.0x4]
+name = "vt"
+offset = 0x4
+type = "VARTYPE"
+size = 0x2

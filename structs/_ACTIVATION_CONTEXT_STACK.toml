@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.631434Z
+name = "_ACTIVATION_CONTEXT_STACK"
+size = 0x18
+
+[members.0x0]
+name = "ActiveFrame"
+offset = 0x0
+type = "struct _RTL_ACTIVATION_CONTEXT_STACK_FRAME*"
+size = 0x4
+
+[members.0x4]
+name = "FrameListCache"
+offset = 0x4
+type = "LIST_ENTRY"
+size = 0x8
+
+[members.0xc]
+name = "Flags"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "NextCookieSequenceNumber"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "StackId"
+offset = 0x14
+type = "ULONG"
+size = 0x4

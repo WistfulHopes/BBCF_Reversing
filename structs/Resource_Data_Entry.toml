@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.625554Z
+name = "Resource_Data_Entry"
+size = 0x10
+
+[members.0x0]
+name = "dataRva"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "dataSize"
+offset = 0x4
+type = "uint"
+size = 0x4
+
+[members.0x8]
+name = "codepage"
+offset = 0x8
+type = "uint"
+size = 0x4
+
+[members.0xc]
+name = "reserved"
+offset = 0xc
+type = "uint"
+size = 0x4

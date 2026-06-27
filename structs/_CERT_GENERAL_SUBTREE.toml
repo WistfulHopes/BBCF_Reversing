@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.641732Z
+name = "_CERT_GENERAL_SUBTREE"
+size = 0x18
+
+[members.0x0]
+name = "Base"
+offset = 0x0
+type = "CERT_ALT_NAME_ENTRY"
+size = 0xc
+
+[members.0xc]
+name = "dwMinimum"
+offset = 0xc
+type = "DWORD"
+size = 0x4
+
+[members.0x10]
+name = "fMaximum"
+offset = 0x10
+type = "BOOL"
+size = 0x4
+
+[members.0x14]
+name = "dwMaximum"
+offset = 0x14
+type = "DWORD"
+size = 0x4

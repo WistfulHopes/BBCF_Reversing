@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.677766Z
+name = "_DEVICE_DSM_NOTIFICATION_PARAMETERS"
+size = 0x1c
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NumFileTypeIDs"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "FileTypeID"
+offset = 0xc
+type = "GUID[0x1]"
+size = 0x10

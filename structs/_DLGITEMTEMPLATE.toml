@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.683951Z
+name = "_DLGITEMTEMPLATE"
+size = 0x14
+
+[members.0x0]
+name = "style"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "dwExtendedStyle"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "x"
+offset = 0x8
+type = "short"
+size = 0x2
+
+[members.0xa]
+name = "y"
+offset = 0xa
+type = "short"
+size = 0x2
+
+[members.0xc]
+name = "cx"
+offset = 0xc
+type = "short"
+size = 0x2
+
+[members.0xe]
+name = "cy"
+offset = 0xe
+type = "short"
+size = 0x2
+
+[members.0x10]
+name = "id"
+offset = 0x10
+type = "WORD"
+size = 0x2

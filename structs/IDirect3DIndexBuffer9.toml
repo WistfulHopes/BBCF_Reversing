@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.613553Z
+name = "IDirect3DIndexBuffer9"
+size = 0x4
+
+[members.0x0]
+name = "vtable"
+offset = 0x0
+type = "struct IDirect3DIndexBuffer9VTable*"
+size = 0x4

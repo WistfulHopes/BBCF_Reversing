@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.773791Z
+name = "_QUERY_BAD_RANGES_OUTPUT"
+size = 0x28
+
+[members.0x0]
+name = "Flags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "NumBadRanges"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "NextOffsetToLookUp"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "BadRanges"
+offset = 0x10
+type = "QUERY_BAD_RANGES_OUTPUT_RANGE[0x1]"
+size = 0x18

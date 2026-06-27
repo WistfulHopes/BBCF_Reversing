@@ -1,0 +1,63 @@
+last_change = 2026-06-27T20:49:16.833476Z
+name = "_USN_RECORD_V4"
+size = 0x50
+
+[members.0x0]
+name = "Header"
+offset = 0x0
+type = "USN_RECORD_COMMON_HEADER"
+size = 0x8
+
+[members.0x8]
+name = "FileReferenceNumber"
+offset = 0x8
+type = "FILE_ID_128"
+size = 0x10
+
+[members.0x18]
+name = "ParentFileReferenceNumber"
+offset = 0x18
+type = "FILE_ID_128"
+size = 0x10
+
+[members.0x28]
+name = "Usn"
+offset = 0x28
+type = "USN"
+size = 0x8
+
+[members.0x30]
+name = "Reason"
+offset = 0x30
+type = "DWORD"
+size = 0x4
+
+[members.0x34]
+name = "SourceInfo"
+offset = 0x34
+type = "DWORD"
+size = 0x4
+
+[members.0x38]
+name = "RemainingExtents"
+offset = 0x38
+type = "DWORD"
+size = 0x4
+
+[members.0x3c]
+name = "NumberOfExtents"
+offset = 0x3c
+type = "WORD"
+size = 0x2
+
+[members.0x3e]
+name = "ExtentSize"
+offset = 0x3e
+type = "WORD"
+size = 0x2
+
+[members.0x40]
+name = "Extents"
+offset = 0x40
+type = "USN_RECORD_EXTENT[0x1]"
+size = 0x10

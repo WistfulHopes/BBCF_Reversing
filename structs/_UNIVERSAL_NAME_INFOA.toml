@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.831375Z
+name = "_UNIVERSAL_NAME_INFOA"
+size = 0x4
+
+[members.0x0]
+name = "lpUniversalName"
+offset = 0x0
+type = "LPSTR"
+size = 0x4

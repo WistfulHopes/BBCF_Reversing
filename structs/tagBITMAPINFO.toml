@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.855163Z
+name = "tagBITMAPINFO"
+size = 0x2c
+
+[members.0x0]
+name = "bmiHeader"
+offset = 0x0
+type = "BITMAPINFOHEADER"
+size = 0x28
+
+[members.0x28]
+name = "bmiColors"
+offset = 0x28
+type = "RGBQUAD[0x1]"
+size = 0x4

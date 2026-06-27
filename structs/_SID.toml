@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.802683Z
+name = "_SID"
+size = 0xc
+
+[members.0x0]
+name = "Revision"
+offset = 0x0
+type = "BYTE"
+size = 0x1
+
+[members.0x1]
+name = "SubAuthorityCount"
+offset = 0x1
+type = "BYTE"
+size = 0x1
+
+[members.0x2]
+name = "IdentifierAuthority"
+offset = 0x2
+type = "SID_IDENTIFIER_AUTHORITY"
+size = 0x6
+
+[members.0x8]
+name = "SubAuthority"
+offset = 0x8
+type = "DWORD[0x1]"
+size = 0x4

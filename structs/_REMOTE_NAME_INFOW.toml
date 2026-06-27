@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.777628Z
+name = "_REMOTE_NAME_INFOW"
+size = 0xc
+
+[members.0x0]
+name = "lpUniversalName"
+offset = 0x0
+type = "LPWSTR"
+size = 0x4
+
+[members.0x4]
+name = "lpConnectionName"
+offset = 0x4
+type = "LPWSTR"
+size = 0x4
+
+[members.0x8]
+name = "lpRemainingPath"
+offset = 0x8
+type = "LPWSTR"
+size = 0x4

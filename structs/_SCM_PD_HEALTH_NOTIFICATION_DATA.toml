@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.790605Z
+name = "_SCM_PD_HEALTH_NOTIFICATION_DATA"
+size = 0x10
+
+[members.0x0]
+name = "DeviceGuid"
+offset = 0x0
+type = "GUID"
+size = 0x10

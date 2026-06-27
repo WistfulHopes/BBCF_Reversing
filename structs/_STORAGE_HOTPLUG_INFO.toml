@@ -1,0 +1,33 @@
+last_change = 2026-06-27T20:49:16.809174Z
+name = "_STORAGE_HOTPLUG_INFO"
+size = 0x8
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "MediaRemovable"
+offset = 0x4
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x5]
+name = "MediaHotplug"
+offset = 0x5
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x6]
+name = "DeviceHotplug"
+offset = 0x6
+type = "BOOLEAN"
+size = 0x1
+
+[members.0x7]
+name = "WriteCacheEnableOverride"
+offset = 0x7
+type = "BOOLEAN"
+size = 0x1

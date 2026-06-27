@@ -1,0 +1,57 @@
+last_change = 2026-06-27T20:49:16.788797Z
+name = "_SCM_BUS_RUNTIME_FW_ACTIVATION_INFO"
+size = 0x38
+
+[members.0x0]
+name = "Version"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Size"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "RuntimeFwActivationSupported"
+offset = 0x8
+type = "BOOLEAN"
+size = 0x1
+
+[members.0xc]
+name = "FirmwareActivationState"
+offset = 0xc
+type = "SCM_BUS_FIRMWARE_ACTIVATION_STATE"
+size = 0x4
+
+[members.0x10]
+name = "FirmwareActivationCapability"
+offset = 0x10
+type = "union"
+size = 0x4
+
+[members.0x18]
+name = "EstimatedFirmwareActivationTimeInUSecs"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "EstimatedProcessorAccessQuiesceTimeInUSecs"
+offset = 0x20
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x28]
+name = "EstimatedIOAccessQuiesceTimeInUSecs"
+offset = 0x28
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x30]
+name = "PlatformSupportedMaxIOAccessQuiesceTimeInUSecs"
+offset = 0x30
+type = "DWORDLONG"
+size = 0x8

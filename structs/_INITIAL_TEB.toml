@@ -1,0 +1,27 @@
+last_change = 2026-06-27T20:49:16.722199Z
+name = "_INITIAL_TEB"
+size = 0x14
+
+[members.0x0]
+name = "OldInitialTeb"
+offset = 0x0
+type = "struct"
+size = 0x8
+
+[members.0x8]
+name = "StackBase"
+offset = 0x8
+type = "PVOID"
+size = 0x4
+
+[members.0xc]
+name = "StackLimit"
+offset = 0xc
+type = "PVOID"
+size = 0x4
+
+[members.0x10]
+name = "StackAllocationBase"
+offset = 0x10
+type = "PVOID"
+size = 0x4

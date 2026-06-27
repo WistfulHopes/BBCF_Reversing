@@ -1,0 +1,39 @@
+last_change = 2026-06-27T20:49:16.705330Z
+name = "_FSCTL_OFFLOAD_WRITE_INPUT"
+size = 0x220
+
+[members.0x0]
+name = "Size"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "Flags"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "FileOffset"
+offset = 0x8
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x10]
+name = "CopyLength"
+offset = 0x10
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x18]
+name = "TransferOffset"
+offset = 0x18
+type = "DWORDLONG"
+size = 0x8
+
+[members.0x20]
+name = "Token"
+offset = 0x20
+type = "BYTE[0x200]"
+size = 0x200

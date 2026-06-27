@@ -1,0 +1,9 @@
+last_change = 2026-06-27T20:49:16.820873Z
+name = "_SYSTEM_PROCESSOR_CYCLE_TIME_INFORMATION"
+size = 0x8
+
+[members.0x0]
+name = "CycleTime"
+offset = 0x0
+type = "DWORD64"
+size = 0x8

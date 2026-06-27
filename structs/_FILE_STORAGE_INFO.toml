@@ -1,0 +1,45 @@
+last_change = 2026-06-27T20:49:16.701953Z
+name = "_FILE_STORAGE_INFO"
+size = 0x1c
+
+[members.0x0]
+name = "LogicalBytesPerSector"
+offset = 0x0
+type = "ULONG"
+size = 0x4
+
+[members.0x4]
+name = "PhysicalBytesPerSectorForAtomicity"
+offset = 0x4
+type = "ULONG"
+size = 0x4
+
+[members.0x8]
+name = "PhysicalBytesPerSectorForPerformance"
+offset = 0x8
+type = "ULONG"
+size = 0x4
+
+[members.0xc]
+name = "FileSystemEffectivePhysicalBytesPerSectorForAtomicity"
+offset = 0xc
+type = "ULONG"
+size = 0x4
+
+[members.0x10]
+name = "Flags"
+offset = 0x10
+type = "ULONG"
+size = 0x4
+
+[members.0x14]
+name = "ByteOffsetForSectorAlignment"
+offset = 0x14
+type = "ULONG"
+size = 0x4
+
+[members.0x18]
+name = "ByteOffsetForPartitionAlignment"
+offset = 0x18
+type = "ULONG"
+size = 0x4

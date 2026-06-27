@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.734791Z
+name = "_MIDL_METHOD_PROPERTY_MAP"
+size = 0x8
+
+[members.0x0]
+name = "Count"
+offset = 0x0
+type = "uint"
+size = 0x4
+
+[members.0x4]
+name = "Properties"
+offset = 0x4
+type = "MIDL_METHOD_PROPERTY*"
+size = 0x4

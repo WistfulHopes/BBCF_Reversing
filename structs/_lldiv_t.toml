@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.842799Z
+name = "_lldiv_t"
+size = 0x10
+
+[members.0x0]
+name = "quot"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "rem"
+offset = 0x8
+type = "long long"
+size = 0x8

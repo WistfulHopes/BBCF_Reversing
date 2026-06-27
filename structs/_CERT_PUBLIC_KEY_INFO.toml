@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.645179Z
+name = "_CERT_PUBLIC_KEY_INFO"
+size = 0x18
+
+[members.0x0]
+name = "Algorithm"
+offset = 0x0
+type = "CRYPT_ALGORITHM_IDENTIFIER"
+size = 0xc
+
+[members.0xc]
+name = "PublicKey"
+offset = 0xc
+type = "CRYPT_BIT_BLOB"
+size = 0xc

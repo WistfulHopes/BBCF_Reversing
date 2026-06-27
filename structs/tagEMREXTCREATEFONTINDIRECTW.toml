@@ -1,0 +1,21 @@
+last_change = 2026-06-27T20:49:16.865913Z
+name = "tagEMREXTCREATEFONTINDIRECTW"
+size = 0x14c
+
+[members.0x0]
+name = "emr"
+offset = 0x0
+type = "EMR"
+size = 0x8
+
+[members.0x8]
+name = "ihFont"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "elfw"
+offset = 0xc
+type = "EXTLOGFONTW"
+size = 0x140

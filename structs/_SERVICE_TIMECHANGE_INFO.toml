@@ -1,0 +1,15 @@
+last_change = 2026-06-27T20:49:16.798277Z
+name = "_SERVICE_TIMECHANGE_INFO"
+size = 0x10
+
+[members.0x0]
+name = "liNewTime"
+offset = 0x0
+type = "LARGE_INTEGER"
+size = 0x8
+
+[members.0x8]
+name = "liOldTime"
+offset = 0x8
+type = "LARGE_INTEGER"
+size = 0x8
